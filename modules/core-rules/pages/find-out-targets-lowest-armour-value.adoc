@@ -1,0 +1,2 @@
+= S4. Find out target's lowest armour value
+

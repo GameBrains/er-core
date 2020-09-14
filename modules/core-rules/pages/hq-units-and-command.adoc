@@ -1,0 +1,33 @@
+= HQ units and command
+
+== HQ units and the chain of command
+
+Every detachment list in the xref:armies:armies.adoc[] section specifies an *HQ* (headquarters) unit and a *chain of command*.
+
+The HQ unit must always be the most 'senior unit' that is present in the detachment, as indicated in the chain of command. If the original HQ unit is eliminated then the next most senior unit in the chain of command must take over.
+
+If several units are of equal seniority then you may choose which unit to use as the HQ from that point onward. Use a suitable marker or other device to keep track, so that both you and your opponent know which unit is the HQ unit at all times.
+
+== In command and out of command
+
+As long as a unit is within 30cm of its detachment HQ at the start of a phase then it is *in command*. If a unit is more than 30cm away from its detachment HQ at the start of a phase -- or if none of the units that remain in the detachment match a kind specified in the chain of command -- then such units are *out of command*.
+
+[NOTE]
+====
+We explain the phases at xref:the-sequence-of-play.adoc[]. For the moment, suffice to say that most movement happens in the Movement phase, most shooting happens in the Shooting phase, and so on.
+====
+
+In command units:: These units can move and/or shoot in that phase, according to the orders you give to the detachment.
+
+Out of command units:: These units can *not* move or shoot in that phase, regardless of the orders you place for the detachment. You can still complete some actions with these units, such as: snap-fire; fight or lend support in close combat; shoot in a fire-fight. (We explain these actions elsewhere in the rules, in the appropriate sections.)
+
+Check to see whether units are in command or not at the start of each phase, as the situation can change through your own mistakes or through casualties.
+
+.In command and out of command
+====
+You have an Ork Mob detachment in your army. At the start of the Movement phase, all of the units in this detachment are within 30cm of their HQ, so they are in command and you may move them all.
+
+However, when you check at the start of the Shooting phase, you realise that you got a bit carried away before -- two of your Ork Boyz units are more than 30cm away from their HQ, and so they are out of command. Though you may move and shoot as normal with the rest of the detachment, you may not do so with these two units until they are in command at the start of a future phase.
+
+In practice this means that you may not shoot with these units in the current Shooting phase. And, unless something unusual happens footnote:[Such as, your opponent eliminates your HQ unit in the Shooting phase and your next unit in the chain of command happens to be closer to your out of command units such that they are in command again at the start of the Assault phase.], then you may not move or shoot with these two units in the following Assault phase either.
+====

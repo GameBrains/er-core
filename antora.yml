@@ -1,0 +1,70 @@
+name: e40k-remastered
+title: E40k Remastered
+version: master
+asciidoc:
+  attributes:
+    project-name: <i>Epic 40,000 Remastered</i>
+    page-pagination: true
+
+    # Ability/weapon/variant keywords
+    anti-personnel: <i>Anti-Personnel</i>
+    anti-tank: <i>Anti-Tank</i>
+    artillery: <i>Artillery</i>
+    assault: <i>Assault</i>
+    barrage: <i>Barrage</i>
+    bridge: <i>Bridge</i>
+    brood-telepathy: <i>Brood Telepathy</i>
+    cavalry: <i>Cavalry</i>
+    close-combat-weapons: <i>Close Combat Weapons</i>
+    close-support: <i>Close Support</i>
+    death-ray: <i>Death Ray</i>
+    deathstrike-missile: <i>Deathstrike Missile</i>
+    deathwing: <i>Deathwing</i>
+    disrupt: <i>Disrupt</i>
+    distortion-cannon: <i>Distortion Cannon</i>
+    engineers: <i>Engineers</i>
+    fast: <i>Fast</i>
+    flak: <i>Flak</i>
+    flak-battery: <i>Flak Battery</i>
+    heavy-barrage: <i>Heavy Barrage</i>
+    heavy-weapons: <i>Heavy Weapons</i>
+    hero: <i>Hero</i>
+    hit-and-run: <i>Hit and Run</i>
+    infiltrators: <i>Infiltrators</i>
+    jump-packs: <i>Jump Packs</i>
+    kroot: <i>Kroot</i>
+    long-range: <i>Long Range</i>
+    medic: <i>Medic</i>
+    mega-cannon: <i>Mega-Cannon</i>
+    open-top: <i>Open Top</i>
+    ordo-malleus: <i>Ordo Malleus</i>
+    pulsar: <i>Pulsar</i>
+    psyker: <i>Psyker</i>
+    rampage: <i>Rampage</i>
+    rapid-fire: <i>Rapid Fire</i>
+    ravenwing: <i>Ravenwing</i>
+    recovery: <i>Recovery</i>
+    ripper-tentacles: <i>Ripper Tentacles</i>
+    save: <i>Save</i>
+    self-propelled-artillery: <Self-propelled Artillery</i>
+    shootier: <i>Shootier</i>
+    siege: <i>Siege</i>
+    skimmer: <i>Skimmer</i>
+    space-wolves: <i>Space Wolves</i>
+    stubborn: <i>Stubborn</i>
+    super-lifta-droppa: <i>Super Lifta-droppa</i>
+    supreme-commander: <i>Supreme Commander</i>
+    tank-destroyer: <i>Tank Destroyer</i>
+    transport-1: <i>Transport (1)</i>
+    transport-2: <i>Transport (2)</i>
+    transport-x: <i>Transport (X)</i>
+    tunneller: <i>Tunneller</i>
+    vortex-missile: <i>Vortex Missile</i>
+
+nav:
+- modules/ROOT/nav.adoc
+- modules/core-rules/nav.adoc
+- modules/special-rules/nav.adoc
+- modules/battles/nav.adoc
+- modules/armies/nav.adoc
+- modules/more/nav.adoc

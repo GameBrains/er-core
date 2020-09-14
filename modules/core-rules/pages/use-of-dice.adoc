@@ -1,0 +1,51 @@
+= Use of dice
+
+== Dice rolls, results and scores
+{project-name} uses ordinary six-sided dice.
+
+When you roll a die, the value it gives you is the *result*. This is a 'natural' or 'unmodified' value. It is also your initial *score* -- but the score may be subject to further adjustment before it is final (see <<Modifiers>>).
+
+== Single (combined) dice rolls
+
+* Roll a *D6* or *1D6* means roll a single six-sided die and use the result as the score.
+* Roll *2D6* means roll two six-sided dice and add the results together to get the score.
+* Roll *3D6* means roll three six-sided dice and add the results together to get the score.
+* [and so on]
+
+* Roll a *D3* simply means roll a single six-sided die and then halve the D6 result (rounding up) to get the D3 result for your score. In other words, count a D6 result of 1–2 as a score of 1, a result of 3–4 as a score of 2, and a result of 5–6 as a score of 3.
+
+.Rounding of fractions
+[NOTE]
+====
+Unless the rules say otherwise, round fractions up.
+====
+
+== Multiple independent (batch) dice rolls
+Roll *three D6s* means roll three six-sided dice all at the same time, and then check each of their results to get three separate scores. Each individual die is a single D6 roll.
+
+.Re-rolls
+[NOTE]
+====
+Sometimes the rules allow you to re-roll dice when you fail a test or you don’t like the result of your first roll.
+
+* Unless the rules specifically say otherwise, re-rolls only apply to single rolls, and you must re-roll all of the dice in that single roll, or none of them.
+* You may not re-roll more than once (you can’t re-roll a re-roll) and you must accept the result of the second roll.
+====
+
+== Modifiers
+
+Sometimes the rules specify that you must add or subtract values from the result that you roll on the dice, to get the final score.
+
+For example, *D6+6* means roll one six-sided die and add 6 to the result. Thus your final score will be in the range of 7 to 12.
+
+== Required scores
+
+* *1+* means you need a score of 1 or more, after modifiers. If there are no negative modifiers then you will *automatically succeed* without having to roll a die, unless the rules say otherwise (for example, shooting always misses on a D6 result of 1 (sometimes called a 'natural roll' or 'unmodified roll' of 1).
+* *2+* means you need a score of 2 or more, after modifiers.
+* [and so on]
+
+[NOTE]
+.Ties and tie-breaking 'roll offs'
+====
+In the case of a tie or any situation where the rules allow you and your opponent to do something at the same time, just 'roll off' against each other. That is, roll a D6 each — whoever scores highest goes first this time (unless the rules specifically say otherwise).
+====

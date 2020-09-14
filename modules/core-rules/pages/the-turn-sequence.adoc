@@ -1,0 +1,35 @@
+= The turn sequence
+
+You play a game of {project-name} over a number of *turns* in which both you and your opponent participate. How many turns is dependent upon the scenario that you play and the victory conditions it specifies.
+
+There are four *phases* in a turn, in a fixed sequence that we call the *turn sequence*. During the turn, you and your opponent will give *orders* to your detachments. The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
+
+.Sequence of play
+* *Start of the turn*
+** Complete any special actions that the rules tell you to complete at the start of the turn.
+
+// Break to prevent list nesting.
+
+. *The Movement phase*
+.. Declare aircraft missions
+.. Determine the Initiative (1)
+.. First player movement
+.. Second player movement
+. *The Shooting phase*
+.. Determine the Initiative (2)
+.. Shoot with vehicles and infantry
+.. Determine the Initiative (3)
+.. Shoot with war engines
+. *The Assault phase*
+.. Determine the Initiative (4)
+.. Resolve the first player's assault moves, close combats and firefights
+.. Resolve the second player's assault moves, close combats and firefights
+. *The Rally phase*
+.. Roll to remove Blast markers
+.. Roll to rally Broken detachments
+.. Repair war engine damage and shields
+.. Check the victory conditions for the scenario
+
+// Break to prevent list nesting.
+
+* *End of the turn*

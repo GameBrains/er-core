@@ -1,0 +1,34 @@
+= Detachments
+
+Units are defined by the fact that they can act independently. Even so, most units in {project-name} are organised into groups with other units, to fight as a unified whole on the battlefield. We call these groups *detachments*.
+
+[NOTE]
+Some units, such as the Warlord Titan, do act alone and not as part of a group. Such units still comprise a detachment.
+
+Detachments represent forces that are detached from a larger organisation, such as from a company within a Space Marine chapter, or from an Ork clan within a _Waaargh!_ (as Ork armies are known).
+
+Every detachment is led by a xref:hq-units-and-command.adoc[headquarters (HQ)] unit which coordinates the actions of the detachment with others on the battlefield.
+
+Detachments are comprised of either infantry and/or vehicles, war engines or aircraft.
+
+[NOTE]
+====
+We detail the armies of various factions -- and the detachments and units that you may field with them -- at xref:armies:armies.adoc[].
+
+Within the restrictions of the particular army and detachment list you choose, you can tailor each of your detachments to include whatever number of units you like from the available selection.
+====
+
+.Space Marine sample detachments
+====
+[grid="cols", frame="none"]
+|===
+| Force Indomitus | | 
+ 
+| HQ: 1 x Space Marine Captain with Razorback transport vehicle |  | 
+| 3 x Space Marine squads (2 units per squad) |  | 
+| 3 x Rhino transport vehicles |  | 
+| 2 x Whirlwind artillery vehicle |  | 
+|===
+====
+
+// #TODO: Complete table with range of examples that might make reasonable choices for a game.

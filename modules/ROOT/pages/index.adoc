@@ -1,0 +1,49 @@
+= Welcome to the {project-name} project
+:experimental:
+
+{project-name} is an unofficial project that reworks and extends the third edition of Games Workshop's _Epic_ game system. By fans, for fans, open to the community as a collaborative effort.
+
+== Proof of concept only!
+
+****
+At the moment, this is nothing more than a proof of concept for the purpose of experimentation and demonstration. You'll find only:
+
+* a skeleton of possible page structure, to show how the publication might work
+* a handful of newly drafted work-in-progress pages, at the start of the core rules
+* a default user interface, with little to no customisation for appearance or usability
+* the start of a possible guide for contributors (to switch between the *E40kR* component and the *Contributor's guide* component see the component menu at the bottom of the navigation panel)
+* this Web output -- I'd like us to provide Android app and PDF outputs too, but the exact way we might do this and the degree to which they can be automated depends on ongoing development with the compiler software (Antora)
+
+Also, you'll find that:
+
+* there are no 'related information' links comparable to those in link:https://thehobby.zone/resources/e40k-compendium[+Epic 40,000 Compendium+, window=_blank] -- unfortunately, to date the technology that underlies this demonstration doesn't include any parallel for the relationship tables that make such links easy to manage
+* the *Edit this page* function isn't active (it'll be active when the rest of the project infrastructure is in place)
+* the search function is absent (it should be fairly straightforward to set up for the real project)
+* the btn:[Download] button isn't set up to do anything at the moment
+
+Still, this proof of concept serves its purpose as I experiment with it to understand how the technology works and how to integrate it with systems and procedures that will facilitate effective collaboration.
+
+I intend to offer this up for discussion in the link:https://www.facebook.com/groups/1952676958177757[+Epic 40,000 Remastered+, window=_blank] Facebook group first. Then, if it is met with enthusiasm, we can form a core team who will collaborate on further development.
+
+_Eric Weston_
+****
+
+== Why do it this way?
+
+****
+Speaking from long experience as a professional technical writer: It is usually hard, even exhausting, to deliver and maintain documentation projects.
+
+This is partly because such projects don't scale well, given the inherent complexity and the typical tools and processes that are in use:
+
+* 'More collaborators' doesn't always equate to 'faster and better progress'. Yes, collaboration is great in principle, because you share effort and pool ideas and expertise. But in practice, collaboration also makes it even harder to keep track of work, to ensure consistency and to reach agreement.
+* Feedback from the wider community is hard to get and to track in a way that makes it easy to discuss and act upon.
+* Even when the writing and editing is 'done', the actual publishing usually involves many labour-intensive steps.
+
+And in spite of all the marketing buzz words, most software for writing projects doesn't actually help much with these challenges.
+
+So, while we could work *hard* with word processors/wikis/forums/whatever, I'd much rather we work *smart*...
+
+To this end, I've been experimenting with technologies that facilitate a zero-cost 'docs like code' approach — see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[this article on gov.uk, window=_blank] for a general idea of what this means. (The main point is that it becomes much easier to manage content, collaboration and publishing.)
+
+I think that this approach will really help to bring vitality to the project in a way that traditional writing tools and processes just can't.
+****
