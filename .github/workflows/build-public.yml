@@ -1,0 +1,16 @@
+name: Trigger netlify build for public docs
+on:
+  push:
+    branches:    
+      - master
+    paths:
+      - 'public/**'
+jobs:
+  trigger-publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Invoke Netlify deployment hook
+      uses: distributhor/workflow-webhook@v1
+      env:
+        webhook_url: ${{ secrets.NETLIFY_HOOK_DOCS_PUBLIC }}?trigger_title=content_update
+        webhook_secret: "Anything"
