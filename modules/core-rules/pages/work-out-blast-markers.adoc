@@ -1,2 +1,50 @@
 = S2. Work out Blast markers
 
+When your units shoot at a target detachment, that detachment will tend to accrue *Blast markers*.
+Blast markers represent the chaos and confusion that a target detachment suffers when it comes under heavy fire.
+
+The number of Blast markers that you place on the target detachment depends upon the total Firepower that you direct at it, before modification (for Assault orders, Blast markers on the detachment, and so on).
+// Does this really mean that detachments on Assault orders get their full Firepower for Blast markers, before it is halved to work out how many actual dice they get? 
+
+.Blast marker table
+[cols="^,^2"]
+|===
+|Firepower |Blast markers
+
+|1–7
+|One, if any hits are scored by the attack
+
+|8–15
+|One
+
+|16–23
+|Two
+
+|24 or more
+|Three
+|===
+////
+== Blast marker liabilities
+// TODO: Rationalise Blast marker liabilities throughout the rules -- perhaps create a topic especially for this?
+
+Detachments that have Blast markers on them suffer a range of penalties:
+
+* *Shooting*: For each Blast marker on a detachment, reduce its Firepower by 1.
+For example, if a detachment with a Firepower of 9 has 3 Blast markers then reduce its Firepower to 6.
+* *Movement*: Before you can move a detachment that has Blast markers on it you must pass a <<Leadership test>>.
+* *Assaults*: The detachment will be at a disadvantage in close combat and firefights, as as you will find in the relevant topics.
+
+There are some other game effects too, which we explain in the most relevant sections.
+
+=== Leadership test
+
+When your detachment has one or more Blast markers on it, you must pass a Leadership test before you can move it under orders in any phase or set Overwatch orders.
+// What happens if you try to set Overwatch orders and fail? Fall back onto standard orders?
+
+NOTE: A Broken detachment is not under orders and no Leadership test is required to make a Retreat move (see xref:broken-detachments.adoc[]).
+
+To take a Leadership test, roll a D6: If you score higher than the number of Blast markers that are on the detachment then you pass -- otherwise you fail.
+
+* If you detachment currently has 15 or more units in it, add +1 to the score.
+* A roll of a natural 6 is always a pass, no matter how many Blast markers are on the detachment.
+////

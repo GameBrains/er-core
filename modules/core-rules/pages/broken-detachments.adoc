@@ -1,2 +1,21 @@
 = Broken detachments
 
+image::OrderDie_Broken_40x40.png[role="related thumb right"]
+Mark Broken detachments with the Order dice.
+
+A detachment becomes Broken when:
+
+* It loses a close combat.
+* It loses a firefight.
+
+A Broken detachment must retreat when it breaks, and may make a retreat move in a subsequent Movement phase if the player desires.
+It is not allowed to move or shoot otherwise, and has its Assault value and Firepower halved for close combat and firefights.
+Note that the only type of move a Broken detachment can make is a retreat move; a Broken detachment is not allowed to move normally, or march, enter overwatch, etc.
+
+A retreat move may be up to 20cm, regardless of a unit's actual Speed.
+Retreat moves may be made in any direction, and the normal terrain rules apply, but if a unit ends a retreat within 15cm of the enemy, it is destroyed (it is 'killed while trying to escape'!).
+Units that are 'out of command' (more than 30cm from their detachment HQ unit) are not affected if their parent detachment is Broken (so they don't have to retreat).
+Conversely, if a unit that is out of command is Broken, then it is destroyed with no other effects on the parent detachment.
+
+After Blast markers have been removed in the Rally phase Broken detachments can attempt to rally by passing a Leadership test.
+A detachment can't rally if the number of Blast markers on the detachment is equal to or greater than the number of units in it.

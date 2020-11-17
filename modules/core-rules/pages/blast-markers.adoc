@@ -1,0 +1,22 @@
+= Blast markers
+
+Blast markers are a vital part of {project-name} -- many rules use them in some way.
+
+During a game of {project-name}, detachments under your command will often receive Blast markers when the enemy shoots at them, and at some other times too.
+
+== Game effects of Blast markers
+
+The effects of Blast markers will make more sense when you have read the rest of the rules.
+But in summary, detachments that have Blast markers on them suffer a range of penalties that include:
+
+* *Shooting*: For each Blast marker on a detachment, reduce its Firepower by 1.
+For example, if a detachment with a Firepower of 9 has 3 Blast markers then reduce its Firepower to 6.
+* *Movement*: Before you can move a detachment that has Blast markers on it you must pass a xref:leadership-test.adoc[].
+* *Assaults*: The detachment will be at a disadvantage in close combat and firefights, as as you will find in the relevant topics.
+//* *Morale*: 
+
+There are some other game effects too, which we explain in the most relevant sections.
+
+== Removal of Blast markers
+
+You can remove Blast markers from these formations near the end of each turn, at the appropriate step in the Rally phase.

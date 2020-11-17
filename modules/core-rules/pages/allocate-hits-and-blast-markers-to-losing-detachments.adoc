@@ -1,2 +1,4 @@
-= F4. Allocate hits and Blast markers to losing detachments
+= FF4. Allocate hits and Blast markers to losing detachments
 
+Each detachment on the losing side takes one hit on the nearest unit to the enemy and receives one Blast marker.
+Losing detachments are also Broken and must retreat.

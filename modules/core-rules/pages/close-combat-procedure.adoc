@@ -1,0 +1,23 @@
+= Close combat procedure
+
+After a player has made all of his assault moves, if there are opposing detachments that have units in base-to-base contact with each other, then you must resolve close combat between them.
+
+If a detachment has any units in base contact with an enemy detachment then you and your opponent *must* resolve a close combat between the opposing detachments.
+The close combat is resolved before the opposing player gets a chance to move his assaulting units.
+The player with the initiative decides which order close combats are resolved in.
+// Should the order instead be decided by the first player while they are resolving their assaults, and then the second player while they resolve their assaults?
+
+Close combat is resolved by both players rolling a dice with the highest roll winning the combat. The roll of the dice is modified by various factors like the skill of the units fighting and the numbers involved.
+
+The more one player beats the other's dice roll by the greater his victory and the more casualties he will inflict, although both sides are likely to suffer losses in close combat.
+
+Enemy detachments defeated in close combat are also driven back and suffer extra Blast markers.
+
+[none]
+* xref:add-up-assault-values.adoc[]
+* xref:work-out-close-combat-bonuses.adoc[]
+* xref:roll-dice-and-add-combat-bonuses.adoc[]
+* xref:work-out-difference-in-combat-scores-and-place-blast-markers.adoc[]
+* xref:roll-for-close-combat-hits.adoc[]
+* xref:broken-detachments-and-retreats.adoc[]
+* xref:multiple-close-combats.adoc[]

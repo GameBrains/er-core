@@ -1,2 +1,11 @@
 = The Rally phase
 
+In the Rally phase the opposing armies have a chance to muster their forces and take stock of the damage.
+
+== Rally procedure
+
+[none]
+* xref:remove-blast-markers.adoc[]
+* xref:rally-broken-detachments.adoc[]
+* xref:repair-war-engine-damage-and-shields.adoc[]
+* xref:check-victory-conditions.adoc[]

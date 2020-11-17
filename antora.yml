@@ -5,6 +5,8 @@ asciidoc:
   attributes:
     project-name: <i>Epic 40,000 Remastered</i>
     page-pagination: true
+    icons: font
+    warning-caption: Remember!
 
     # Ability/weapon/variant keywords
     anti-personnel: <i>Anti-Personnel</i>
@@ -55,6 +57,7 @@ asciidoc:
     super-lifta-droppa: <i>Super Lifta-droppa</i>
     supreme-commander: <i>Supreme Commander</i>
     tank-destroyer: <i>Tank Destroyer</i>
+    transport: <i>Transport</i>
     transport-1: <i>Transport (1)</i>
     transport-2: <i>Transport (2)</i>
     transport-x: <i>Transport (X)</i>

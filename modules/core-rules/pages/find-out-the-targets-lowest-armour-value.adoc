@@ -1,0 +1,12 @@
+= S4. Find out the target's lowest armour value
+
+So that you will know what you need to roll to hit (and which dice to discard as misses), check what is the lowest Armour value in the target detachment.
+
+Remember that infantry in cover benefits from a +1 bonus to its Armour value (or +2 in fortifications).
+
+.Lowest Armour value in the target detachment -- hits and misses
+====
+You target an Ork target detachment that contains: Gretchin (Armour 3); Gretchin that are in cover in some ruins (effectively Armour 4); Ork Boyz (Armour 4); Battlewagons (Armour 5).
+
+Any die you roll that scores a 3 or more will be hit. Any die you roll that scores a 1 or 2 will be a miss.
+====

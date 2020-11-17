@@ -1,2 +1,121 @@
 = Terrain
 
+The terrain of the battlefield will be a big factor in many of your tactical decisions.
+You must consider the risks and opportunities that the terrain presents to both your own forces and those of your opponent — not only at the start but also as the battle progresses.
+
+Aside from the obvious fact that some types of terrain may block the line of sight between opposing units, there are other effects too.
+
+== Terrain effects -- movement
+
+Terrain affects the movement of ground units in one of three main ways:
+
+* *No effect*: The unit can move through the terrain as normal.
+* *Impassable*: The unit cannot move through the terrain at all, under any circumstances.
+* *Dangerous*: The unit can attempt to enter the terrain but it might get stuck, or even suffer damage.
+When you wish to move a unit through dangerous terrain you must take a <<Dangerous terrain test>> for that unit.
+
+The effects often differ between _unit types_.
+
+=== Dangerous terrain test
+
+When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6: On a roll of 1, halt the unit at the edge of the terrain.
+If the unit is halted in this way, roll the D6 again: If you roll another 1 then the unit takes a hit.
+
+include::partial$effect-of-hits.adoc[]
+
+NOTE: Hits from dangerous terrain do *not* cause critical damage on war engines.
+
+=== Roads
+
+Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5cm to its Speed value for that move.
+Apply this bonus to the unit's base Speed value, before modification.
+
+.Movement on roads
+====
+A unit of Ork Boyz infantry is on March orders.
+The player will make the first two moves entirely on roads, and the third move will include open ground.
+
+So, the player could move the unit up to a total of 40cm: 30cm for the first two moves ((10cm Speed value + 5cm road bonus) x2 moves on roads) and up to 10cm for the third move.
+====
+
+== Terrain effects -- shooting
+
+=== Line of sight blocking terrain
+
+Some terrain may block the line of sight between opposing units. This isn't always as clear-cut as you might think, so it pays to talk about particular terrain pieces and principles with your opponent before you start the battle.
+
++[More explanation needed.]+
+// TODO: Add some detail here about 'model's eye view', hull-down, and such. Might need to rationalise with the main rules for the Shooting phase too.
+
+=== Armour bonus for infantry that are in cover
+//Some terrain offers useful cover for infantry units, which we represent as a bonus to their armour while they are in such terrain.
+
+Infantry that are 'in cover' -- that is, in terrain that provides ready concealment and/or physical protection from incoming munitions -- gain special benefits.
+This is because they can take advantage of cover in ways that vehicles and war engines just can't -- they can hide among trees and shrubs, crouch behind low walls and dive into dips and holes at a moment's notice. 
+
+We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain -- see the Infantry Armour Bonus column in the summary table.
+
+NOTE: It is not possible to get an Armour value greater than 6. 
+
+.Armour bonus for infantry that are in cover
+====
+Infantry that are in woods get a +1 bonus to their Armour value.
+A unit of Ork Boyz infantry has a base Armour value of 4.
+
+So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Armour value of 5. 
+====
+
+== Summary of terrain effects
+
+The table below gives a summary of the effects of some common types of terrain on the different types of ground unit. 
+
+.Terrain effects summary table
+[cols="1,4*^", stripes=even]
+|===
+|Terrain |Infantry Armour Bonus |Infantry |Vehicle |War Engine
+
+|Fortifications
+|+2
+|No Effect
+|Impassable
+|Impassable
+
+|Buildings
+|+1
+|No Effect
+|Impassable
+|Impassable
+
+|Ruins, Rubble
+|+1
+|No Effect
+|Dangerous
+|Dangerous
+
+|Woods
+|+1
+|No Effect
+|Dangerous
+|Dangerous
+
+|Marsh, Swamp
+|0
+|Dangerous
+|Dangerous
+|Dangerous
+
+|River
+|0
+|Dangerous
+|Impassable
+|Dangerous
+
+|Roads
+|0 3+^|See <<Roads>>
+
+|Open Ground
+|0
+|No effect
+|No effect
+|No effect
+|===

@@ -1,2 +1,18 @@
 = Multiple firefights
 
+Once again, in an ideal world you should be able to resolve discrete firefights between detachments.
+However, as any detachment with units within 15cm of the enemy is automatically involved in a firefight (it can't choose not to be involved), firefights between multiple detachments are inevitable.
+
+Where one or more detachments are within 15cm of two or more enemy detachments, resolve the whole thing as a single large firefight.
+It is possible that you could end up with several detachment vs detachment firefights and some multiple firefights in the same turn.
+
+.Multiple firefights
+====
++[New image and text required.]+
+// New image and text required.
+
+Here, 2 Space Marine detachments have cornered the Orks and both have units within 15cm.
+In the subsequent firefight they add together the firepower of all the units within 15cm, from both detachments.
+This gives them one total to compare with the Orks' firepower.
+If the Space Marines lose, both detachments will take a hit and receive a Blast marker. They will both become Broken and have to retreat.
+====

@@ -14,7 +14,7 @@ As long as a unit is within 30cm of its detachment HQ at the start of a phase th
 
 [NOTE]
 ====
-We explain the phases at xref:the-sequence-of-play.adoc[]. For the moment, suffice to say that most movement happens in the Movement phase, most shooting happens in the Shooting phase, and so on.
+We explain the phases at xref:the-turn-sequence.adoc[]. For the moment, suffice to say that most movement happens in the Movement phase, most shooting happens in the Shooting phase, and so on.
 ====
 
 In command units:: These units can move and/or shoot in that phase, according to the orders you give to the detachment.

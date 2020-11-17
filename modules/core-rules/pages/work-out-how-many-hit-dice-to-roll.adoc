@@ -1,2 +1,19 @@
 = S3. Work out how many hit dice to roll
 
+Having placed Blast markers in the previous step you will now attempt to inflict actual casualties with your shooting.
+
+. Recall the total Firepower that you have, after modification.
+. Find this number in the Firepower column on the Firepower Table, to determine the row that you must use.footnote:firepower-21-or-more[If the Firepower totals 21 or more then resolve it as one attack at Firepower 20 plus another attack at the remaining Firepower. For example, Firepower 26 = an attack at Firepower 20  + another attack at Firepower 6.]
+. Cross-reference the row against the appropriate column to find the number of dice that you may roll to hit.
+That is:
+.. Look along the top of the table and find the kind of target that you're shooting at. For example, if the target detachment is comprised of *Vehicles or Infantry in Cover* then use that column.
+.. Where the Firepower row and Target column cross you'll find a number which tells you how many dice you may roll to hit.
+
+Also note:
+
+* If the target detachment has some units in cover and some in the open, then you may choose to shoot at only the units that are the open, if you wish.
+If you do this then, when you allocate hits later in this procedure, you may not allocate hits to any of the units that are in cover.
+* Always use the *Marching* column if the target detachment is under March orders -- even if some or all units are in cover.
+
++[Image required.]+
+// TODO: Image required.

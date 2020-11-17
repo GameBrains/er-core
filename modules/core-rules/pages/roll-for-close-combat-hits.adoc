@@ -1,0 +1,25 @@
+= CC5. Roll for close combat hits
+
+In close combat Armour values are ignored and instead you get a hit if you equal or beat the hit number shown on the Close combat results table.
+Look up the combat difference on the table to find out the hit numbers for winning and losing units.
+
+Roll a D6 for each of your units in base-to-base contact with the enemy, even if you lost.
+Don't forget that a maximum of two units can attack one enemy unit in close combat.
+You can choose which enemy units to apply hits against but as with shooting you can only put a second hit on a unit once all of the enemy units have been allocated one hit each.
+
+include::partial$close-combat-results-table.adoc[]
+
+.Rolling for hits
+====
++[New image and text required]+
+// New image and text required.
+
+
+In this combat, the Space Marines have scored 8 while the Orks have only managed to score 5 -- a difference of 3 points.
+As well as placing 3 Blast markers on the Orks, the result is looked up on the Close combat results table.
+This shows that the Space Marine player needs to roll 3+ to kill the Orks, who in turn need scores of 5+ to eliminate the Space Marines.
+
+The Space Marine player has 6 units in contact and so rolls 6 dice, scoring 3, 3, 5, 5, 5 & 6 -- an astounding roll that wipes out the 4 Ork units in contact (the excess hits are wasted).
+The Ork player rolls 4 dice and scores 2, 3, 5 & 6 which inflicts 2 hits.
+He assigns these to the Space Marines on his flank, hoping to increase the surviving Orks' chances of withdrawing safely.
+====

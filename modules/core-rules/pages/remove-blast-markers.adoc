@@ -1,2 +1,4 @@
 = R1. Remove Blast markers
 
+Remove D6 minus 1 Blast markers from each of your detachments, rolling separately for each.
+This means you will be taking off between 0 and 5 markers from each detachment.

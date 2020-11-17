@@ -1,2 +1,24 @@
 = The Shooting phase
 
+There are two parts to the Shooting phase: first, both sides shoot with vehicles and infantry; second, both sides shoot with war engines.
+You must determine the initiative in each part.
+
+In each part, the player with the Initiative chooses a detachment and shoots with them first -- and then the players alternate.
+
+You may pass on an opportunity to shoot, if you'd like to hold back and shoot later in the current part of the Shooting phase instead.
+*However*, if your opponent *also* passes immediately after you pass then this part of the Shooting phase ends immediately!
+// Could a player pass in the first part and then shoot in the second part instead?
+
+We detail the full procedure for shooting in this section, but in summary you will: Pick a detachment to shoot with, find out how much firepower it can bring to bear on the target(s), place Blast markers on the target, roll some dice, allocate hits and remove casualties as appropriate.
+
+== Shooting procedure
+
+[none]
+* xref:add-up-firepower.adoc[]
+* xref:work-out-blast-markers.adoc[]
+* xref:work-out-how-many-hit-dice-to-roll.adoc[]
+* xref:find-out-the-targets-lowest-armour-value.adoc[]
+* xref:roll-for-shooting-hits.adoc[]
+* xref:discard-misses.adoc[]
+* xref:allocate-hits.adoc[]
+* xref:remove-casualties.adoc[]

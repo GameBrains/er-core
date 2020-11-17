@@ -1,16 +1,25 @@
 = Units and unit types
+:icons: font
 
-Colossal war engines loom over the battlefield and unleash untold devastation upon their targets. Vehicles probe and break through enemy lines, or their attempts to do the same. Aircraft fight for dominance of the sky and bomb enemy positions. Infantry rush from cover to cover and fight desperate hand-to-hand combats to secure positions that other forces can't reach or can't hold. All these forces must work together to secure victory for their side.
+Colossal war engines loom over the battlefield and unleash untold devastation upon their targets.
+Vehicles probe and break through enemy lines, or prevent enemy attempts to do the same.
+Aircraft fight for dominance of the sky and bomb enemy positions.
+Infantry rush from cover to cover and fight desperate hand-to-hand combats to secure positions that other forces can't reach or can't hold.
+
+All these forces must work together to secure victory for their side.
 
 == Units
 The playing pieces that we use to play {project-name} represent the many and varied forces that are at war on battlefields of the 41^st^ millennium.
 
-In game terms, each individual playing piece represents a single independent element of these forces, known as a *unit*. Each unit is also of a particular named kind, such as Ork Boyz or Land Raider. Each kind has a unique set of characteristics that define its capabilities on the battlefield, which we explain at xref:data-sheets-and-characteristics.adoc[].
+In game terms, each individual playing piece represents a single independent element of these forces, known as a *unit*.
+Each unit is also of a particular named kind, such as Ork Boyz or Land Raider.
+Each kind has a unique set of characteristics that define its capabilities on the battlefield, which we explain at xref:data-sheets-and-characteristics.adoc[].
 
 == Unit types [[unit-types]]
 Units vary widely in their specific capabilities, but all belong to a broad *unit type*, as follows:
 
-Infantry (INF):: All personnel that are able to deploy and act outside of war machines. This includes mounted infantry (Space Marine Bikes, Ork Boarboyz, and so on) and field artillery (Eldar Support Weapon platform, Ork Pulsa Rokkit). +
+Infantry (INF):: All personnel that are able to deploy and act outside of war machines.
+This includes mounted infantry (Space Marine Bikes, Ork Boarboyz, and so on) and field artillery (Eldar Support Weapon platform, Ork Pulsa Rokkit). +
 We represent infantry units as follows:
 * 'Regular' infantry: Up to five models affixed to a single base (sometimes called a 'stand').
 * Mounted infantry: Two or three models affixed to a single base.
@@ -18,17 +27,26 @@ We represent infantry units as follows:
 
 // Could borrow/adapt text for 'stands' from https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm
 
-Light Vehicle (LV):: Vehicles with only very light armour, or no armour at all. While their crews are poorly protected from enemy fire, they are usually very fast. Examples include Ork Buggies and Space Marine Land Speeders. +
+Light Vehicle (LV):: Vehicles with only very light armour, or no armour at all.
+While their crews are poorly protected from enemy fire, they are usually very fast.
+Examples include Ork Buggies and Space Marine Land Speeders. +
 Each light vehicle unit is represented by a single model.
 
-Armoured vehicle (AV):: Vehicles that are covered with moderate or thick armour plate. Examples include tanks such as the Leman Russ and Land Raider, armoured troop carriers such as the Rhino, and other machines such as Dreadnoughts. +
+Armoured Vehicle (AV):: Vehicles that are covered with moderate or thick armour plate.
+Examples include tanks such as the Leman Russ and Land Raider, armoured troop carriers such as the Rhino, and other machines such as Dreadnoughts. +
 Each armoured vehicle unit is represented by a single model.
 
-War Engine (WE):: All very large war machines. Examples include the super-heavy tanks and Titans of various factions, and Ork Gargants. These units dwarf the units of other unit types and can absorb a lot more damage before they are destroyed. Best of all, these behemoths usually have multiple giant weapon batteries that can rain destruction upon your enemies! +
+War Engine (WE):: All very large war machines. Examples include the super-heavy tanks and Titans of various factions, and Ork Gargants.
+These units dwarf the units of other unit types and can absorb a lot more damage before they are destroyed.
+Best of all, these behemoths usually have multiple giant weapon batteries that can rain destruction upon your enemies! +
 War engine units are represented by a single Epic model.
 
-Aircraft (AC):: All machines (or even creatures) that can fly within a planet's atmosphere. They are very fast relative to ground units. Examples include Ork Fighta-Bommerz, Space Marine Thunderhawk Gunships and the Tyranid Harridan. +
+Aircraft (AC):: All machines (or even creatures) that can fly within a planet's atmosphere.
+They are very fast relative to ground units.
+Examples include Ork Fighta-Bommerz, Space Marine Thunderhawk Gunships and the Tyranid Harridan. +
 We usually represent each aircraft unit with a single model on a 'flying stand' (that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop).
 
 [NOTE]
-Note that 'skimmer' units such as Space Marine Land Speeders and Eldar Falcon grav-tanks are not aircraft. Rather, these units have some unique capabilities that are represented by the {skimmer} special ability.
+Note that 'skimmer' units such as Space Marine Land Speeders and Eldar Falcon grav-tanks are not aircraft.
+Rather, these units have some unique capabilities that we represent with the {skimmer} special ability.
+Otherwise, they behave just like other 'ground units'.

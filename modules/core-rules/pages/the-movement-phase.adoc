@@ -1,1 +1,21 @@
 = The Movement phase
+
+The Movement phase is not the only phase in which movement occurs, but it is the main one -- and the decisions you make here will determine much about what you can and can't do for the rest of the turn.
+
+. First, the player with the Initiative must choose either to go first or to make their opponent go first in this phase.
+. Then, the first player completes all of their actions for the Movement phase, as explained in this section.
+. Finally, the second player completes all of their actions for the Movement phase.
+
+The actions you can take are explained in this section, but in summary: You may move some or all of your units, according to the orders that you give to their detachment.
+
+Some general points about movement:
+
+* When you move a unit, you can move it a distance (in centimetres) up to their Speed value.
+* You may turn the unit freely during the course of its move (unless it is a war engine).
+* In the Movement phase, it is never compulsory to move any particular unit.
+//Possible alternative: * Unless a rule specifically states that you must move a unit in the Movement phase then you do not have to move it in this phase if you don't want to.
+* Once you have moved a unit and removed your hand from the model, you may not change the move.
+
+*Related information*
+
+* xref:special-rules:war-engine-movement.adoc[]

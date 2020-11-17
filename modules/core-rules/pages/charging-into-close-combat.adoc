@@ -1,2 +1,8 @@
 = Charging into close combat
 
+During the Assault phase you may only move and attack with detachments that you placed on Assault orders in the Movement phase.
+
+As you move detachments in this phase, you may declare that any or all of them will *charge* into close combat.
+This is the only time that you are allowed to move your units into base contact with enemy units.
+
+* In a charge, you may double the Speed value of *infantry* units *if* this will bring them into base contact with enemy units.

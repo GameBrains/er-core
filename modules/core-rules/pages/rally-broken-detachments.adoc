@@ -1,2 +1,7 @@
 = R2. Rally broken detachments
 
+Take a Leadership test for each Broken detachment.
+Roll a D6. If you score over the number of Blast markers on the detachment the unit has passed the test -- remove the Broken Detachment marker.
+Otherwise, the test is failed -- leave the marker in place!
+
+A detachment is not allowed to rally if the number of Blast markers on the detachment is equal to or greater than the number of units in it.

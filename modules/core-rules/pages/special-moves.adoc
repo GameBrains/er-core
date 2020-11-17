@@ -1,2 +1,41 @@
 = Special moves
 
+You can make a 'standard' move with a detachment, which you do not need to mark with an Order die.
+
+*'Standard'* or *'default'* orders:
+
+* *Movement phase*: You may move each unit in the detachment any distance up to its individual Speed value.
+* *Shooting phase*: You may shoot with the units in the detachment.
+* *Assault phase*: You may not move the units in this detachment.
+
+Or, you can make a special move that you mark with the appropriate face of an Order die as follows:
+
++[New images required for orders.]+
+// Need new images for order dice.
+
+image::OrderDie_Overwatch_52x53.png[role="related thumb right"]
+icon:crosshairs[size=2x, role=green] Overwatch::
+The detachment will hold its current position and direct all its efforts to lay heavy, accurate fire upon the enemy.
+
+* *Movement phase*: You may move units in this detachment up to 5cm only.
+* *Shooting phase*: You may re-roll any misses you roll with hit dice for units in this detachment.
+* *Assault phase*: You may not move or shoot with units in this detachment.  
+
+image::OrderDie_Assault_52x53.png[role="related thumb right"]
+icon:step-forward[size=2x, role=green, rotate=270] Assault::
+The detachment will advance quickly to engage the enemy at close quarters, but it will be less effective at shooting because the units are 'firing from the hip' as they advance.
+
+* *Movement phase*: You may make a normal move with units in this detachment.
+* *Shooting phase*: You make use the units to shoot, but you must halve their total Firepower. 
+* *Assault phase*: You *must* move the units again, at least 5cm. This move *must* be towards the enemy.
+
+image::OrderDie_March_52x53.png[role="related thumb right"]
+icon:angle-double-up[size=2x, role=green] March::
+The detachment sacrifices all of its shooting in order to move at top speed. While marching is a good way of moving a detachment around quickly its units become very vulnerable to enemy fire as they are not making use of cover. 
+
+* *Movement phase*: You may make a triple move with the units in this detachment. That is, make three normal moves in a single sequence.
+
+* *Shooting phase*: You may not shoot with units in this detachment.
+* *Assault phase*: You may *not* move units in this detachment, and you must *halve* the detachment's Assault and Firepower values if it becomes engaged in close combat or a firefight.
+
+CAUTION: Detachments on March orders are more vulnerable to enemy shooting, as you will see on the Firepower table.

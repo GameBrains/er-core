@@ -1,2 +1,9 @@
-= A2. Work out close combat bonuses
+= CC2. Work out close combat bonuses
+:close-combat:
 
+Each player receives bonuses in close combat for the Assault value of their units, whether they are supported by psykers, which side has more Blast markers, and so on.
+These are summarised on the <<#assault-bonuses-table>>.
+
+Note that the bonus you receive for the Assault value of your units depends on how it compares with your opponent's Assault value, you don't add your Assault value straight onto your dice roll!
+
+include::partial$assault-bonuses-table.adoc[]

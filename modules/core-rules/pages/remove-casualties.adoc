@@ -1,2 +1,5 @@
 = S8. Remove Casualties
 
+As you allocate the hits and identify which units are destroyed, remove the casualties from the table.
+
+TIP: If you have suitable accessories to mark casualties then you can substitute those in if you like. Detailed model wrecks and smoking craters are characterful and can add to the visual appeal of the game!

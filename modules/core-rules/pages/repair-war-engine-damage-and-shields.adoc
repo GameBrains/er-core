@@ -1,2 +1,5 @@
 = R3. Repair war engine damage and shields
 
+Any war engines that have suffered minor damage can attempt to make repairs at this point and war engines with shields which have been knocked down can attempt to raise them again.
+Shields and damaged locations are repaired on a D6 roll of 4 or more.
+War engine repairs and shields are explained in more detail at xref:special-rules:war-engine-critical-damage.adoc[] and xref:special-rules:war-engine-shields.adoc[].

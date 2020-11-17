@@ -1,2 +1,4 @@
-= A6. Broken detachments and retreats
+= CC6. Broken detachments and retreats
 
+Finally, mark all the detachments on the losing side as being 'Broken' (you can do this with the Order dice).
+Broken detachments must then retreat as explained at xref:broken-detachments.adoc[].

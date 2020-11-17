@@ -1,2 +1,22 @@
 = Snap-fire
 
+A unit that strays too close to enemy units may fall prey to opportunistic fire, traps or prepared ambushes. We represent the effects of this with the *Snap-fire* rule.
+
+During the Movement phase *only*, if your opponent moves a unit such that it passes within 10cm of one of your units then you may make a Snap-fire attack:
+
+NOTE: This is a special type of attack, and normal shooting rules -- such as line of sight and Firepower -- do not apply.
+
+. Declare your intent to make a Snap-fire attack immediately, before your opponent proceeds to move other models.
+. Your opponent must 'backtrack' to place the unit at the point where it first comes within 10cm of one of your units.
+The sudden attack brings it to a halt there -- your opponent may not move that unit any further in this phase.
+// what if this was the first move in a triple move under March orders? Should the enemy lose the rest of their entire move for the phase, or only the rest of that one move?
+. Roll a D6 to resolve the attack: If you score equal to or higher than the enemy unit's Armour value then it takes a hit.
+include::partial$effect-of-hits.adoc[]
+
+Note the following conditions:
+
+* You may Snap-fire with an individual unit any number of times in a single turn -- but no more than once at a particular target.
+* As long as the target unit survives then Snap-fire does not affect its ability to act later in the turn -- it can act as is usual for the orders under which it is operating. 
+* To be clear, you may declare Snap-fire attacks in the Movement phase only -- you may not declare Snap-fire attacks against units that move in the Assault phase.
+
+// TODO: Consider ditching the Snap-fire rule altogether and replacing it with a rule along the lines of Epic Armageddon's zone of control rules. Snap-fire just seems to be too clunky and needless, as in all but one or two edge cases people just don't move within 10cm anyway because it isn't work the risk of a hit or the definite loss of further movement.
