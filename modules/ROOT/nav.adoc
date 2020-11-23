@@ -1,1 +1,3 @@
 * xref:index.adoc[Welcome]
+ ** xref:how-to-use-this-publication.adoc[]
+ ** xref:what-you-will-need-to-play.adoc[]

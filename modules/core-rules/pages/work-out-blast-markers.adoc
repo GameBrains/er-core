@@ -4,7 +4,7 @@ When your units shoot at a target detachment, that detachment will tend to accru
 Blast markers represent the chaos and confusion that a target detachment suffers when it comes under heavy fire.
 
 The number of Blast markers that you place on the target detachment depends upon the total Firepower that you direct at it, before modification (for Assault orders, Blast markers on the detachment, and so on).
-// Does this really mean that detachments on Assault orders get their full Firepower for Blast markers, before it is halved to work out how many actual dice they get? 
+// Does this really mean that detachments on Assault orders get their full Firepower for Blast markers, before it is halved to work out how many actual dice they get? Update: Actually, original wording is unclear as to whether it is total Firepower that is halved, or each individual unit's Firepower - which would make quite a difference, given rounding up of odd values.
 
 .Blast marker table
 [cols="^,^2"]

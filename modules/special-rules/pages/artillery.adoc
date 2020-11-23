@@ -2,5 +2,6 @@
 
 == Indirect Fire
 
+[#preparatory-bombardment]
 == Preparatory Bombardment
 

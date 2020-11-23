@@ -15,7 +15,7 @@ You may *not* ignore a nearer unit so as to allocate a hit to a unit that is far
 * You may only allocate one hit to each eligible unit in a target detachment until all eligible units have been allocated a hit already.
 Then you may allocate each unit a second hit starting with the closest. If all the units have taken two hits you may allocate a third, and so on.
 
-[WARNING]
+[IMPORTANT]
 ====
 * You may not allocate hits to target units that are in cover unless unless you used the *Vehicles or Infantry in Cover* column on the Firepower table.
 

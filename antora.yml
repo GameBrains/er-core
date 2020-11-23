@@ -6,7 +6,6 @@ asciidoc:
     project-name: <i>Epic 40,000 Remastered</i>
     page-pagination: true
     icons: font
-    warning-caption: Remember!
 
     # Ability/weapon/variant keywords
     anti-personnel: <i>Anti-Personnel</i>

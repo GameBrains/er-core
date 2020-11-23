@@ -6,9 +6,9 @@ This is important because it determines which player will act first in the event
 The player with the Initiative goes first, or gets to choose who goes first, depending on the phase.
 
 .Determine the Initiative
-To determine who has the Initiative we draw an Initiative counter from a mug (or another receptacle, such as a small bag):
+To determine who has the Initiative we draw an Initiative counter from a mug (or another receptacle, such as a small cloth bag):
 
-. At the start of the turn, place five Initiative counters in the mug: three for the player whose army has the higher Strategy Rating, and two for the player whose army has the lower Strategy Rating.footnote:tie-break[If both armies have the same Strategy Rating then at the start of the game roll-off to decide which army gets the advantage for this game.]
+. At the start of the turn, place five Initiative counters in the mug: three for the player whose army has the higher Strategy Rating, and two for the player whose army has the lower xref:strategy-rating.adoc[].footnote:tie-break[If both armies have the same Strategy Rating then at the start of the game roll-off to decide which army gets the advantage for this game.]
 
 . Where the Turn Sequence instructs you to "Determine the Initiative", one player must draw a counter from the mug. The player whose counter is drawn has the Initiative.
 

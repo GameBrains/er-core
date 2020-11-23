@@ -1,0 +1,16 @@
+= R4. Check the game end conditions
+
+Check the game end conditions for the scenario that you are playing.
+So long as the state of your game in the End phase does not match the game end conditions then you will proceed to play another turn.
+
+Each scenario in the xref:battles:battles.adoc[] section specifies game end conditions, along with the conditions that determine who is the winner -- the rightful claimant to glorious victory on this day!
+
+_(Just don't gloat too much -- no-one likes a gloater any more than they like a bad loser... be a good sport and you'll attract fun opponents.)_
+
+If the game doesn't end yet, use this moment as an opportunity to consider what you should do next turn.
+
+* Could you secure victory or avoid imminent defeat if you focus on a particular objective or change tactics?
+* Can you hide your intentions fom your opponent until it is too late for them to stop you?
+* Be wary -- might your opponent spot a chance to exploit something, and can you think of a way to counter it?
+
+Formulate your plans for the next turn accordingly, and be master of the battle lest it masters you!

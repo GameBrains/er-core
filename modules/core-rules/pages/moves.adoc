@@ -1,0 +1,15 @@
+= Moves
+
+The term 'move' refers to the physical act of moving your models across the play area. 
+
+Usually, the maximum distance that you may move any individual model in any single move is defined by the Speed value of the unit that the model represents.
+
+Sometimes, the distance you may move units your detachment may be defined in a different way (as with Overwatch orders or a Broken detachment's Retreat move).
+
+Or, you may be allowed to chain more than one move together at one time -- as with a triple move under March orders or a double move for infantry when they charge under Assault orders).
+Note that these are technically separate moves, so don't just multiply the Speed value -- in some cases, terrain may affect the Speed value of your units for one move but not for other moves in the same chain.
+
+For each move that a detachment is allowed to make, you may move each unit in that detachment any distance up to the unit's individual Speed value.
+Where you are allowed to make multiple moves, complete all moves with a unit before you move the next unit -- don't slow things down by moving an entire detachment on March orders three times!
+
++[TODO: Improve text and add example(s)]+

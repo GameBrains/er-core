@@ -11,9 +11,34 @@ Most units have a very simple data sheet that looks something like these:
 [options="header"]
 |===
 |Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
-|Ork Boyz|INF|10cm|30cm|1|2|4+|
-|Space Marines|INF|10cm|30cm|1|3|5+|{rapid-fire}, {stubborn}
-|Space Marine Rhino|AV|30cm|-|0|0|5+|{transport-2}
+
+|Ork Boyz
+|INF
+|10cm
+|30cm
+|1
+|2
+|4+
+|
+
+|Space Marines
+|INF
+|10cm
+|30cm
+|1
+|3
+|5+
+|{rapid-fire}, {stubborn}
+
+|Space Marine Rhino
+|AV
+|30cm
+|-
+|0
+|0
+|5+
+|{transport-2}
+
 |===
 
 ====
@@ -28,8 +53,8 @@ War engines have bigger and more complex data sheets, as we explain at xref:spec
 Unit:: The unique name that specifies the kind of unit.
 
 Type:: The unit type of the unit (see xref:units-and-unit-types.adoc[]). Some rules affect some unit types and not others.
-
-// TODO: Return to the above and figure out where best to fit in rules that are particular to Light Vehicles and such. Given that the overall concept is similar, should these rules be lumped in with special abilities to make them easy to find?
++
++[TODO: Return to the above and figure out where best to fit in rules that are particular to Light Vehicles and such. Given that the overall concept is similar, should these rules be lumped in with special abilities to make them easy to find?]+
 
 Speed:: The distance that you can move the unit in a single turn (in centimetres). It represents a rate at which the unit can move across the battlefield and still be effective when it shoot its weapons. You can give units orders that allow you to move units farther than this, but their shooting will suffer.
 

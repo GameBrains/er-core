@@ -11,9 +11,7 @@ include::partial$close-combat-results-table.adoc[]
 
 .Rolling for hits
 ====
-+[New image and text required]+
-// New image and text required.
-
++[TODO: New image and text required]+
 
 In this combat, the Space Marines have scored 8 while the Orks have only managed to score 5 -- a difference of 3 points.
 As well as placing 3 Blast markers on the Orks, the result is looked up on the Close combat results table.

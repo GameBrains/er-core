@@ -1,0 +1,4 @@
+= Common rules
+
+Rules that we refer to a lot in relation to different phases.
+They'll make more sense as you become familiar with the rest of the rules.

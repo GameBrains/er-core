@@ -1,0 +1,6 @@
+= R1. Remove Blast markers
+
+Detachments can overcome or work around some of the negative effects that we represent with Blast markers -- and so you may be able to remove some or all Blast markers from your detachments.
+
+For each of your detachments that has any Blast markers on it, roll and remove D6-1 Blast markers.
+(So, the actual number of Blast markers that you remove will vary from one detachment to the next, but will be between 0 and 5.)

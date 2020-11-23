@@ -5,6 +5,7 @@ You play a game of {project-name} over a number of *turns* in which both you and
 There are four *phases* in a turn, in a fixed sequence that we call the *turn sequence*. During the turn, you and your opponent will give *orders* to your detachments. The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
 
 .Sequence of play
+[none]
 * *Start of the turn*
 ** Complete any special actions that the rules tell you to complete at the start of the turn.
 
@@ -32,4 +33,5 @@ There are four *phases* in a turn, in a fixed sequence that we call the *turn se
 
 // Break to prevent list nesting.
 
+[none]
 * *End of the turn*

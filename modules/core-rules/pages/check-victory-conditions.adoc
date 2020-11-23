@@ -1,5 +1,0 @@
-= R4. Check victory conditions
-
-The various scenarios explained in the Battles Book [The scenarios] have victory conditions which will tell you which player has won (or is winning) or has lost (or is losing).
-// TODO: Fix xref.
-At this point you check to see how both sides are doing.

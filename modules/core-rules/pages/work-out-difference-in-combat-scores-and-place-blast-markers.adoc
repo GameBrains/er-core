@@ -13,8 +13,7 @@ NOTE: The maximum number of Blast markers a detachment can suffer in close comba
 
 .Close combat bonuses
 ====
-+[New image and text required.]+
-// New image and text required.
++[TODO: New image and text required.]+
 
 In this combat, the Orks have 3 Boyz units (Assault value 2 each) in contact with 2 Space Marine units.
 They also have 6 Battlewagons and another 4 Ork units within 15cm to lend supporting fire.

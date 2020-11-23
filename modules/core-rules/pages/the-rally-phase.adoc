@@ -1,11 +1,12 @@
 = The Rally phase
 
-In the Rally phase the opposing armies have a chance to muster their forces and take stock of the damage.
+This is the phase in which you may be able to recover from some of the damage that your opponent has inflicted on your forces.
+You'll also check to see how well each side is doing overall and -- unless the game end conditions are met -- you'll prepare for the next turn.
 
 == Rally procedure
 
 [none]
-* xref:remove-blast-markers.adoc[]
-* xref:rally-broken-detachments.adoc[]
-* xref:repair-war-engine-damage-and-shields.adoc[]
-* xref:check-victory-conditions.adoc[]
+* xref:roll-to-remove-blast-markers.adoc[]
+* xref:test-to-rally-broken-detachments.adoc[]
+* xref:attempt-repairs.adoc[]
+* xref:check-the-game-end-conditions.adoc[]

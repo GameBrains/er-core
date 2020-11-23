@@ -1,0 +1,17 @@
+= R2. Attempt to rally Broken detachments
+
+If you can rally a Broken detachment then you will regain control so that you can issue orders to it again next turn.
+
+For each Broken detachment that you have, take a Rally test to see if they rally.
+
+.Rally test
+Roll a D6: If you score higher than the number of Blast markers on the detachment then you succeed -- remove the Broken condition marker from the detachment; otherwise, you fail -- leave the marker in place.
+
+[IMPORTANT]
+====
+You cannot rally a detachment that has as many Blast markers (or more) as it has units remaining.
+
+You may be able to take the test for such detachments at the end of a future turn if you are able to remove enough Blast markers at step xref:roll-to-remove-blast-markers.adoc[].
+====
+
+NOTE: The rally test works in a similar way to the Leadership test -- but it is different because there are no modifiers and no exceptions for a natural 6.

@@ -8,8 +8,7 @@ It is possible that you could end up with several detachment vs detachment firef
 
 .Multiple firefights
 ====
-+[New image and text required.]+
-// New image and text required.
++[TODO: New image and text required.]+
 
 Here, 2 Space Marine detachments have cornered the Orks and both have units within 15cm.
 In the subsequent firefight they add together the firepower of all the units within 15cm, from both detachments.

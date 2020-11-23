@@ -14,7 +14,7 @@ We detail the full procedure for shooting in this section, but in summary you wi
 == Shooting procedure
 
 [none]
-* xref:add-up-firepower.adoc[]
+* xref:add-up-shooting-firepower.adoc[]
 * xref:work-out-blast-markers.adoc[]
 * xref:work-out-how-many-hit-dice-to-roll.adoc[]
 * xref:find-out-the-targets-lowest-armour-value.adoc[]

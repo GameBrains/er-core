@@ -1,7 +1,7 @@
 = Broken detachments
 
-image::OrderDie_Broken_40x40.png[role="related thumb right"]
-Mark Broken detachments with the Order dice.
+image::OrderDie_Broken_40x40.png[role="left"]
+When a detachment becomes Broken, remove its order marker (if any) and place a Broken marker.
 
 A detachment becomes Broken when:
 

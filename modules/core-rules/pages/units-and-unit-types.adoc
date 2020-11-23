@@ -1,5 +1,4 @@
 = Units and unit types
-:icons: font
 
 Colossal war engines loom over the battlefield and unleash untold devastation upon their targets.
 Vehicles probe and break through enemy lines, or prevent enemy attempts to do the same.
@@ -25,7 +24,7 @@ We represent infantry units as follows:
 * Mounted infantry: Two or three models affixed to a single base.
 * Field artillery: One artillery piece and X infantry models affixed to a single base.
 
-// Could borrow/adapt text for 'stands' from https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm
+// TODO: Consider adapting some text for 'stands' from https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm
 
 Light Vehicle (LV):: Vehicles with only very light armour, or no armour at all.
 While their crews are poorly protected from enemy fire, they are usually very fast.

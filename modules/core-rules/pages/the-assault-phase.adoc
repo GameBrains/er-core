@@ -10,4 +10,4 @@ Then the player who goes second does the same.
 
 Moves in the Assault phase are subject to all the rules we described for the Movement phase -- except that the Snap-fire rule does not apply in the Assault phase.
 
-WARNING: For detachments that have Blast markers on them, you must pass a Leadership test before you can move them.
+IMPORTANT: For detachments that have Blast markers on them, you must pass a Leadership test before you can move them.
