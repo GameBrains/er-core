@@ -3,28 +3,42 @@ ifdef::close-combat[.Close combat bonuses table]
 ifdef::firefight[.Firefight bonuses table]
 [cols="7,1", options="footer"]
 |===
+|Condition |Bonus
+
 |The opposing side has 5 or more Blast markers
 |+1
 
 |The opposing side has more Blast markers than your side
 |+1
 
-|Your own side has the most psykers
+|Your side has the most psykers
 ifdef::close-combat[fighting or supporting the combat]
 ifdef::firefight[in the firefight]
 |+1
 
-|Your own total Assault value is higher than the enemy's
+|Your side's 
+ifdef::close-combat[Assault]
+ifdef::firefight[Firepower]
+total is higher than the enemy's
 |+1*
 
-|Your own total Assault value is double the enemy's or more
+|Your side's
+ifdef::close-combat[Assault]
+ifdef::firefight[Firepower]
+total is double the enemy's or more
 |+2*
 
-|Your own total Assault value is triple the enemy's or more
+|Your side's
+ifdef::close-combat[Assault]
+ifdef::firefight[Firepower]
+total is triple the enemy's or more
 |+3*
 
-|Your own total Assault value is quadruple the enemy's or more
+|Your side's
+ifdef::close-combat[Assault]
+ifdef::firefight[Firepower]
+total is quadruple the enemy's or more
 |+4*
 
-2+e|*These modifiers are not cumulative so only use the best one that applies.
+2+e|*These modifiers are not cumulative -- use only the best one that applies.
 |===

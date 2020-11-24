@@ -6,7 +6,7 @@ If a detachment has any units within 15cm of an enemy detachment a firelight mus
 When several firefights occur in the same turn the player with the Initiative may decide what order to resolve them in.
 
 [none]
-* xref:add-up-firefight-firepower.adoc[]
+* xref:calculate-your-firepower-total.adoc[]
 * xref:work-out-firefight-bonuses.adoc[]
 * xref:roll-dice-and-add-firefight-bonuses.adoc[]
 * xref:allocate-hits-and-blast-markers-to-losing-detachments.adoc[]

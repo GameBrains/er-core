@@ -1,3 +1,0 @@
-= FF1. Add up firefight firepower
-
-Count up the Firepower values for every unit within 15cm of the enemy.

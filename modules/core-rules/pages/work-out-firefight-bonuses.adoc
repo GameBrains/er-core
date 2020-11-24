@@ -1,8 +1,12 @@
 = FF2. Work out firefight bonuses
 :firefight:
 
-Each player receives bonuses in firefights for the Firepower value of their units, whether they are supported by psykers and so on.
-These are summarised on the <<#assault-bonuses-table>>.
-As in close combat the bonus you receive for the Firepower of your units depends on how it compares with your opponent's Firepower, you don't add your Firepower straight onto your dice roll!
+Firefight bonuses reveal who has the overall advantage and combine to act as a modifier for the dice rolls that will determine the winner.
+
+Your Firepower total from the previous step is important, but you don't use it directly (you don't add it onto the dice roll to determine the winner!).
+
+Each player may get firefight bonuses that are based on the difference between each side's Firepower totals and other factors such as the number of Blast markers that the enemy detachments have.
+
+Add up all of the bonuses that apply for your side to get a total to use as your modifier in the next step.
 
 include::partial$assault-bonuses-table.adoc[]

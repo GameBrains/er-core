@@ -1,21 +1,41 @@
 = Broken detachments
 
-image::OrderDie_Broken_40x40.png[role="left"]
-When a detachment becomes Broken, remove its order marker (if any) and place a Broken marker.
+image::Conditions_Broken.png[role="left"]
+When a detachment becomes Broken, remove its order marker (if any) and place a Broken conditions marker.
 
-A detachment becomes Broken when:
+*A detachment becomes Broken when it loses a close combat or a firefight.*
 
-* It loses a close combat.
-* It loses a firefight.
+When a detachment first becomes Broken, you *must* make an immediate <<Retreat move>> with it -- and any units that aren't able to get far enough away from enemy units will be destroyed.
 
-A Broken detachment must retreat when it breaks, and may make a retreat move in a subsequent Movement phase if the player desires.
-It is not allowed to move or shoot otherwise, and has its Assault value and Firepower halved for close combat and firefights.
-Note that the only type of move a Broken detachment can make is a retreat move; a Broken detachment is not allowed to move normally, or march, enter overwatch, etc.
+Thereafter, apply the following rules while the detachment remains subject to the Broken condition:
 
-A retreat move may be up to 20cm, regardless of a unit's actual Speed.
-Retreat moves may be made in any direction, and the normal terrain rules apply, but if a unit ends a retreat within 15cm of the enemy, it is destroyed (it is 'killed while trying to escape'!).
-Units that are 'out of command' (more than 30cm from their detachment HQ unit) are not affected if their parent detachment is Broken (so they don't have to retreat).
-Conversely, if a unit that is out of command is Broken, then it is destroyed with no other effects on the parent detachment.
+* You cannot give orders to your Broken detachment -- so it can't shoot or enter overwatch, and it can't move in the normal way either.
++[TODO: Can a detachment still Snap-fire while Broken?]+
+* You may make a <<Retreat move>> in the Movement phase, if you wish.
+This is the only type of move you may make with a Broken detachment.
+* If the enemy engages your Broken detachment in close combat or a firefight then you must halve your detachment's Assault and Firepower totals in the engagement.
 
-After Blast markers have been removed in the Rally phase Broken detachments can attempt to rally by passing a Leadership test.
-A detachment can't rally if the number of Blast markers on the detachment is equal to or greater than the number of units in it.
+== Retreat move
+
+The Retreat move is a single move in which you may move all of the Broken units up to 20cm -- regardless of the actual Speed values of units.
+
+* You may make the Retreat move in any direction, subject to the normal rules for terrain effects on movement.
+* If you end a Retreat move such that any Broken units are within 15cm of *any* enemy unit footnote:[Even Broken enemy units.], then they are *destroyed* -- remove those units as casualties.
+(They are killed by the advancing enemy or scattered in the confusion -- they play no further part in the battle.)
+
+== The Broken condition and the 'out of command' rules
+
+If a Broken detachment has units that are out of command (that is, more than 30cm away from their detachment HQ unit) then those units are not affected -- they are not Broken and the out of command rules still apply to them.
+
+If units that are out of command become Broken, remove them as casualties immediately.
+There are no other effects on the parent detachment.
+Similarly, if units in a Broken detachment become out of command, remove them as casualties immediately.
+
+== Rallying a Broken detachment
+
+You may be able to rally Broken detachments in the End phase.
+
+*Related information*
+
+* xref:hq-units-and-command.adoc[]
+* xref:test-to-rally-broken-detachments.adoc[]

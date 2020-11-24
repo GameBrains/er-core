@@ -1,10 +1,11 @@
 = Multiple firefights
 
-Once again, in an ideal world you should be able to resolve discrete firefights between detachments.
-However, as any detachment with units within 15cm of the enemy is automatically involved in a firefight (it can't choose not to be involved), firefights between multiple detachments are inevitable.
+You won't always have a simple one-on-one fight between two opposing detachments.
+As any detachment with units within 15cm of the enemy becomes engaged in a firefight automatically, firefights between multiple detachments are common.
 
-Where one or more detachments are within 15cm of two or more enemy detachments, resolve the whole thing as a single large firefight.
-It is possible that you could end up with several detachment vs detachment firefights and some multiple firefights in the same turn.
+Where either side has more than one detachment that have units that are within 15cm of a particular enemy detachment, resolve this as a single large firefight.
+
+You may very well find that you have a number of one-on-one and multi-detachment firefight engagements all in a single Assault phase.
 
 .Multiple firefights
 ====

@@ -39,7 +39,7 @@
   **** xref:broken-detachments-and-retreats.adoc[]
   **** xref:multiple-close-combats.adoc[]
  *** xref:firefight-procedure.adoc[]
-  **** xref:add-up-firefight-firepower.adoc[]
+  **** xref:calculate-your-firepower-total.adoc[]
   **** xref:work-out-firefight-bonuses.adoc[]
   **** xref:roll-dice-and-add-firefight-bonuses.adoc[]
   **** xref:allocate-hits-and-blast-markers-to-losing-detachments.adoc[]
