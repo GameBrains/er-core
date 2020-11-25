@@ -3,11 +3,7 @@
 In this phase, detachments that are on Assault orders move again.
 If they end their move close enough to the enemy then the opposing detachments will engage in close combat and/or short-ranged firefights.
 
-The player with the Initiative must decide whether to make all his assaults first, or to make his opponent go first.
+The player with the Initiative must decide whether to make all their assaults first, or to make their opponent go first.
 
-The player who goes first moves all of the detachments he has that are on Assault orders, and resolves all close combats and firefights that result from these moves, if any.
+The player who goes first moves all of the detachments they have that are on Assault orders, and resolves all close combats and firefights that result from these moves, if any.
 Then the player who goes second does the same.
-
-Moves in the Assault phase are subject to all the rules we described for the Movement phase -- except that the Snap-fire rule does not apply in the Assault phase.
-
-IMPORTANT: For detachments that have Blast markers on them, you must pass a Leadership test before you can move them.

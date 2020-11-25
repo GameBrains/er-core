@@ -1,11 +1,12 @@
 = Close combat procedure
 
-After a player has made all of his assault moves, if there are opposing detachments that have units in base-to-base contact with each other, then you must resolve close combat between them.
+After a player has made all of their assault moves then, if there are opposing detachments that have units in base-to-base contact with each other, you *must* resolve close combat between them.
 
-If a detachment has any units in base contact with an enemy detachment then you and your opponent *must* resolve a close combat between the opposing detachments.
-The close combat is resolved before the opposing player gets a chance to move his assaulting units.
-The player with the initiative decides which order close combats are resolved in.
-// Should the order instead be decided by the first player while they are resolving their assaults, and then the second player while they resolve their assaults?
+IMPORTANT: The first player completes all of their assault moves and charges, and resolves all close combats (and firefights) that they trigger, before the second player gets to do the same.
+
+The player with the Initiative decides the order in which to resolve close combats.
++[TODO: Consider whether instead the order should be decided by the first player while they are resolving their assaults, and then the second player while they resolve their assaults.]+
+
 
 Close combat is resolved by both players rolling a dice with the highest roll winning the combat. The roll of the dice is modified by various factors like the skill of the units fighting and the numbers involved.
 

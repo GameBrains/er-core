@@ -1,4 +1,8 @@
 = FF4. Allocate hits and Blast markers to losing detachments
 
-Each detachment on the losing side takes one hit on the nearest unit to the enemy and receives one Blast marker.
-Losing detachments are also Broken and must retreat.
+For each detachment on the losing side in the firefight:
+
+. Allocate one hit to the unit that is nearest to the enemy.
+. Place one Blast marker.
+. The detachment is Broken -- place a Broken condition marker.
+. Make an immediate xref:broken-detachments.adoc#_retreat_move[Retreat move].
