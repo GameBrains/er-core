@@ -1,17 +1,20 @@
+[#close-combat-results-table]
 .Close combat results table
-[cols="4*^", hrows=2]
+[cols="4*^", hrows=2, footer]
 |===
-|Combat difference |Result 2+|Hit numbers
+|Combat difference* |Result 2+| Score required to hit
 
 || s|Winner s|Loser
 
-|+1 |Narrow Win |4+ |4+
+|1 |Narrow Win |4+ |4+
 
-|+2 |Forced Back |3+ |4+
+|2 |Forced Back |3+ |4+
 
-|+3 |Driven Off |3+ |5+
+|3 |Driven Off |3+ |5+
 
-|+4 |Hurled Back |2+ |5+
+|4 |Hurled Back |2+ |5+
 
-|+5 |Overwhelmed |2+ |6+
+|5 |Overwhelmed |2+ |6+
+
+4+e|*Also the number of Blast markers to place on losing detachment(s)
 |===

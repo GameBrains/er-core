@@ -1,15 +1,16 @@
 = CC4. Work out difference in combat scores and place Blast markers
 
-The difference between the two total combat scores dictates how great a victory the combat was for the winner and how crushing a defeat it was for the loser.
-Work out how much the winner's score beats the loser's by and look it up on the Close combat results table.
-For example, a score of 6 versus 8 means the winner has won by 2.
+The difference between the two total combat scores -- the combat difference -- dictates how great a victory the combat was for the winner and how crushing a defeat it was for the loser.
+For example, a score of 6 versus 8 means the winner has won by 2 (combat difference = 2).
+
+Look up the difference up on the <<close-combat-results-table>> to find out how many Blast markers to place on the losing detachment(s) and what scores each side will need to get hits in the next step.
 
 include::partial$close-combat-results-table.adoc[]
 
-The loser receives a number of Blast markers equal to the difference between the two scores.
+The loser receives a number of Blast markers equal to the combat difference.
 If more than one detachment was involved on the losing side each one receives a number of Blast markers equal to the difference between the two scores.
 
-NOTE: The maximum number of Blast markers a detachment can suffer in close combat is equal to the number of units it had fighting in the close combat (ie, the ones in base-to-base contact with the enemy, not just lending supporting fire).
+NOTE: The maximum number of Blast markers a detachment can suffer in close combat is equal to the number of units it had fighting in the close combat (that is, the number of units that were in base-to-base contact with the enemy, not those lending supporting fire).
 
 .Close combat bonuses
 ====
