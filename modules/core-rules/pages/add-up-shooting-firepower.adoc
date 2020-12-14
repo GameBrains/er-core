@@ -11,8 +11,7 @@ For example, if a detachment with a Firepower of 9 has 3 Blast markers then redu
 
 .Adding up shooting Firepower
 ====
-+[Image required, and new example text.]+
-// Image and rewrite of example required.
++[TODO: Need new image and example text.]+
 
 A Space Marine detachment consisting of 4 Space Marine units, 2 Devastator Space Marine units and 2 Predator tanks fires at an Ork detachment.
 Their Firepower is worked out as follows.
@@ -26,12 +25,13 @@ This gives a total of 3+4+2=9 Firepower.
 
 To shoot, units must have a 'line of fire' to at least one unit in the target detachment.
 
-* Line of fire is blocked by terrain features such as buildings, hills, woods and so on. It is also blocked by war engine units -- but not by other units.
+* Line of fire is blocked by terrain features such as buildings, hills, woods and so on.
+It is also blocked by war engine units -- but not by other units.
 * Buildings and woods don't block the line of fire to or from units that are *in* the terrain itself.
 * Units which are higher up can see over and be seen over any terrain that is lower than they are.
 
 Terrain conventions and line of fire are both discussed in more detail in the Battles Book [House rules, frequently asked questions and other nonsense].
-//TODO: Rationalise content and fix this xref.
++[TODO: Rationalise content and fix this xref.]+
 
 == Fire arc
 
@@ -48,8 +48,7 @@ Resolve the shooting against each target detachment separately, in whatever orde
 
 .Splitting fire among multiple target detachments
 ====
-+[Image required, and new example text.]+
-// Image and rewrite of example required.
++[TODO: Need new image and example text.]+
 
 A Space Marine detachment is faced by two Ork detachments.
 The Space Marine player elects to split his fire between the two enemy detachments.

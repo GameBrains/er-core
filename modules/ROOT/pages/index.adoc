@@ -1,22 +1,26 @@
 = Welcome to the {project-name} project
 :experimental:
 
-{project-name} is an unofficial project that reworks and extends the third edition of Games Workshop's _Epic_ game system. By fans, for fans, open to the community as a collaborative effort.
+{project-name} is an unofficial project that reworks and extends the third edition of Games Workshop's _Epic_ game system.
+By fans, for fans, open to the community as a collaborative effort.
 
-== Proof of concept only!
+Date of this build: {docdate}
 
+.Proof of concept only!
 ****
-At the moment, this is nothing more than a proof of concept for the purpose of experimentation and demonstration. You'll find only:
+At the moment, this is nothing more than a proof of concept for the purpose of experimentation and demonstration.
+You'll find only:
 
 * a skeleton of possible page structure, to show how the publication might work
-* a handful of newly drafted work-in-progress pages, at the start of the core rules
-* a default user interface, with little to no customisation for appearance or usability
+* newly drafted work-in-progress pages for the core rules (but no changes to gameplay as yet)
+* a default user interface, with little customisation for appearance or usability
 * the start of a possible guide for contributors (to switch between the *E40kR* component and the *Contributor's guide* component see the component menu at the bottom of the navigation panel)
-* this Web output -- I'd like us to provide Android app and PDF outputs too, but the exact way we might do this and the degree to which they can be automated depends on ongoing development with the compiler software (Antora)
+* this Web output -- which adapts easily for an Android app output too footnote:[PDF will be a bit more tricky.
+I'm hoping that by the time we might want a PDF output, there will be an easy, direct way to do it with the compiler software (Antora).]
 
 Also, you'll find that:
 
-* there are no 'related information' links comparable to those in link:https://thehobby.zone/resources/e40k-compendium[+Epic 40,000 Compendium+, window=_blank] -- unfortunately, to date the technology that underlies this demonstration doesn't include any parallel for the relationship tables that make such links easy to manage
+* there are a few 'related information' links, similar to those in link:https://thehobby.zone/resources/e40k-compendium[+Epic 40,000 Compendium+, window=_blank] -- but they may not be robust over time, as the technology in this case lacks 'relationship table' features that would make them easy to manage
 * the *Edit this page* function isn't active (it'll be active when the rest of the project infrastructure is in place)
 * the search function is absent (it should be fairly straightforward to set up for the real project)
 * the btn:[Download] button isn't set up to do anything at the moment
@@ -28,8 +32,7 @@ I intend to offer this up for discussion in the link:https://www.facebook.com/gr
 _Eric Weston_
 ****
 
-== Why do it this way?
-
+.Why do it this way?
 ****
 Speaking from long experience as a professional technical writer: It is usually hard, even exhausting, to deliver and maintain documentation projects.
 

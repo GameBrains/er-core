@@ -1,4 +1,5 @@
 = What you will need to play
+:page-toclevels: 1
 
 Things that you'll need to play the game -- and a few that are nice to have.
 

@@ -1,0 +1,7 @@
+= S5. Roll for shooting hits and discard misses
+
+Take a moment to savour the tension and to make an evil grin while you tell your opponent that all his alien scum or whatever are going to die... and then:
+
+. Roll the hit dice.
+. Discard any hit dice which scored less than the target detachment's lowest Armour value.
+. The remaining dice are hits.

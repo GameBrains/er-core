@@ -6,7 +6,7 @@ Where two or more detachments are in contact with one or more enemy detachments,
 
 .Multiple close combats
 ====
-+[TODO: New image and text required.]+
++[TODO: Need new example image and text.]+
 
 Two Ork detachments charge into a Space Marine detachment.
 Both Ork detachments and the Space Marines have models in base contact with the enemy so any units not in contact but within 15cm can add supporting fire (see Close Combat Procedure [The Assault phase]).

@@ -9,7 +9,7 @@ You may very well find that you have a number of one-on-one and multi-detachment
 
 .Multiple firefights
 ====
-+[TODO: New image and text required.]+
++[TODO: Need new example image and text.]+
 
 Here, 2 Space Marine detachments have cornered the Orks and both have units within 15cm.
 In the subsequent firefight they add together the firepower of all the units within 15cm, from both detachments.

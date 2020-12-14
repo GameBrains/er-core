@@ -1,3 +1,0 @@
-= S6. Discard misses
-
-Discard any hit dice which scored less than the target detachment's lowest Armour value. The remaining dice are hits.

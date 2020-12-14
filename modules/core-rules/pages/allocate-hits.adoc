@@ -1,4 +1,4 @@
-= S7. Allocate hits
+= S6. Allocate hits
 
 Allocate your successful hit dice against eligible units in the target detachment.
 
@@ -24,8 +24,7 @@ Then you may allocate each unit a second hit starting with the closest. If all t
 
 .Allocating hits step (i)
 ====
-+[Image required, and new example text.]+
-// Image and rewrite of example required.
++[TODO: Need new example image and text.]+
 
 A detachment of Space Marines is firing at a mixed detachment of Orks and Battlewagons. The Space Marines have a Firepower of 9.
 Some of the target detachment are in cover, some of them are in the open.
@@ -39,8 +38,7 @@ The 2 and the 3 are discarded as misses.
 
 .Allocating hits step (ii)
 ====
-+[Image required, and new example text.]+
-// Image and rewrite of example required.
++[TODO: Need new example image and text.]+
 
 . The closest unit to the Space Marines is a Boyz unit, the Space Marine player allocates one of the 4's to it and it is destroyed.
 . The second closest unit is a Boyz unit in cover.

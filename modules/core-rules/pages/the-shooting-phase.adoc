@@ -18,7 +18,6 @@ To resolve shooting, use the shooting procedure as follows.
 * xref:work-out-blast-markers.adoc[]
 * xref:work-out-how-many-hit-dice-to-roll.adoc[]
 * xref:find-out-the-targets-lowest-armour-value.adoc[]
-* xref:roll-for-shooting-hits.adoc[]
-* xref:discard-misses.adoc[]
+* xref:roll-for-shooting-hits-and-discard-misses.adoc[]
 * xref:allocate-hits.adoc[]
 * xref:remove-casualties.adoc[]

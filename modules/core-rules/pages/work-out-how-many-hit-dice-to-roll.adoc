@@ -15,5 +15,4 @@ Also note:
 If you do this then, when you allocate hits later in this procedure, you may not allocate hits to any of the units that are in cover.
 * Always use the *Marching* column if the target detachment is under March orders -- even if some or all units are in cover.
 
-+[Image required.]+
-// TODO: Image required.
++[TODO: Need a new image.]+
