@@ -14,7 +14,7 @@ Terrain affects the movement of ground units in one of three main ways:
 * *Dangerous*: The unit can attempt to enter the terrain but it might get stuck, or even suffer damage.
 When you wish to move a unit through dangerous terrain you must take a <<Dangerous terrain test>> for that unit.
 
-The effects often differ between _unit types_.
+The effects often differ between *unit types*, as you will find in the <<TerrainTable>>.
 
 === Dangerous terrain test
 
@@ -42,18 +42,19 @@ So, the player could move the unit up to a total of 40cm: 30cm for the first two
 
 === Line of sight blocking terrain
 
-Some terrain may block the line of sight between opposing units. This isn't always as clear-cut as you might think, so it pays to talk about particular terrain pieces and principles with your opponent before you start the battle.
+Some terrain may block the line of sight between opposing units.
+This isn't always as clear-cut as you might think, so it pays to talk about particular terrain pieces and principles with your opponent before you start the battle.
 
-+[More explanation needed.]+
-// TODO: Add some detail here about 'model's eye view', hull-down, and such. Might need to rationalise with the main rules for the Shooting phase too.
++[TODO: Expand on this some more?
+Perhaps add some detail here about 'model's eye view', hull-down, and such.
+Might need to rationalise with the main rules for the Shooting phase too.]+
 
 === Armour bonus for infantry that are in cover
-//Some terrain offers useful cover for infantry units, which we represent as a bonus to their armour while they are in such terrain.
 
 Infantry that are 'in cover' -- that is, in terrain that provides ready concealment and/or physical protection from incoming munitions -- gain special benefits.
 This is because they can take advantage of cover in ways that vehicles and war engines just can't -- they can hide among trees and shrubs, crouch behind low walls and dive into dips and holes at a moment's notice. 
 
-We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain -- see the Infantry Armour Bonus column in the summary table.
+We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain -- see the *Infantry Armour Bonus* column in the <<TerrainTable>>.
 
 NOTE: It is not possible to get an Armour value greater than 6. 
 
@@ -69,6 +70,7 @@ So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Ar
 
 The table below gives a summary of the effects of some common types of terrain on the different types of ground unit. 
 
+[#TerrainTable]
 .Terrain effects summary table
 [cols="1,4*^", stripes=even]
 |===

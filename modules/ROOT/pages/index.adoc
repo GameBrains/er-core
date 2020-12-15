@@ -1,33 +1,36 @@
 = Welcome to the {project-name} project
 :experimental:
 
-{project-name} is an unofficial project that reworks and extends the third edition of Games Workshop's _Epic_ game system.
-By fans, for fans, open to the community as a collaborative effort.
+This is an unofficial project that *reworks* and *extends* the third edition of Games Workshop's _Epic_ game system, _Epic 40,000_.
+
+{project-name} is by fans, for fans, and open to the community as a collaborative effort.
 
 Date of this build: {docdate}
 
 .Proof of concept only!
 ****
-At the moment, this is nothing more than a proof of concept for the purpose of experimentation and demonstration.
-You'll find only:
+At the moment, this is little more than a proof of concept with some experimental content and minimal styling.
 
-* a skeleton of possible page structure, to show how the publication might work
-* newly drafted work-in-progress pages for the core rules (but no changes to gameplay as yet)
-* a default user interface, with little customisation for appearance or usability
-* the start of a possible guide for contributors (to switch between the *E40kR* component and the *Contributor's guide* component see the component menu at the bottom of the navigation panel)
-* this Web output -- which adapts easily for an Android app output too footnote:[PDF will be a bit more tricky.
-I'm hoping that by the time we might want a PDF output, there will be an easy, direct way to do it with the compiler software (Antora).]
+It is mostly an empty outline, but also contains some work-in-progress content:
 
-Also, you'll find that:
+* Introductory and core rules pages with new wording and somewhat rationalised structure (but no changes to gameplay as yet).
+* The start of a possible guide for contributors (to switch between the *E40kR* component and the *Contributor's guide* component see the component menu at the bottom of the navigation panel).
 
-* there are a few 'related information' links, similar to those in link:https://thehobby.zone/resources/e40k-compendium[+Epic 40,000 Compendium+, window=_blank] -- but they may not be robust over time, as the technology in this case lacks 'relationship table' features that would make them easy to manage
-* the *Edit this page* function isn't active (it'll be active when the rest of the project infrastructure is in place)
-* the search function is absent (it should be fairly straightforward to set up for the real project)
-* the btn:[Download] button isn't set up to do anything at the moment
+This web output is the only format at this time -- although I have tested and it is easy to compile as an Android app that would afford offline usefootnote:[Or, instead of a native Android app, it should be possible provide offline usage with any modern Web browser via Progressive Web App (PWA) technology -- but I haven't figured that out yet.].
+PDF output would involve some tiresome manual steps, but I hope that the underlying technology footnote:[This project uses Antora, a static site generator for Asciidoc.] will evolve to make this much easier in future.
+
+Some current limitations:
+
+* There is no search function.
+However, it shouldn't be too hard to add in future -- there are working examples.
+* There is no 'relationship table' feature for authors, so 'related information' links pose a challenge for long-term maintenance and consistency.
+* The *Edit this page* function is inactive.
+I expect it to provide an easy route for people to contribute in future.
+* The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
 
 Still, this proof of concept serves its purpose as I experiment with it to understand how the technology works and how to integrate it with systems and procedures that will facilitate effective collaboration.
 
-I intend to offer this up for discussion in the link:https://www.facebook.com/groups/1952676958177757[+Epic 40,000 Remastered+, window=_blank] Facebook group first. Then, if it is met with enthusiasm, we can form a core team who will collaborate on further development.
+Feel free to discuss this proof of concept in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[+Epic 40,000 Remastered+, window=_blank].
 
 _Eric Weston_
 ****

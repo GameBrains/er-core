@@ -1,1 +1,1 @@
-The effect of hits is explained at xref:the-shooting-phase.adoc[].
+We explain the effect of hits at xref:the-shooting-phase.adoc[].
