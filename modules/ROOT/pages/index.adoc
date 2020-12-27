@@ -17,13 +17,13 @@ It is mostly an empty outline, but also contains some work-in-progress content:
 * The start of a possible guide for contributors (to switch between the *E40kR* component and the *Contributor's guide* component see the component menu at the bottom of the navigation panel).
 
 This web output is the only format at this time -- although I have tested and it is easy to compile as an Android app that would afford offline usefootnote:[Or, instead of a native Android app, it should be possible provide offline usage with any modern Web browser via Progressive Web App (PWA) technology -- but I haven't figured that out yet.].
-PDF output would involve some tiresome manual steps, but I hope that the underlying technology footnote:[This project uses Antora, a static site generator for Asciidoc.] will evolve to make this much easier in future.
+PDF output would involve some tiresome manual steps, but I hope that the underlying technology will evolve to make this much easier in futurefootnote:[This project uses Antora, a static site generator for Asciidoc.].
 
 Some current limitations:
 
 * There is no search function.
-However, it shouldn't be too hard to add in future -- there are working examples.
-* There is no 'relationship table' feature for authors, so 'related information' links pose a challenge for long-term maintenance and consistency.
+However, it shouldn't be too hard to add in future -- working examples exist elsewhere.
+* There is no 'relationship table' or 'broken link checker' features for authors, so helpful 'related information' links may pose a challenge for long-term maintenance and consistency.
 * The *Edit this page* function is inactive.
 I expect it to provide an easy route for people to contribute in future.
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
