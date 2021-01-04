@@ -25,7 +25,7 @@ Then you may allocate each unit a second hit starting with the closest. If all t
 .Allocating hits step (i)
 ====
 +[TODO: Need new example image and text.]+
-
+////
 A detachment of Space Marines is firing at a mixed detachment of Orks and Battlewagons. The Space Marines have a Firepower of 9.
 Some of the target detachment are in cover, some of them are in the open.
 
@@ -34,12 +34,14 @@ Consulting the Firepower table he sees that firing at infantry and vehicles in t
 He scores a 5, 4, 4, 3 and 2.
 The lowest Armour value in the target detachment is 4+ for the Ork Boyz.
 The 2 and the 3 are discarded as misses.
+////
 ====
 
 .Allocating hits step (ii)
 ====
 +[TODO: Need new example image and text.]+
 
+////
 . The closest unit to the Space Marines is a Boyz unit, the Space Marine player allocates one of the 4's to it and it is destroyed.
 . The second closest unit is a Boyz unit in cover.
 As he did not fire using the cover column or the Firepower table this unit cannot be hit and is ignored.
@@ -52,4 +54,5 @@ No Space Marine unit in the firing detachment has a line of sight to it, and the
 The 4 must be allocated to this, and as a Battlewagon is Armour 5+ the shot bounces off harmlessly.
 
 Firepower 9 also places one Blast marker on the Ork detachment (as noted at xref:work-out-blast-markers.adoc[]).
+////
 ====

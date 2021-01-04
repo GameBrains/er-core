@@ -1,6 +1,6 @@
 = Orders and conditions
 
-+[TODO: Need better images for orders and conditions.]+
++[TODO: Graphics for orders and conditions.]+
 
 By default, every detachment is ready to move and shoot each turn, under <<Advance>> orders.
 However, during the course of the turn you may elect to can give a detachment a different set of orders, to change how they can behave during that turn.

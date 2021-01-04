@@ -28,7 +28,7 @@ However, it shouldn't be too hard to add in future -- working examples exist els
 I expect it to provide an easy route for people to contribute in future.
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
 
-Still, this proof of concept serves its purpose as I experiment with it to understand how the technology works and how to integrate it with systems and procedures that will facilitate effective collaboration.
+Still, this proof of concept will serve for experimental purposes and perhaps as an early draft to collaborate over.
 
 Feel free to discuss this proof of concept in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[+Epic 40,000 Remastered+, window=_blank].
 

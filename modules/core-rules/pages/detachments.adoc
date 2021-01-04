@@ -31,4 +31,4 @@ Within the restrictions of the particular army and detachment list you choose, y
 |===
 ====
 
-+[TODO: Complete this table with a range of examples that might make reasonable choices for a game.]+
++[TODO: Complete this table with a range of examples that illustrate plausible choices.]+

@@ -12,13 +12,14 @@ For example, if a detachment with a Firepower of 9 has 3 Blast markers then redu
 .Adding up shooting Firepower
 ====
 +[TODO: Need new image and example text.]+
-
+////
 A Space Marine detachment consisting of 4 Space Marine units, 2 Devastator Space Marine units and 2 Predator tanks fires at an Ork detachment.
 Their Firepower is worked out as follows.
 
 Three of the Space Marine units are in range (3 Firepower). Both Devastator units are in range (4 Firepower).
 Both Predators are in range, though one of them is behind a wood and so has no line of fire to the Orks -- only one Predator adds its Firepower to the total (2 Firepower).
 This gives a total of 3+4+2=9 Firepower.
+////
 ====
 
 == Line of fire
@@ -50,10 +51,12 @@ Resolve the shooting against each target detachment separately, in whatever orde
 ====
 +[TODO: Need new image and example text.]+
 
+////
 A Space Marine detachment is faced by two Ork detachments.
 The Space Marine player elects to split his fire between the two enemy detachments.
 
 The Space Marines have a total Firepower of 21.
 They direct 14 of this towards one detachment and 7 against the other.
 Each attack is worked out separately, hits being allocated against units in the specific detachments as usual.
+////
 ====

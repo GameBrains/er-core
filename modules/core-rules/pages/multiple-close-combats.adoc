@@ -7,7 +7,7 @@ Where two or more detachments are in contact with one or more enemy detachments,
 .Multiple close combats
 ====
 +[TODO: Need new example image and text.]+
-
+////
 Two Ork detachments charge into a Space Marine detachment.
 Both Ork detachments and the Space Marines have models in base contact with the enemy so any units not in contact but within 15cm can add supporting fire (see Close Combat Procedure [The Assault phase]).
 
@@ -15,4 +15,5 @@ The second unengaged Space Marine detachment has no models involved directly in 
 
 The Assault values of both Ork detachments are added together to find the Orks' total.
 If they lose both detachments will have the same number of Blast markers placed on them, will both be broken and will have to retreat.
+////
 ====

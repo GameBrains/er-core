@@ -25,12 +25,12 @@ We represent infantry units as follows:
 * Field artillery: One artillery piece and X infantry models affixed to a single base.
 
 // TODO: Consider adapting some text for 'stands' from https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm
-
+////
 Light Vehicle (LV):: Vehicles with only very light armour, or no armour at all.
 While their crews are poorly protected from enemy fire, they are usually very fast.
 Examples include Ork Buggies and Space Marine Land Speeders. +
 Each light vehicle unit is represented by a single model.
-
+////
 Armoured Vehicle (AV):: Vehicles that are covered with moderate or thick armour plate.
 Examples include tanks such as the Leman Russ and Land Raider, armoured troop carriers such as the Rhino, and other machines such as Dreadnoughts. +
 Each armoured vehicle unit is represented by a single model.
