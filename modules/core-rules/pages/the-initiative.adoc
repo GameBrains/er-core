@@ -14,4 +14,4 @@ To determine who has the Initiative we draw an Initiative counter from a mug (or
 
 . That player has the Initiative until the next "Determine the Initiative" step in the turn -- at which point they may get the Initiative again, or the opposing player may get it, depending upon what counter is drawn.
 +
-*Do not put counters back into the mug until the end of the turn, in readiness for the next turn.*
+*Do not put counters back into the mug until the end of the turn.*
