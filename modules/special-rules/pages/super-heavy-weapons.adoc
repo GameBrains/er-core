@@ -1,2 +1,46 @@
 = Super heavy weapons
 
+These are fearsome and awe inspiring weapons that equip the most powerful units in the game -- usually war engines, but also some particularly potent specialist units of other types.
+
+Super heavy weapons may have a variable Firepower value, or no Firepower value at all.
+These rules define the effects of super heavy weapons; see the specific unit data sheets for ranges.
+
+== Shooting with super heavy weapons
+
+* Except where we state otherwise, you may shoot super heavy weapons at any target within range.
+That is, you can pick out individual targets within a detachment.
+
+* Where a unit that is equipped with super heavy weapons is on Assault orders, and you wish it to shoot in the Shooting phase: For each super heavy weapon you wish to shoot, you must first roll a 4 or more on a D6.
+This is because it is much harder to target the enemy and route enough power to a super heavy weapon while the unit hastens to engage the enemy more closely.
++
++[TODO: Consider how this should work if we're using standard rules in which war engines don't actually need specific orders.]+
+
+* Where a unit that is equipped with super heavy weapons is on Overwatch orders: You may re-roll misses when you shoot with these weapons, just as you do with regular weapons.
+
+== Super heavy weapons in firefights
+
+* Where a unit that is equipped with super heavy weapons is in a firefight, and a super heavy weapon doesn't have a basic Firepower value: Treat that weapon as if it has a Firepower value of 1.
+
+== Super heavy weapons and Blast markers
+
+When you shoot with a detachment that includes super heavy weapons, you may get to place two lots of Blast markers:
+
+* For any regular Firepower that your detachment brings to bear on the target detachment, place Blast markers as normal.
+* For the super heavy weapons that your detachment brings to bear on the target detachment, place Blast markers as follows.
++
+|===
+^|Number of super heavy weapons brought to bear ^|Number of Blast markers to place
+
+^|1 to 3 ^|*
+^|4 to 8 ^|1
+^|9 or more ^|2
+2+|* = 1 Blast marker, but only if you score at least one hit.
+|===
++
+[NOTE]
+====
+Count the number of super heavy weapons that you direct at the target detachment.
+Do not modify this number because of Assault orders, Blast markers on the shooting detachment, or anything similar.
+
++[TODO: Check and consider the wording around this. I seem to remember that there were some inconsistencies or nuances in how Firepower and super heavy weapons are suppressed by Blast markers. There may be an important difference between how many we "bring to bear" and how many can actually shoot, that also effects Blast marker placement.]+
+====
