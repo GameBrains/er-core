@@ -1,0 +1,10 @@
+= Anti-Personnel [weapon]
+
+When you shoot with one of these super heavy weapons, roll a number of dice equal to the Firepower value of the unit.
+Do not use the Firepower table for this attack.
+
+Discard any natural results of 6, and then discard misses as normal. The remaining dice are hits -- allocate them as you would for a regular Firepower attack.
+
+*Related information*
+
+* xref:anti-personnel-ability.adoc[]

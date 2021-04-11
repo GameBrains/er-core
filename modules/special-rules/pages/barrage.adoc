@@ -1,2 +1,30 @@
 = Barrage
 
+These weapons can saturate a wide area of the battlefield with intense salvoes or giant explosions.
+
+The more closely packed the units of the target detachment, the more effective a {barrage} weapon is likely to be against it.
+This is simply because the barrage will have more target units within its area of effect.
+
+When you shoot with a unit that has a {barrage} weapon:
+
+. Take the Barrage template and place it over the target detachment.
+Place it such that it is over as many enemy units as possible.
++
+[NOTE]
+====
+You must cover at least three trooper models for an infantry unit to count or any part of a vehicle or war engine.
+
++[TODO: It'd be good to rationalise this rule a bit, given that (1) infantry units don't always have five individual models on them, and (2) some people like to put their vehicles on bases, and (3) it isn't clear how much of a vehicle or war engine should count to resolve disagreement when a template barely 'nicks' such a unit.]+
+====
+. Count the number of units beneath the template.
+The number of units under the template is your unit's Firepower value for this shot.
+
+. Add this Firepower value to the rest of the Firepower of your detachment for the current attack. 
+
+IMPORTANT: For the placement of Blast markers, count a {barrage} shot along with regular Firepower and not as a super heavy weapon.
+
+.A classic {barrage} unit
+====
+The Space Marine Whirlwind armoured vehicle is armed with a Whirlwind missile launcher.
+What this vehicle lacks in range it can make up for in speed and the ability to rain a destructive barrage of missiles down onto an area of the battlefield.
+====

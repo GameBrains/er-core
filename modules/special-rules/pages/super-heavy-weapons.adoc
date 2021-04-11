@@ -21,7 +21,7 @@ This is because it is much harder to target the enemy and route enough power to 
 
 * Where a unit that is equipped with super heavy weapons is in a firefight, and a super heavy weapon doesn't have a basic Firepower value: Treat that weapon as if it has a Firepower value of 1.
 
-== Super heavy weapons and Blast markers
+== Super heavy weapons and placement of Blast markers
 
 When you shoot with a detachment that includes super heavy weapons, you may get to place two lots of Blast markers:
 
@@ -44,3 +44,11 @@ Do not modify this number because of Assault orders, Blast markers on the shooti
 
 +[TODO: Check and consider the wording around this. I seem to remember that there were some inconsistencies or nuances in how Firepower and super heavy weapons are suppressed by Blast markers. There may be an important difference between how many we "bring to bear" and how many can actually shoot, that also effects Blast marker placement.]+
 ====
+
+== Super heavy weapons and suppression by Blast markers
+
+With regular Firepower, Blast markers on the detachment each cause the loss of one point of Firepower in the Shooting phase.
+However, where a detachment has only super heavy weapons available then each Blast marker will normally suppress one entire super heavy weapon.
+That is, unless the weapon profile on a unit datasheet says otherwise, treat each super heavy weapon as having a Firepower value of 1.
+
++[TODO: Consider a more concise way to explain this, and integrate it into the 'Shooting with...' bullet points.]+

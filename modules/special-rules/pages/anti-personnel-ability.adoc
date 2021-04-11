@@ -1,0 +1,11 @@
+= Anti-Personnel [ability]
+
+A unit with this ability has lighter weaponry that is optimised to be especially effective against infantry and light vehicles. 
+
+A unit with the {anti-personnel} ability count as being armed with an {anti-personnel} super heavy weapon.
+Apply those rules instead and ignore the unit's original Firepower value.
+For the purposes of suppression by Blast markers and such, treat the unit as having a Firepower value of 1.
+
+*Related information*
+
+* xref:anti-personnel-weapon.adoc[]
