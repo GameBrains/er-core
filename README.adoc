@@ -1,4 +1,4 @@
-:project-name: <i>E40k Remastered</i>
+:project-name: <i>Epic 40k Remastered</i>
 = {project-name} main content
 // URIs:
 :uri-project: 
@@ -12,7 +12,7 @@ For more about the project and its components, see the `README.adoc` file in the
 
 == Copyright and licence
 
-Copyright 2020 Eric Weston and the E40k Remastered project core team.
+Copyright 2020 Eric Weston and the Epic 40k Remastered project core team.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
