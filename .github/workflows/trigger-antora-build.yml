@@ -1,9 +1,7 @@
   
 name: Trigger Antora site build
 on:
-  push:
-    branches:
-      - master
+  push
 
 jobs:
   trigger:
