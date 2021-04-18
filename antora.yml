@@ -1,7 +1,7 @@
 name: e40k-remastered
 title: E40k Remastered
 version: master
-asciidoc:
+asciidoc: 
   attributes:
     project-name: <i>Epic 40k Remastered</i>
     page-pagination: true
