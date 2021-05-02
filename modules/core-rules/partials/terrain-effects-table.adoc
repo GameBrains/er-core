@@ -1,0 +1,132 @@
+[[terrain-table]]
+
+ifndef::movement,shooting[]
+.Terrain effects summary
+[cols="1,4*^", stripes=even]
+|===
+|Terrain |Infantry Armour Bonus |Infantry |Vehicle |War Engine
+
+|Fortifications
+|+2
+|No Effect
+|Impassable
+|Impassable
+
+|Buildings
+|+1
+|No Effect
+|Impassable
+|Impassable
+
+|Ruins, Rubble
+|+1
+|No Effect
+|Dangerous
+|Dangerous
+
+|Woods
+|+1
+|No Effect
+|Dangerous
+|Dangerous
+
+|Marsh, Swamp
+|0
+|Dangerous
+|Dangerous
+|Dangerous
+
+|River
+|0
+|Dangerous
+|Impassable
+|Dangerous
+
+|Roads
+|0 3+^|See xref:core-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
+
+|Open Ground
+|0
+|No effect
+|No effect
+|No effect
+|===
+endif::[]
+
+ifdef::movement[]
+.Terrain effects on movement
+[cols="1,3*^", stripes=even]
+|===
+|Terrain |Infantry |Vehicle |War Engine
+
+|Fortifications
+|No Effect
+|Impassable
+|Impassable
+
+|Buildings
+|No Effect
+|Impassable
+|Impassable
+
+|Ruins, Rubble
+|No Effect
+|Dangerous
+|Dangerous
+
+|Woods
+|No Effect
+|Dangerous
+|Dangerous
+
+|Marsh, Swamp
+|Dangerous
+|Dangerous
+|Dangerous
+
+|River
+|Dangerous
+|Impassable
+|Dangerous
+
+|Roads
+3+^|See xref:core-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
+
+|Open Ground
+|No effect
+|No effect
+|No effect
+|===
+endif::[]
+
+ifdef::shooting[]
+.Infantry armour bonus for cover
+[cols="1,1*^", stripes=even]
+|===
+|Terrain |Infantry Armour Bonus
+
+|Fortifications
+|+2
+
+|Buildings
+|+1
+
+|Ruins, Rubble
+|+1
+
+|Woods
+|+1
+
+|Marsh, Swamp
+|0
+
+|River
+|0
+
+|Roads
+|0
+
+|Open Ground
+|0
+|===
+endif::[]

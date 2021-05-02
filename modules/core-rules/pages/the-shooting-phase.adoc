@@ -21,3 +21,4 @@ To resolve shooting, use the shooting procedure as follows.
 * xref:roll-for-shooting-hits-and-discard-misses.adoc[]
 * xref:allocate-hits.adoc[]
 * xref:remove-casualties.adoc[]
+* xref:terrain-effects-on-shooting.adoc[]

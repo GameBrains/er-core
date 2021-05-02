@@ -1,0 +1,44 @@
+= Terrain effects on movement
+:movement:
+
+The terrain of the battlefield will be a big factor in many of your tactical decisions.
+You must consider the risks and opportunities that the terrain presents to both your own forces and those of your opponent, at all times.
+
+Terrain affects the movement of ground units in one of three main ways:
+
+* *No effect*: The unit can move through the terrain as normal.
+* *Impassable*: The unit cannot move through the terrain at all, under any circumstances.
+* *Dangerous*: The unit can attempt to enter the terrain but it might get stuck, or even suffer damage.
+When you wish to move a unit through dangerous terrain you must take a <<Dangerous terrain test>> for that unit.
+
+The effects often differ between *unit types*, as you will find at <<terrain-table>>.
+
+== Dangerous terrain test
+
+When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6: On a roll of 1, halt the unit at the edge of the terrain.
+If the unit is halted in this way, roll the D6 again: If you roll another 1 then the unit takes a hit.
+
+include::partial$effect-of-hits.adoc[]
+
+NOTE: Hits from dangerous terrain do *not* cause critical damage on war engines.
+
+== [[roads]]Movement on roads
+
+Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5cm to its Speed value for that move.
+Apply this bonus to the unit's base Speed value, before modification.
+
+.Movement on roads
+====
+A unit of Ork Boyz infantry is on March orders.
+The player will make the first two moves entirely on roads, and the third move will include open ground.
+
+So, the player could move the unit up to a total of 40cm: 30cm for the first two moves ((10cm Speed value + 5cm road bonus) x2 moves on roads) and up to 10cm for the third move.
+====
+
+== Summary of terrain effects on movement
+
+include::partial$terrain-effects-table.adoc[]
+
+*Related information*
+
+* xref:terrain-effects-on-shooting.adoc[]
