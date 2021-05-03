@@ -1,2 +1,12 @@
 = Close Combat Weapons
 
+War engines make excellent gun platforms, but some of them trade some firepower for weapons that afford greater potency in close combat.
+
+Such weapons include huge powered fists, saws and rams, ripping tentacles, fierce short-ranged cutting torches, and more besides.
+Their primary purpose is to gain a big advantage over other war engines and mangle them in close combat.
+
+Apply these rules where your war engine is armed with {close-combat-weapons}:
+
+* Double its Assault value when it fights against an enemy war engine in close combat.
+* When it wins a close combat against an enemy war engine, it automatically inflicts *catastrophic* damage.
+Make one roll on the losing war engine's Catastrophic Damage table to find out what happens to it.
