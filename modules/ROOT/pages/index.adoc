@@ -42,11 +42,11 @@ _Eric Weston_
 Many of the topics in this project are empty placeholders at the moment.
 But there are some early drafts of content in progress, including:
 
-* *E40k Remastered* component: The main body of the project.
+* *xref:e40k-remastered::index.adoc[E40k Remastered]* component: The main body of the project.
 At the moment this contains drafts of introductory and core rules pages.
-* *E40kR Experimental* component: An area where we can work on more radical ideas.
+* *xref:e40kr-contributors-guide::index.adoc[E40kR Contributor's Guide]* component: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
+* *xref:e40kr-experimental::index.adoc[E40kR Experimental]* component: An area where we can work on more radical ideas.
 This will be more loosely controlled than the main body.
-* *E40kR Contributor's Guide* component: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
 
 TIP: To switch between components, use the component menu at the bottom of the navigation panel.
 
@@ -63,7 +63,7 @@ By that time, hopefully the underlying technology will evolve to make PDF output
 == Current limitations for usability
 * There is no search function.
 However, we should be able to integrate one soon -- working examples exist.
-* There is no 'relationship table' or 'broken link checker' features for authors, so helpful 'related information' links may pose a challenge for long-term maintenance and consistency.
+* There are no 'relationship table' or 'broken link checker' features for authors, so helpful 'related information' links may pose a challenge for long-term maintenance and consistency.
 //* The *Edit this page* function is inactive.
 //I expect it to provide an easy route for people to contribute in future.
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
