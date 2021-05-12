@@ -11,7 +11,9 @@ Terrain affects the movement of ground units in one of three main ways:
 * *Dangerous*: The unit can attempt to enter the terrain but it might get stuck, or even suffer damage.
 When you wish to move a unit through dangerous terrain you must take a <<Dangerous terrain test>> for that unit.
 
-The effects often differ between *unit types*, as you will find at <<terrain-table>>.
+The effects often differ between *unit types*.
+
+include::partial$terrain-effects-table.adoc[]
 
 == Dangerous terrain test
 
@@ -34,10 +36,6 @@ The player will make the first two moves entirely on roads, and the third move w
 
 So, the player could move the unit up to a total of 40cm: 30cm for the first two moves ((10cm Speed value + 5cm road bonus) x2 moves on roads) and up to 10cm for the third move.
 ====
-
-== Summary of terrain effects on movement
-
-include::partial$terrain-effects-table.adoc[]
 
 *Related information*
 

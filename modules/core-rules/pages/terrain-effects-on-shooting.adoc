@@ -20,7 +20,7 @@ Might need to rationalise with the main rules for the Shooting phase too.]+
 Infantry that are 'in cover' -- that is, in terrain that provides ready concealment and/or physical protection from incoming munitions -- gain special benefits.
 This is because they can take advantage of cover in ways that vehicles and war engines just can't -- they can hide among trees and shrubs, crouch behind low walls and dive into dips and holes at a moment's notice. 
 
-We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain -- see the *Infantry Armour Bonus* column at <<terrain-table>>.
+We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain.
 
 NOTE: It is not possible to get an Armour value greater than 6. 
 

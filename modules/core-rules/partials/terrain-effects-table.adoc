@@ -8,29 +8,29 @@ ifndef::movement,shooting[]
 
 |Fortifications
 |+2
-|No Effect
+|No effect
 |Impassable
 |Impassable
 
 |Buildings
 |+1
-|No Effect
+|No effect
 |Impassable
 |Impassable
 
-|Ruins, Rubble
+|Ruins; rubble
 |+1
-|No Effect
+|No effect
 |Dangerous
 |Dangerous
 
 |Woods
 |+1
-|No Effect
+|No effect
 |Dangerous
 |Dangerous
 
-|Marsh, Swamp
+|Marsh; swamp
 |0
 |Dangerous
 |Dangerous
@@ -45,7 +45,7 @@ ifndef::movement,shooting[]
 |Roads
 |0 3+^|See xref:core-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
 
-|Open Ground
+|Open ground
 |0
 |No effect
 |No effect
@@ -60,26 +60,26 @@ ifdef::movement[]
 |Terrain |Infantry |Vehicle |War Engine
 
 |Fortifications
-|No Effect
+|No effect
 |Impassable
 |Impassable
 
 |Buildings
-|No Effect
+|No effect
 |Impassable
 |Impassable
 
-|Ruins, Rubble
-|No Effect
+|Ruins; rubble
+|No effect
 |Dangerous
 |Dangerous
 
 |Woods
-|No Effect
+|No effect
 |Dangerous
 |Dangerous
 
-|Marsh, Swamp
+|Marsh; swamp
 |Dangerous
 |Dangerous
 |Dangerous
@@ -92,7 +92,7 @@ ifdef::movement[]
 |Roads
 3+^|See xref:core-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
 
-|Open Ground
+|Open ground
 |No effect
 |No effect
 |No effect
@@ -100,10 +100,10 @@ ifdef::movement[]
 endif::[]
 
 ifdef::shooting[]
-.Infantry armour bonus for cover
+.Infantry Armour bonus for cover
 [cols="1,1*^", stripes=even]
 |===
-|Terrain |Infantry Armour Bonus
+|Terrain |Infantry Armour bonus
 
 |Fortifications
 |+2
@@ -111,13 +111,13 @@ ifdef::shooting[]
 |Buildings
 |+1
 
-|Ruins, Rubble
+|Ruins; rubble
 |+1
 
 |Woods
 |+1
 
-|Marsh, Swamp
+|Marsh; swamp
 |0
 
 |River
@@ -126,7 +126,7 @@ ifdef::shooting[]
 |Roads
 |0
 
-|Open Ground
+|Open ground
 |0
 |===
 endif::[]
