@@ -4,7 +4,7 @@ version: master
 
 nav:
 - modules/ROOT/nav.adoc
-- modules/core-rules/nav.adoc
+- modules/main-rules/nav.adoc
 - modules/special-rules/nav.adoc
 - modules/battles/nav.adoc
 - modules/armies/nav.adoc

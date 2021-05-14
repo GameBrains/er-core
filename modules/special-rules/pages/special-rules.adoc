@@ -1,10 +1,10 @@
 = Special rules
 
-While the core rules covers the essentials, the rules in this section provide much of the depth and variety of the game.
+While the main rules covers the essentials, the rules in this section provide much of the depth and variety of the game.
 This means rules for special abilities, artillery, enormous war engines, aircraft and more.
 
 On the whole, these extra rules aren't particularly complex.
 You should feel able to use at least some of them even as you learn to play your first games -- though it is best not to try to learn everything all in one go!
 
-Some of these rules create exceptions to the core rules.
-Hence we explain them in this separate section, rather than clutter the core rules with explanations of special cases.
+Some of these rules create exceptions to the main rules.
+Hence we explain them in this separate section, rather than clutter the main rules with explanations of special cases.

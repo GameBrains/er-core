@@ -1,3 +1,0 @@
-= Basics
-
-Some important definitions and concepts that you need to know to understand the rest of the core rules.

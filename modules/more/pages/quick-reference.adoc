@@ -4,4 +4,4 @@
 
 A summary of the effects of some common types of terrain on the different types of ground unit. 
 
-include::core-rules:partial$terrain-effects-table.adoc[]
+include::main-rules:partial$terrain-effects-table.adoc[]

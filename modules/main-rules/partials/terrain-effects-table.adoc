@@ -43,7 +43,7 @@ ifndef::movement,shooting[]
 |Dangerous
 
 |Roads
-|0 3+^|See xref:core-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
+|0 3+^|See xref:main-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
 
 |Open ground
 |0
@@ -90,7 +90,7 @@ ifdef::movement[]
 |Dangerous
 
 |Roads
-3+^|See xref:core-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
+3+^|See xref:main-rules:terrain-effects-on-movement.adoc#roads[Movement on roads]
 
 |Open ground
 |No effect

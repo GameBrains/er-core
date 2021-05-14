@@ -1,8 +1,8 @@
 :project-name: <i>Epic Remastered</i>
 = {project-name} main content
 // URIs:
-:uri-project-output: https://epicremastered.com
-:uri-playbook: 
+:uri-project: https://epicremastered.com/
+:uri-playbook: https://github.com/GameBrains/er-playbook
 
 == About this repository
 

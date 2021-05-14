@@ -43,9 +43,9 @@ Many of the topics in this project are empty placeholders at the moment.
 But there are some early drafts of content in progress, including:
 
 * *xref:core::index.adoc[Core]* component: The main body of the project.
-At the moment this contains drafts of introductory and core rules pages.
+At the moment this contains drafts of introductory, main rules and some special rules content.
 * *xref:contributors-guide::index.adoc[Contributor's Guide]* component: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
-* *xref:experimental::index.adoc[Experimental]* component: An area where we can work on ideas, away from the core.
+* *xref:experimental::index.adoc[Experimental]* component: An area where we can work on ideas, away from the Core component.
 
 TIP: To switch between components, use the component menu at the bottom of the navigation panel.
 
