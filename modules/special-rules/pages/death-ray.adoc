@@ -4,6 +4,8 @@ These weapons focus colossal amounts of energy at a point, to destroy a single t
 
 The technology and form varies; but almost every major warring race in the 41^st^ millennium uses {death-ray} weapons of some sort.
 
+---
+
 Apply these rules to {death-ray} weapons:
 
 * Always roll one die, at 2+ to hit regardless of the target's actual Armour value.

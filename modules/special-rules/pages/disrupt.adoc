@@ -1,7 +1,9 @@
 = Disrupt
 
 These are weapons of disruption rather than destruction.
-They entangle or confuse target units, or force them to scatter. 
+They entangle or confuse target units, or force them to scatter.
+
+---
 
 When you shoot with a {disrupt} weapon, roll a D6: on a 4+, place one Blast marker on the target detachment in addition to any other Blast markers that you would normally place.
 

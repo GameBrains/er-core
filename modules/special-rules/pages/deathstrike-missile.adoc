@@ -3,7 +3,9 @@
 A powerful one-shot missile.
 Though not as devastating as a {vortex-missile}, it is a weapon that inspires justifiable dread.
 
-When you shoot this weapon, place a Barrage template over the target unit(s).
+---
+
+When you shoot with a {deathstrike-missile} weapon, place a Barrage template over the target unit(s).
 For each unit under the template, roll a D6 and make this many {anti-tank} shots against it. [TODO: Check that I have interpreted this right -- the original text was ambiguous.]
 
 IMPORTANT: After you shoot a {deathstrike-missile}, that's it -- you can't use it again in the battle.

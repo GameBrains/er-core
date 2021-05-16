@@ -2,6 +2,8 @@
 
 These weapons can saturate a wide area of the battlefield with intense salvoes or giant explosions.
 
+---
+
 The more closely packed the units of the target detachment, the more effective a {barrage} weapon is likely to be against it.
 This is simply because the barrage will have more target units within its area of effect.
 

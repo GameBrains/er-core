@@ -1,2 +1,19 @@
 = Heavy Barrage
 
+These weapons are like {barrage} weapons, but even more destructive.
+They are also cumbersome and slow to reload -- only war engines are big enough to maintain a constant feed of ammunition to such a weapon during a battle. 
+
+---
+
+When you shoot with a {heavy-barrage} weapon, proceed exactly as for a {barrage} weapon but with these differences:
+
+* The Firepower value is equal to *twice* the number of units under the Barrage template.
+* If the weapon is on a War Engine unit then you may continue to move and shoot with this unit each turn as normal.
+Otherwise, you may not *move* or *shoot* again with the unit until it has had a full turn to reload.
+Turn the model around, mark it with a token or make a note so that you don't forget that it must reload before you can use it again.
++
++[TODO: Clarify what should happen if the unit is forced to move, as in a withdrawal. Presumably they still can't move and so they are automatically destroyed if the enemy gets close enough.]+
+
+*Related information*
+
+* xref:barrage.adoc[]

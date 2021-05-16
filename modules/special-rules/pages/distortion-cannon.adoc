@@ -5,6 +5,8 @@ They create a momentary rift between reality and the warp,  and in the blink of 
 
 The rift is not big enough to vanish a large target like a war engine, but a good hit will inflict severe damage.
 
+---
+
 When you shoot with a {distortion-cannon}, roll a D6 and multiply the result by 5, to get a score in the range of 5 to 30.
 If the score is equal to or greater than Speed value of the target unit then the weapon hits.
 Also, a result of 1 (score 5) is always a miss, 6 (score 30) is always a hit.
