@@ -8,7 +8,7 @@ Then they drop the first target onto the secondary target...
 
 ---
 
-When you shoot with a {super-lifta-droppa}, apply these rules:
+When you shoot with a {super-lifta-droppa}:
 
 . You can target Vehicle and War Engine units, but not Infantry units.
 . To hit and lift the target unit, roll a D6: You need to score higher than the initial Damage Capacity value of the target unit.

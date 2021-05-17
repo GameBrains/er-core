@@ -17,7 +17,7 @@ When you shoot with a {vortex-missile}:
 
 include::partial$one-shot-missile.adoc[]
 
-NOTE: Vortex missiles are extremely powerful, so we limited their use to significant War Engine units.
+NOTE: Vortex missiles are extremely powerful, so we limit their use to significant War Engine units.
 
 *Related information*
 

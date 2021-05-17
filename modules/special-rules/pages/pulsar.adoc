@@ -12,12 +12,9 @@ The result is how many shots equivalent to {anti-tank} you can make at targets w
 
 +[TODO: Should this be "at the target detachment", or was "targets within range" specifically intended in the original rules?]+
 
-[IMPORTANT]
-====
 Although a {pulsar} weapon allows you to make multiple {anti-tank} shots, it still counts as only one super-heavy weapon -- keep this in mind when you place Blast markers.
 
 Similarly, it takes only one Blast marker to suppress a {pulsar} weapon, and it counts as only Firepower 1 in an assault.
-====
 
 +[TODO: This was clarified in the original FAQ. I think this strengthens the case for "at the target detachment" above, because otherwise a player could cause a large number of Blast markers by spreading them across many enemy detachments and this does not accord with the rest of the rules.]+
 

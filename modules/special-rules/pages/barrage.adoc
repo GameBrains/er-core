@@ -23,7 +23,7 @@ The number of units under the template is your unit's Firepower value for this s
 
 . Add this Firepower value to the rest of the Firepower of your detachment for the current attack. 
 
-IMPORTANT: For the placement of Blast markers, count a {barrage} shot along with regular Firepower and not as a super heavy weapon.
+IMPORTANT: For the placement of Blast markers, count a {barrage} shot along with regular Firepower and not as a super-heavy weapon.
 
 .A classic {barrage} unit
 ====
