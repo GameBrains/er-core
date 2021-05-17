@@ -1,2 +1,14 @@
 = Ripper Tentacles
 
+These are biological symbiote weapons, unique to Tyranid bio-titans.
+They seem to have a mind of their own, as they writhe and strike under the control of nerve bundles that are separate from the bio-titan's main cortex.
+
+The hulking ropes of muscle and sinew are immensely powerful, able to trap the combat machinery of opposing war engines.
+
+---
+
+Apply these rules where your War Engine unit is armed with {ripper-tentacles}:
+
+* In close combat with opposing war engines, choose one {close-combat-weapons} system -- the {ripper-tentacles} wrap around and trap that weapon system, which means that the opposing War Engine unit cannot use it in the close combat.
+
++[TODO: Presumably, if in close combat with multiple opposing war engines, you can only choose one CCW from among the opponents, not one each. Also, as part of a wider question, should weapon arcs apply to {ripper-tentacles} and {close-combat-weapons}?]+

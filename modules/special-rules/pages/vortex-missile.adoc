@@ -1,2 +1,24 @@
 = Vortex Missile
 
+This weapon is among the most destructive one-shot missile systems ever created.
+
+When the warhead detonates it creates a ravening vortex of energy which actually creates a giant rift between the warp and reality.
+This is like the effect of the {distortion cannon}, but greater and thus particularly effective against war engines.
+
+The vortex consumes anything it contacts in the brief moments before it collapses and the rift vanishes.
+
+---
+
+When you shoot with a {vortex-missile}:
+
+. Place a Barrage template over the target unit(s).
+. For each target unit under the template, roll a D6 and make this many shots equivalent to {death-ray}.
+. Once the Vortex missile has been fired it is expended and may not be used again during the battle.
+
+include::partial$one-shot-missile.adoc[]
+
+NOTE: Vortex missiles are extremely powerful, so we limited their use to significant War Engine units.
+
+*Related information*
+
+* xref:death-ray.adoc[]
