@@ -1,2 +1,22 @@
 = Pulsar
 
+This weapon is unique to the Eldar race, and it demonstrates their mastery of laser weaponry.
+
+The weapon shoots in rapid but powerful bursts, guided by advanced targetting technologies.
+As a result, the weapon can destroy multiple targets in a single salvo.
+
+---
+
+When you shoot with a {pulsar} weapon, roll a D6.
+The result is how many shots equivalent to {anti-tank} you can make at targets within range and line of sight.
+
++[TODO: Should this be "at the target detachment", or was "targets within range" specifically intended in the original rules?]+
+
+[IMPORTANT]
+====
+Although a {pulsar} weapon allows you to make multiple {anti-tanks} shots, it still counts as only one super-heavy weapon -- keep this in mind when you place Blast markers.
+
+Similarly, it takes only one Blast marker to suppress a {pulsar} weapon, and it counts as only Firepower 1 in an assault.
+====
+
++[TODO: This was clarified in the original FAQ. I think this strengthens the case for "at the target detachment" above, because otherwise a player could cause a large number of Blast markers by spreading them across many enemy detachments and this does not accord with the rest of the rules.]+
