@@ -6,7 +6,7 @@
 
 == About this repository
 
-This repository contains the source code for the main content component of the {uri-project-output}[{project-name}] project.
+This repository contains the source code for the main content component of the {uri-project}[{project-name}] project.
 
 For more about the project and its components, see the `README.adoc` file in the {uri-playbook}[playbook repository].
 
