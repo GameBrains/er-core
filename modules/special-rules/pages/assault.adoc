@@ -13,5 +13,5 @@ Apply these rules to units that have the {assault} ability:
 
 Apply these rules to units that have both the {assault} ability *and* the {heavy-weapons} ability:
 
-* Add +1 to their normal Assault value, but then halve that total to get their new value (round up).
+* Halve their normal Assault value, then add +1 to that total to get their new value (round up).
 * Increase their Range value to 45cm.
