@@ -1,7 +1,7 @@
 = Transport
 
 On some unit data sheets you'll see that the unit has the {transport} special ability.
-Special abilities are explained in more detail at xref:special-rules:transport-x.adoc[], but transport is a vital aspect of the Movement phase so we'll discuss it here too.
+We explain special abilities in more detail at xref:special-rules:transport-x.adoc[], but transport is a vital aspect of the Movement phase so we'll discuss it here too.
 
 Units that have the {transport} special ability can carry other units across the battlefield.
 
@@ -34,3 +34,7 @@ But you may not make any independent movement with the Ork infantry units in the
 +[TODO: Consider whether to move this 'Orks only' rule to the special rules statements in the Ork army list. 
 Unless any later content expanded it to other races?
 Also, might need to add detail to clarify 'multiple move' situations (March orders).]+
+
+*Related information*
+
+* xref:special-rules:transport-x.adoc[]

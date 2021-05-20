@@ -1,2 +1,21 @@
 = Special abilities
 
+Many units in the game specialise in particular aspects of war, or have unusual abilities.
+
+Rather than have lots of separate profiles and bespoke special rules, we represent these variants and specialisms with rules for various *special abilities*.
+Special abilities modify the characteristics in the unit's data sheet, or add rules that change other aspects of how the unit behaves in the game.
+
+If a unit has any special abilities then we state this on the unit's data sheet.
+Or in some cases, the army lists offer particular special abilities as upgrades to specific units.
+Where a unit has multiple abilities, apply their effects in combination.
+
+IMPORTANT: Where there is a contradiction, special abilities 'override' the normal rules.
+
+.Special abilities
+====
+As an optional upgrade, an Imperial Guard Command Squad can include a Primaris Psyker.
+This upgrades the basic Imperial Guard unit entry to include the {psyker} ability.
+
+In contrast, a Space Marine Librarian is a psyker and is integral to the unit of the same name.
+So the {psyker} ability is part of the Space Marine Librarian unit entry.
+====
