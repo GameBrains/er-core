@@ -1,2 +1,10 @@
 = Brood Telepathy
 
+Among the members of a Genestealer Cult, there is a strong psychic link -- the telepathy of the hive mind.
+This gives the Cult strong morale.
+
+---
+
+While at least one Genestealer Patriarch or Magus is present in your Genestealer Cult detachment you automatically pass any Leadership test that you are required to make for them.
+
++[TODO: Should we clarify that this is like the Tyranid Synapse Creatures rule, but not as strong because the detachment can still become Broken?]+

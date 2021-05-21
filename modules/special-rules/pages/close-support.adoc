@@ -1,2 +1,9 @@
 = Close Support
 
+These units are equipped with weapon systems that make them especially effective in support of close combat -- such as flame-throwers, heavy short-ranged cannons and bomb-launchers.
+
+---
+
+When your {close-support} unit would lend support in a close combat, count its full Firepower value instead of only +1.
+
+To be clear, if a {close-support} unit is in base contact with an enemy unit then you must use its Assault value as normal.

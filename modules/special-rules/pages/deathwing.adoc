@@ -1,2 +1,10 @@
 = Deathwing
 
+Space Marines are known for their stubborn determination, and yet members of the Dark Angels Deathwing have a special reputation for their stoicism in the face of horror.
+
+---
+
+Apply these rules to detachments whose members have the {Deathwing} ability:
+
+* The detachment automatically passes all Leadership tests.
+* In the Rally phase, remove D6 Blast markers rather than the usual D6-1.
