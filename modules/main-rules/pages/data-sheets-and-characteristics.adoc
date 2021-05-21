@@ -62,7 +62,7 @@ Speed:: The distance that you can move the unit in a single turn (in centimetres
 
 Range:: The maximum effective distance of the unit's weaponry (in centimetres).
 
-Firepower:: A value (usually a number) that represents the unit's effectiveness when it shoots. A higher number is better. Some units are armed with super-heavy weapons that make special forms of attack. These units will usually have a word (eg, {barrage} or {anti-tank}) in place of their Firepower value.
+Firepower:: A value (usually a number) that represents the unit's effectiveness when it shoots. A higher number is better. Some units are armed with super-heavy weapons that make special forms of attack. These units will usually have a word (eg, {barrage} or {macro-weapon}) in place of their Firepower value.
 
 Assault:: This number shows how effective the unit is at close combat. It is used when the unit charges an enemy unit, or is charged itself. In assaults the Space Marines' genetically enhanced bodies and superior training give them an advantage over Orks so they have a higher Assault value.
 

@@ -10,6 +10,7 @@
   *** xref:disrupt.adoc[]
   *** xref:distortion-cannon.adoc[]
   *** xref:heavy-barrage.adoc[]
+  *** xref:macro-weapon.adoc[]
   *** xref:mega-cannon.adoc[]
   *** xref:pulsar.adoc[]
   *** xref:ripper-tentacles.adoc[]

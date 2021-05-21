@@ -1,20 +1,3 @@
 = Anti-Tank
 
-These weapons are optimised to target and destroy individual targets, no matter how much armour they have.
-
----
-
-In spite of the name, you may fire {anti-tank} shots at any type of unit -- not just tanks and other armoured vehicles but also infantry, war engines and even aircraft in some cases.
-
-* In contrast to most super-heavy weapons, you may *not* choose a specific individual target for {anti-tank} shots. 
-Instead, when you shoot with an {anti-tank} weapon, specify whether you will target infantry or vehicles in the target detachment.
-Then allocate hits as you would for regular Firepower, but allocate only to the nearest units of the type that you specified.
-* Always roll 1 die to hit for each {anti-tank} shot, regardless of cover.
-The shot is so powerful that it will blast straight through cover.
-* For each roll, you always need a result of 4+ to hit, regardless of the target's actual Armour value. 
-
-.A classic {anti-tank} unit
-====
-The Space Marine Land Raider is both heavily armoured and heavily armed.
-It mounts two pairs of armour-busting lascannon which make short work of thick armour.
-====
+See xref:macro-weapon.adoc[].

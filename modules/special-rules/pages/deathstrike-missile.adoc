@@ -6,6 +6,6 @@ Though not as devastating as a {vortex-missile}, it is a weapon that inspires ju
 ---
 
 When you shoot with a {deathstrike-missile} weapon, place a Barrage template over the target unit(s).
-For each unit under the template, roll a D6 and make this many {anti-tank} shots against it. [TODO: Check that I have interpreted this right -- the original text was ambiguous.]
+For each unit under the template, roll a D6 and make this many {macro-weapon} shots against it. [TODO: Check that I have interpreted this right -- the original text was ambiguous.]
 
 include::partial$one-shot-missile.adoc[]

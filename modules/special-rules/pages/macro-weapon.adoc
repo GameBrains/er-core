@@ -1,0 +1,26 @@
+= Macro-Weapon
+
+These weapons are optimised to target and destroy individual targets, no matter how much armour they have.
+
+[NOTE]
+====
+This super-heavy weapon was originally called _Anti-Tank_.
+That term tends to mislead players as it implies effectiveness against Vehicle units but perhaps not against other unit types such as Infantry -- whereas the rules below actually make this weapon very effective against all unit types.
+We've borrowed the new name from the similar concept in _Epic Armageddon_.
+====
+
+---
+
+* In contrast to most super-heavy weapons, you may *not* choose a specific individual target for {macro-weapon} shots. 
+Instead, when you shoot with a {macro-weapon}, specify whether you will target Infantry units or Vehicle units in the target detachment.
++[TODO: Should we rephrase to make it clear that War engine units are also valid targets, it's just that they aren't in mixed detachments with other unit types?]+
+Then allocate hits as you would for regular Firepower, but allocate only to the nearest units of the type that you specified.
+* Always roll 1 die to hit for each {macro-weapon} shot, regardless of cover.
+The shot is so powerful that it will blast straight through cover.
+* For each roll, you always need a result of 4+ to hit, regardless of the target's actual Armour value. 
+
+.A classic {macro-weapon} unit
+====
+The Space Marine Land Raider is both heavily armoured and heavily armed.
+It mounts two pairs of armour-busting lascannons which make short work of thick armour.
+====

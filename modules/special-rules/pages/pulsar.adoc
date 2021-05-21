@@ -8,11 +8,11 @@ As a result, the weapon can destroy multiple targets in a single salvo.
 ---
 
 When you shoot with a {pulsar} weapon, roll a D6.
-The result is how many shots equivalent to {anti-tank} you can make at targets within range and line of sight.
+The result is how many shots equivalent to {macro-weapon} you can make at targets within range and line of sight.
 
 +[TODO: Should this be "at the target detachment", or was "targets within range" specifically intended in the original rules?]+
 
-Although a {pulsar} weapon allows you to make multiple {anti-tank} shots, it still counts as only one super-heavy weapon -- keep this in mind when you place Blast markers.
+Although a {pulsar} weapon allows you to make multiple {macro-weapon} shots, it still counts as only one super-heavy weapon -- keep this in mind when you place Blast markers.
 
 Similarly, it takes only one Blast marker to suppress a {pulsar} weapon, and it counts as only Firepower 1 in an assault.
 
@@ -20,4 +20,4 @@ Similarly, it takes only one Blast marker to suppress a {pulsar} weapon, and it 
 
 *Related information*
 
-* xref:anti-tank.adoc[]
+* xref:macro-weapon.adoc[]
