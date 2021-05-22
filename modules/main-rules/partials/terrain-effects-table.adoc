@@ -4,7 +4,7 @@ ifndef::movement,shooting[]
 .Terrain effects summary
 [cols="1,4*^", stripes=even]
 |===
-|Terrain |Infantry Armour Bonus |Infantry |Vehicle |War Engine
+|Terrain |Infantry Armour bonus |Infantry |Vehicle |War Engine
 
 |Fortifications
 |+2

@@ -1,7 +1,37 @@
 = Artillery
 
+Most armies include some form of artillery -- units that can bombard their targets from afar without a direct line of sight, because they can shoot their munitions in a high arc over intervening terrain.
+
+Much artillery is designed to rain explosive shells, rockets or missiles on the target.
+Some use another technology entirely, such as the deadly monofilament webs of the Eldar Web Spinner, or the living bombs of the Tyranid Biovore.
+
+Regardless, all artillery units share some common traits which we represent with the {artillery} special ability.
+
+---
+
 == Indirect Fire
 
-[#preparatory-bombardment]
+An {artillery} unit can shoot over terrain that blocks its view of the target.
+So, you only need your {artillery} unit to be within range when you choose your target -- they do not need a line of fire.
+
+[[preparatory-bombardment]]
 == Preparatory Bombardment
 
+{artillery} units can bombard enemy forces to forestall an attack or to 'soften up' an enemy position.
+We represent such attacks with a special order called Preparatory Bombardment.
+
+. If you wish to place any detachments on Preparatory Bombardment orders, you must do this before you determine the Initiative in the Movement phase.
+. Place the image:main-rules:Orders_Special.png[width=16,height=16] Special orders marker to indicate that the detachment is on Preparatory Bombardment orders.
+. You cannot move the {artillery} units for the rest of the turn.
++[TODO: Though presumably you can move them in a withdrawal move if the detachment becomes Broken?]+
+You can move other units in the detachment up to 5cm.
+. You can make your preparatory bombardment attack either:
+** Immediately before your opponent starts their part of the Movement phase.
+** Immediately after your opponent ends their part of the Movement phase.
+. Use the normal Shooting rules to make the bombardment with the {artillery} units in the detachment.
+You can't shoot with the other units in the detachment yet, but once you've completed the bombardment, you may put the detachment on image:main-rules:Orders_Overwatch.png[width=16,height=16] Overwatch orders if you wish.
+The {artillery} units cannot shoot again this turn.
++
+TIP: If you leave the Special orders marker in place as well then this will serve as a reminder that the {artillery} units cannot shoot again this turn.
+
++[TODO: What if you don't put the rest of the detachment on Overwatch orders? Why wouldn't you, is there any reason that this should be an option as implied by the word 'may'?]+

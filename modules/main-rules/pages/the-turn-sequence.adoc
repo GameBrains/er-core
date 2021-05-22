@@ -13,6 +13,7 @@ There are four *phases* in a turn, in a fixed sequence that we call the *turn se
 
 . *The Movement phase*
 .. Declare aircraft missions
++[TODO: ...and Preparatory Bombardment orders for artillery?]+
 .. Determine the Initiative (1)
 .. First player movement
 .. Second player movement

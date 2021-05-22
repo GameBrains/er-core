@@ -1,2 +1,14 @@
 = Cavalry
 
+Despite the abundance and variety of technologies in the galaxy of the 41^st^ millennium, armies still find uses for cavalry -- and not only on the most barbaric worlds.
+
+Of course, riders and their mounts vary enormously -- humans on horses, denizens of Chaos on daemonic steeds, orks on cyboars, and many more.
+
+---
+
+Apply these rules to {cavalry} units:
+
+* Double the Speed value of the base unit.
+* During the Assault phase, triple the Speed value of the base unit if they charge into close combat.
+* Horses and other mounts find it difficult to take cover and to move through buildings, rubble and so on -- so count {cavalry} units as Vehicle units for the purposes of movement.
+* Add +1 to the Armour value of the base unit, up to a maximum of 6+.

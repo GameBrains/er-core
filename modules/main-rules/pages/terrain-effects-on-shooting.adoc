@@ -22,16 +22,16 @@ This is because they can take advantage of cover in ways that vehicles and war e
 
 We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain.
 
-NOTE: It is not possible to get an Armour value greater than 6. 
+NOTE: It is not possible to get an Armour value greater than 6+. 
 
 include::partial$terrain-effects-table.adoc[]
 
 .Armour bonus for infantry that are in cover
 ====
 Infantry that are in woods get a +1 bonus to their Armour value.
-A unit of Ork Boyz infantry has a base Armour value of 4.
+A unit of Ork Boyz infantry has a base Armour value of 4+.
 
-So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Armour value of 5. 
+So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Armour value of 5+. 
 ====
 
 *Related information*
