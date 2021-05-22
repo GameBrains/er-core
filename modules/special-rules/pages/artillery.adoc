@@ -21,7 +21,7 @@ So, you only need your {artillery} unit to be within range when you choose your 
 We represent such attacks with a special order called Preparatory Bombardment.
 
 . If you wish to place any detachments on Preparatory Bombardment orders, you must do this before you determine the Initiative in the Movement phase.
-. Place the image:main-rules:Orders_Special.png[width=16,height=16] Special orders marker to indicate that the detachment is on Preparatory Bombardment orders.
+. Place the {special-orders} marker to indicate that the detachment is on Preparatory Bombardment orders.
 . You cannot move the {artillery} units for the rest of the turn.
 +[TODO: Though presumably you can move them in a withdrawal move if the detachment becomes Broken?]+
 You can move other units in the detachment up to 5cm.
@@ -29,7 +29,7 @@ You can move other units in the detachment up to 5cm.
 ** Immediately before your opponent starts their part of the Movement phase.
 ** Immediately after your opponent ends their part of the Movement phase.
 . Use the normal Shooting rules to make the bombardment with the {artillery} units in the detachment.
-You can't shoot with the other units in the detachment yet, but once you've completed the bombardment, you may put the detachment on image:main-rules:Orders_Overwatch.png[width=16,height=16] Overwatch orders if you wish.
+You can't shoot with the other units in the detachment yet, but once you've completed the bombardment, you may put the detachment on {overwatch-orders} if you wish.
 The {artillery} units cannot shoot again this turn.
 +
 TIP: If you leave the Special orders marker in place as well then this will serve as a reminder that the {artillery} units cannot shoot again this turn.
