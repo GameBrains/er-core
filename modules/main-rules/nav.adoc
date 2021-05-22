@@ -5,19 +5,25 @@
  *** xref:units-and-unit-types.adoc[]
  *** xref:data-sheets-and-characteristics.adoc[]
  *** xref:detachments.adoc[]
+
 ** xref:common-rules.adoc[]
  *** xref:strategy-rating.adoc[]
  *** xref:hq-units-and-command.adoc[]
  *** xref:orders-and-conditions.adoc[]
+ *** xref:broken-detachments.adoc[]
  *** xref:moves.adoc[]
-*** xref:blast-markers.adoc[]
+ *** xref:blast-markers.adoc[]
  *** xref:leadership-test.adoc[]
+
 ** xref:the-turn-sequence.adoc[]
+
 ** xref:the-initiative.adoc[]
+
 ** xref:the-movement-phase.adoc[]
  *** xref:terrain-effects-on-movement.adoc[]
  *** xref:transport.adoc[]
  *** xref:snap-fire.adoc[]
+
 ** xref:the-shooting-phase.adoc[]
  *** xref:add-up-shooting-firepower.adoc[]
  *** xref:work-out-blast-markers.adoc[]
@@ -27,6 +33,7 @@
  *** xref:allocate-hits.adoc[]
  *** xref:remove-casualties.adoc[]
  *** xref:terrain-effects-on-shooting.adoc[]
+
 ** xref:the-assault-phase.adoc[]
  *** xref:assault-moves-and-charges.adoc[]
  *** xref:close-combat-procedure.adoc[]
@@ -43,7 +50,7 @@
   **** xref:roll-dice-and-add-firefight-bonuses.adoc[]
   **** xref:allocate-hits-and-blast-markers-to-losing-detachments.adoc[]
   **** xref:multiple-firefights.adoc[]
- *** xref:broken-detachments.adoc[]
+
 ** xref:the-rally-phase.adoc[]
  *** xref:roll-to-remove-blast-markers.adoc[]
  *** xref:test-to-rally-broken-detachments.adoc[]

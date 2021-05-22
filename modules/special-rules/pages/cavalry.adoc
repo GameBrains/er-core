@@ -6,9 +6,9 @@ Of course, riders and their mounts vary enormously -- humans on horses, denizens
 
 ---
 
-Apply these rules to {cavalry} units:
+Apply these rules to {cavalry} units, relative to the base units:
 
-* Double the Speed value of the base unit.
-* During the Assault phase, triple the Speed value of the base unit if they charge into close combat.
-* Horses and other mounts find it difficult to take cover and to move through buildings, rubble and so on -- so count {cavalry} units as Vehicle units for the purposes of movement.
-* Add +1 to the Armour value of the base unit, up to a maximum of 6+.
+* Double their Speed value.
+* During the Assault phase, triple their Speed value if they charge into close combat.
+* For the purposes of movement, treat {cavalry} units as Vehicle units -- mounts find it difficult to take cover, to move through buildings or rubble, and so on.
+* Add +1 to their Armour value, up to a maximum of 6+.

@@ -6,12 +6,12 @@ Of course, their advantages in close combat come at a cost to their long-range f
 
 ---
 
-Apply these rules to units that have the {assault} ability:
+Apply these rules to units that have the {assault} ability, relative to their base units:
 
-* Add +1 to their normal Assault value.
+* Add +1 to their Assault value.
 * Reduce their Range value to 15cm.
 
-Apply these rules to units that have both the {assault} ability *and* the {heavy-weapons} ability:
+Apply these rules to units that have both the {assault} ability *and* the {heavy-weapons} ability, relative to their base units:
 
-* Halve their normal Assault value, then add +1 to that total to get their new value (round up).
+* Halve their Assault value, then add +1 to that total to get their new value (round up).
 * Increase their Range value to 45cm.

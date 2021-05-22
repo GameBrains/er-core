@@ -1,6 +1,6 @@
 = Macro-Weapon
 
-These weapons are optimised to target and destroy individual targets, no matter how much armour they have.
+These weapons are able to punch through even the thickest armour with ease.
 
 [NOTE]
 ====

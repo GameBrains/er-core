@@ -1,2 +1,17 @@
 = Hero
 
+These units contain exceptional individuals who excel at warcraft.
+As befits their heroic status, they usually have the best equipment too.
+
+Common examples include Infantry units like the Space Marine Captain and the Ork Warboss -- but the ability can also apply to a Vehicle unit to represent special upgrades and a particularly experienced crew.
+
+---
+
+Apply these rules to units with the {hero} ability, relative to the base units:
+
+ * Double their Assault value.
+ * Apply the benefit of a save.
+
+*Related information*
+
+* xref:save.adoc[]
