@@ -19,6 +19,8 @@
 
 ** xref:the-initiative.adoc[]
 
+** xref:the-start-phase.adoc[]
+
 ** xref:the-movement-phase.adoc[]
  *** xref:terrain-effects-on-movement.adoc[]
  *** xref:transport.adoc[]

@@ -1,19 +1,26 @@
 = The turn sequence
 
-You play a game of {project-name} over a number of *turns* in which both you and your opponent participate. How many turns is dependent upon the scenario that you play and the victory conditions it specifies.
+You play a game of {project-name} over a number of *turns* in which both you and your opponent participate.
+How many turns is dependent upon the scenario that you play and the victory conditions it specifies.
 
-There are four *phases* in a turn, in a fixed sequence that we call the *turn sequence*. During the turn, you and your opponent will give *orders* to your detachments. The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
+[none]
+* There are a number of *phases* in a turn, in a fixed sequence that we call the *turn sequence*.
+* During the turn sequence, you and your opponent will give *orders* to your detachments.
+* The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
 
 .Sequence of play
 [none]
 * *Start of the turn*
 ** Complete any special actions that the rules tell you to complete at the start of the turn.
++[TODO: We might not need this any more, given the addition of a defined Start Phase. Or anything that would appear here could be in the Start phase instead perhaps. To verify. We should probably mention the need to put Initiative counters in a mug/bag/whatever either here or at the end of the turn.]+
 
 // Break to prevent list nesting.
 
+. *The Start phase*
+.. Roll for Reserves, if applicable for the scenario.
+.. Declare aircraft missions and certain special orders.
 . *The Movement phase*
 .. Declare aircraft missions
-+[TODO: ...and Preparatory Bombardment orders for artillery?]+
 .. Determine the Initiative (1)
 .. First player movement
 .. Second player movement
