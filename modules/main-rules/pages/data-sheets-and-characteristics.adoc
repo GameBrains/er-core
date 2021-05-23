@@ -45,7 +45,7 @@ Most units have a very simple data sheet that looks something like these:
 
 [NOTE]
 ====
-War engines have bigger and more complex data sheets, as we explain at xref:special-rules:war-engine-data-sheets.adoc[].
+War Engine units have bigger and more complex data sheets, as we explain at xref:special-rules:war-engine-data-sheets.adoc[].
 ====
 
 == Characteristics
