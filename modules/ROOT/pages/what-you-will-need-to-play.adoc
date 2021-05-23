@@ -69,7 +69,7 @@ Barrage templates::
 
 Airfields::
 
-The original _Epic 40,000_ game had nice printed airfields, to help players to keep track of the readiness of their aircraft. These are 'nice to have' -- the main thing is to have a convenient way to keep track of which aircraft are +[TODO: Name the states]+.
+The original _Epic 40,000_ game had nice printed airfields, to help players to keep track of the readiness of their Flyer units. These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are +[TODO: Name the states]+.
 
 === Fate cards
 

@@ -36,12 +36,12 @@ These units dwarf the units of other unit types and can absorb a lot more damage
 Best of all, these behemoths usually have multiple giant weapons systems that can rain destruction upon your enemies! +
 We represent each War Engine unit with a single Epic model.
 
-Aircraft (AC):: All machines (or even creatures) that can fly within a planet's atmosphere.
+Flyer:: Aircraft, and even some creatures that can fly within a planet's atmosphere.
 They are very fast relative to ground units.
-Examples include Ork Fighta-Bommerz, Space Marine Thunderhawk Gunships and the Tyranid Harridan. +
-We usually represent each aircraft unit with a single model on a 'flying stand' (that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop).
+Examples include the Ork Fighta-Bommer, Space Marine Thunderhawk Gunship and Tyranid Harridan. +
+We usually represent each Flyer unit with a single model on a 'flying stand' (that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop).
 
 [NOTE]
-Note that 'skimmer' units such as Space Marine Land Speeders and Eldar Falcon grav-tanks are not aircraft.
+Note that 'skimmer' units such as Space Marine Land Speeders and Eldar Falcon grav-tanks are not aircraft, and do not count as Flyer units.
 Rather, these units have some unique capabilities that we represent with the {skimmer} special ability.
 Otherwise, they behave just like other 'ground units'.

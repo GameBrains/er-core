@@ -12,7 +12,7 @@ There are four *phases* in a turn, in a fixed sequence that we call the *turn se
 // Break to prevent list nesting.
 
 . *The Movement phase*
-.. Declare aircraft missions
+.. Declare Flyer missions
 +[TODO: ...and Preparatory Bombardment orders for artillery?]+
 .. Determine the Initiative (1)
 .. First player movement
