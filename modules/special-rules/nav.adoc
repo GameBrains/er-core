@@ -73,7 +73,7 @@
   *** xref:war-engine-data-sheets.adoc[]
 
  ** xref:flyers.adoc[]
-  *** xref:rearming-and-refuelling.adoc[]
+  *** xref:rearm-and-refuel.adoc[]
   *** xref:ground-attack.adoc[]
   *** xref:transport.adoc[]
   *** xref:evac-evac.adoc[]
