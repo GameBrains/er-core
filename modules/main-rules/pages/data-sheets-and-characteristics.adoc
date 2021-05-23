@@ -52,20 +52,30 @@ War engines have bigger and more complex data sheets, as we explain at xref:spec
 
 Unit:: The unique name that specifies the kind of unit.
 
-Type:: The unit type of the unit (see xref:units-and-unit-types.adoc[]). Some rules affect some unit types and not others.
-////
-+
-+[TODO: Return to the above and figure out where best to fit in rules that are particular to Light Vehicles and such. Given that the overall concept is similar, should these rules be lumped in with special abilities to make them easy to find?]+
-////
+Type:: The unit type of the unit (see xref:units-and-unit-types.adoc[]).
+Some rules affect some unit types and not others.
 
-Speed:: The distance that you can move the unit in a single turn (in centimetres). It represents a rate at which the unit can move across the battlefield and still be effective when it shoot its weapons. You can give units orders that allow you to move units farther than this, but their shooting will suffer.
+Speed:: The distance that you can move the unit in a single movement action (in centimetres).
+It represents a rate at which the unit can move across the battlefield and still be effective when it shoot its weapons.
+You can give units orders that allow you to move units farther than this, but their shooting will suffer.
 
 Range:: The maximum effective distance of the unit's weaponry (in centimetres).
 
-Firepower:: A value (usually a number) that represents the unit's effectiveness when it shoots. A higher number is better. Some units are armed with super-heavy weapons that make special forms of attack. These units will usually have a word (eg, {barrage} or {macro-weapon}) in place of their Firepower value.
+Firepower:: A value (usually a number) that represents the unit's effectiveness when it shoots.
+A higher number is better.
+Some units are armed with super-heavy weapons that make special forms of attack.
+These units will usually have a word (such as {barrage} or {macro-weapon}) in place of their Firepower value.
 
-Assault:: This number shows how effective the unit is at close combat. It is used when the unit charges an enemy unit, or is charged itself. In assaults the Space Marines' genetically enhanced bodies and superior training give them an advantage over Orks so they have a higher Assault value.
+Assault:: This number shows how effective the unit is at close combat.
+We use this in the procedure to resolve an assault where units in one detachment charge an enemy detachment and the models are in base-to-base contact.
++
+In assaults the Space Marines' genetically enhanced bodies and superior training give them an advantage over Orks, so they have a higher Assault value.
 
-Armour:: This number shows how well protected and/or difficult to damage the unit is. Basically, the opponent has to roll this number or higher on a D6 to score a hit on the unit when he fires at it. Both Space Marines and Orks are tough but the Space Marines' power armour makes them even tougher so they have a higher Armour value.
+Armour:: This number shows how well protected and/or difficult to damage the unit is.
+Basically, you must roll this number or higher on a D6 to score a hit on the unit when you shoot at it.
++
+Both Space Marines and Orks are tough but the Space Marines' power armour makes them even tougher, so they have a higher Armour value.
 
-Notes:: If any special rules apply to the unit, they will be noted here. You'll find explanations of the effects of these rules at xref:special-rules:special-rules.adoc[]. As you can see, the rules for {rapid-fire} and {stubborn} apply to Space Marines, whereas no special rules apply to Ork Boyz.
+Notes:: If any special rules apply to the unit then we note this here.
+You'll find explanations of the effects of these rules at xref:special-rules:special-rules.adoc[].
+As you can see, the rules for {rapid-fire} and {stubborn} apply to Space Marines, whereas no special rules apply to Ork Boyz.
