@@ -24,28 +24,24 @@ We represent infantry units as follows:
 * Mounted infantry: Two or three models affixed to a single base.
 * Field artillery: One artillery piece and X infantry models affixed to a single base.
 
-// TODO: Consider adapting some text for 'stands' from https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm
-////
-Light Vehicle (LV):: Vehicles with only very light armour, or no armour at all.
-While their crews are poorly protected from enemy fire, they are usually very fast.
-Examples include Ork Buggies and Space Marine Land Speeders. +
-Each light vehicle unit is represented by a single model.
-////
-Armoured Vehicle (AV):: Vehicles that are covered with moderate or thick armour plate.
++[TODO: Consider whether to include some text similar to that at link:https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm]+
+
+Vehicle (V):: Vehicles that are covered with moderate or thick armour plate.
 Examples include tanks such as the Leman Russ and Land Raider, armoured troop carriers such as the Rhino, and other machines such as Dreadnoughts. +
-Each armoured vehicle unit is represented by a single model.
+We represent each Vehicle unit with a single model.
 
-War Engine (WE):: All very large war machines. Examples include the super-heavy tanks and Titans of various factions, and Ork Gargants.
+War Engine (WE):: All very large war machines.
+Examples include the super-heavy tanks and Titans of various factions, and Ork Gargants.
 These units dwarf the units of other unit types and can absorb a lot more damage before they are destroyed.
-Best of all, these behemoths usually have multiple giant weapon batteries that can rain destruction upon your enemies! +
-War engine units are represented by a single Epic model.
+Best of all, these behemoths usually have multiple giant weapons systems that can rain destruction upon your enemies! +
+We represent each War Engine unit with a single Epic model.
 
-Aircraft (AC):: All machines (or even creatures) that can fly within a planet's atmosphere.
+Flyer:: Aircraft, and even some creatures that can fly within a planet's atmosphere.
 They are very fast relative to ground units.
-Examples include Ork Fighta-Bommerz, Space Marine Thunderhawk Gunships and the Tyranid Harridan. +
-We usually represent each aircraft unit with a single model on a 'flying stand' (that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop).
+Examples include the Ork Fighta-Bommer, Space Marine Thunderhawk Gunship and Tyranid Harridan. +
+We usually represent each Flyer unit with a single model on a 'flying stand' (that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop).
 
 [NOTE]
-Note that 'skimmer' units such as Space Marine Land Speeders and Eldar Falcon grav-tanks are not aircraft.
+Note that 'skimmer' units such as Space Marine Land Speeders and Eldar Falcon grav-tanks are not aircraft, and do not count as Flyer units.
 Rather, these units have some unique capabilities that we represent with the {skimmer} special ability.
 Otherwise, they behave just like other 'ground units'.

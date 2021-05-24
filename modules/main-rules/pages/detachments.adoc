@@ -9,7 +9,7 @@ Detachments represent forces that are detached from a larger organisation, such 
 
 Every detachment is led by a xref:hq-units-and-command.adoc[headquarters (HQ)] unit which coordinates the actions of the detachment with others on the battlefield.
 
-Detachments are comprised of either infantry and/or vehicles, war engines or aircraft.
+Detachments are comprised of either Infantry and/or Vehicle units, War Engine units or Flyer units.
 
 [NOTE]
 ====

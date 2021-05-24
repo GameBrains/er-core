@@ -1,2 +1,2 @@
-= Interception [aircraft mission]
+= Interception [Flyer mission]
 

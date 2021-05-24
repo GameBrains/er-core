@@ -14,4 +14,4 @@ Also, a result of 1 (score 5) is always a miss, 6 (score 30) is always a hit.
 If you hit the target unit then apply damage according to its type:
 
 * War Engine unit: Ignore any shields and apply one hit which *automatically* causes critical damage.
-* Units with a Damage Capacity of 1 (any unit other than a war engine): Destroyed.
+* Units with a Damage Capacity value of 1 (any unit other than a war engine): Destroyed.
