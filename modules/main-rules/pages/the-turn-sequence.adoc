@@ -14,7 +14,7 @@ How many turns is dependent upon the scenario that you play and the victory cond
 . *The Start phase*
 .. Roll for Reserves, if applicable for the scenario.
 .. Declare flyer missions and certain special orders.
-.. Reset Initiative counters
+.. Prepare Initiative counters
 . *The Movement phase*
 .. Determine the Initiative (1)
 .. First player movement
