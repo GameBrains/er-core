@@ -10,17 +10,12 @@ How many turns is dependent upon the scenario that you play and the victory cond
 
 .Sequence of play
 [none]
-* *Start of the turn*
-** Complete any special actions that the rules tell you to complete at the start of the turn.
-+[TODO: We might not need this any more, given the addition of a defined Start Phase. Or anything that would appear here could be in the Start phase instead perhaps. To verify. We should probably mention the need to put Initiative counters in a mug/bag/whatever either here or at the end of the turn.]+
-
-// Break to prevent list nesting.
 
 . *The Start phase*
 .. Roll for Reserves, if applicable for the scenario.
-.. Declare aircraft missions and certain special orders.
+.. Declare flyer missions and certain special orders.
+.. Reset Initiative counters
 . *The Movement phase*
-.. Declare aircraft missions
 .. Determine the Initiative (1)
 .. First player movement
 .. Second player movement
