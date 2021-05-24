@@ -6,15 +6,19 @@ The Start phase comprises preparatory steps which aren't always necessary -- the
 
 If you are playing a scenario that uses the Reserves rules, then apply those rules now.
 
-== 2. Declare aircraft missions and Special orders
+== 2. Declare flyer missions and special orders
 
 There are some things that you must declare now if you want to use them:
 
-* Aircraft missions.
-* Some types of Special orders, such as Flak, Preparatory Bombardment and Dodge.
+* Flyer missions.
+* Some types of special orders, such as Flak, Preparatory Bombardment and Dodge.
 
 Start with the player whose army has the lower Strategy Rating, and then alternate to declare until you both run out of things to declare.
 Take Leadership tests in the normal way, where the rules require it for you to successfully set the orders you declare.
+
+== 3. Prepare Initiative counters
+
+The five Initiative counters are gathered together and placed in a mug or other receptacle.
 
 *Related information*
 
