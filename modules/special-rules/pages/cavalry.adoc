@@ -8,8 +8,8 @@ Of course, riders and their mounts vary enormously -- humans on horses, denizens
 
 Apply these rules to {cavalry} units:
 
-* Double their Speed value in the Movement phase and for Reserves.
-* During the Assault phase, triple their Speed value if it will bring them into base contact with enemy units.
+* Double their original Speed value.
+* During Assault moves, their original Speed value is tripled if this will bring them into base contact with enemy units, or doubled if it won't.
 * Treat {cavalry} units as Vehicle units -- mounts find it difficult to take cover, to move through buildings or rubble, and so on.
 
 NOTE: The part of {cavalry} that increased the unit's Armour value in 3rd edition has been split off into the new xref:armour-1.adoc[Armour +1] ability.
