@@ -30,7 +30,7 @@
    **** xref:self-propelled-artillery.adoc[]
    **** xref:shootier.adoc[]
    **** xref:siege.adoc[]
-  *** Unit abilities
+  *** Special abilites: unit abilities
    **** xref:artillery.adoc[]
    **** xref:bridge.adoc[] *UPDATE* move to experimental, as it was never an official rule.
    **** xref:cavalry.adoc[] TODO reference the Armour +1 bit being split off.
@@ -100,4 +100,4 @@
   *** xref:interception.adoc[]
   *** xref:flyers-and-flak.adoc[]
   *** xref:hits-on-flyers.adoc[]
-  *** xref:flyers-and-blast-markers.adoc[] 
+  *** xref:flyers-and-blast-markers.adoc[]
