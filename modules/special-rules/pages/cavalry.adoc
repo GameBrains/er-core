@@ -12,4 +12,4 @@ Apply these rules to {cavalry} units:
 * During the Assault phase, triple their Speed value if it will bring them into base contact with enemy units.
 * Treat {cavalry} units as Vehicle units -- mounts find it difficult to take cover, to move through buildings or rubble, and so on.
 
-TIP: The part of {cavalry} that increased the unit's Armour value has been split off into the xref:armour-1.adoc[Armour +1] ability.
+NOTE: The part of {cavalry} that increased the unit's Armour value in 3rd edition has been split off into the new xref:armour-1.adoc[Armour +1] ability.
