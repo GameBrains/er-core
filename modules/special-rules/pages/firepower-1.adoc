@@ -1,0 +1,9 @@
+= Assault +1
+
+These units are armed with potent weaponry that does not affect their range.
+
+---
+
+Apply this rule to units that have the {firepower-1} ability, relative to their base units:
+
+* Add +1 to their Firepower value.
