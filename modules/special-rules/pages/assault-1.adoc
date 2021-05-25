@@ -1,0 +1,9 @@
+= Assault +1
+
+These units are particularly fierce melee fighters, without sacrificing their ranged capability -- such as Space Wolves Long Fangs or Grey Hunters.
+
+---
+
+Apply this rule to units that have the {assault-1} ability, relative to their base units:
+
+* Add +1 to their Assault value.
