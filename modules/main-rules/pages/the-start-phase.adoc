@@ -16,7 +16,7 @@ There are some things that you must declare now if you want to use them:
 Start with the player whose army has the lower Strategy Rating, and then alternate to declare until you both run out of things to declare.
 Take Leadership tests in the normal way, where the rules require it for you to successfully set the orders you declare.
 
-== 3. Prepare Initiative counters
+== 3. Prepare the Initiative counters
 
 Gather the five Initiative counters and place them in the mug (or other receptacle).
 
