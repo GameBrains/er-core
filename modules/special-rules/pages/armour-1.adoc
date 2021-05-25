@@ -1,0 +1,9 @@
+= Armour +1
+
+These units have particularly heavy armour -- such as Ork Meganobz.
+
+---
+
+Apply this rule to units that have the {armour-1} ability, relative to their base units:
+
+* Add +1 to their Armour value.
