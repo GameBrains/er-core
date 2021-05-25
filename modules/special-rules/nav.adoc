@@ -22,7 +22,6 @@
    **** xref:armour-1.adoc[] NEW the +1 Armour part of Cavalry
    **** xref:assault.adoc[]
    **** xref:assault-1.adoc[] NEW replacement for Space Wolves
-   **** xref:cavalry.adoc[] TODO reference the Armour +1 bit being split off.
    **** xref:fast.adoc[]
    **** xref:firepower-1.adoc[] NEW for Dire Avengers etc.
    **** xref:heavy-weapons.adoc[]
@@ -34,7 +33,7 @@
   *** Unit abilities
    **** xref:artillery.adoc[]
    **** xref:bridge.adoc[] *UPDATE* move to experimental, as it was never an official rule.
-   **** xref:cavalry.adoc[] TODO check vs unit profile modifier
+   **** xref:cavalry.adoc[] TODO reference the Armour +1 bit being split off.
    **** xref:close-support.adoc[]
    **** xref:engineers.adoc[] *UPDATE* move to experimental, as it was never an official rule.
    **** xref:flak.adoc[]
