@@ -18,43 +18,63 @@
   *** xref:vortex-missile.adoc[]
 
  ** xref:special-abilities.adoc[]
-  *** xref:anti-personnel-ability.adoc[]
-  *** xref:artillery.adoc[]
-  *** xref:assault.adoc[]
-  *** xref:bridge.adoc[]
-  *** xref:brood-telepathy.adoc[]
-  *** xref:cavalry.adoc[]
-  *** xref:close-support.adoc[]
-  *** xref:deathwing.adoc[]
-  *** xref:engineers.adoc[]
-  *** xref:fast.adoc[]
-  *** xref:flak.adoc[]
-  *** xref:heavy-weapons.adoc[]
-  *** xref:hero.adoc[]
-  *** xref:hit-and-run.adoc[]
-  *** xref:infiltrators.adoc[]
-  *** xref:jump-packs.adoc[]
-  *** xref:kroot.adoc[]
-  *** xref:long-range.adoc[]
-  *** xref:medic.adoc[]
-  *** xref:open-top.adoc[]
-  *** xref:ordo-malleus.adoc[]
-  *** xref:psyker.adoc[]
-  *** xref:rampage.adoc[]
-  *** xref:rapid-fire.adoc[]
-  *** xref:ravenwing.adoc[]
-  *** xref:recovery.adoc[]
-  *** xref:save.adoc[]
-  *** xref:self-propelled-artillery.adoc[]
-  *** xref:shootier.adoc[]
-  *** xref:siege.adoc[]
-  *** xref:skimmer.adoc[]
-  *** xref:space-wolves.adoc[]
-  *** xref:stubborn.adoc[]
-  *** xref:supreme-commander.adoc[]
-  *** xref:tank-destroyer.adoc[]
-  *** xref:transport-x.adoc[]
-  *** xref:tunneller.adoc[]
+  *** Unit design modifiers
+   **** xref:armour-1.adoc[] NEW the +1 Armour part of Cavalry
+   **** xref:assault.adoc[]
+   **** xref:assault-1.adoc[] NEW replacement for Space Wolves
+   **** xref:cavalry.adoc[] TODO reference the Armour +1 bit being split off.
+   **** xref:fast.adoc[]
+   **** xref:firepower-1.adoc[] NEW for Dire Avengers etc.
+   **** xref:heavy-weapons.adoc[]
+   **** xref:hero.adoc[]
+   **** xref:long-range.adoc[]
+   **** xref:self-propelled-artillery.adoc[]
+   **** xref:shootier.adoc[]
+   **** xref:siege.adoc[]
+  *** Unit abilities
+   **** xref:artillery.adoc[]
+   **** xref:bridge.adoc[] *UPDATE* move to experimental, as it was never an official rule.
+   **** xref:cavalry.adoc[] TODO check vs unit profile modifier
+   **** xref:close-support.adoc[]
+   **** xref:engineers.adoc[] *UPDATE* move to experimental, as it was never an official rule.
+   **** xref:flak.adoc[]
+   **** xref:holo-fields.adoc[] NEW for Eldar WEs
+   **** xref:ignore-terrain.adoc[] NEW for Nid WEs
+   **** xref:infiltrators.adoc[]
+   **** xref:jump-packs.adoc[]
+   **** xref:kroot.adoc[]
+   **** xref:medic.adoc[] *UPDATE* move to experimental, as it was never an official rule.
+   **** xref:open-top.adoc[] *UPDATE* move to experimental, as it was never an official rule.
+   **** xref:ordo-malleus.adoc[] *UPDATE* move to experimental, as it was never an official rule.
+   **** xref:psyker.adoc[]
+   **** xref:rampage.adoc[]
+   **** xref:rapid-fire.adoc[]
+   **** xref:recovery.adoc[] *UPDATE* move to experimental, as it was never an official rule.
+   **** xref:resilient.adoc[]  *UPDATE* move to experimental. NEW/EXPERIMENTAL for normal units with Damage Capacity
+   **** xref:save.adoc[] TODO add extra text describing how Saves work for war engines/Dominatrixes
+   **** xref:skimmer.adoc[]
+   **** xref:supreme-commander.adoc[]
+   **** xref:synapse-creature.adoc[] NEW to go on the unit profiles of Tyranid Warriors, Tyrants, Patriarchs etc.
+   **** xref:transport-x.adoc[]
+   **** xref:tunneller.adoc[]
+   **** xref:war-engine-supreme-commander.adoc[] NEW this is just the ability to re-roll when supporting, for Dominatrixes and maybe add to Gargant Warlords
+  *** Detachment abilities
+   **** xref:a-dying-race.adoc[] NEW
+   **** xref:brood-telepathy.adoc[] DUPE of Synapse?
+   **** xref:dodge.adoc[] NEW for Ravenwing
+   **** xref:dauntless.adoc[] NEW automatic passing of Ld tests for Deathwing and Synapse
+   **** xref:hit-and-run.adoc[]
+   **** xref:mob-rule.adoc[] NEW placeholder for whatever the Ork morale rule ends up being
+   **** xref:regroup.adoc[] NEW remove an additional BM
+   **** xref:stubborn.adoc[]
+   **** xref:summon.adoc[] NEW updated name for 'summoning daemons'
+   **** xref:synapse.adoc[] NEW, the detachment-level part of Synapse Creature
+   **** xref:unbreakable.adoc[] NEW can't break for Deathwing, Synapse Creatures, and War Engines
+  *** Army abilities
+   **** xref:ork-initiative.adoc[] NEW check name
+   **** xref:orky-objectives.adoc[] NEW optional, move to experimental, or just leave it out for now?
+   **** xref:psychic-beacon.adoc[] NEW for Genestealer Cult Drop Podding
+   **** xref:tyranid-objectives.adoc[] NEW
 
  ** xref:war-engines.adoc[]
   *** xref:war-engine-movement.adoc[]
@@ -76,8 +96,8 @@
   *** xref:rearm-and-refuel.adoc[]
   *** xref:ground-attack.adoc[]
   *** xref:transport.adoc[]
-  *** xref:evac-evac.adoc[]
-  *** xref:counter-strike.adoc[]
+  *** xref:evac-evac.adoc[] OPTIONAL
+  *** xref:counter-strike.adoc[] OPTIONAL
   *** xref:interception.adoc[]
   *** xref:flyers-and-flak.adoc[]
   *** xref:hits-on-flyers.adoc[]
