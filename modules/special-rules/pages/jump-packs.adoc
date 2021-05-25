@@ -6,12 +6,9 @@ Equipped with a variety of jet packs, wings etc, these units take long bounding 
 
 Apply these rules to {jump-packs} units:
 
-* Double their Speed value in the Movement phase and for Reserves.
-* During the Assault phase, triple their Speed value if it will bring them into base contact with enemy units.
-* Ignore the effects of any piece of terrain as long as they don't start or end a move in the terrain.
+* Double their original Speed value.
+* During Assault moves, their original Speed value is tripled if this will bring them into base contact with enemy units, or doubled if it won't.
+* During Assault moves, they can move over enemy units that have already been contacted.footnote:[This is a popular change to the original rules.]
+* During any move, they ignore the effects of terrain as long as they don't end their move in the terrain.
 
-
-* When moving, ignore the effects of any piece of terrain as long as they don't end their move in it.
-
-
-+[TODO: Make a decision about moving over engaged enemy units during Assault moves. Decide if terrain effects apply if they *start* their move in terrain.]+
++[TODO: Decide if terrain effects apply if they *start* their move in terrain.]+
