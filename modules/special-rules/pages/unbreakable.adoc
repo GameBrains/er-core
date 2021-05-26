@@ -1,1 +1,9 @@
 = Unbreakable
+
+Some troops have such high morale, or lack of individual willpower, that they never break. For example War Engines, and Tyranid Swarms with Synapse Creatures.
+
+---
+
+Apply these rules to detachments with the {unbreakable} ability:
+
+* The detachment can never be broken.

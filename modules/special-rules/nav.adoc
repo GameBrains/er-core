@@ -55,14 +55,15 @@
   *** xref:a-dying-race.adoc[] *NEW*
   *** xref:brood-telepathy.adoc[] *DUPE* of Synapse?
   *** xref:dodge.adoc[] *NEW* for Ravenwing
-  *** xref:dauntless.adoc[] *NEW* automatic passing of Ld tests for Deathwing and Synapse
+  *** xref:dauntless.adoc[]
   *** xref:hit-and-run.adoc[]
   *** xref:mob-rule.adoc[] *NEW* placeholder for whatever the Ork morale rule ends up being
-  *** xref:regroup.adoc[] *NEW* remove an additional BM
+  *** xref:no-retreat.adoc[]
+  *** xref:regroup.adoc[]
   *** xref:stubborn.adoc[]
   *** xref:summon.adoc[] *NEW* updated name for 'summoning daemons'
   *** xref:synapse.adoc[] *NEW*, the detachment-level part of Synapse Creature
-  *** xref:unbreakable.adoc[] *NEW* can't break for Deathwing, Synapse Creatures, and War Engines
+  *** xref:unbreakable.adoc[]
  ** Special abilities: army abilities
   *** xref:ork-initiative.adoc[] *NEW* check name
   *** xref:psychic-beacon.adoc[] *NEW* for Genestealer Cult Drop Podding

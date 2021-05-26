@@ -1,1 +1,9 @@
 = Regroup
+
+Space Marines are known for their stubborn determination, and yet troops like the Dark Angels Deathwing have a special reputation for regrouping effectively, no matter the circumstances.
+
+---
+
+Apply these rules to detachments with the {regroup} ability:
+
+* In the Rally phase, remove an additional Blast marker. For example D6 Blast markers rather than the usual D6-1.

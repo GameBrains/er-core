@@ -1,0 +1,10 @@
+= No Retreat
+
+Units like War Engines never retreat from combat.
+
+---
+
+Apply these rules to detachments with the {no-retreat} ability:
+
+* The detachment does not retreat after losing a close combat or firefight.
+* They are not destroyed for being within 15cm of enemy units after losing a close combat or firefight

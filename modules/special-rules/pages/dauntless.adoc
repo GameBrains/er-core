@@ -1,1 +1,9 @@
 = Dauntless
+
+Some troops are so disciplined that they never flinch when facing the enemy -- such as the Dark Angels Deathwing, or Tyranid Swarms with Synapse Creatures.
+
+---
+
+Apply these rules to detachments with the {dauntless} ability:
+
+* The detachment automatically passes all Leadership tests.
