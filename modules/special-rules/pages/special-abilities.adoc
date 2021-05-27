@@ -14,10 +14,10 @@ IMPORTANT: Where there is a contradiction, special abilities 'override' the norm
 .Special abilities
 ====
 As an optional upgrade, an Imperial Guard Command Squad can include a Primaris Psyker.
-This upgrades the basic Imperial Guard unit entry to include the xref:psyker.adoc[{psyker}] ability.
+This upgrades the basic Imperial Guard unit entry to include the {psyker} ability.
 
 In contrast, a Space Marine Librarian is a psyker and is integral to the unit of the same name.
-So the xref:psyker.adoc[{psyker}] ability is part of the Space Marine Librarian unit entry.
+So the {psyker} ability is part of the Space Marine Librarian unit entry.
 ====
 
 == Types of special ability
@@ -26,17 +26,16 @@ Special abilites come in several different forms:
 
 === Unit design modifiers
 
-These are the abilities that modify the characteristics in the unit's data sheet, rather than having special effects during a game. For example the xref:heavy-weapons.adoc[{heavy-weapons}] ability changes the unit's Range and Firepower.
+These are the abilities that modify the characteristics in the unit's data sheet, rather than having special effects during a game. For example the {heavy-weapons} ability changes the unit's Range and Firepower.
 
 === Unit abilities
 
-Thwse abilities can be used during a game, for example a xref:save.adoc[{save}] can protect a unit from a hit that it takes, while xref:jump-packs.adoc[{jump-packs}] give the unit enhanced movement.
+Thwse abilities can be used during a game, for example a {save} can protect a unit from a hit that it takes, while {jump-packs} give the unit enhanced movement.
 
 === Detachment abilities
 
-These abilities change the behaviour of an entire detachment during a game, for example xref:hit-and-run.adoc[{hit-and-run}] allows detachments to make a Retreat move after winning a close combat or firefight.
+These abilities change the behaviour of an entire detachment during a game, for example {hit-and-run} allows detachments to make a Retreat move after winning a close combat or firefight.
 
 === Army abilities
 
-These abilities affect entire armies, for example the Ork army's xref:ork-initiative.adoc[{ork-initiative}] rule that allows them to place Initiative counters back into the mug at the start of the Assault phase.
-
+These abilities affect entire armies, for example the Ork army's {ork-initiative} rule that allows them to place Initiative counters back into the mug at the start of the Assault phase.
