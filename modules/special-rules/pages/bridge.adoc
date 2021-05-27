@@ -1,0 +1,22 @@
+= Bridge
+
+These units carry a bridge that they can deploy as needed, so that forces can cross certain types of terrain.
+
+---
+
+You can use a {bridge} unit to place a bridge over a river, trench, ravine or similar terrain.
+
+* Place the bridge during the Rally phase.
+* The total span cannot be more than 10cm.
+Any non- War Engine unit may move over the bridge -- treat it as open ground.
+War engines are too big and heavy to use a bridge that is light enough to be deployed in the field.
+* You may place the bridge against a raised edge, such as a cliff or wall.
+In this case, only Infantry units may then scale the inclined bridge and cross the obstacle, and you must treat the bridge as dangerous terrain.
+
+This should be obvious, but to be clear: Once placed, the bridge remains in play even if the {bridge} unit is destroyed later -- and enemy forces can move over the bridge too, with the same restrictions.
+
+IMPORTANT: A {bridge} unit carries only one bridge -- once you've placed it, you cannot place another with that unit during the battle.
+
+*Related information*
+
+* xref:main-rules:terrain-effects-on-movement.adoc[]
