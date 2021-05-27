@@ -1,1 +1,15 @@
 = Holo-fields
+
+Projecting a swirling, fractured image, Holo-fields make it almost impossible to pinpoint the precise location of an Eldar Titan. Eldar Titans lack the thick armour or resilience of other races' Titans as they rely on not being hit.
+
+---
+
+Apply these rules to units with the {holo-fields} ability:
+
+* Each time the unit suffers a hit, from any source, roll a die. On a roll of 2+, the hit is ignored and causes no damage.
+* The {holo-fields} ability applies to attacks that ignore void shields and power fields.
+* Any unsaved hit on the unit is automatically a critical hit. Attacks which already automatically cause critical hits only cause one critical hit.
+
+NOTE: Saved hits still count as hits for placing Blast markers.
+
+NOTE: Holo-fields have no effect when beaten in close combat by an enemy {war-engine} with {close-combat-weapons}, as the loser automatically suffers catastrophic damage.

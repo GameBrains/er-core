@@ -1,2 +1,12 @@
 = Save
 
+Due to exceptionally resilient armour, protective fields, or extreme skills and toughness, these troops are capable of surviving almost any impact.
+
+---
+
+Apply these rules to units with the {save} ability:
+
+* Each time the unit suffers a hit, from any source, roll a die. On a roll of 4+, the hit is ignored and causes no damage.
+* The {save} ability applies to attacks that ignore void shields and power fields.
+
+NOTE: Saved hits still count as hits for placing Blast markers.

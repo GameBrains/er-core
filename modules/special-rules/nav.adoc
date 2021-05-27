@@ -36,15 +36,15 @@
   *** xref:close-support.adoc[]
   *** xref:flak.adoc[]
   *** xref:hitch-x.adoc[] *NEW* equivalent of Transport (X)
-  *** xref:holo-fields.adoc[] *NEW* for Eldar WEs
-  *** xref:ignore-terrain.adoc[] *NEW* for Nid WEs
+  *** xref:holo-fields.adoc[]
+  *** xref:ignore-terrain.adoc[]
   *** xref:infiltrators.adoc[]
   *** xref:jump-packs.adoc[]
   *** xref:kroot.adoc[]
   *** xref:psyker.adoc[]
   *** xref:rampage.adoc[]
   *** xref:rapid-fire.adoc[]
-  *** xref:save.adoc[] *TODO* add extra text describing how Saves work for war engines/Dominatrixes
+  *** xref:save.adoc[]
   *** xref:skimmer.adoc[]
   *** xref:supreme-commander.adoc[]
   *** xref:synapse-creature.adoc[] *NEW* to go on the unit profiles of Tyranid Warriors, Tyrants, Patriarchs etc.

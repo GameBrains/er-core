@@ -1,1 +1,13 @@
 = Ignore Terrain
+
+Able to slip through terrain easily, or simply barge through it regardless, units such as Hierodule and Hierophant Bio-Titans are never slowed by terrain.
+
+---
+
+Apply these rules to units with the {ignore-terrain} ability:
+
+* While moving, the unit can cross dangerous and impassible terrain and does not take dangerous terrain tests.
+
+*Related information*
+
+* xref:terrain-effects-on-movement[]
