@@ -12,4 +12,4 @@ Apply these rules to units with the {holo-fields} ability:
 
 NOTE: Saved hits still count as hits for placing Blast markers.
 
-NOTE: Holo-fields have no effect when beaten in close combat by an enemy {war-engine} with {close-combat-weapons}, as the loser automatically suffers catastrophic damage.
+NOTE: Holo-fields have no effect when beaten in close combat by an enemy war engine with {close-combat-weapons}, as the loser automatically suffers catastrophic damage.

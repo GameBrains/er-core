@@ -10,4 +10,4 @@ Apply these rules to units with the {ignore-terrain} ability:
 
 *Related information*
 
-* xref:terrain-effects-on-movement[]
+* xref:main-rules:terrain-effects-on-movement.adoc[]
