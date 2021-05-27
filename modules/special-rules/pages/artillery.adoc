@@ -18,7 +18,7 @@ So, you only need your {artillery} unit to be within range when you choose your 
 == Preparatory Bombardment
 
 {artillery} units can bombard enemy forces to forestall an attack or to 'soften up' an enemy position.
-We represent such attacks with a special order called Preparatory Bombardment.
+We represent such attacks with special orders called Preparatory Bombardment.
 
 . If you wish to place any detachments on Preparatory Bombardment orders, you must do this before you determine the Initiative in the Movement phase.
 . Place the {special-orders} marker to indicate that the detachment is on Preparatory Bombardment orders.

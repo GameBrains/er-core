@@ -1,2 +1,47 @@
 = Flak
 
+These units are specialised to shoot down enemy flyers.
+Some use very sophisticated targetting devices and fast, accurate weapons systems.
+Others simply fill the air with so many munitions that they can hardly fail to get some hits.
+
+---
+
+{flak} units can attack flyers in one of two different ways, depending on what orders you give to their detachment.
+
+.Flak orders
+For optimum effectiveness, {flak} units and their detachment need to be at a suitable state of readiness.
+We represent this state with special orders called Flak.
+
+. If you wish to place any detachments on Flak orders, you must do this before you determine the Initiative in the Start phase.
++
+[TIP]
+====
+You can place a detachment on both Flak orders and Preparatory Bombardment orders at the same time in the Start phase, if you wish.
+You must declare both at the same time.
+
+In that case, you will be able to make a Preparatory Bombardment with {artillery} units in the detachment, and make Flak attacks with {flak} units.
+====
+. Place the {special-orders} marker to indicate that the detachment is on Flak orders.
+. You can use these units to shoot at flyers in the movement phase.
++[TODO: ...and at drop pods? The errata mentions that they can Snap Fire at 'flyers and drop pods' in the 'other orders' bit of text, seemingly as an afterthought -- seems to imply that they should be able to target drop pods while on Flak orders too.]+
+ * You may not move the units in the Movement phase, nor use them to shoot in the Shooting phase.
+ * Treat the other units in the detachment as though they are on Overwatch orders -- so you can move them up to 5cm and re-roll misses when you shoot with them in the Shooting phase.
+. {flak} units can shoot at enemy flyers if any part of their flight path is within the {flak} units' Range value:
+ * Roll 1 D6 per point of Firepower value that each {flak} unit has.
+ Each result that is equal to or higher than the flyer's Armour value scores a hit.
+ You can split the firepower of the {flak} unit between several flyers if you wish.
+ Once you have rolled a D6 for each point of Firepower that the unit has, that is all of the shooting that you can do with that unit for this turn. +
+ +[TODO: Should we unify this with the usual hit allocation rules? Seems like we should clarify special abilities too, eg {macro-weapon} which is mentioned in the errata for the alternative Snap Fire attack but not in the main part of the Flak rules.]+
+
+.Any other orders
+Under orders other than Flak orders, you may use {flak} units to make a special type of Snap Fire attack at flyers and drop pods.
+
+* For this special Snap Fire attack, use the full Range value of the {flak} unit.
+* However, disregard any special abilities that would normally apply to the unit's shooting.
+For example, do not apply the {macro-weapon} ability of an Eldar Fire Prism. +
++[TODO: So, in effect we have to fall back on the Firepower value that would apply? Presumably not the 'base unit' Firepower, but the 'fallback from a super-heavy weapon to FP1 by default' Firepower of 1 that we see in other cases such as firefights? So, we'd count a Fire Prism as FP1 in this case, and therefore get 1 Flak shot?]+
+
+.Flak attacks
+====
++[TODO: New example text and image needed]+
+====
