@@ -1,2 +1,18 @@
 = Infiltrators
 
+These units are the expert scouts and commandos who gather information, set ambushes, sabotage installations, and so on.
+
+---
+
+Apply these rules to {infiltrators} units:
+
+* Count them as *in command* while they are within 60cm of their HQ unit, rather than the usual 30cm.
+However, they are still destroyed if they become Broken and they are more than 30cm away from their HQ unit.
+* You may deploy them up to 30cm outside of your normal deployment zone for the scenario you are playing.
+Or, if you do not deploy them at the start of the battle, you may add +30cm to their first move later -- even if their first move is to exit from transport vehicles or drop pods.
++
++[TODO: Should we change this in some way to avoid the possible interpretation that "if you do not deploy them" could imply an inherent option rather than a possibility that depends upon the scenario setup rules?]+
++[TODO: As written, it seems to me that you could interpret the rules to include the possibility that the infiltrators get their +30cm even if they disembark from a transport vehicle *in a later turn* than the turn they arrive in -- it'd still be their 'first move'. This can't also be intended and okay, can it?]+
+
+.Related information
+* xref:main-rules:hq-units-and-command.adoc[]
