@@ -37,7 +37,12 @@ In this case, you will be able to make a Preparatory Bombardment with {artillery
  Each result that is equal to or higher than the flyer's Armour value scores a hit on the flyer.
  You can split the firepower of the {flak} unit between several flyers if you wish.
  * Once you have rolled a D6 for each point of the unit's Firepower, the unit cannot shoot for the rest of the turn.
- * Super-heavy weapons can be applied to the unit's shooting, for example an Eldar Fire Prism's {macro-weapon} means that it's one shot will hit on a 4+ regardless of the flyer's Armour value. +
+ * You can apply the effects of super-heavy weapons. +
+.Flak, with a super-heavy weapon
+====
+The Eldar Fire Prism has a single {macro-weapon} attack.
+This means that you will roll one die, and you'll hit on a result of 4+ — regardless of the flyer's Armour value.
+====
  +[TODO: Should we unify this with the usual hit allocation rules? Seems like we should clarify special abilities too, eg {macro-weapon} which is mentioned in the errata for the alternative Snap Fire attack but not in the main part of the Flak rules.]+
  +[IJW: As far as I can see, the Flak unit gets to choose targets freely, and yes MW works when on Flak orders.]+
 
