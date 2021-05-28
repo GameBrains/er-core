@@ -1,2 +1,2 @@
 * xref:more.adoc[]
- ** xref:quick-reference.adoc[]
+* xref:quick-reference.adoc[]
