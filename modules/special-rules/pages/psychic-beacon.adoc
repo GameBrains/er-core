@@ -1,1 +1,12 @@
 = Psychic Beacon
+
+Genestealer Patriarchs emit a strong psychic signal, which guides the parent Hive Fleet to the planet.
+
+---
+
+Apply these rules to detachments with the {psychic-beacon} ability:
+
+* An army containing any detachments with the {psychic-beacon} ability can deploy Mycetic Swarms in the first turn.
+
+.Related information
+* xref:battles:drop-pods.adoc[]

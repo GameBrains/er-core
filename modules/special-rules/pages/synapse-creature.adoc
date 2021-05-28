@@ -1,1 +1,18 @@
 = Synapse Creature
+
+These organisms impose the will of the Hive Mind directly on their swarm.
+
+---
+
+Apply these rules to units with the {synapse-creature} ability:
+
+* The presence of these units is required for their detachment's {synapse} or {brood-telepathy} ability.
+* Their detachment's {synapse} or {brood-telepathy} ability only functions while the detachment contains {synapse-creature} units.
+
+TIP: This ability has no effect on the unit itself, but it marks which units must be present for the {synapse} or {brood-telepathy} ability to function.
+
++[TODO: choose one of the two bullet points.]
+
+.Related information
+* xref:synapse.adoc[]
+* xref:brood-telepathy.adoc[]

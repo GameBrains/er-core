@@ -5,6 +5,13 @@ This gives the Cult strong morale.
 
 ---
 
-While at least one Genestealer Patriarch or Magus is present in your Genestealer Cult detachment you automatically pass any Leadership test that you are required to make for them.
+Apply these rules to detachments with the {synapse} ability:
 
-+[TODO: Should we clarify that this is like the Tyranid Synapse Creatures rule, but not as strong because the detachment can still become Broken?]+
+* If the detachment includes any units with the {synapse-creature} ability:
+ ** The detachment has the {dauntless} ability so automatically passes all Leadership tests.
+
+* If the detachment loses all its {synapse-creature} it loses the {unbreakable} ability.
+
+.Related information
+* xref:synapse-creature.adoc[]
+* xref:dauntless.adoc[]

@@ -18,6 +18,7 @@
   *** xref:vortex-missile.adoc[]
 
  ** xref:special-abilities.adoc[]
+
  ** Special abilities: unit design modifiers
   *** xref:armour-1.adoc[]
   *** xref:assault.adoc[]
@@ -30,6 +31,7 @@
   *** xref:self-propelled-artillery.adoc[]
   *** xref:shootier.adoc[]
   *** xref:siege.adoc[]
+
  ** Special abilities: unit abilities
   *** xref:artillery.adoc[]
   *** xref:cavalry.adoc[]
@@ -47,27 +49,28 @@
   *** xref:save.adoc[]
   *** xref:skimmer.adoc[]
   *** xref:supreme-commander.adoc[]
-  *** xref:synapse-creature.adoc[] *NEW* to go on the unit profiles of Tyranid Warriors, Tyrants, Patriarchs etc.
+  *** xref:synapse-creature.adoc[]
   *** xref:transport-x.adoc[]
   *** xref:tunneller.adoc[]
   *** xref:war-engine-supreme-commander.adoc[] *NEW* this is just the ability to re-roll when supporting, for Dominatrixes and maybe add to Gargant Warlords
+
  ** Special abilities: detachment abilities
-  *** xref:a-dying-race.adoc[] *NEW*
-  *** xref:brood-telepathy.adoc[] *DUPE* of Synapse?
-  *** xref:dodge.adoc[] *NEW* for Ravenwing
+  *** xref:a-dying-race.adoc[]
+  *** xref:brood-telepathy.adoc[]
+  *** xref:dodge.adoc[]
   *** xref:dauntless.adoc[]
   *** xref:hit-and-run.adoc[]
-  *** xref:mob-rule.adoc[] *NEW* placeholder for whatever the Ork morale rule ends up being
   *** xref:no-retreat.adoc[]
+  *** xref:psychic-beacon.adoc[]
   *** xref:regroup.adoc[]
   *** xref:stubborn.adoc[]
   *** xref:summon.adoc[] *NEW* updated name for 'summoning daemons'
-  *** xref:synapse.adoc[] *NEW*, the detachment-level part of Synapse Creature
+  *** xref:synapse.adoc[]
   *** xref:unbreakable.adoc[]
+
  ** Special abilities: army abilities
-  *** xref:ork-initiative.adoc[] *NEW* check name
-  *** xref:psychic-beacon.adoc[] *NEW* for Genestealer Cult Drop Podding
-  *** xref:tyranid-objectives.adoc[] *NEW*
+  *** xref:ork-initiative.adoc[]
+  *** xref:tyranid-objectives.adoc[]
 
  ** xref:war-engines.adoc[]
   *** xref:war-engine-movement.adoc[]

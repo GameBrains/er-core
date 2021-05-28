@@ -32,12 +32,13 @@ In this case, you will be able to make a Preparatory Bombardment with {artillery
 . You can use these units to shoot at flyers in the movement phase.
  * You may not move the units in the Movement phase, nor use them to shoot in the Shooting phase.
  * Treat the other units in the detachment as though they are on Overwatch orders -- so you can move them up to 5cm in the Movement phase and re-roll misses when you shoot with them in the Shooting phase.
-. A {flak} unit can shoot at enemy flyers if any part of their flight path is within the {flak} unit's full Range:
+. A {flak} unit can shoot at enemy flyers if any part of their flight path is within the {flak} unit's full range:
  * Roll one D6 for each point of the {flak} unit's Firepower value.
  Each result that is equal to or higher than the flyer's Armour value scores a hit on the flyer.
  You can split the firepower of the {flak} unit between several flyers if you wish.
  * Once you have rolled a D6 for each point of the unit's Firepower, the unit cannot shoot for the rest of the turn.
- * You can apply the effects of super-heavy weapons. +
+ * You can apply the effects of super-heavy weapons.
+
 .Flak, with a super-heavy weapon
 ====
 The Eldar Fire Prism has a single {macro-weapon} attack.
@@ -47,19 +48,16 @@ This means that you will roll one die, and you'll hit on a result of 4+ — rega
 == Any other orders
 Apply these rules to the unit's Snap Fire attacks against flyers:
 
-* Use the {flak} unit's full Range, instead of the usual 10cm.
+* Use the {flak} unit's full range, instead of the usual 10cm.
 +
 NOTE: You may not use super-heavy weapon effects — such as {macro-weapon} — for Flak Snap-Fire attacks.
-
-
-+[TODO: So, in effect we have to fall back on the Firepower value that would apply? Presumably not the 'base unit' Firepower, but the 'fallback from a super-heavy weapon to FP1 by default' Firepower of 1 that we see in other cases such as firefights? So, we'd count a Fire Prism as FP1 in this case, and therefore get 1 Flak shot?]+
-+[IJW: This isn't relevant, Snap Fire is always a single shot regardless of Firepower.]+
 
 .Flak attacks
 ====
 +[TODO: New example text and image needed]+
 ====
 
-*Related information*
+.Related information
 
 * xref:battles:drop-pods.adoc[]
+* xref:flyers.adoc[]
