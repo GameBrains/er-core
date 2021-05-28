@@ -1,1 +1,11 @@
 = Dodge
+
+Some formations of very mobile and agile troops -- such as the Dark Angels Ravenwing -- can dodge and jink so effectively that they reduce the effectiveness of incoming fire.
+---
+
+Apply these rules to detachments with the {dodge} ability:
+
+* If you wish to place any detachments on Dodge orders then you must do this in the Start phase.
+* While on {dodge} orders:
+ ** All units in the detachment increase their Armour value by one, to a maximum of 6.
+ ** The detachment halves its Firepower.

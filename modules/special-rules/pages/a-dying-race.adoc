@@ -1,1 +1,16 @@
 = A Dying Race
+
+Every Eldar casualty is a tragedy, one step closer to the race's extinction.
+
+---
+
+Apply these rules to detachments with the {a-dying-race} ability:
+
+* If the detachment is wiped out, immediately remove D3 points from the player's army morale. [either/or]
+* If the detachment is wiped out, the player's army morale immediately goes down by D3 points. [either/or]
+
++[TODO: decide on the syntax for army morale changes. The original text used several different options, I suggest 'goes up by X points' and 'goes down by X points'.]
+
+
+.Related information
+* xref:battles:army-morale.adoc[]
