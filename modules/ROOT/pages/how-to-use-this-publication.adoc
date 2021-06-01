@@ -7,6 +7,13 @@ Further explanation, where it may help you to understand concepts or relationshi
 You and your opponent are much less likely to dispute or misinterpret rules if you understand why they are written the way they are.
 ====
 
+[NOTE.e40k]
+====
+Notes to highlight significant differences in the rules as compared with _Epic 40,000_.
+
+We might change the way we do this in future; but the main idea is to help players who are familiar with _Epic 40,000_ to adjust to {project-name} and perhaps to decide which differences they want to use or ignore.
+====
+
 TIP: Advice to help you learn the rules more effectively or get the best out of the game.
 
 IMPORTANT: Reminders about things that are important to get right but easy to miss or forget in the heat of battle.
@@ -15,3 +22,8 @@ IMPORTANT: Reminders about things that are important to get right but easy to mi
 ====
 These boxes contain examples that put rules in context for you, or that show you how to follow the flow of several different rules that work together.
 ====
+
+.Aside
+****
+We use these boxes to separate some types of supplemental information from the main text.
+****

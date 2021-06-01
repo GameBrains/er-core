@@ -3,10 +3,18 @@
 You play a game of {project-name} over a number of *turns* in which both you and your opponent participate.
 How many turns is dependent upon the scenario that you play and the victory conditions it specifies.
 
-[none]
-* There are a number of *phases* in a turn, in a fixed sequence that we call the *turn sequence*.
-* During the turn sequence, you and your opponent will give *orders* to your detachments.
-* The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
+****
+There are a number of *phases* in a turn, in a fixed sequence that we call the *turn sequence*.
+
+During the turn sequence, you and your opponent will give *orders* to your detachments.
+
+The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
+****
+
+[NOTE.e40k]
+====
+This sequence accommodates the new Start phase.
+====
 
 .Sequence of play
 [none]
