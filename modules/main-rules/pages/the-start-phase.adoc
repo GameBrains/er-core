@@ -1,12 +1,6 @@
 = The Start phase
 
-The Start phase comprises preparatory steps, some of which you won't need if certain special rules aren't active.
-
-[NOTE.e40k]
-====
-We made this new phase to clarify the order of events for things that need to happen at or close to the start of the turn.
-_Epic 40,000_ is sometimes unclear about interactions at "the start of the turn" and "the start of the Movement phase, before initiative is drawn".
-====
+The Start phase comprises preparatory steps which aren't always necessary -- the need for them is determined by what rules you use in your game, and what special orders you want to use for the new turn.
 
 == 1. Roll for Reserves
 
@@ -29,4 +23,4 @@ Gather the five Initiative counters and place them in the mug (or other receptac
 *Related information*
 
 * xref:battles:reserves.adoc[]
-* xref:special-rules:flyers.adoc[]
+* xref:special-rules:aircraft.adoc[]
