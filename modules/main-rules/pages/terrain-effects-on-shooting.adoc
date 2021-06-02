@@ -26,6 +26,8 @@ NOTE: It is not possible to get an Armour value greater than 6+.
 
 include::partial$terrain-effects-table.adoc[]
 
+{blank}[TODO: Consider more detail either here or by reference to another topic. See link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_Cover.htmm[FAQ: Cover] (external URL).]
+
 .Armour bonus for infantry that are in cover
 ====
 Infantry that are in woods get a +1 bonus to their Armour value.
