@@ -9,6 +9,5 @@ Apply those rules instead of the normal rules for the unit's Firepower value.
 
 For the purposes of suppression by Blast markers and such, treat the unit as having a Firepower value of 1.
 
-*Related information*
-
+.Related information
 * xref:anti-personnel-weapon.adoc[]

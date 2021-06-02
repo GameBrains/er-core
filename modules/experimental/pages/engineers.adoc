@@ -29,6 +29,5 @@ A minefield terrain piece, or a hidden setup marker, or something else?
 [TODO: Again, how should the Assault move against fortifications work?
 ]
 
-*Related information*
-
+.Related information
 * _Epic 40,000 Compendium_: link:https://thehobby.zone/resources/e40k-compendium/Content/SpecialRules/SpecialistsAndSpecialAbilities/Engineers.htm[Engineers^] (external URL)

@@ -35,6 +35,5 @@ But you may not make any independent movement with the Ork infantry units in the
 Unless any later content expanded it to other races?
 Also, might need to add detail to clarify 'multiple move' situations (March orders).]+
 
-*Related information*
-
+.Related information
 * xref:special-rules:transport-x.adoc[]

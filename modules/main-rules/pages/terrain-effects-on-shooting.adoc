@@ -34,6 +34,5 @@ A unit of Ork Boyz infantry has a base Armour value of 4+.
 So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Armour value of 5+. 
 ====
 
-*Related information*
-
+.Related information
 * xref:terrain-effects-on-movement.adoc[]

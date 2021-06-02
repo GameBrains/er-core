@@ -11,6 +11,5 @@ Do not use the Firepower table for this attack.
 . Discard any natural results of 6, and then discard misses as normal.
 . The remaining dice are hits -- allocate them as you would for a regular Firepower attack.
 
-*Related information*
-
+.Related information
 * xref:anti-personnel-ability.adoc[]

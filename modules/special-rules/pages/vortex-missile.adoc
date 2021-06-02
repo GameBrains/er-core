@@ -19,6 +19,5 @@ include::partial$one-shot-missile.adoc[]
 
 NOTE: Vortex missiles are extremely powerful, so we limit their use to significant War Engine units.
 
-*Related information*
-
+.Related information
 * xref:death-ray.adoc[]

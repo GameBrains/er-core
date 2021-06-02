@@ -12,6 +12,5 @@ Apply these rules to units with the {hero} ability, relative to the base units:
  * Double their Assault value.
  * Apply the benefit of a save.
 
-*Related information*
-
+.Related information
 * xref:save.adoc[]
