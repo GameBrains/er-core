@@ -8,6 +8,5 @@ Apply these rules to units with the {ignore-terrain} ability:
 
 * While moving, the unit can cross dangerous and impassible terrain and does not take dangerous terrain tests.
 
-*Related information*
-
+.Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]
