@@ -55,7 +55,7 @@ Apply these rules to the unit's Snap Fire attacks against flyers:
 
 * Use the {flak} unit's full range, instead of the usual 10cm.
 +
-NOTE: You may not use super-heavy weapon effects — such as {macro-weapon} — for Flak Snap-Fire attacks.
+NOTE: You may not use super-heavy weapon effects — such as {macro-weapon} — for Snap-Fire attacks.
 
 .Flak attacks
 ====

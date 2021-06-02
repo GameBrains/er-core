@@ -1,6 +1,6 @@
 = Assault +1
 
-These units are particularly fierce melee fighters, without sacrificing their ranged capability -- such as Space Wolves Long Fangs or Grey Hunters.
+These units are exceptionally fierce or gifted at close combat; yet they are no less capable or less equipped for ranged combat than others of their kind.
 
 ---
 

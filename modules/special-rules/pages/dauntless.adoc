@@ -4,6 +4,6 @@ Some troops are so disciplined that they never flinch when facing the enemy -- s
 
 ---
 
-Apply these rules to detachments with the {dauntless} ability:
+Where your detachment has the {dauntless} ability:
 
-* The detachment automatically passes all Leadership tests.
+* You automatically pass any Leadership test that you are required to make for this detachment.

@@ -1,6 +1,6 @@
 = Armour +1
 
-These units have particularly heavy armour -- such as Ork Meganobz.
+These units have particularly heavy armour for their kind.
 
 ---
 
