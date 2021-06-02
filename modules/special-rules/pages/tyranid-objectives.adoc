@@ -1,16 +1,16 @@
 = Tyranid Objectives
 
-Always ready for a krumpin, Orks will often charge into melee before the enemy has even realised that the Orks are close enough to charge them!
+The Hive Mind hungers only for biomass and genetic material.
+It doesn't seek to hold ground or capture objectives.
 
 ---
 
 Apply these rules to Tyranid armies:
 
-* The army does not use objectives, regardless of scenario.
+* The army does not use objectives, regardless of what scenario you play.
 * If an enemy detachment is wiped out, add its morale value to the Tyranid player's army morale in the Rally phase. [either/or]
 * If an enemy detachment is wiped out, in the Rally phase the Tyranid player's army morale goes up by the detachment's morale value. [either/or]
 
-NOTE: If the enemy detachment is a war engine that has been destroyed -- rather than being wrecked -- this is in addition to gaining half the war engines's morale value.
 
 .Related information
 * xref:battles:army-morale.adoc[]

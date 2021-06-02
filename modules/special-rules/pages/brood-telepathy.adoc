@@ -5,7 +5,7 @@ This gives the Cult strong morale.
 
 ---
 
-Apply these rules to detachments with the {synapse} ability:
+Apply these rules to detachments with the {brood-telepathy} ability:
 
 * If the detachment includes any units with the {synapse-creature} ability:
  ** The detachment has the {dauntless} ability so automatically passes all Leadership tests.
