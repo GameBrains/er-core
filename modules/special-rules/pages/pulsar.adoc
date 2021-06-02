@@ -18,6 +18,5 @@ Similarly, it takes only one Blast marker to suppress a {pulsar} weapon, and it 
 
 +[TODO: This was clarified in the original FAQ. I think this strengthens the case for "at the target detachment" above, because otherwise a player could cause a large number of Blast markers by spreading them across many enemy detachments and this does not accord with the rest of the rules.]+
 
-*Related information*
-
+.Related information
 * xref:macro-weapon.adoc[]

@@ -37,6 +37,5 @@ The player will make the first two moves entirely on roads, and the third move w
 So, the player could move the unit up to a total of 40cm: 30cm for the first two moves ((10cm Speed value + 5cm road bonus) x2 moves on roads) and up to 10cm for the third move.
 ====
 
-*Related information*
-
+.Related information
 * xref:terrain-effects-on-shooting.adoc[]

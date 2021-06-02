@@ -36,7 +36,6 @@ Similarly, if units in a Broken detachment become out of command, remove them as
 
 You may be able to rally Broken detachments in the End phase.
 
-*Related information*
-
+.Related information
 * xref:hq-units-and-command.adoc[]
 * xref:test-to-rally-broken-detachments.adoc[]

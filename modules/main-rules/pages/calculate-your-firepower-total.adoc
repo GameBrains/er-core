@@ -6,6 +6,5 @@ For each detachment you that have engaged in the firefight, add up all the Firep
 
 Add all the detachment totals together to get your final Firepower total.
 
-*Related information*
-
+.Related information
 * xref:multiple-firefights.adoc[]

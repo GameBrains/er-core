@@ -14,6 +14,5 @@ Turn the model around, mark it with a token or make a note so that you don't for
 +
 +[TODO: Clarify what should happen if the unit is forced to move, as in a withdrawal. Presumably they still can't move and so they are automatically destroyed if the enemy gets close enough.]+
 
-*Related information*
-
+.Related information
 * xref:barrage.adoc[]
