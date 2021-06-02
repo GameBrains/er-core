@@ -1,0 +1,23 @@
+= Walker
+
+Some vehicles with legs are particularly manoeuvrable.
+
+[NOTE.e40k]
+====
+This rule was a suggestion in the original Battles Book, and confirmed in Official Rule Amendments and Errata, _Firepower_, issue 1.
+Players who do not use the Firepower errata may wish to leave out this rule.
+====
+
+---
+
+Where a vehicle unit has the {walker} ability, apply these rules:
+
+* The unit counts as an infantry unit for terrain effects on movement.
++
+NOTE: The unit cannot get an Armour bonus from terrain.
+* During an Assault move, you may double the unit's Speed if this will bring it into contact with an enemy.
+
+
+.Related information
+* xref:main-rules:terrain-effects-on-movement.adoc[]
+* [TODO: add a link to the Assault move page when the title has been updated.]

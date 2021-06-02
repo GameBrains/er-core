@@ -37,7 +37,7 @@
   *** xref:cavalry.adoc[]
   *** xref:close-support.adoc[]
   *** xref:flak.adoc[]
-  *** xref:hitch-x.adoc[] *NEW* equivalent of Transport (X)
+  *** xref:hitch-x.adoc[]
   *** xref:holo-fields.adoc[]
   *** xref:ignore-terrain.adoc[]
   *** xref:infiltrators.adoc[]
@@ -52,6 +52,7 @@
   *** xref:synapse-creature.adoc[]
   *** xref:transport-x.adoc[]
   *** xref:tunneller.adoc[]
+  *** xref:walker.adoc[]
   *** xref:war-engine-supreme-commander.adoc[] *NEW* this is just the ability to re-roll when supporting, for Dominatrixes and maybe add to Gargant Warlords
 
  ** Special abilities: detachment abilities

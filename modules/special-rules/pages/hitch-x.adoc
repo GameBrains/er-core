@@ -1,1 +1,12 @@
 = Hitch (X)
+
+Where a unit has the {hitch} ability, apply these rules:
+
+* The {hitch} unit can carry as many infantry units as listed in brackets. For example a Gunwagon with {hitch} (1) can carry one unit of infantry while a Battlefortress with {hitch} (4) can transport four units of infantry.
+* The {hitch} unit does not gain the abilities of embarked units. For example a {hitch} unit carrying a unit with the {save} ability does not gain the {save} ability.
+
+NOTE: The full rules for embarking and disembarking can be found at xref:main-rules:transport.adoc[].
+
+
+.Related information
+* xref:main-rules:transport.adoc[]

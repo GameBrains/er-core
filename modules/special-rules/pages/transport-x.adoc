@@ -1,2 +1,12 @@
 = Transport (X)
 
+Where a unit has the {transport} ability, apply these rules:
+
+* The {transport} unit can carry as many infantry units as listed in brackets. For example a Rhino with {transport} (2) can carry two units of infantry.
+* The {transport} unit does not gain the abilities of embarked units. For example a {transport} unit carrying a unit with the {save} ability does not gain the {save} ability.
+
+NOTE: The full rules for embarking and disembarking, and destruction of {transport} units, can be found at xref:main-rules:transport.adoc[].
+
+
+.Related information
+* xref:main-rules:transport.adoc[]

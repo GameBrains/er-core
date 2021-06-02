@@ -5,35 +5,31 @@ We explain special abilities in more detail at xref:special-rules:transport-x.ad
 
 Units that have the {transport} special ability can carry other units across the battlefield.
 
-* To embark or disembark other units (or cargo) it costs the {transport} unit 5cm of its movement.
+* To embark or disembark other units (or cargo) costs the {transport} unit 5cm of its movement.
 * An embarking or disembarking unit must also pay 5cm of its movement.
 * You may embark and disembark units in the same turn, the same phase or even in the same move -- so long as all of the involved units have enough movement.
-* You may perform no other actions with units that are embarked -- so, you cannot shoot with them, for example. 
+* You may perform no other actions with units that are embarked -- so, you cannot shoot with them, for example.
 Obviously, once you disembark them then the normal rules apply again.
 
 == Destruction of {transport} units
 
-If a {transport} unit is destroyed then, just before you remove the model as a casualty, roll a D6 for each embarked unit:
+If a {transport} unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit:
 
-* *1–3*: The embarked unit is destroyed along with the {transport} unit.
+* *1–3*: The embarked unit suffers a hit.
 * *4–6*: The embarked unit survives -- place it in contact with the destroyed {transport} unit.
 
-Then remove the {transport} unit model as normal.
+Then remove the {transport} unit as normal.
 
-== Hitching a lift (Orks)
+== Hitch
 
-Ork infantry units can 'hitch a lift' on some Ork {transport} units -- they simply grab onto the outside of the vehicle and hang on for a crazy ride over the battlefield.
+On some unit data sheets you'll see that the unit has the {hitch} special ability. Infantry units can 'hitch a lift' on {hitch} units -- they simply grab onto the outside of the vehicle and hang on for a crazy ride over the battlefield.
 
-* You may use this rule only where you embark Ork infantry units with *Battlewagon* and *Battle Fortress* units.
-Battlewagons can embark one infantry unit, Battle Fortresses can embark up to four.
-+[TODO: Consider a different approach to the text -- some later/future rules might allow other units or vehicles to participate in hitching a lift.]+
-* You can simply embark and disembark units as you move the vehicle -- there is no cost to the {transport} unit's movement.
-But you may not make any independent movement with the Ork infantry units in the same phase in which they hitch a lift.
-* A unit of Orks can only hitch a lift once per phase.
+* To embark and disembark other units does not cost the {hitch} unit any of its movement.
+* An embarking or disembarking unit must pay all of its movement.
+* Any embarked unit *must* disembark at the end of the {hitch} unit's move, or at the end of its last move during a March order.
+* A unit can only hitch a lift once per phase.
 
-+[TODO: Consider whether to move this 'Orks only' rule to the special rules statements in the Ork army list. 
-Unless any later content expanded it to other races?
-Also, might need to add detail to clarify 'multiple move' situations (March orders).]+
 
 .Related information
 * xref:special-rules:transport-x.adoc[]
+* xref:special-rules:hitch-x.adoc[]
