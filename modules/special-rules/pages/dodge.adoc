@@ -18,4 +18,3 @@ Where your detachment has the {dodge} ability, you can use special orders called
 While Dodge orders are in effect:
  ** Increase the Armour value of all units in the detachment by one, to a maximum of 6+.
  ** Halve the total Firepower of the detachment detachment.
- +[TODO: We might need to define exactly when in the Shooting sequence we should halve the detachment's Firepower.]+
