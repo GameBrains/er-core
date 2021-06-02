@@ -8,4 +8,4 @@ Each army list states the Strategy Rating value that applies for that army.
 
 .Related information
 * xref:the-initiative.adoc[]
-* xref:armies.adoc[]
+* xref:armies:armies.adoc[]
