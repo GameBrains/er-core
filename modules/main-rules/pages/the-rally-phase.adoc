@@ -7,6 +7,6 @@ You'll also check to see how well each side is doing overall and -- unless the g
 
 [none]
 * xref:roll-to-remove-blast-markers.adoc[]
-* xref:test-to-rally-broken-detachments.adoc[]
+* xref:attempt-to-rally-broken-detachments.adoc[]
 * xref:attempt-repairs.adoc[]
 * xref:check-the-game-end-conditions.adoc[]

@@ -29,3 +29,4 @@ Gather the five Initiative counters and place them in the mug (or other receptac
 .Related information
 * xref:battles:reserves.adoc[]
 * xref:special-rules:flyers.adoc[]
+* xref:the-initiative.adoc[]

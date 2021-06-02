@@ -38,4 +38,4 @@ You may be able to rally Broken detachments in the End phase.
 
 .Related information
 * xref:hq-units-and-command.adoc[]
-* xref:test-to-rally-broken-detachments.adoc[]
+* xref:attempt-to-rally-broken-detachments.adoc[]

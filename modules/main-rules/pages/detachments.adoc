@@ -7,7 +7,7 @@ Some units, such as the Warlord Titan, do act alone and not as part of a group. 
 
 Detachments represent forces that are detached from a larger organisation, such as from a company within a Space Marine chapter, or from an Ork clan within a _Waaargh!_ (as Ork armies are known).
 
-Every detachment is led by a xref:hq-units-and-command.adoc[headquarters (HQ)] unit which coordinates the actions of the detachment with others on the battlefield.
+Every detachment is led by a headquarters (HQ) unit which coordinates the actions of the detachment with others on the battlefield.
 
 Detachments are comprised of either Infantry and/or Vehicle units, War Engine units or Flyer units.
 
@@ -32,3 +32,6 @@ Within the restrictions of the particular army and detachment list you choose, y
 ====
 
 +[TODO: Complete this table with a range of examples that illustrate plausible choices.]+
+
+.Related information
+* xref:hq-units-and-command.adoc[]

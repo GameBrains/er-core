@@ -13,7 +13,7 @@ We made these rules fit with the new Start phase.
 .Determine the Initiative
 To determine who has the Initiative we draw an Initiative counter from a mug (or another receptacle, such as a small cloth bag):
 
-. In the Start phase of each turn, place five Initiative counters in the mug: three for the player whose army has the higher Strategy Rating, and two for the player whose army has the lower xref:strategy-rating.adoc[].footnote:tie-break[If both armies have the same Strategy Rating then at the start of the game roll-off to decide which army gets the advantage for this game.]
+. In the Start phase of each turn, place five Initiative counters in the mug: three for the player whose army has the higher Strategy Rating, and two for the player whose army has the lower Strategy Rating.footnote:tie-break[If both armies have the same Strategy Rating then at the start of the game roll-off to decide which army gets the advantage for this game.]
 
 . Where the turn sequence instructs you to "Determine the Initiative", one player must draw a counter from the mug.
 The player whose counter is drawn has the Initiative.
@@ -21,3 +21,7 @@ The player whose counter is drawn has the Initiative.
 . That player has the Initiative until the next "Determine the Initiative" step in the turn -- at which point they may get the Initiative again, or the opposing player may get it, depending upon what counter is drawn.
 +
 *Do not put the counters back into the mug until the next Start phase.*
+
+.Related information
+* xref:the-turn-sequence.adoc[]
+* xref:strategy-rating.adoc[]

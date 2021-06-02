@@ -16,7 +16,7 @@ The orders define *what* actions you can take with your units, and the phases in
 This sequence accommodates the new Start phase.
 ====
 
-.Sequence of play
+.Turn sequence
 [none]
 
 . *The Start phase*
