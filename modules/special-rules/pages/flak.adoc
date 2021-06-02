@@ -4,6 +4,11 @@ These units are specialised to shoot down enemy flyers and drop pods.
 Some use very sophisticated targeting devices and fast, accurate weapons systems.
 Others simply fill the air with so many munitions that they can hardly fail to get some hits.
 
+[NOTE.e40k]
+====
+We made these rules fit with the new Start phase.
+====
+
 ---
 
 {flak} units can attack flyers in one of two different ways, depending on what orders you give to their detachment.
