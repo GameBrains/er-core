@@ -6,13 +6,9 @@ Swarms of Tyranids that contain Synapse Creatures are controlled directly by the
 
 Apply these rules to detachments with the {synapse} ability:
 
-* If the detachment includes any units with the {synapse-creature} ability:
- ** The detachment has the {dauntless} ability so automatically passes all Leadership tests.
- ** The detachment has the {unbreakable} ability so cannot become broken.
+* While the detachment includes any {synapse-creature} units, apply the {dauntless} and {unbreakable} abilities.
 +
 NOTE: The detachment must retreat if it loses a close combat or firefight, but does not become broken.
-
-* If the detachment loses all its {synapse-creature} it loses the {dauntless} and {unbreakable} abilities.
 
 .Related information
 * xref:synapse-creature.adoc[]

@@ -4,6 +4,6 @@ These units have particularly heavy armour for their kind.
 
 ---
 
-Apply this rule to units that have the {armour-1} ability, relative to their base units:
+Where a unit has the {armour-1} ability, apply this change relative to their base unit:
 
 * Add +1 to their Armour value.

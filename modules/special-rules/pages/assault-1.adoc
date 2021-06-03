@@ -4,6 +4,6 @@ These units are exceptionally fierce or gifted at close combat; yet they are no 
 
 ---
 
-Apply this rule to units that have the {assault-1} ability, relative to their base units:
+Where a unit has the {assault-1} ability, apply this change relative to their base unit:
 
 * Add +1 to their Assault value.

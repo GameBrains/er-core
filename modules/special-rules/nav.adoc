@@ -63,7 +63,6 @@
   *** xref:hit-and-run.adoc[]
   *** xref:no-retreat.adoc[]
   *** xref:psychic-beacon.adoc[]
-  *** xref:ravenwing.adoc[]
   *** xref:regroup.adoc[]
   *** xref:stubborn.adoc[]
   *** xref:summon.adoc[] *NEW* updated name for 'summoning daemons'

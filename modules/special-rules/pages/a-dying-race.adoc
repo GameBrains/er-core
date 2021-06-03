@@ -4,9 +4,9 @@ For the Eldar, every casualty is a tragedy that puts them one step closer to the
 
 ---
 
-Apply these rules to detachments with the {a-dying-race} ability:
+Where your detachment has the {a-dying-race} ability:
 
-* If the detachment is wiped out, immediately remove D3 points from the player's army morale. [either/or]
+* If the detachment is destroyed, immediately subtract D3 points from your army morale.
 
 
 
