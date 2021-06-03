@@ -19,7 +19,7 @@
 
  ** xref:special-abilities.adoc[]
 
- ** Special abilities: unit design modifiers
+ ** Data sheet modifiers
   *** xref:armour-1.adoc[]
   *** xref:assault.adoc[]
   *** xref:assault-1.adoc[]
@@ -32,7 +32,7 @@
   *** xref:shootier.adoc[]
   *** xref:siege.adoc[]
 
- ** Special abilities: unit abilities
+ ** Unit abilities
   *** xref:artillery.adoc[]
   *** xref:cavalry.adoc[]
   *** xref:close-support.adoc[]
@@ -55,7 +55,7 @@
   *** xref:walker.adoc[]
   *** xref:war-engine-supreme-commander.adoc[] *NEW* this is just the ability to re-roll when supporting, for Dominatrixes and maybe add to Gargant Warlords
 
- ** Special abilities: detachment abilities
+ ** Detachment abilities
   *** xref:a-dying-race.adoc[]
   *** xref:brood-telepathy.adoc[]
   *** xref:dodge.adoc[]
@@ -69,7 +69,7 @@
   *** xref:synapse.adoc[]
   *** xref:unbreakable.adoc[]
 
- ** Special abilities: army abilities
+ ** Faction abilities
   *** xref:ork-initiative.adoc[]
   *** xref:tyranid-objectives.adoc[]
 
