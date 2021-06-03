@@ -1,14 +1,16 @@
 = Synapse
 
-Swarms of Tyranids that contain Synapse Creatures are controlled directly by the Hive Mind.
+Where Synapse creatures are present, the Tyranid Hive Mind is able to impose maximum control over its swarms. 
 
 ---
 
-Apply these rules to detachments with the {synapse} ability:
+Where your detachment has the {synapse} ability:
 
 * While the detachment includes any {synapse-creature} units, apply the {dauntless} and {unbreakable} abilities.
 +
-NOTE: The detachment must retreat if it loses a close combat or firefight, but does not become broken.
+NOTE: If you lose a close combat or firefight with the detachment then it does not become Broken
+
+{blank}[TODO: What about the Retreat move?]
 
 .Related information
 * xref:synapse-creature.adoc[]

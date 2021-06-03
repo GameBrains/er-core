@@ -12,3 +12,6 @@ In comparison to _Epic 40,000_, we've separated this ability from parts of the D
 Where your detachment has the {dauntless} ability:
 
 * You automatically pass any Leadership test that you are required to make for this detachment.
+
+.Related information
+* xref:main-rules:leadership-test.adoc[]

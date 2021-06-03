@@ -5,6 +5,8 @@ Many units in the game specialise in particular aspects of war, or have unusual 
 Rather than have lots of separate profiles and bespoke special rules, we represent these variants and specialisms with rules for various *special abilities*.
 Special abilities modify the characteristics in the unit's data sheet, or add rules that change other aspects of how the unit behaves in the game.
 
+{blank}[TODO: Amend to cover detachment abilities and faction rules.]
+
 If a unit has any special abilities then we state this on the unit's data sheet.
 Or in some cases, the army lists offer particular special abilities as upgrades to specific units.
 Where a unit has multiple abilities, apply their effects in combination.
@@ -22,20 +24,15 @@ So the {psyker} ability is part of the Space Marine Librarian unit entry.
 
 == Types of special ability
 
-Special abilites come in several different forms:
+Data sheet modifiers:: These abilities to not provide special effects.
+Rather, they modify the characteristics in the unit's data sheet.
+For example the {heavy-weapons} ability changes the unit's Range and Firepower.
 
-=== Data sheet modifiers
+Unit abilities:: These abilities provide special effects that you may use with that unit.
+For example: you may be able to use {save} to 'save' the unit from a hit so that you don't have to remove it as a casualty; {jump-packs} gives the unit enhanced movement effects.
 
-These are the abilities that modify the characteristics in the unit's data sheet, rather than having special effects during a game. For example the {heavy-weapons} ability changes the unit's Range and Firepower.
+Detachment abilities:: These abilities change the behaviour of an entire detachment.
+For example, {hit-and-run} allows you to make a Retreat move with the detachment even after you win a close combat or firefight.
 
-=== Unit abilities
-
-Thwse abilities can be used during a game, for example a {save} can protect a unit from a hit that it takes, while {jump-packs} give the unit enhanced movement.
-
-=== Detachment abilities
-
-These abilities change the behaviour of an entire detachment during a game, for example {hit-and-run} allows detachments to make a Retreat move after winning a close combat or firefight.
-
-=== Faction abilities
-
-These abilities affect entire armies, for example the Ork army's {ork-initiative} rule that allows them to place Initiative counters back into the mug at the start of the Assault phase.
+Faction abilities:: These abilities affect an entire army.
+For example, when you field an Ork army the {ork-initiative} rule lets you place Initiative counters back into the mug at the start of the Assault phase.

@@ -1,9 +1,20 @@
 = Unbreakable
 
-Some troops have such high morale, or lack of individual willpower, that they never break. For example War Engines, and Tyranid Swarms with Synapse Creatures.
+Some troops have such high morale, or lack of individual willpower, that they never break.
+
+[NOTE.e40k]
+====
+In comparison to _Epic 40,000_, we've separated this ability from part of the Tyranid Synapse Creatures rules.
+====
 
 ---
 
-Apply these rules to detachments with the {unbreakable} ability:
+Where your detachment has the {unbreakable} ability:
 
-* The detachment can never be broken.
+* The detachment can never become Broken.
+
+{blank}[TODO: What about the Retreat move? The "can never be broken" aspect of the original Tyranid Synapse Creatures rule includes text about this: link:https://thehobby.zone/resources/e40k-compendium/Content/Armies/ArmiesOfTheTyranids/HiveFleetArmyList.htm[Hive Fleet army list^] (external URL). And this is different to link:https://thehobby.zone/resources/e40k-compendium/Content/SpecialRules/WarEngines/NoRetreatNoSurrender.htm[No retreat, no surrender] for war engines.]
+
+.Related information
+* xref:main-rules:orders-and-conditions.adoc[]
+* xref:main-rules:broken-detachments.adoc[]

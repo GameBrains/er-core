@@ -1,3 +1,0 @@
-= Space Wolves
-
-See xref:assault-1.adoc[].
