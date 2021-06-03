@@ -2,6 +2,10 @@
 
 These units are exceptionally fierce or gifted at close combat; yet they are no less capable or less equipped for ranged combat than others of their kind.
 
+[NOTE.e40k]
+====
+This ability is equivalent to _Space Wolves_ in _Epic 40,000_ -- we call it {assault-1} instead so as not to imply that the ability is faction-specific.
+====
 ---
 
 Where a unit has the {assault-1} ability, apply this change relative to their base unit:
