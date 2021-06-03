@@ -37,7 +37,7 @@ More on terrain and the line of fire:
 +[TODO: Should we refine this? I like the rule in Epic Armageddon which says that for terrain like buildings and woods, units can see up to 10cm into/out of/within but not through (into and out of).]+
 * Units which have a high enough viewpoint can draw a line of fire over terrain that is lower down -- and the reverse is also true, of course.
 
-{blank}[TODO: Integrate more detail either here or by reference to another topic. See link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_LineOfFire.htm[FAQ: Line of Fire] (external URL).]
+{blank}[TODO: Integrate more detail either here or by reference to another topic. See link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_LineOfFire.htm[FAQ: Line of Fire^] (external URL).]
 
 == Fire arc
 
