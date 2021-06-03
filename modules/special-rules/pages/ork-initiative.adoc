@@ -4,7 +4,7 @@ Always ready for a krumpin, Orks will often charge into melee before the enemy h
 
 ---
 
-Apply these rules to Ork armies:
+When you field an Ork army, apply this rule:
 
 * Before drawing an Initiative counter in the Assault phase, put any already-drawn Ork Initiative counters back into the mug.
 

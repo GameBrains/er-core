@@ -5,7 +5,7 @@ It doesn't seek to hold ground or capture objectives.
 
 ---
 
-Apply these rules to Tyranid armies:
+When you field a Tyranid army, apply these rules:
 
 * The army does not use objectives, regardless of what scenario you play.
 * If an enemy detachment is wiped out, add its morale value to the Tyranid player's army morale in the Rally phase. [either/or]
