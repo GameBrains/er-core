@@ -1,0 +1,10 @@
+= Unit abilities
+
+These abilities provide special effects that you may use with the units that they apply to.
+
+.Unit abilities
+====
+You may be able to use {save} to 'save' the unit from a hit so that you don't have to remove it as a casualty
+
+{jump-packs} gives the unit enhanced movement effects.
+====

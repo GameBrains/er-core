@@ -21,18 +21,3 @@ This upgrades the basic Imperial Guard unit entry to include the {psyker} abilit
 In contrast, a Space Marine Librarian is a psyker and is integral to the unit of the same name.
 So the {psyker} ability is part of the Space Marine Librarian unit entry.
 ====
-
-== Types of special ability
-
-Data sheet modifiers:: These abilities to not provide special effects.
-Rather, they modify the characteristics in the unit's data sheet.
-For example the {heavy-weapons} ability changes the unit's Range and Firepower.
-
-Unit abilities:: These abilities provide special effects that you may use with that unit.
-For example: you may be able to use {save} to 'save' the unit from a hit so that you don't have to remove it as a casualty; {jump-packs} gives the unit enhanced movement effects.
-
-Detachment abilities:: These abilities change the behaviour of an entire detachment.
-For example, {hit-and-run} allows you to make a Retreat move with the detachment even after you win a close combat or firefight.
-
-Faction abilities:: These abilities affect an entire army.
-For example, when you field an Ork army the {ork-initiative} rule lets you place Initiative counters back into the mug at the start of the Assault phase.
