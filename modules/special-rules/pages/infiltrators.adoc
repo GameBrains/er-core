@@ -4,7 +4,7 @@ These units are the expert scouts and commandos who gather information, set ambu
 
 ---
 
-Apply these rules to {infiltrators} units:
+Apply these rules to units with the {infiltrators} ability:
 
 * Count them as *in command* while they are within 60cm of their HQ unit, rather than the usual 30cm.
 However, they are still destroyed if they become Broken and they are more than 30cm away from their HQ unit.
