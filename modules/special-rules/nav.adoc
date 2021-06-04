@@ -92,6 +92,8 @@
   *** xref:rearm-and-refuel.adoc[]
   *** xref:ground-attack.adoc[]
   *** xref:transport.adoc[]
+  *** xref:evac-evac.adoc[]
+  *** xref:counter-strike.adoc[]
   *** xref:interception.adoc[]
   *** xref:flyers-and-flak.adoc[]
   *** xref:hits-on-flyers.adoc[]

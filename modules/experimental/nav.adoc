@@ -6,7 +6,3 @@
   *** xref:open-top.adoc[]
   *** xref:ordo-malleus.adoc[]
   *** xref:recovery.adoc[]
-
-** xref:optional-flyer-missions.adoc[]
- *** xref:evac-evac.adoc[]
- *** xref:counter-strike.adoc[]

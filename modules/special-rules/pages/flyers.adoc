@@ -1,5 +1,2 @@
 = Flyers
 
-.Optional extras
-* xref:experimental:evac-evac.adoc[]
-* xref:experimental:counter-strike.adoc[]
