@@ -8,9 +8,6 @@ Where your detachment has the {synapse} ability:
 
 * While the detachment includes any {synapse-creature} units, apply the {dauntless} and {unbreakable} abilities.
 +
-NOTE: If you lose a close combat or firefight with the detachment then it does not become Broken
-
-{blank}[TODO: What about the Retreat move?]
 
 .Related information
 * xref:synapse-creature.adoc[]

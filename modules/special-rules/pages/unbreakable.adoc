@@ -13,8 +13,9 @@ Where your detachment has the {unbreakable} ability:
 
 * The detachment can never become Broken.
 
-{blank}[TODO: What about the Retreat move? The "can never be broken" aspect of the original Tyranid Synapse Creatures rule includes text about this: link:https://thehobby.zone/resources/e40k-compendium/Content/Armies/ArmiesOfTheTyranids/HiveFleetArmyList.htm[Hive Fleet army list^] (external URL). And this is different to link:https://thehobby.zone/resources/e40k-compendium/Content/SpecialRules/WarEngines/NoRetreatNoSurrender.htm[No retreat, no surrender] for war engines.]
+NOTE: If you lose a close combat or firefight with the detachment then it must still make a Retreat move, unless it also has the (no-retreat} ability.
 
 .Related information
 * xref:main-rules:orders-and-conditions.adoc[]
 * xref:main-rules:broken-detachments.adoc[]
+* xref:no-retreat.adoc[]
