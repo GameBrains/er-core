@@ -30,10 +30,8 @@ And in spite of all the marketing buzz words, most software for writing projects
 
 So, while we could work *hard* with word processors/wikis/forums/whatever, I'd much rather we work *smart*...
 
-To this end, I've been experimenting with technologies that facilitate a zero-cost 'docs like code' approach -- see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[this article on gov.uk, window=_blank] for a general idea of what this means.
-(The main point is that it becomes much easier to manage content, collaboration and publishing.)
-
-I think that this approach will really help to bring vitality to the project in a way that traditional writing tools and processes just can't.
+So, I've chosen technologies that facilitate a 'docs like code' approachfootnote:[For a general idea of what this means, see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[Why we use a ‘docs as code’ approach for technical documentation^] (external URL).].
+I think that this will help to bring vitality to the project in a way that traditional writing tools and processes just can't.
 
 _Eric Weston_
 ****
@@ -45,7 +43,7 @@ But there are some early drafts of content in progress, including:
 * *xref:core::index.adoc[Core]* component: The main body of the project.
 At the moment this contains drafts of introductory, main rules and some special rules content.
 * *xref:contributors-guide::index.adoc[Contributor's Guide]* component: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
-* *xref:experimental::index.adoc[Experimental]* component: An area where we can work on ideas, away from the Core component.
+//* *xref:experimental::index.adoc[Experimental]* component: An area where we can work on ideas, away from the Core component.
 
 TIP: To switch between components, use the component menu at the bottom of the navigation panel.
 
@@ -68,7 +66,7 @@ However, we should be able to integrate one soon -- working examples exist.
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
 
 == Discussion
-Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[+EPIC 40K Remastered+, window=_blank].
+Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40K Remastered^] (external URL).
 
 == Copyright and licence
 
