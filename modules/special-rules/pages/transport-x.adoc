@@ -10,7 +10,6 @@ Where your unit has the {transport} ability:
 For example, the Rhino has {transport-2} -- so you can embark up to two Infantry units in a Rhino, as we explain in the main transport rules.
 
 NOTE: A {transport} unit does not gain the abilities of embarked units.
-For example a {transport} unit that carries a unit with the {save} ability does not gain the {save} ability.
 
 .Related information
 * xref:main-rules:transport.adoc[]
