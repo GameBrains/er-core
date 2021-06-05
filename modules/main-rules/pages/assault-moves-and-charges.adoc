@@ -27,3 +27,9 @@ This is the only time that you may move your units into base contact with enemy 
 * For a charge, you may double the Speed value of *infantry* units *if* this will bring them into base contact with enemy units.
 * If you don't get at least one unit into base contact with an enemy then there is no charge and there will be no close combat.
 (Though there will be a firefight if any units are within 15cm of the enemy.)
+* Where a unit has a split Speed value such as 20/30 cm, you may use the second value if this would bring the unit into contact with an enemy. You *cannot* double the Speed value of the unit during an Assault move. +
++
+[NOTE.e40k]
+====
+Split Speed values make abilities like {cavalry} and {jump-packs} easier to show in data sheets.
+====

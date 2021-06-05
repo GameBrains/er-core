@@ -4,11 +4,34 @@ Equipped with a variety of jet packs, wings etc, these units take long bounding 
 
 ---
 
-Apply these rules to {jump-packs} units:
+Where your unit has the {jump-packs} ability, apply this change relative to their base unit:
 
-* Double their original Speed value.
-* During Assault moves, their original Speed value is tripled if this will bring them into base contact with enemy units, or doubled if it won't.
-* During Assault moves, they can move over enemy units that have already been contacted.footnote:[This is a popular change to the original rules.]
-* During any move, they ignore the effects of terrain as long as they don't end their move in the terrain.
+* The unit has a split Speed value. The first value is double the base unit's Speed value and the second is triple the base unit's Speed value.
+
+.{jump-packs} data sheet modifiers
+====
+A Swooping Hawks unit is an Aspect Warrior unit with the {jump-packs} ability.
+
+* The base unit's Speed value of 15 cm becomes 30/45 cm.
+====
+
+---
+
+Where your unit has the {jump-packs} ability, apply these rules during the game:
+
+* While moving the unit, you can ignore the effects of terrain as long as the unit doesn't end their move in the terrain.
+* During Assault moves, you can move the unit over enemy units that have already been contacted.
+
+[NOTE.e40k]
+====
+Being able to move over contacted units during Assault moves has been added after player discussion.
+====
 
 +[TODO: Decide if terrain effects apply if they *start* their move in terrain.]+
+
+
+.Related information
+* xref:main-rules:data-sheets-and-characteristics.adoc[]
+* xref:main-rules:units-and-unit-types.adoc[]
+* xref:main-rules:terrain-effects-on-movement.adoc[]
+* xref:main-rules:assault-moves-and-charges.adoc[]

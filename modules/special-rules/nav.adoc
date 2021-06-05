@@ -22,6 +22,7 @@
    **** xref:armour-1.adoc[]
    **** xref:assault.adoc[]
    **** xref:assault-1.adoc[]
+   **** xref:cavalry.adoc[]
    **** xref:fast.adoc[]
    **** xref:firepower-1.adoc[]
    **** xref:heavy-weapons.adoc[]
@@ -30,10 +31,9 @@
    **** xref:self-propelled-artillery.adoc[]
    **** xref:shootier.adoc[]
    **** xref:siege.adoc[]
- 
+
   *** xref:unit-abilities.adoc[]
    **** xref:artillery.adoc[]
-   **** xref:cavalry.adoc[]
    **** xref:close-support.adoc[]
    **** xref:flak.adoc[]
    **** xref:hitch-x.adoc[]
@@ -53,7 +53,7 @@
    **** xref:tunneller.adoc[]
    **** xref:walker.adoc[]
    **** xref:war-engine-supreme-commander.adoc[]
- 
+
   *** xref:detachment-abilities.adoc[]
    **** xref:a-dying-race.adoc[]
    **** xref:brood-telepathy.adoc[]
@@ -67,7 +67,7 @@
    **** xref:summon.adoc[]
    **** xref:synapse.adoc[]
    **** xref:unbreakable.adoc[]
- 
+
   *** xref:army-abilities.adoc[]
    **** xref:ork-initiative.adoc[]
    **** xref:tyranid-objectives.adoc[]
