@@ -1,7 +1,7 @@
 = Data sheet modifiers
 
-These abilities to not provide special rules effects.
-Rather, they modify the characteristics in the unit's data sheet.
+These abilities do not provide special rules effects.
+Rather, they modify the characteristic values on unit data sheets.
 
 .Data sheet modifiers
 ====

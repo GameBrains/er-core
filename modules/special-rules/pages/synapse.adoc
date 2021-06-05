@@ -7,7 +7,6 @@ Where Synapse creatures are present, the Tyranid Hive Mind is able to impose max
 Where your detachment has the {synapse} ability:
 
 * While the detachment includes any {synapse-creature} units, apply the {dauntless} and {unbreakable} abilities.
-+
 
 .Related information
 * xref:synapse-creature.adoc[]

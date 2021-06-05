@@ -4,7 +4,7 @@ Some troops are so disciplined or relentless that they never flinch in the face 
 
 [NOTE.e40k]
 ====
-In comparison to _Epic 40,000_, we've separated this ability from parts of the Dark Angels Deathwing and Tyranid Synapse Creatures rules.
+In comparison to _Epic 40,000_, we derived this ability from parts of the Dark Angels Deathwing and Tyranid Synapse Creatures rules.
 ====
 
 ---

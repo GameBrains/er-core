@@ -5,7 +5,7 @@ This gives the Cult strong morale.
 
 ---
 
-Apply these rules to detachments with the {brood-telepathy} ability:
+Where your detachment has the {brood-telepathy} ability:
 
 * While the detachment includes any {synapse-creature} units, apply the {dauntless} ability.
 

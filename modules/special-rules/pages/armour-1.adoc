@@ -1,6 +1,6 @@
 = Armour +1
 
-These units have particularly heavy armour for their kind.
+These units have particularly effective armour for their kind.
 
 ---
 
