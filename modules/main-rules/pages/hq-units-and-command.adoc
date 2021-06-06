@@ -12,8 +12,8 @@ Use a suitable marker or other device to keep track, so that both you and your o
 
 == In command and out of command
 
-As long as a unit is within 30cm of its detachment HQ at the start of a phase then it is *in command*.
-If a unit is more than 30cm away from its detachment HQ at the start of a phase -- or if none of the units that remain in the detachment match a kind specified in the chain of command -- then such units are *out of command*.
+As long as a unit is within 30 cm of its detachment HQ at the start of a phase then it is *in command*.
+If a unit is more than 30 cm away from its detachment HQ at the start of a phase -- or if none of the units that remain in the detachment match a kind specified in the chain of command -- then such units are *out of command*.
 
 [NOTE]
 ====
@@ -28,7 +28,7 @@ In command units can move and/or shoot in that phase, according to the orders yo
 .In command
 ====
 You have an Ork Mob detachment in your army.
-At the start of the Movement phase, all of the units in this detachment are within 30cm of their HQ, so they are in command and you may move them all.
+At the start of the Movement phase, all of the units in this detachment are within 30 cm of their HQ, so they are in command and you may move them all.
 ====
 
 === Out of command
@@ -41,7 +41,7 @@ Check to see whether units are in command or not at the start of each phase, as 
 
 .Out of command
 ====
-When you check at the start of the Shooting phase, you realise that you got a bit carried away earlier -- two of your Ork Boyz units are now more than 30cm away from their HQ, and so they are out of command.
+When you check at the start of the Shooting phase, you realise that you got a bit carried away earlier -- two of your Ork Boyz units are now more than 30 cm away from their HQ, and so they are out of command.
 Though you may move and shoot as normal with the rest of the detachment, you may not do so with these two units until they are in command at the start of a future phase.
 
 In practice this means that you may not shoot with these units in the current Shooting phase.

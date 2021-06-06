@@ -5,8 +5,8 @@ We explain special abilities in more detail at xref:special-rules:transport-x.ad
 
 Units that have the {transport} special ability can carry other units across the battlefield.
 
-* To embark or disembark other units (or cargo) it costs the {transport} unit 5cm of its movement.
-* An embarking or disembarking unit must also pay 5cm of its movement.
+* To embark or disembark other units (or cargo) it costs the {transport} unit 5 cm of its movement.
+* An embarking or disembarking unit must also pay 5 cm of its movement.
 * You may embark and disembark units in the same turn, the same phase or even in the same move -- so long as all of the involved units have enough movement.
 * You may perform no other actions with units that are embarked -- so, you cannot shoot with them, for example. 
 Obviously, once you disembark them then the normal rules apply again.

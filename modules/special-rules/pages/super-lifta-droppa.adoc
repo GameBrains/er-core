@@ -13,7 +13,7 @@ When you shoot with a {super-lifta-droppa}:
 . You can target Vehicle and War Engine units, but not Infantry units.
 . To hit and lift the target unit, roll a D6: You need to score higher than the initial Damage Capacity value of the target unit.
 (Vehicle units have a Damage Capacity value of 1; War Engine units vary, so check their data sheet.)
-. For each point by which your score is higher than the target unit's initial Damage Capacity value, you can move it up to 1cm in any direction to determine where the {super-lifta-droppa} will drop it.
+. For each point by which your score is higher than the target unit's initial Damage Capacity value, you can move it up to 1 cm in any direction to determine where the {super-lifta-droppa} will drop it.
 . The target unit is dropped at the spot you chose, and is automatically destroyed -- if it is a War Engine unit, roll on its Catastrophic Damage table immediately.
 . If there is a secondary target at the spot where the target unit is dropped, roll a D6: On a result of 4+ the secondary target takes a hit.
 

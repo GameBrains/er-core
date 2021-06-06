@@ -4,17 +4,17 @@ During the Assault phase you may only move and attack with detachments that you 
 
 == Movement in the Assault phase
 
-For all your detachments that are on Assault orders, you *must* move all of their units *at least 5cm* towards the enemy if you can.
+For all your detachments that are on Assault orders, you *must* move all of their units *at least 5 cm* towards the enemy if you can.
 
 IMPORTANT: For detachments that have Blast markers on them, you must pass a Leadership test before you can move them.
 
-* You don't have to move these units more than 5cm, unless you want to.
+* You don't have to move these units more than 5 cm, unless you want to.
 +
 (You may simply want to manoeuvre into range for a firefight or to grab an objective, for example.)
 +
 However, you may not move assaulting units *past* any enemy units footnote:[To avoid a lengthy explanation here we discuss this in more detail at +[TODO: FAQ -- Moving past in the Assault phase]+.] -- unless those enemies are already engaged in close combat with other friendly units.
 * You must move these units towards the enemy -- but not necessarily towards the _nearest_ enemy.
-* You can move these units less than 5cm *only* where they charge into close combat (base contact) with enemy units that are within 5cm.
+* You can move these units less than 5 cm *only* where they charge into close combat (base contact) with enemy units that are within 5 cm.
 
 Otherwise, moves in the Assault phase are subject to all the rules we described for the Movement phase -- except that the Snap-fire rule does not apply in the Assault phase.
 
@@ -23,7 +23,7 @@ Otherwise, moves in the Assault phase are subject to all the rules we described 
 As you move detachments in this phase, you may declare that any or all of them will *charge* so that they become engaged in close combat with the enemy.
 This is the only time that you may move your units into base contact with enemy units.
 
-* You don't have to declare and make a charge into close combat unless you want to, with one exception: If you can only meet the 'must move towards the enemy' requirement by moving toward an enemy that has units that are within 5cm of your units, then you must charge and place units in base contact.
+* You don't have to declare and make a charge into close combat unless you want to, with one exception: If you can only meet the 'must move towards the enemy' requirement by moving toward an enemy that has units that are within 5 cm of your units, then you must charge and place units in base contact.
 * For a charge, you may double the Speed value of *infantry* units *if* this will bring them into base contact with enemy units.
 * If you don't get at least one unit into base contact with an enemy then there is no charge and there will be no close combat.
-(Though there will be a firefight if any units are within 15cm of the enemy.)
+(Though there will be a firefight if any units are within 15 cm of the enemy.)
