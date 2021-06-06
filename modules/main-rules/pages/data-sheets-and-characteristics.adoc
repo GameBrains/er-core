@@ -8,7 +8,7 @@ Each unit is defined by a set of characteristics that tell you how fast and how 
 ====
 Most units have a very simple data sheet that looks something like these:
 
-[options="header"]
+[options="header",cols="1,6*^,1"]
 |===
 |Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
 
