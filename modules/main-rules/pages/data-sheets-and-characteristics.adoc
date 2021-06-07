@@ -59,12 +59,8 @@ Speed:: The distance that you can move the unit in a single movement action (in 
 It represents a rate at which the unit can move across the battlefield and still be effective when it shoot its weapons.
 You can give units orders that allow you to move units farther than this, but their shooting will suffer. +
 +
-Where a unit has a split Speed value such as 20/30 cm, use the first value for all purposes except Assault moves.
-+
-[NOTE.e40k]
-====
-Split Speed values make abilities like {cavalry} and {jump-packs} easier to show in data sheets.
-====
+Some unit data sheets show a split Speed value such as `20/30 cm`.
+For more about this, see xref:assault-moves-and-charges.adoc[].
 
 Range:: The maximum effective distance of the unit's weaponry (in centimetres).
 
@@ -86,7 +82,3 @@ Both Space Marines and Orks are tough but the Space Marines' power armour makes 
 Notes:: If any special rules apply to the unit then we note this here.
 You'll find explanations of the effects of these rules at xref:special-rules:special-rules.adoc[].
 As you can see, the rules for {rapid-fire} and {stubborn} apply to Space Marines, whereas no special rules apply to Ork Boyz.
-
-.Related information
-* xref:special-rules:cavalry.adoc[]
-* xref:special-rules:jump-packs.adoc[]

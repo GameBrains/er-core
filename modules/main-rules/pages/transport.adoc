@@ -11,6 +11,19 @@ Units that have the {transport} special ability can carry other units across the
 * You may perform no other actions with units that are embarked -- so, you cannot shoot with them, for example.
 Obviously, once you disembark them then the normal rules apply again.
 
+[NOTE]
+.Placement of disembarked units
+====
+When you disembark units, measure their movement from the base of the {transport} unit.
+If you do not have enough movement to clear the {transport} unit's base then place the disembarked unit in base contact with the {transport} unit.
+====
+
+[NOTE.e40k]
+.Placement of disembarked units
+====
+We've added this rule to minimise the effects that result from the assortment of different base sizes that players use.
+====
+
 == Destruction of {transport} units
 
 If a {transport} unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit:

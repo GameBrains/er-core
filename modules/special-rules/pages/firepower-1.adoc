@@ -2,8 +2,13 @@
 
 These units are especially potent at range for their kind.
 
+[NOTE.e40k]
+====
+We've created this ability to allow more flexibility in unit design.
+====
+
 ---
 
-Apply this rule to units that have the {firepower-1} ability, relative to their base units:
+Where your unit has the {firepower-1} ability, apply this change relative to their base unit:
 
 * Add +1 to their Firepower value.
