@@ -60,7 +60,8 @@ It represents a rate at which the unit can move across the battlefield and still
 You can give units orders that allow you to move units farther than this, but their shooting will suffer. +
 +
 Some unit data sheets show a split Speed value such as `20/30 cm`.
-For more about this, see xref:assault-moves-and-charges.adoc[].
+Use the first value for all movement, except where the rules tell you otherwise.
+For information about the second value, see xref:assault-moves-and-charges.adoc[].
 
 Range:: The maximum effective distance of the unit's weaponry (in centimetres).
 
