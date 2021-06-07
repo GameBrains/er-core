@@ -4,6 +4,6 @@ Space Marines are known for their stubborn determination, and yet troops like th
 
 ---
 
-Apply these rules to detachments with the {regroup} ability:
+Where your detachment has the {regroup} ability:
 
 * In the Rally phase, remove an additional Blast marker. For example D6 Blast markers rather than the usual D6-1.
