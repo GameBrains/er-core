@@ -1,15 +1,23 @@
 = Holo-fields
 
-Projecting a swirling, fractured image, Holo-fields make it almost impossible to pinpoint the precise location of an Eldar Titan. Eldar Titans lack the thick armour or resilience of other races' Titans as they rely on not being hit.
+This unique technology projects a field that can hide an Eldar titan in a colourful but diffuse and baffling appearance.
+This makes it almost impossible for the enemy to pinpoint the precise location of the titan -- it can thwart even the most advanced targetting systems.
+
+However, Eldar titans are of light construction -- they are built for speed and agility, not resilience.
 
 ---
 
-Apply these rules to units with the {holo-fields} ability:
+Where your unit has the {holo-fields} ability:
 
-* Each time the unit suffers a hit, from any source, roll a die. On a roll of 2+, the hit is ignored and causes no damage.
-* The {holo-fields} ability applies to attacks that ignore void shields and power fields.
-* Any unsaved hit on the unit is automatically a critical hit. Attacks which already automatically cause critical hits only cause one critical hit.
+* Each time the unit suffers a hit, from any source, roll a die for a {holo-fields} save:
+ ** *2+*: Successful save, ignore the hit -- it causes no damage.
+ (But place Blast markers as normal.)
+ ** *1*: Unsuccessful save, apply the hit as normal.
+* Any time that you must apply a hit to the unit, your opponent also *automatically* gets to roll on the Critical Damage table on the data sheet for your unit.
++
+If the hit comes from an attack that would normally cause automatic critical damage anyway, there is no added effect -- your opponent gets only the one roll on the table, per hit.
 
-NOTE: Saved hits still count as hits for placing Blast markers.
+NOTE: While some attacks ignore void shields and power fields, these do *not* ignore holo-fields.
 
-NOTE: Holo-fields have no effect when beaten in close combat by an enemy war engine with {close-combat-weapons}, as the loser automatically suffers catastrophic damage.
+NOTE: If a war engine uses {close-combat-weapons} and it wins a close combat, then it automatically inflicts catastrophic damage.
+This is not a 'hit', so the {holo-fields} ability offers no protection against this.
