@@ -31,7 +31,7 @@ Most units have a very simple data sheet that looks something like these:
 |{rapid-fire}, {stubborn}
 
 |Space Marine Rhino
-|AV
+|VEH
 |30cm
 |-
 |0

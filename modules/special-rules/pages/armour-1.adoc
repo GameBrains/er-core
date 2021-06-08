@@ -2,6 +2,12 @@
 
 These units have particularly effective armour for their kind.
 
+[NOTE.e40k]
+====
+We derived this ability from part of the rules for the _Cavalry_ ability in _Epic 40,000_.
+This allows more flexibility in unit design.
+====
+
 ---
 
 Where a unit has the {armour-1} ability, apply this change relative to their base unit:
