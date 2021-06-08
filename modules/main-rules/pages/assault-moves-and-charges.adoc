@@ -33,9 +33,9 @@ Of course you may move more units into base contact, where they can reach.
 You can benefit from a special increase to the Speed value of some particular units when you make a charge move with them.
 (Remember, it is only a charge move if the units will get into base contact with the enemy -- you don't get the increase if they won't get into base contact.)
 
-* You may double the Speed value of any *Infantry* unit.
-* Where a unit has a split Speed value such as `20/30 cm`, you may *not* double the first value -- use the second value instead.
-* For any other unit, must use their Speed value in the usual way.
+* You may double the Speed value of any *Infantry* unit, unless it has a split Speed value.
+* Where a unit has a split Speed value such as `20/30 cm`, use the second value.
+* For any other unit, use its Speed value in the usual way.
 +
 [NOTE.e40k]
 .Split Speed values
