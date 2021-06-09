@@ -1,6 +1,6 @@
 = Special abilities
 
-Many units in the game specialise in particular aspects of war, or have unusual abilities.
+Many forces in the game specialise in particular aspects of war, or have unusual abilities.
 
 Rather than have lots of separate profiles and bespoke special rules, we represent these variants and specialisms with rules for various *special abilities*.
 Special abilities modify the characteristics in unit data sheets, or add rules that change other aspects of how a unit, detachment or army behaves in the game.
