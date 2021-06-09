@@ -1,12 +1,20 @@
 = Ignore Terrain
 
-Able to slip through terrain easily, or simply barge through it regardless, units such as Hierodule and Hierophant Bio-Titans are never slowed by terrain.
+Some units can stalk with ease through terrain that is treacherous for others.
+
+[NOTE.e40k]
+====
+In comparison to _Epic 40,000_, we derived this ability from part of the rules for Tyranid war engines.
+This allows for more flexibility in unit design.
+====
 
 ---
 
-Apply these rules to units with the {ignore-terrain} ability:
+Where your unit has the {ignore-terrain} ability:
 
-* While moving, the unit can cross dangerous and impassible terrain and does not take dangerous terrain tests.
+* While you move the unit, you can have it cross dangerous terrain without need for a dangerous terrain test, or even cross impassable terrain.
++
+{blank}[TODO: Should we qualify this to the effect that you can't end a move on impassable terrain (probably best), or at least that you can't end a chain of moves on impassable terrain?]
 
 .Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]
