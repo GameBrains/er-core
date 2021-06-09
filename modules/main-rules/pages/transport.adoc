@@ -16,7 +16,7 @@ To embark or disembark a unit:
 
 * You must sacrifice 5 cm from the movement of the {transport} unit.
 * You must sacrifice 5 cm from the movement of the unit that you embark or disembark.
-* You may embark and disembark units in the same turn, the same phase or even in the same move -- so long as all of the involved units have enough movement allowance.
+* You may embark and disembark units in the same turn, the same phase or even in the same move -- so long as all of the involved units have enough movement.
 
 You may perform no other actions with units that are embarked -- so, you cannot shoot with them, for example.
 Obviously, once you disembark them then the normal rules apply again.
