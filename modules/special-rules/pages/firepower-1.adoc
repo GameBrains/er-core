@@ -9,6 +9,6 @@ We've created this ability to allow more flexibility in unit design.
 
 ---
 
-Where your unit has the {firepower-1} ability, apply this change relative to their base unit:
+Where your unit has the {firepower-1} ability, apply this change relative to its base unit:
 
-* Add +1 to their Firepower value.
+* Add +1 to its Firepower value.

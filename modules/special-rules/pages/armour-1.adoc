@@ -10,6 +10,6 @@ This allows more flexibility in unit design.
 
 ---
 
-Where a unit has the {armour-1} ability, apply this change relative to their base unit:
+Where your unit has the {armour-1} ability, apply this change relative to its base unit:
 
-* Add +1 to their Armour value.
+* Add +1 to its Armour value.
