@@ -7,7 +7,7 @@ The resultant speed and mobility usually makes for good assault troops.
 
 Where your unit has the {jump-packs} ability, apply this change relative to its base unit:
 
-* Create a split Speed value.
+* Make its Speed value into a split Speed value.
 Make the first value twice (2x) the Speed value of the base unit, and the second value three times (3x) the Speed value of the base unit.
 
 .{jump-packs} data sheet modifiers
