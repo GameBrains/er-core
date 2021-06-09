@@ -26,7 +26,7 @@ An Imperial Guard Rough Rider unit is an Imperial Guard unit with added special 
 The {cavalry} ability means that:
 
 * While the base unit has a Speed value of 10 cm, that of the Rough Riders is 20/30 cm.
-* While the base unit has a unit type of Infantry, that of the Rough Riders is Vehicle.
+* While the base unit has a unit type of Infantry (INF), that of the Rough Riders is Vehicle (VEH).
 ====
 
 .Related information
