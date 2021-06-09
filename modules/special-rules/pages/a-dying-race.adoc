@@ -8,7 +8,5 @@ Where your detachment has the {a-dying-race} ability:
 
 * If the detachment is destroyed, immediately subtract D3 points from your army morale.
 
-
-
 .Related information
 * xref:battles:army-morale.adoc[]

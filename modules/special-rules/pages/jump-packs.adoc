@@ -34,6 +34,5 @@ We created this rule as part of efforts to rationalise and improve the rules for
 
 .Related information
 * xref:main-rules:data-sheets-and-characteristics.adoc[]
-* xref:main-rules:units-and-unit-types.adoc[]
 * xref:main-rules:terrain-effects-on-movement.adoc[]
 * xref:main-rules:assault-moves-and-charges.adoc[]

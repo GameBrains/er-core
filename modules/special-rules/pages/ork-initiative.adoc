@@ -1,16 +1,18 @@
 = Ork Initiative
 
-Always ready for a krumpin, Orks will often charge into melee before the enemy has even realised that the Orks are close enough to charge them!
+Always ready for a krumpin', Orks often charge into combat in an unstoppable rush that forces their enemies to take a reactive stance.
 
 ---
 
 When you field an Ork army, apply this rule:
 
-* Before drawing an Initiative counter in the Assault phase, put any already-drawn Ork Initiative counters back into the mug.
+* At the start of the Assault phase, before step "Determine the Initiative (4)", return to the mug any of your Initiative counters that have already been drawn.
 
-TIP: This makes it more likely that the Ork player will have the initiative and choose who will assault first.
+TIP: This makes it more likely that, as the Ork player, you will gain the Initiative in the Assault phase, and thus be able to choose whether to resolve your assaults first or second.
 
+{blank}[TODO: What about two opposing Ork armies? Cancel the ability, or put *all* counters back into the mug?]
 
 .Related information
+* xref:main-rules:the-turn-sequence.adoc[]
 * xref:main-rules:the-initiative.adoc[]
 * xref:main-rules:the-assault-phase.adoc[]
