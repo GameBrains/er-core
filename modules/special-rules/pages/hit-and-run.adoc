@@ -12,7 +12,7 @@ Apply these rules to detachments which have the {hit-and-run} ability:
 +
 In effect, your detachment attacks the enemy and then withdraws to safety to avoid a retaliatory assault from other nearby enemy detachments.
 +
-IMPORTANT: If any of the units in the detachment are within 15cm of the enemy at the end of the retreat move then they are destroyed, just as they are for Broken detachments. 
+IMPORTANT: If any of the units in the detachment are within 15 cm of the enemy at the end of the retreat move then they are destroyed, just as they are for Broken detachments. 
 
 .Related information
 * xref:main-rules:broken-detachments.adoc#retreat-move[Retreat move]

@@ -7,7 +7,7 @@ These units carry a bridge that they can deploy as needed, so that forces can cr
 You can use a {bridge} unit to place a bridge over a river, trench, ravine or similar terrain.
 
 * Place the bridge during the Rally phase.
-* The total span cannot be more than 10cm.
+* The total span cannot be more than 10 cm.
 Any non- War Engine unit may move over the bridge -- treat it as open ground.
 War engines are too big and heavy to use a bridge that is light enough to be deployed in the field.
 * You may place the bridge against a raised edge, such as a cliff or wall.

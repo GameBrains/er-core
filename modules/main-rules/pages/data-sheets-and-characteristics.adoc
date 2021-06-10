@@ -8,14 +8,14 @@ Each unit is defined by a set of characteristics that tell you how fast and how 
 ====
 Most units have a very simple data sheet that looks something like these:
 
-[options="header"]
+[options="header",cols="1,6*^,1"]
 |===
 |Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
 
 |Ork Boyz
 |INF
-|10cm
-|30cm
+|10 cm
+|30 cm
 |1
 |2
 |4+
@@ -23,16 +23,16 @@ Most units have a very simple data sheet that looks something like these:
 
 |Space Marines
 |INF
-|10cm
-|30cm
+|10 cm
+|30 cm
 |1
 |3
 |5+
 |{rapid-fire}, {stubborn}
 
 |Space Marine Rhino
-|VEH
-|30cm
+|AV
+|30 cm
 |-
 |0
 |0

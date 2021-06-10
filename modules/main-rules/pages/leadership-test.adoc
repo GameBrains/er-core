@@ -2,7 +2,7 @@
 
 When your detachment has one or more Blast markers on it, you must pass a Leadership test before you can move it under orders in any phase or set Overwatch orders.
 
-+[TODO: What happens if you try to set Overwatch orders and fail? Default to Advance orders I presume, and lose the chance to use any other orders? If you pass the test to *set* Overwatch orders, do you get to *move* up to 5cm under those orders without a further test?]+
++[TODO: What happens if you try to set Overwatch orders and fail? Default to Advance orders I presume, and lose the chance to use any other orders? If you pass the test to *set* Overwatch orders, do you get to *move* up to 5 cm under those orders without a further test?]+
 
 NOTE: A Broken detachment is not under orders and no Leadership test is required to make a Retreat move (see xref:broken-detachments.adoc[]).
 

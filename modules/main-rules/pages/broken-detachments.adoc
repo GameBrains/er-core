@@ -18,15 +18,15 @@ This is the only type of move you may make with a Broken detachment.
 [[retreat-move]]
 == Retreat move
 
-The Retreat move is a single move in which you may move all of the Broken units up to 20cm -- regardless of the actual Speed values of units.
+The Retreat move is a single move in which you may move all of the Broken units up to 20 cm -- regardless of the actual Speed values of units.
 
 * You may make the Retreat move in any direction, subject to the normal rules for terrain effects on movement.
-* If you end a Retreat move such that any Broken units are within 15cm of *any* enemy unit footnote:[Even Broken enemy units.], then they are *destroyed* -- remove those units as casualties.
+* If you end a Retreat move such that any Broken units are within 15 cm of *any* enemy unit footnote:[Even Broken enemy units.], then they are *destroyed* -- remove those units as casualties.
 (They are killed by the advancing enemy or scattered in the confusion -- they play no further part in the battle.)
 
 == The Broken condition and the 'out of command' rules
 
-If a Broken detachment has units that are out of command (that is, more than 30cm away from their detachment HQ unit) then those units are not affected -- they are not Broken and the out of command rules still apply to them.
+If a Broken detachment has units that are out of command (that is, more than 30 cm away from their detachment HQ unit) then those units are not affected -- they are not Broken and the out of command rules still apply to them.
 
 If units that are out of command become Broken, remove them as casualties immediately.
 There are no other effects on the parent detachment.
@@ -38,4 +38,4 @@ You may be able to rally Broken detachments in the End phase.
 
 .Related information
 * xref:hq-units-and-command.adoc[]
-* xref:test-to-rally-broken-detachments.adoc[]
+* xref:attempt-to-rally-broken-detachments.adoc[]

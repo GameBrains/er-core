@@ -26,15 +26,18 @@ NOTE: Hits from dangerous terrain do *not* cause critical damage on war engines.
 
 == [[roads]]Movement on roads
 
-Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5cm to its Speed value for that move.
+Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5 cm to its Speed value for that move.
 Apply this bonus to the unit's base Speed value, before modification.
 
 .Movement on roads
 ====
-A unit of Ork Boyz infantry is on March orders.
-The player will make the first two moves entirely on roads, and the third move will include open ground.
+An Ork Boyz Infantry unit is on March orders.
+Ork Boyz have a Speed value of 10 cm.
 
-So, the player could move the unit up to a total of 40cm: 30cm for the first two moves ((10cm Speed value + 5cm road bonus) x2 moves on roads) and up to 10cm for the third move.
+The player will make the first two moves entirely on roads, and the third move will include some open ground.
+
+So, the player could move the unit up to a maximum of 40 cm.
+That is, up to 30 cm for the first two moves that are on roads ((10 cm Speed value + 5 cm road bonus) x2), plus up to 10 cm for the third move that is over at least some open ground.
 ====
 
 .Related information

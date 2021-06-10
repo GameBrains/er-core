@@ -1,6 +1,6 @@
 = FF1. Calculate your Firepower total
 
-For each detachment you that have engaged in the firefight, add up all the Firepower values of every unit that is within 15cm of at least one enemy unit.
+For each detachment you that have engaged in the firefight, add up all the Firepower values of every unit that is within 15 cm of at least one enemy unit.
 
 * Halve a detachment's total if that detachment is under March orders or is subject to the Broken condition.
 

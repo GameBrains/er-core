@@ -29,7 +29,7 @@ We represent such attacks with special orders called Preparatory Bombardment.
 . Place the {special-orders} marker to indicate that the detachment is on Preparatory Bombardment orders.
 . You cannot move the {artillery} units for the rest of the turn.
 +[TODO: Though presumably you can move them in a withdrawal move if the detachment becomes Broken?]+
-You can move other units in the detachment up to 5cm.
+You can move other units in the detachment up to 5 cm.
 . You can make your preparatory bombardment attack either:
 ** Immediately before your opponent starts their part of the Movement phase.
 ** Immediately after your opponent ends their part of the Movement phase.

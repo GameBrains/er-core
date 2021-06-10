@@ -1,9 +1,9 @@
 = Multiple firefights
 
 You won't always have a simple one-on-one fight between two opposing detachments.
-As any detachment with units within 15cm of the enemy becomes engaged in a firefight automatically, firefights between multiple detachments are common.
+As any detachment with units within 15 cm of the enemy becomes engaged in a firefight automatically, firefights between multiple detachments are common.
 
-Where either side has more than one detachment that have units that are within 15cm of a particular enemy detachment, resolve this as a single large firefight.
+Where either side has more than one detachment that have units that are within 15 cm of a particular enemy detachment, resolve this as a single large firefight.
 
 You may very well find that you have a number of one-on-one and multi-detachment firefight engagements all in a single Assault phase.
 
@@ -11,8 +11,8 @@ You may very well find that you have a number of one-on-one and multi-detachment
 ====
 +[TODO: Need new example image and text.]+
 ////
-Here, 2 Space Marine detachments have cornered the Orks and both have units within 15cm.
-In the subsequent firefight they add together the firepower of all the units within 15cm, from both detachments.
+Here, 2 Space Marine detachments have cornered the Orks and both have units within 15 cm.
+In the subsequent firefight they add together the firepower of all the units within 15 cm, from both detachments.
 This gives them one total to compare with the Orks' firepower.
 If the Space Marines lose, both detachments will take a hit and receive a Blast marker. They will both become Broken and have to retreat.
 ////

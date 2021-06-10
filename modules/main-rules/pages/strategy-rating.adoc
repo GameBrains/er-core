@@ -2,6 +2,10 @@
 
 The Strategy Rating is a value that reflects the overall adaptability and tactical awareness of an army, relative to other armies.
 
-The main game effect of this value is to establish how many Initiative counters each player will get (as described at xref:the-initiative.adoc[].)
+The main game effect of this value is to establish how many Initiative counters each player will get.
 
 Each army list states the Strategy Rating value that applies for that army.
+
+.Related information
+* xref:the-initiative.adoc[]
+* xref:armies:armies.adoc[]
