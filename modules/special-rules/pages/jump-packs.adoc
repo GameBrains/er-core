@@ -1,2 +1,38 @@
 = Jump Packs
 
+These units are equipped with jet-powered devices or other technology, wings, or even powerful long legs that allow them to make long jumps across the battlefield.
+The resultant speed and mobility usually makes for good assault troops.
+
+---
+
+Where your unit has the {jump-packs} ability, apply this change relative to its base unit:
+
+* Make its Speed value into a split Speed value.
+Make the first value twice (2x) the Speed value of the base unit, and the second value three times (3x) the Speed value of the base unit.
+
+.{jump-packs} data sheet modifiers
+====
+A Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
+
+*  While the base unit has a Speed value of 15 cm, that of the Swooping Hawks is 30/45 cm.
+====
+
+---
+
+Where your unit has the {jump-packs} ability, apply these rules during the game:
+
+* While you move the unit, you can ignore the effects of terrain as long as you don't end any individual move in the terrain.
+Of course you can never end a move in impassable terrain; but if you end a move in dangerous terrain then you must make a dangerous terrain test for the unit.
++
+{blank}[TODO: This appears to be slightly different to other units, who must test if they start *or* end their move in dangerous terrain. Is this difference clear enough?]
+* When you make an Assault move {blank}[TODO: "charge move"?] with the unit, you can move it over enemy units that are already in base contact with your other units.
++
+[NOTE.e40k]
+====
+We created this rule as part of efforts to rationalise and improve the rules for Assault moves, after discussion with other players.
+====
+
+.Related information
+* xref:main-rules:data-sheets-and-characteristics.adoc[]
+* xref:main-rules:terrain-effects-on-movement.adoc[]
+* xref:main-rules:assault-moves-and-charges.adoc[]
