@@ -9,17 +9,19 @@ The number of Blast markers that you place on the target detachment depends upon
 .Blast marker table
 [cols="^,^2"]
 |===
-|Firepower |Blast markers
+|Firepower |Blast markers placed
 
-|1–7
-|One, if any hits are scored by the attack
+|1 to 7
+|One, if any hits are scored
 
-|8–15
+|8 to 15
 |One
 
-|16–23
+|16 to 23
 |Two
 
 |24 or more
 |Three
 |===
+
+//+[IJW editing note: This table and the one in super-heavy-weapons.adoc have been rationalised.]+

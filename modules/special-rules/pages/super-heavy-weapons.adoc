@@ -7,13 +7,8 @@ These rules define the effects of super-heavy weapons; see the specific unit dat
 
 == Shooting with super-heavy weapons
 
-* Except where we state otherwise, you may shoot super-heavy weapons at any target within range.
-That is, you can pick out individual targets within a detachment.
-
-* Where a unit that is equipped with super-heavy weapons is on Assault orders, and you wish it to shoot in the Shooting phase: For each super-heavy weapon you wish to shoot, you must first roll a 4 or more on a D6.
-This is because it is much harder to target the enemy and route enough power to a super-heavy weapon while the unit hastens to engage the enemy more closely.
-+
-+[TODO: Consider how this should work if we're using standard rules in which war engines don't actually need specific orders.]+
+* Where you wish to shoot a unit's super-heavy weapons in the Shooting phase and the unit's Firepower is halved, for example it is on Assault orders or suffering critical damage, you must roll to _lock on_ first.
+For each super-heavy weapon being fired, roll a D6. On a roll of 4+ the weapon can fire.
 
 * Where a unit that is equipped with super-heavy weapons is on Overwatch orders: You may re-roll misses when you shoot with these weapons, just as you do with regular weapons.
 
@@ -28,27 +23,37 @@ When you shoot with a detachment that includes super-heavy weapons, you may get 
 * For any regular Firepower that your detachment brings to bear on the target detachment, place Blast markers as normal.
 * For the super-heavy weapons that your detachment brings to bear on the target detachment, place Blast markers as follows.
 +
+.Blast marker table
+[cols="^,^2"]
 |===
-^|Number of super-heavy weapons brought to bear ^|Number of Blast markers to place
+^|Number of super-heavy weapons ^| Blast markers placed
 
-^|1 to 3 ^|*
+^|1 to 3 ^|One, if any hits are scored
 ^|4 to 8 ^|1
 ^|9 or more ^|2
-2+|* = 1 Blast marker, but only if you score at least one hit.
 |===
 +
+//+[IJW editing note: This table and the one in work-out-blast-markers.adoc have been rationalised.]+
 [NOTE]
 ====
 Count the number of super-heavy weapons that you direct at the target detachment.
 Do not modify this number because of Assault orders, Blast markers on the shooting detachment, or anything similar.
 
+Super-heavy weapons that add to the detachment's Firepower total, such as {barrage} and {heavy-barrage}, do not count towards the number of super-heavy weapons being fired when inflicting Blast markers.
+
 +[TODO: Check and consider the wording around this. I seem to remember that there were some inconsistencies or nuances in how Firepower and super-heavy weapons are suppressed by Blast markers. There may be an important difference between how many we "bring to bear" and how many can actually shoot, that also effects Blast marker placement.]+
+
++[REPLY IJW: Not that I'm aware of, just the overall discussion of inflicting Blast markers based on unmodified firing or effective firing.]+
 ====
 
 == Super-heavy weapons and suppression by Blast markers
 
-With regular Firepower, Blast markers on the detachment each cause the loss of one point of Firepower in the Shooting phase.
-However, where a detachment has only super-heavy weapons available then each Blast marker will normally suppress one entire super-heavy weapon.
-That is, unless the weapon profile on a unit datasheet says otherwise, treat each super-heavy weapon as having a Firepower value of 1.
+For each Blast marker on a detachment, reduce its Firepower by 1.
+If the detachment has more Blast markers than Firepower, or has no Firepower, each remaining Blast marker suppresses one entire super-heavy weapon.
+////
++[IJW editing note: Old versions to be deleted once the final NOTE is done.]+
+NOTE: Super-heavy weapons that add to a detachment's total Firepower, for example {barrage} or {heavy-barrage}, are still suppressed by one Blast marker.
 
-+[TODO: Consider a more concise way to explain this, and integrate it into the 'Shooting with...' bullet points.]+
+NOTE: Super-heavy weapons with more than one shot, for example a Pulsar, are still suppressed by one Blast marker.
+////
+NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots like a {pulsar}, or adds to a detachment's Firepower, for example {barrage} or {heavy-barrage}.

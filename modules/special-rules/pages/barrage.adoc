@@ -4,24 +4,24 @@ These weapons can saturate a wide area of the battlefield with intense salvoes o
 
 ---
 
-The more closely packed the units of the target detachment, the more effective a {barrage} weapon is likely to be against it.
+TIP: The more closely packed the units of the target detachment, the more effective {barrage} weapons are likely to be against it.
 This is simply because the barrage will have more target units within its area of effect.
 
-When you shoot with a unit that has a {barrage} weapon:
+//+[IJW editing note: I've changed this to plural as you almost always have multiple barrage weapons being resolved at once.]+
 
-. Take the Barrage template and place it over the target detachment.
-Place it such that it is over as many enemy units as possible.
+When you shoot with a detachment that includes units with {barrage} weapons:
+
+. Place a single Barrage template over the target detachment, no matter how many {barrage} units in your detachment are firing at them.
+. Place the template so that it:
+* is completely within range and line of sight of all units contributing to the {barrage}
 +
-[NOTE]
-====
-You must cover at least three trooper models for an infantry unit to count or any part of a vehicle or war engine.
-
-+[TODO: It'd be good to rationalise this rule a bit, given that (1) infantry units don't always have five individual models on them, and (2) some people like to put their vehicles on bases, and (3) it isn't clear how much of a vehicle or war engine should count to resolve disagreement when a template barely 'nicks' such a unit.]+
-====
-. Count the number of units beneath the template.
-The number of units under the template is your unit's Firepower value for this shot.
-
-. Add this Firepower value to the rest of the Firepower of your detachment for the current attack. 
+NOTE: Units with {artillery} *and* {barrage} do not need line of sight to the template.
+* covers as many units as possible from the target detachment.
+. Who is covered by the template?
+* Infantry units (INF) if the centre of their base is under the template.
+* Vehicle units (VEH) and war engine units (WE) if any part of their base is under the template.
+. The number of covered enemy units from the target detachment is the Firepower value for each {barrage} unit contributing to the attack.
+. Add this to the total Firepower that the detachment brings to bear on the target detachment.
 
 IMPORTANT: For the placement of Blast markers, count a {barrage} shot along with regular Firepower and not as a super-heavy weapon.
 
@@ -29,4 +29,12 @@ IMPORTANT: For the placement of Blast markers, count a {barrage} shot along with
 ====
 The Space Marine Whirlwind armoured vehicle is armed with a Whirlwind missile launcher.
 What this vehicle lacks in range it can make up for in speed and the ability to rain a destructive barrage of missiles down onto an area of the battlefield.
+====
+
+.Adding up Firepower
+====
+Three Space Marine Whirlwinds are firing at an Ork detachment.
+
+* The Space Marine player places one Barrage template, which covers three Ork  Infantry and an Ork Vehicle.
+* Each Whirlwind therefore adds 4 Firepower to the Space Marine detachment's Firepower.
 ====
