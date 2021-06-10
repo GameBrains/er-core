@@ -37,10 +37,8 @@ We added this rule to minimise the effects that result from the assortment of di
 
 == Destruction of {transport} units
 
-If a {transport} unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit:
-
-* *1–3*: The embarked unit suffers a hit.
-* *4–6*: The embarked unit survives -- place it in contact with the destroyed {transport} unit.
+If a {transport} unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the unit suffers a hit.
+If the unit survives, place it in contact with the destroyed {transport} unit.
 
 Then remove the {transport} unit as normal.
 
@@ -52,7 +50,7 @@ That is, they simply grab onto the outside of the vehicle and hang on for a craz
 To use the {hitch} ability to transport an Infantry unit:
 
 * You must embark *and* disembark your Infantry unit in the same phase.
-Embark the unit at any point during your move of the {hitch} unit, and disembark either at the end that same move -- or at the end of another move in the same phase, if the {hitch} unit is on March orders.
+Embark the unit at any point during your move of the {hitch} unit, and disembark at another point in same move -- or during another move in the same phase, if the {hitch} unit is on March orders.
 * You may only embark your Infantry unit onto a {hitch} unit once per phase -- you may not hitch a lift multiple times with the same Infantry unit.
 * You do *not* need to sacrifice any of the movement of the {hitch} unit.
 * You must sacrifice *all* of the movement of the Infantry unit.
