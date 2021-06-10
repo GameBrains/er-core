@@ -7,9 +7,9 @@
 Where your unit has the {hitch} ability:
 
 * The {hitch} unit can carry as many Infantry units as we state in brackets.
-For example, the Battlefortress has {hitch-4} -- so you can embark up to four Infantry units, as we explain in the main transport rules.
+For example, the Battlefortress has {hitch-4} -- so you can embark up to four Infantry units, as we explain in the main transportation rules.
 
 NOTE: A {hitch} unit does not gain the abilities of embarked units.
 
 .Related information
-* xref:main-rules:transport.adoc[]
+* xref:main-rules:transportation.adoc[]

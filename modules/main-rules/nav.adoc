@@ -23,7 +23,7 @@
 
 ** xref:the-movement-phase.adoc[]
  *** xref:terrain-effects-on-movement.adoc[]
- *** xref:transport.adoc[]
+ *** xref:transportation.adoc[]
  *** xref:snap-fire.adoc[]
 
 ** xref:the-shooting-phase.adoc[]

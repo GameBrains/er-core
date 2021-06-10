@@ -1,11 +1,12 @@
 = Transportation
 
 On some unit data sheets you'll see that the unit has one of two special abilities that relate to transportation: {transport} or {hitch}.
-We explain these and other special abilities in more detail elsewhere; but transport is a vital aspect of the Movement phase so we'll discuss it here too.
+We explain these and other special abilities in more detail elsewhere; but transportation is a vital aspect of the Movement phase so we'll discuss it here too.
 
 When we speak of these transportation abilities, we use the terms 'embark/embarked' and 'disembark/disembarked' to describe actions and states that relate to the units that you transport.
 
-Both the {transport} and {hitch} abilities indicate units that can carry other units across the battlefield, but they work in slightly different ways.
+Both the {transport} and {hitch} abilities indicate units that can carry -- transport -- other units across the battlefield.
+But they work in slightly different ways.
 
 == Transportation by units that have the {transport} ability
 
