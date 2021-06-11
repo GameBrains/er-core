@@ -7,16 +7,12 @@ As a result, the weapon can destroy multiple targets in a single salvo.
 
 ---
 
-When you shoot with a {pulsar} weapon, roll a D6.
-The result is how many shots equivalent to {macro-weapon} you can make at targets within range and line of sight.
+When you shoot with a {pulsar}:
 
-+[TODO: Should this be "at the target detachment", or was "targets within range" specifically intended in the original rules?]+
+* Roll a D6 and resolve this many {macro-weapon} shots against the target detachment.
 
-Although a {pulsar} weapon allows you to make multiple {macro-weapon} shots, it still counts as only one super-heavy weapon -- keep this in mind when you place Blast markers.
+NOTE: Remember that a {pulsar} is a single super-heavy weapon, and does *not* count as D6 weapons for placing Blast markers, being suppressed, or contributing to firefights.
 
-Similarly, it takes only one Blast marker to suppress a {pulsar} weapon, and it counts as only Firepower 1 in an assault.
-
-+[TODO: This was clarified in the original FAQ. I think this strengthens the case for "at the target detachment" above, because otherwise a player could cause a large number of Blast markers by spreading them across many enemy detachments and this does not accord with the rest of the rules.]+
 
 .Related information
 * xref:macro-weapon.adoc[]
