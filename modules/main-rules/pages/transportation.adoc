@@ -1,21 +1,21 @@
 = Transportation
 
-On some unit data sheets you'll see that the unit has one of two special abilities that relate to transportation: {transport} or {hitch}.
+On some unit data sheets you'll see that the unit has one of two special abilities that relate to transportation: {transport-x} or {hitch-x}.
 We explain these and other special abilities in more detail elsewhere; but transportation is a vital aspect of the Movement phase so we'll discuss it here too.
 
 When we speak of these transportation abilities, we use the terms 'embark/embarked' and 'disembark/disembarked' to describe actions and states that relate to the units that you transport.
 
-Both the {transport} and {hitch} abilities indicate units that can carry -- transport -- other units across the battlefield.
+Both the {transport-x} and {hitch-x} abilities indicate units that can carry -- transport -- other units across the battlefield.
 But they work in slightly different ways.
 
-== Transportation by units that have the {transport} ability
+== Transportation by {transport-x} units
 
-Units that have the {transport} ability can carry other units across the battlefield.
+Units that have the {transport-x} ability can carry other units across the battlefield.
 They can only transport Infantry units -- except where the rules or army lists say otherwise.
 
 To embark or disembark a unit:
 
-* You must sacrifice 5 cm from the movement of the {transport} unit.
+* You must sacrifice 5 cm from the movement of the {transport-x} unit.
 * You must sacrifice 5 cm from the movement of the unit that you embark or disembark.
 * You may embark and disembark units in the same turn, the same phase or even in the same move -- so long as all of the involved units have enough movement.
 
@@ -25,8 +25,8 @@ Obviously, once you disembark them then the normal rules apply again.
 [NOTE]
 .Placement of disembarked units
 ====
-When you disembark units, measure their movement from the base of the {transport} unit.
-If you do not have enough movement to clear the {transport} unit's base then place the disembarked unit in base contact with the {transport} unit.
+When you disembark units, measure their movement from the base of the {transport-x} unit.
+If you do not have enough movement to clear the {transport-x} unit's base then place the disembarked unit in base contact with the {transport-x} unit.
 ====
 
 [NOTE.e40k]
@@ -35,24 +35,24 @@ If you do not have enough movement to clear the {transport} unit's base then pla
 We added this rule to minimise the effects that result from the assortment of different base sizes that players use.
 ====
 
-== Destruction of {transport} units
+== Destruction of {transport-x} units
 
-If a {transport} unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the unit suffers a hit.
-If the unit survives, place it in contact with the destroyed {transport} unit.
+If a {transport-x} unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the unit suffers a hit.
+If the unit survives, place it in contact with the destroyed {transport-x} unit.
 
-Then remove the {transport} unit as normal.
+Then remove the {transport-x} unit as normal.
 
-== Transportation by units that have the {hitch} ability
+== Transportation by {hitch-x} units
 
-Units that have the {hitch} ability can carry Infantry units across the battlefield -- they 'hitch a lift'.
+Units that have the {hitch-x} ability can carry Infantry units across the battlefield -- they 'hitch a lift'.
 That is, they simply grab onto the outside of the vehicle and hang on for a crazy ride over the battlefield.
 
-To use the {hitch} ability to transport an Infantry unit:
+To use the {hitch-x} ability to transport an Infantry unit:
 
 * You must embark *and* disembark your Infantry unit in the same phase.
-Embark the unit at any point during your move of the {hitch} unit, and disembark at another point in same move -- or during another move in the same phase, if the {hitch} unit is on March orders.
-* You may only embark your Infantry unit onto a {hitch} unit once per phase -- you may not hitch a lift multiple times with the same Infantry unit.
-* You do *not* need to sacrifice any of the movement of the {hitch} unit.
+Embark the unit at any point during your move of the {hitch-x} unit, and disembark at another point in same move -- or during another move in the same phase, if the {hitch-x} unit is on March orders.
+* You may only embark your Infantry unit onto a {hitch-x} unit once per phase -- you may not hitch a lift multiple times with the same Infantry unit.
+* You do *not* need to sacrifice any of the movement of the {hitch-x} unit.
 * You must sacrifice *all* of the movement of the Infantry unit.
 
 .Related information
