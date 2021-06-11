@@ -1,0 +1,8 @@
+= Detachment abilities
+
+These abilities change the behaviour of an entire detachment.
+
+.Detachment abilities
+====
+{hit-and-run} allows you to make a Retreat move with the detachment, even after you win a close combat or firefight with it.
+====

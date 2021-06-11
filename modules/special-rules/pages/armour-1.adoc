@@ -1,0 +1,15 @@
+= Armour +1
+
+These units have particularly effective armour for their kind.
+
+[NOTE.e40k]
+====
+We derived this ability from part of the rules for the _Cavalry_ ability in _Epic 40,000_.
+This allows more flexibility in unit design.
+====
+
+---
+
+Where your unit has the {armour-1} ability, apply this change relative to its base unit:
+
+* Add +1 to its Armour value.

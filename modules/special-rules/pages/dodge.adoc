@@ -1,0 +1,20 @@
+= Dodge
+
+Some formations of very mobile troops can dodge and jink so effectively that they are hard to target.
+
+[NOTE.e40k]
+====
+This ability is equivalent to _Ravenwing_ in _Epic 40,000_ -- we call it {dodge} instead so as not to imply that the ability is faction-specific.
+
+We also made these rules fit with the new Start phase.
+====
+
+---
+
+Where your detachment has the {dodge} ability, you can use special orders called Dodge:
+
+. If you wish to place any detachments on Dodge orders then you must do this in the Start phase.
+. Place the {special-orders} marker to indicate that the detachment is on Dodge orders.
+While Dodge orders are in effect:
+ ** Increase the Armour value of all units in the detachment by one, to a maximum of 6+.
+ ** Halve the total Firepower of the detachment.

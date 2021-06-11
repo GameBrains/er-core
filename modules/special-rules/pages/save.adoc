@@ -1,2 +1,14 @@
 = Save
 
+These units can beat the odds and escape destruction -- perhaps through exceptional armour, protective fields, or extreme skills and toughness.
+
+---
+
+Where your unit has the {save} ability:
+
+* Each time the unit suffers a hit, from any source, roll a die.
+On a roll of 4+, ignore the hit -- it causes no damage.
+
+NOTE: While some attacks ignore void shields and power fields, these do *not* ignore the {save} ability.
+
+NOTE: For placement of Blast markers, saved hits still count as hits.

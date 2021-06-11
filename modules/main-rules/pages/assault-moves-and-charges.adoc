@@ -21,9 +21,28 @@ Otherwise, moves in the Assault phase are subject to all the rules we described 
 == Charge
 
 As you move detachments in this phase, you may declare that any or all of them will *charge* so that they become engaged in close combat with the enemy.
-This is the only time that you may move your units into base contact with enemy units.
 
-* You don't have to declare and make a charge into close combat unless you want to, with one exception: If you can only meet the 'must move towards the enemy' requirement by moving toward an enemy that has units that are within 5 cm of your units, then you must charge and place units in base contact.
-* For a charge, you may double the Speed value of *infantry* units *if* this will bring them into base contact with enemy units.
-* If you don't get at least one unit into base contact with an enemy then there is no charge and there will be no close combat.
-(Though there will be a firefight if any units are within 15 cm of the enemy.)
+This is the only time that you may move your units into base contact with enemy units.
+And where you do move any individual unit into base contact with an enemy unit, we call this a *charge move*.
+
+* You don't have to declare and make a charge into close combat unless you want to, with one exception: If the 'must move towards the enemy' and 'must move at least 5 cm, or into base contact' requirements force you to place units in base contact, then you have made charge moves by definition and so you have a charge whether you like it or not!
+Of course you may move more units into base contact, where they can reach.
+* If you don't get at least one unit into base contact with an enemy then there are no charge moves by definition, which means that the detachment does not charge and there will be no close combat.
+(Though there will be a firefight if any units are within 15cm of the enemy.)
+
+You can benefit from a special increase to the Speed value of some particular units when you make a charge move with them.
+(Remember, it is only a charge move if the units will get into base contact with the enemy -- you don't get the increase if they won't get into base contact.)
+
+* You may double the Speed value of any *Infantry* unit, unless it has a split Speed value.
+* Where a unit has a split Speed value such as `20/30 cm`, use the second value.
+* For any other unit, use its Speed value in the usual way.
++
+[NOTE.e40k]
+.Split Speed values
+====
+We've added split Speed values to make it easier to understand the effects of abilities like {cavalry} and {jump-packs}.
+====
+
+.Related information
+* xref:special-rules:cavalry.adoc[]
+* xref:special-rules:jump-packs.adoc[]

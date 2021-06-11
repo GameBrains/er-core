@@ -4,11 +4,33 @@ Despite the abundance and variety of technologies in the galaxy of the 41^st^ mi
 
 Of course, riders and their mounts vary enormously -- humans on horses, denizens of Chaos on daemonic steeds, orks on cyboars, and many more.
 
+Cavalry forgo some of the advantages of infantry -- they find it difficult to take cover, to move through buildings or rubble, and so on.
+But they make up for this with speed.
+
+[NOTE.e40k]
+====
+In comparison to _Epic 40,000_, we've separated the Armour bonus part of the _Cavalry_ ability into our new {armour-1} ability.
+====
+
 ---
 
-Apply these rules to {cavalry} units, relative to the base units:
+Where your unit has the {cavalry} ability, apply these changes relative to its base unit:
 
-* Double their Speed value.
-* During the Assault phase, triple their Speed value if they charge into close combat.
-* For the purposes of movement, treat {cavalry} units as Vehicle units -- mounts find it difficult to take cover, to move through buildings or rubble, and so on.
-* Add +1 to their Armour value, up to a maximum of 6+.
+* Make its Speed value into a split Speed value.
+Make the first value twice (2x) the Speed value of the base unit, and the second value three times (3x) the Speed value of the base unit.
+* Change the unit type to Vehicle (VEH).
+
+.{cavalry} data sheet modifiers
+====
+An Imperial Guard Rough Rider unit is an Imperial Guard unit with added special abilities.
+The {cavalry} ability means that:
+
+* While the base unit has a Speed value of 10 cm, that of the Rough Riders is 20/30 cm.
+* While the base unit has a unit type of Infantry (INF), that of the Rough Riders is Vehicle (VEH).
+====
+
+.Related information
+* xref:main-rules:data-sheets-and-characteristics.adoc[]
+* xref:main-rules:units-and-unit-types.adoc[]
+* xref:main-rules:assault-moves-and-charges.adoc[]
+* xref:armour-1.adoc[]

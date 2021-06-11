@@ -1,13 +1,16 @@
 = Special abilities
 
-Many units in the game specialise in particular aspects of war, or have unusual abilities.
+Many forces in the game specialise in particular aspects of war, or have unusual abilities.
 
 Rather than have lots of separate profiles and bespoke special rules, we represent these variants and specialisms with rules for various *special abilities*.
-Special abilities modify the characteristics in the unit's data sheet, or add rules that change other aspects of how the unit behaves in the game.
+Special abilities modify the characteristics in unit data sheets, or add rules that change other aspects of how a unit, detachment or army behaves in the game.
 
-If a unit has any special abilities then we state this on the unit's data sheet.
+* If a unit has any special abilities then we state this on the unit's data sheet.
 Or in some cases, the army lists offer particular special abilities as upgrades to specific units.
-Where a unit has multiple abilities, apply their effects in combination.
+* If a detachment has any special abilities then we state this in the detachment's entry in the army list.
+* If an army has any special abilities then we state this in the list for that army.
+
+NOTE: Where there are multiple abilities in effect, apply them in combination.
 
 IMPORTANT: Where there is a contradiction, special abilities 'override' the normal rules.
 
@@ -18,4 +21,65 @@ This upgrades the basic Imperial Guard unit entry to include the {psyker} abilit
 
 In contrast, a Space Marine Librarian is a psyker and is integral to the unit of the same name.
 So the {psyker} ability is part of the Space Marine Librarian unit entry.
+====
+
+[[data-sheet-modifiers]]
+.Appplication of data sheet modifiers
+====
+The Imperial Guard Rough Riders unit is based on the Imperial Guard unit, with the addition of the {cavalry}, {armour-1} and {assault} abilities.
+
+These abilities create several differences between the unit data sheets, as you can see below.
+
+.A base unit with the addition of special abilities
+[cols="2,6*^,2"]
+|===
+|Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
+
+s|Base unit: Imperial Guard
+s|INF
+s|10 cm
+s|30 cm
+s|1
+s|1
+s|3+
+s|
+
+|+ {cavalry}
+|VEH
+|20/30 cm
+|
+|
+|
+|
+|
+
+|+ {armour-1}
+|
+|
+|
+|
+|
+|4+
+|
+
+|+ {assault}
+|
+|
+|15 cm
+|
+|2
+|
+|
+
+s|=> Imperial Guard Rough Riders
+s|VEH
+s|20/30 cm
+s|15 cm
+s|1
+s|2
+s|4+
+s|{cavalry}, {armour-1}, {assault}
+
+|===
+
 ====
