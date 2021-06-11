@@ -1,0 +1,4 @@
+. Place a Barrage template so that it:
+* is completely within range and line of sight of the firer
++
+NOTE: If the unit also has {artillery}, the template does not need to be in line of sight.

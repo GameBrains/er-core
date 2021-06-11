@@ -1,0 +1,8 @@
+. Templates cover:
+* Infantry units (INF) if the centre of their base is under the template
+* Vehicle units (VEH) and war engine units (WE) if any part of their base is under the template
++
+[NOTE.e40k]
+====
+In comparison to _Epic 40,000_, we use the centre of an Infantry unit's base to determine if it is covered, instead of relying on the number of models on the base.
+====

@@ -16,15 +16,9 @@ When you shoot with a detachment that includes units with {barrage} weapons:
 * is completely within range and line of sight of all units contributing to the {barrage}
 * covers as many units as possible from the target detachment.
 +
-NOTE: Units that also have {artillery} do not need line of sight to the template.
-. Templates cover:
-* Infantry units (INF) if the centre of their base is under the template
-* Vehicle units (VEH) and war engine units (WE) if any part of their base is under the template
-+
-[NOTE.e40k]
-====
-In comparison to _Epic 40,000_, we use the centre of an Infantry unit's base to determine if it is covered, instead of relying on the number of models on the base.
-====
+NOTE: For any unit that also has {artillery}, the template does not need to be in their line of sight.
+include::partial$template-cover-bullet.adoc[]
+
 . The number of covered enemy units in the target detachment is the Firepower value for each {barrage} unit contributing to the attack.
 . Add this to the total Firepower that the detachment brings to bear on the target detachment.
 

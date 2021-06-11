@@ -6,21 +6,13 @@ These are huge pieces of ordinance that shoot a single, giant explosive munition
 
 When you shoot with a {mega-cannon}:
 
-. Place a Barrage template so that it:
-* is completely within range and line of sight of the firer
-+
-NOTE: Units that also have {artillery} do not need line of sight to the template.
+include::partial$template-placement-bullet.adoc[]
+
 . For each unit covered by the template, roll a D6. If you roll the unit's Armour value or higher, the unit suffers a hit.
 Use only the unit's Armour value -- that is, *ignore any infantry armour bonus for cover*.
 Unlike a {barrage}, these are the only units that can be hit by the shot.
-. Templates cover:
-* Infantry units (INF) if the centre of their base is under the template
-* Vehicle units (VEH) and war engine units (WE) if any part of their base is under the template
-+
-[NOTE.e40k]
-====
-In comparison to _Epic 40,000_, we use the centre of an Infantry unit's base to determine if it is covered, instead of relying on the number of models on the base.
-====
+include::partial$template-cover-bullet.adoc[]
+
 . Place one Blast marker on each detachment with any units covered the template, in addition to any other Blast markers that you would normally place.
 
 .Multiple Mega Cannon

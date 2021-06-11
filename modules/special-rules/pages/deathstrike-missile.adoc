@@ -5,7 +5,14 @@ Though not as devastating as a {vortex-missile}, it is a weapon that inspires ju
 
 ---
 
-When you shoot with a {deathstrike-missile} weapon, place a Barrage template over the target unit(s).
-For each unit under the template, roll a D6 and make this many {macro-weapon} shots against it. [TODO: Check that I have interpreted this right -- the original text was ambiguous.]
+When you shoot a {deathstrike-missile}:
+
+include::partial$template-placement-bullet.adoc[]
+
+. For each unit covered by the template, roll a D6 and resolve this many {macro-weapon} shots against it.
+include::partial$template-cover-bullet.adoc[]
 
 include::partial$one-shot-missile.adoc[]
+
+.Related information
+* xref:macro-weapon.adoc[]
