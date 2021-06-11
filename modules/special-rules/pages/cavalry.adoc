@@ -19,6 +19,7 @@ Where your unit has the {cavalry} ability, apply these changes relative to its b
 * Change its Speed value to double (2x) that of the base unit.
 * Apply the effects of the {swift} ability on this new Speed value:
  ** For a charge move only, you may increase the Speed value of the unit by 50% (1.5x).
+Add an asterisk (+*+) to the Speed value, as a reminder of this effect.
 * Change the unit type to Vehicle (VEH).
 
 .{cavalry} data sheet modifiers
@@ -27,7 +28,7 @@ An Imperial Guard Rough Rider unit is an Imperial Guard unit with added special 
 The {cavalry} ability means that:
 
 * While the base unit has a Speed value of `10 cm`, that of the Rough Riders is `20* cm`.
-The {swift} ability means that for a charge move the unit will have a Speed value of `30cm`.
+The asterisk reminds us that the {swift} ability is also in effect -- for a charge move only, the unit will have a Speed value of `30 cm`.
 * While the base unit has a unit type of Infantry (INF), that of the Rough Riders is Vehicle (VEH).
 ====
 

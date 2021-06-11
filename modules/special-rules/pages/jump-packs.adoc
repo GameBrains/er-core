@@ -10,13 +10,14 @@ Where your unit has the {jump-packs} ability, apply this change relative to its 
 * Change its Speed value to double (2x) that of the base unit.
 * Apply the effects of the {swift} ability on this new Speed value:
  ** For a charge move only, you may increase the Speed value of the unit by 50% (1.5x).
+Add an asterisk (+*+) to the Speed value, as a reminder of this effect.
 
 .{jump-packs} data sheet modifiers
 ====
-A Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
+The Eldar Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
 
 * While the base unit has a Speed value of `15 cm`, that of the Swooping Hawks is `30* cm`.
-The {swift} ability means that for a charge move the unit will have a Speed value of `45 cm`.
+The asterisk reminds us that the {swift} ability is also in effect -- for a charge move only, the unit will have a Speed value of `45 cm`.
 ====
 
 ---

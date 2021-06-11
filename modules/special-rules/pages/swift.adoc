@@ -14,6 +14,7 @@ Note that on the data sheet for the likes of Kroot hounds we indicate that the u
 Where your unit has the {swift} ability:
 
 * For a charge move only, you may increase the Speed value of the unit by 50% (1.5x).
+Add an asterisk (+*+) to the Speed value, as a reminder of this effect.
 
 .Related information
 * xref:main-rules:assault-moves-and-charges.adoc[]
