@@ -33,14 +33,13 @@ Of course you may move more units into base contact, where they can reach.
 You can benefit from a special increase to the Speed value of some particular units when you make a charge move with them.
 (Remember, it is only a charge move if the units will get into base contact with the enemy -- you don't get the increase if they won't get into base contact.)
 
-* You may double the Speed value of any *Infantry* unit, unless it has a split Speed value.
-* Where a unit has a split Speed value such as `20/30 cm`, use the second value.
+* You may double the Speed value of any *Infantry* unit, unless it has the {swift} ability.
+* Where a unit has the {swift} ability, you may increase its Speed value by 50% (1.5x).
 * For any other unit, use its Speed value in the usual way.
-+
+
 [NOTE.e40k]
-.Split Speed values
 ====
-We've added split Speed values to make it easier to understand the effects of abilities like {cavalry} and {jump-packs}.
+We changed the explanation of charge moves and integrated the new {swift} ability, to make charge moves and special increases to Speed values easier to understand.
 ====
 
 .Related information

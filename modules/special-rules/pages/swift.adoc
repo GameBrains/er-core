@@ -1,0 +1,19 @@
+= Swift
+
+{blank}[TODO: Add introductory description.]
+
+[NOTE.e40k]
+====
+We added this ability to make it easier to understand the movement effects of abilities like {cavalry} and {jump-packs}.
+It also makes it easier to deal with units like Tau Kroot Hounds, which don't have a base unit.
+Note that on the data sheet for the likes of Kroot hounds we indicate that the unit is of the Vehicle (VEH) unit type, like we do with {cavalry} units.
+====
+
+---
+
+Where your unit has the {swift} ability:
+
+* For a charge move only, you may increase the Speed value of the unit by 50% (1.5x).
+
+.Related information
+* xref:main-rules:assault-moves-and-charges.adoc[]

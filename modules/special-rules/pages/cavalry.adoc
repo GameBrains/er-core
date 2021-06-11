@@ -16,8 +16,9 @@ In comparison to _Epic 40,000_, we've separated the Armour bonus part of the _Ca
 
 Where your unit has the {cavalry} ability, apply these changes relative to its base unit:
 
-* Make its Speed value into a split Speed value.
-Make the first value twice (2x) the Speed value of the base unit, and the second value three times (3x) the Speed value of the base unit.
+* Change its Speed value to double (2x) that of the base unit.
+* Apply the effects of the {swift} ability on this new Speed value:
+ ** For a charge move only, you may increase the Speed value of the unit by 50% (1.5x).
 * Change the unit type to Vehicle (VEH).
 
 .{cavalry} data sheet modifiers
@@ -25,7 +26,8 @@ Make the first value twice (2x) the Speed value of the base unit, and the second
 An Imperial Guard Rough Rider unit is an Imperial Guard unit with added special abilities.
 The {cavalry} ability means that:
 
-* While the base unit has a Speed value of 10 cm, that of the Rough Riders is 20/30 cm.
+* While the base unit has a Speed value of `10 cm`, that of the Rough Riders is `20* cm`.
+The {swift} ability means that for a charge move the unit will have a Speed value of `30cm`.
 * While the base unit has a unit type of Infantry (INF), that of the Rough Riders is Vehicle (VEH).
 ====
 

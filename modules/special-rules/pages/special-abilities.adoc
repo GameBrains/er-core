@@ -46,7 +46,7 @@ s|
 
 |+ {cavalry}
 |VEH
-|20/30 cm
+|20* cm
 |
 |
 |
@@ -73,7 +73,7 @@ s|
 
 s|=> Imperial Guard Rough Riders
 s|VEH
-s|20/30 cm
+s|20* cm
 s|15 cm
 s|1
 s|2

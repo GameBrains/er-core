@@ -26,7 +26,7 @@ We represent infantry units as follows:
 
 +[TODO: Consider whether to include some text similar to that at link:https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm]+
 
-Vehicle (V):: Vehicles that are covered with moderate or thick armour plate.
+Vehicle (VEH):: Vehicles that are covered with moderate or thick armour plate.
 Examples include tanks such as the Leman Russ and Land Raider, armoured troop carriers such as the Rhino, and other machines such as Dreadnoughts. +
 We represent each Vehicle unit with a single model.
 

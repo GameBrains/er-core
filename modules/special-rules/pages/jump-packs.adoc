@@ -7,14 +7,16 @@ The resultant speed and mobility usually makes for good assault troops.
 
 Where your unit has the {jump-packs} ability, apply this change relative to its base unit:
 
-* Make its Speed value into a split Speed value.
-Make the first value twice (2x) the Speed value of the base unit, and the second value three times (3x) the Speed value of the base unit.
+* Change its Speed value to double (2x) that of the base unit.
+* Apply the effects of the {swift} ability on this new Speed value:
+ ** For a charge move only, you may increase the Speed value of the unit by 50% (1.5x).
 
 .{jump-packs} data sheet modifiers
 ====
 A Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
 
-*  While the base unit has a Speed value of 15 cm, that of the Swooping Hawks is 30/45 cm.
+* While the base unit has a Speed value of `15 cm`, that of the Swooping Hawks is `30* cm`.
+The {swift} ability means that for a charge move the unit will have a Speed value of `45 cm`.
 ====
 
 ---
