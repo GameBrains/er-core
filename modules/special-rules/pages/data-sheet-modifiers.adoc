@@ -1,0 +1,9 @@
+= Data sheet modifiers
+
+These abilities do not provide special rules effects.
+Rather, they modify the characteristic values on unit data sheets.
+
+.Data sheet modifiers
+====
+The {heavy-weapons} ability changes the unit's Range and Firepower characteristic values.
+====

@@ -1,0 +1,14 @@
+= Tyranid Objectives
+
+The Hive Mind hungers only for biomass and genetic material.
+It doesn't seek to hold ground or capture objectives.
+
+---
+
+When you field a Tyranid army, apply these rules:
+
+* The army does not use objectives, regardless of what scenario you play.
+* After you destroy an enemy detachment, add its morale value to your army morale in the Rally phase.
+
+.Related information
+* xref:battles:army-morale.adoc[]

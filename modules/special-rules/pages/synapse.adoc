@@ -1,0 +1,14 @@
+= Synapse
+
+Where Synapse creatures are present, the Tyranid Hive Mind is able to impose maximum control over its swarms. 
+
+---
+
+Where your detachment has the {synapse} ability:
+
+* While the detachment includes any {synapse-creature} units, apply the {dauntless} and {unbreakable} abilities.
+
+.Related information
+* xref:synapse-creature.adoc[]
+* xref:dauntless.adoc[]
+* xref:unbreakable.adoc[]

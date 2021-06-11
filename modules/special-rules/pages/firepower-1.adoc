@@ -1,0 +1,14 @@
+= Firepower +1
+
+These units are especially potent at range for their kind.
+
+[NOTE.e40k]
+====
+We've created this ability to allow more flexibility in unit design.
+====
+
+---
+
+Where your unit has the {firepower-1} ability, apply this change relative to its base unit:
+
+* Add +1 to its Firepower value.

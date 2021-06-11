@@ -1,0 +1,15 @@
+= Psychic Beacon
+
+Genestealer Patriarchs emit a strong psychic signal, which guides the parent Hive Fleet to the planet.
+
+---
+
+When you field an army that includes detachments that have the {psychic-beacon} ability:
+
+* You can deploy any Mycetic Swarms that you have in the first turn, rather than roll for their arrival as Reserves.
++
+{blank}[TODO: Is this the right interpretation? Seems like it might be overpowered -- include a single small Genestealer Cult detachment, and all Mycetic Swarms in a Tyranid army get to deploy on turn 1, no roll for Reserves required...]
+
+.Related information
+* xref:battles:drop-pods.adoc[]
+* xref:battles:reserves.adoc[]

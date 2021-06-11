@@ -57,7 +57,11 @@ Some rules affect some unit types and not others.
 
 Speed:: The distance that you can move the unit in a single movement action (in centimetres).
 It represents a rate at which the unit can move across the battlefield and still be effective when it shoot its weapons.
-You can give units orders that allow you to move units farther than this, but their shooting will suffer.
+You can give units orders that allow you to move units farther than this, but their shooting will suffer. +
++
+Some unit data sheets show a split Speed value such as `20/30 cm`.
+Use the first value for all purposes, except where the rules tell you otherwise.
+For information about the second value, see xref:assault-moves-and-charges.adoc[].
 
 Range:: The maximum effective distance of the unit's weaponry (in centimetres).
 
