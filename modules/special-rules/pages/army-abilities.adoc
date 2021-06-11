@@ -1,8 +1,0 @@
-= Army abilities
-
-These abilities affect the way that you play with an entire army.
-
-.Army abilities
-====
-When you field an Ork army, the {ork-initiative} rule lets you place Initiative counters back into the mug at the start of the Assault phase.
-====

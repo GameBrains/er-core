@@ -7,10 +7,10 @@ Common examples include Infantry units like the Space Marine Captain and the Ork
 
 ---
 
-Where your unit has the {hero} ability, apply these changes relative to its base unit:
+Apply these rules to units with the {hero} ability, relative to the base units:
 
- * Double its Assault value.
- * Apply the {save} ability.
+ * Double their Assault value.
+ * Apply the benefit of a save.
 
 .Related information
 * xref:save.adoc[]

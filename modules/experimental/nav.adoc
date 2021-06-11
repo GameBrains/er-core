@@ -1,8 +1,1 @@
 * xref:experimental.adoc[_Experimental_]
- ** xref:experimental-special-abilities.adoc[]
-  *** xref:bridge.adoc[]
-  *** xref:engineers.adoc[]
-  *** xref:medic.adoc[]
-  *** xref:open-top.adoc[]
-  *** xref:ordo-malleus.adoc[]
-  *** xref:recovery.adoc[]

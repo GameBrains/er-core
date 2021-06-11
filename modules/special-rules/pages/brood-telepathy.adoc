@@ -5,10 +5,6 @@ This gives the Cult strong morale.
 
 ---
 
-Where your detachment has the {brood-telepathy} ability:
+While at least one Genestealer Patriarch or Magus is present in your Genestealer Cult detachment you automatically pass any Leadership test that you are required to make for them.
 
-* While the detachment includes any {synapse-creature} units, apply the {dauntless} ability.
-
-.Related information
-* xref:synapse-creature.adoc[]
-* xref:dauntless.adoc[]
++[TODO: Should we clarify that this is like the Tyranid Synapse Creatures rule, but not as strong because the detachment can still become Broken?]+
