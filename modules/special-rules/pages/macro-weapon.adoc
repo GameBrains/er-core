@@ -14,8 +14,9 @@ We've borrowed the new name from the similar concept in _Epic Armageddon_.
 When you shoot with a {macro-weapon}:
 
 * Specify whether you will target Infantry units or Vehicle units in the target detachment.
-Then allocate {macro-weapon} hits as you would for regular Firepower, but allocate only to the nearest units of the type that you specified.
 * For each {macro-weapon} shot, roll a D6. If you roll a 4+, the target detachment suffers a hit regardless of Armour values and regardless of cover.
+* Allocate {macro-weapon} hits as you would for regular Firepower, but allocate only to the nearest units of the type that you specified.
+
 
 .A classic {macro-weapon} unit
 ====

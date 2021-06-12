@@ -11,10 +11,17 @@ Then they drop the first target onto the secondary targets...
 When you shoot with a {super-lifta-droppa}:
 
 * Pick any Vehicle or War Engine target within range and line of sight, even a specific unit in a detachment. You cannot target Infantry units.
-* Roll a D6. You need to roll higher than the initial Damage Capacity value of the target unit.
+* Roll a D6. You need to roll higher than the initial Damage Capacity value of the target unit to hit.
 Vehicle units usually have a Damage Capacity value of 1; War Engine units vary, so check their data sheet.
++
+NOTE: If the hit is prevented by the target's {save} or {holo-fields} abilities, the target is unharmed and is not moved.
++
+[NOTE.e40k]
+====
+The original text in _Epic 40,000_ did not describe the {super-lifta-droppa} as causing hits, but Questions and Answers, _Firepower_, issue 2, confirmed that {holo-fields} 'saves' work against _Super Lifta-Droppas_.
+
+The {save} ability has been added for consistency, as the two abilities are supposed to work in a similar way.
+====
 . For each point by which your roll is higher than the target unit's initial Damage Capacity value, you can move it up to 1 cm in any direction to determine where the {super-lifta-droppa} will drop it.
 . The target unit is dropped at the spot you chose, and is automatically destroyed -- if it is a War Engine unit, roll on its Catastrophic Damage table immediately.
-//+
-//NOTE: This is not a hit, so cannot be prevented by the {save} or {holo-field} abilities, or by Void Shields or Power Fields.
 . For each unit under the dropped target, roll a D6. On a roll of 4+, that unit suffers a hit.

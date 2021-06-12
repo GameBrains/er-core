@@ -12,3 +12,4 @@ Apply these rules where your War Engine unit is armed with {ripper-tentacles}:
 * In close combat with opposing war engines, choose one {close-combat-weapons} system -- the {ripper-tentacles} wrap around and trap that weapon system, which means that the opposing War Engine unit cannot use it in the close combat.
 
 +[TODO: Presumably, if in close combat with multiple opposing war engines, you can only choose one CCW from among the opponents, not one each. Also, as part of a wider question, should weapon arcs apply to {ripper-tentacles} and {close-combat-weapons}?]+
++[REPLY IJW: The original is all written in the singular, so yes I think it's always going to be a single CCW. Weapon arcs - why wouldn't they apply?]+

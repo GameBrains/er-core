@@ -13,4 +13,4 @@ Where your War Engine unit is armed with {close-combat-weapons}:
 * If it wins a close combat against an enemy war engine, it automatically inflicts *catastrophic* damage.
 Roll on the losing war engine's Catastrophic Damage table
 +
-NOTE: This is not a hit, so cannot be prevented by the {save} or {holo-field} abilities.
+NOTE: This is not a hit, so cannot be prevented by the {save} or {holo-fields} abilities.
