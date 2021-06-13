@@ -2,36 +2,38 @@
 
 During the Assault phase you may only move and attack with detachments that you placed on Assault orders in the Movement phase.
 
-== Movement in the Assault phase
-
-For all your detachments that are on Assault orders, you *must* move all of their units *at least 5 cm* towards the enemy if you can.
+== Assault moves
 
 IMPORTANT: For detachments that have Blast markers on them, you must pass a Leadership test before you can move them.
 
-* You don't have to move these units more than 5 cm, unless you want to.
+Moves in the Assault phase are subject to all the rules we described for the Movement phase -- except that the Snap-fire rule does *not* apply in the Assault phase.
+
+In addition, when you move each detachment in the Assault phase, move each of its units one after the other. Each unit:
+
+* *Must* move at least 5cm, or into base contact with an enemy within 5 cm. Any movement beyond this is optional.
+* *Must* move as directly as possible towards an enemy unit, but that unit does not need to be the nearest enemy, or even in a Detachment that is being assaulted. The unit can detour around Dangerous terrain.
 +
-(You may simply want to manoeuvre into range for a firefight or to grab an objective, for example.)
-+
-However, you may not move assaulting units *past* any enemy units footnote:[To avoid a lengthy explanation here we discuss this in more detail at +[TODO: FAQ -- Moving past in the Assault phase]+.] -- unless those enemies are already engaged in close combat with other friendly units.
-* You must move these units towards the enemy -- but not necessarily towards the _nearest_ enemy.
-* You can move these units less than 5 cm *only* where they charge into close combat (base contact) with enemy units that are within 5 cm.
+[NOTE.e40k]
+.Assault moves through Dangerous terrain
+====
+We have added the option for units to avoid charging through Dangerous terrain.
+====
+* *Cannot* move away from the closest enemy unit.
+** The closest enemy unit is the one that can be reached by the shortest route.
+** Any enemy unit that already has a friendly unit in base contact can be ignored.
 
-Otherwise, moves in the Assault phase are subject to all the rules we described for the Movement phase -- except that the Snap-fire rule does not apply in the Assault phase.
+////
+[TODO: I've put the war engine part within comment marks for now, and we can decide if it should be included here or only appear in the WE pages.]
+War engines follow the same rules for assault moves, but their own movement rules take priority. War engines can choose not to move in the Assault phase, but will not be able to initiate Close Combats or Firefights if they do not move.
+////
 
-== Charge
+== Charge moves
 
-As you move detachments in this phase, you may declare that any or all of them will *charge* so that they become engaged in close combat with the enemy.
+If your unit's Assault move brings it into base contact with an enemy unit, this is referred to as a *charge move*, or a *charge*.
 
 This is the only time that you may move your units into base contact with enemy units.
-And where you do move any individual unit into base contact with an enemy unit, we call this a *charge move*.
 
-* You don't have to declare and make a charge into close combat unless you want to, with one exception: If the 'must move towards the enemy' and 'must move at least 5 cm, or into base contact' requirements force you to place units in base contact, then you have made charge moves by definition and so you have a charge whether you like it or not!
-Of course you may move more units into base contact, where they can reach.
-* If you don't get at least one unit into base contact with an enemy then there are no charge moves by definition, which means that the detachment does not charge and there will be no close combat.
-(Though there will be a firefight if any units are within 15cm of the enemy.)
-
-You can benefit from a special increase to the Speed value of some particular units when you make a charge move with them.
-(Remember, it is only a charge move if the units will get into base contact with the enemy -- you don't get the increase if they won't get into base contact.)
+You can benefit from a special increase to the Speed value of some units *if* this allows them to charge into base contact. If this does not allow them to reach base contact with an enemy unit, you do not get the increase.
 
 * You may double the Speed value of any *Infantry* unit, unless it has a split Speed value.
 * Where a unit has a split Speed value such as `20/30 cm`, use the second value.
@@ -41,6 +43,18 @@ You can benefit from a special increase to the Speed value of some particular un
 .Split Speed values
 ====
 We've added split Speed values to make it easier to understand the effects of abilities like {cavalry} and {jump-packs}.
+====
+
+TIP: You do not have to move units their full Speed value if you do not want to.
+You may simply want to manoeuvre into range for a firefight or to grab an objective, for example.
+
+.Space Marine charge moves
+====
+A Space Marine detachment of Space Marines, Assault Squads, and Bikes is moving in the Assault phase.
+
+* Each Space Marine unit has a Speed of 10 cm. As they are Infantry units, you can double this value to 20 cm if you charge them into base contact with an enemy unit, otherwise you can only move the unit 10 cm.
+* Each Assault Squad unit has a Speed of `20/30 cm`. You can use the second value of 30 cm if you charge them into base contact with an enemy unit, otherwise you can only move the unit 20 cm.
+* Each Bike unit has a Speed of 35 cm. As they are Vehicle units you do *not* get an increase to their Speed value if you charge them into base contact with an enemy unit. You can move the unit 35 cm.
 ====
 
 .Related information
