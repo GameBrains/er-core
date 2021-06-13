@@ -20,7 +20,7 @@ NOTE: If the hit is prevented by the target's {save} or {holo-fields} abilities,
 ====
 The original text in _Epic 40,000_ did not describe the {super-lifta-droppa} as causing hits, but Questions and Answers, _Firepower_, issue 2, confirmed that {holo-fields} 'saves' work against _Super Lifta-Droppas_.
 
-The {save} ability has been added for consistency, as the two abilities are supposed to work in a similar way.
+The {save} ability has been added for consistency, as {save} and {holo-fields} are supposed to work in a similar way.
 ====
 . For each point by which your roll is higher than the target unit's initial Damage Capacity value, you can move it up to 1 cm in any direction to determine where the {super-lifta-droppa} will drop it.
 . The target unit is dropped at the spot you chose, and is automatically destroyed -- if it is a War Engine unit, roll on its Catastrophic Damage table immediately.

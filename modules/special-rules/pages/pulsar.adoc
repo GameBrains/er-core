@@ -11,7 +11,7 @@ When you shoot with a {pulsar}:
 
 * Roll a D6 and resolve this many {macro-weapon} shots against the target detachment.
 
-NOTE: Remember that a {pulsar} is a single super-heavy weapon, and does *not* count as D6 weapons for placing Blast markers, being suppressed, or contributing to firefights.
+IMPORTANT: Remember that a {pulsar} is a single super-heavy weapon, and does *not* count as D6 weapons for placing Blast markers, being suppressed, or contributing to firefights.
 
 
 .Related information

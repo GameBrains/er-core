@@ -1,6 +1,6 @@
 = Shooting with war engines
 
-+[TODO: Add the first timing paragraph.]+
+War engines shoot in the second part of the Shooting phase, after all detachments of Infantry and Vehicle units. See the Shooting phase.
 
 == War engine weapon mounts
 
@@ -25,7 +25,7 @@ Each weapon mount:
 * cannot split fire between target detachments
 * is a single weapon for critical damage results that destroy a weapon or limit the war engine to firing one weapon
 
-In addition, a weapon mount that does not have a plain Firepower value counts as a single super-heavy weapon, so:
+In addition, a weapon mount that does not have a plain Firepower value, such as a {death-ray} or {heavy-barrage} weapon, counts as a single super-heavy weapon, so:
 
 * is suppressed by 1 Blast marker
 * is one weapon for placing Blast markers
@@ -36,7 +36,7 @@ In addition, a weapon mount that does not have a plain Firepower value counts as
 .Firepower weapon mounts: Warhound Titan
 ====
 A Warhound Titan has two weapon mounts.
-Each of its weapon mounts carries a heavy weapon battery with Firepower 6.
+Each of its weapon mounts is a heavy weapon battery with Firepower 6.
 
 * Both weapon mounts can shoot at the same detachment for a total of 12 Firepower.
 * Each weapon mount can shoot at a different detachment, directing 6 Firepower at each.
@@ -48,26 +48,26 @@ Each of its weapon mounts carries a heavy weapon battery with Firepower 6.
 .Mixed weapon mounts: Shadowsword
 ====
 A Shadowsword has two weapon mounts.
-The {death-ray} has Range 60 cm.
-The sponson turrets mount has Range 30 cm and Firepower 2.
+The {death-ray} weapon mount has Range 60 cm.
+The sponson turrets weapon mount has Range 30 cm and Firepower 2.
 
 * Both weapon mounts can shoot at the same detachment for a total of 2 Firepower and a {death-ray} shot.
 * Each weapon mount can shoot at a different detachment, directing 2 Firepower at one, and a {death-ray} shot at the other.
 * Each weapon mount can only shoot at one detachment, so you cannot fire at more than two detachments at once.
 * Each Blast marker on the Shadowsword reduces its total Firepower by one, and any remaining Blast markers will suppress the {death-ray}.
-** If both the weapon mounts are in range, 3 Blast markers will completely suppress the Shadowsword's shooting.
+** If both the weapon mounts are in range, it takes 3 Blast markers to completely suppress the Shadowsword's shooting.
 ** If there are no targets within the 30 cm Range of the sponson turrets weapon mount, the Shadowsword has 0 Firepower so a single Blast marker will completely suppress the Shadowsword's shooting.
-* If the Shadowsword's Firepower is halved, roll to lock on with the {death-ray}, and halve the Firepower of the sponson turrets.
+* If the Shadowsword's Firepower is halved, roll to lock on with the {death-ray}, and halve the total Firepower.
 ====
 
 
 == War engine fire arcs
 
-Each weapon mount on a war engine has a fire arc, and can only be used against targets within that fire arc. The fire arc is shown with an icon on the data sheet.
+Each weapon mount on a war engine has a fire arc, and can only be used against targets within that fire arc. The fire arcs are shown with icons on the war engine data sheets.
 
 .Reading fire arc icons
 
-image::fire-arcs-explanation.png[Three fire arcs.]
+image::fire-arcs-explanation.png[Fire arc examples.]
 The arrow in the centre of each icon shows the facing of the war engine.
 The black segment shows the fire arc of the mount.
 
@@ -75,7 +75,8 @@ The black segment shows the fire arc of the mount.
 image::fire-arcs-expanded.png[More fire arcs.]
 [NOTE.e40k]
 ====
-_Epic 40,000_ only had four different fire arcs, we have added more options.
+_Epic 40,000_ only had front 90º, side 180º, and 360º fire arcs. We have added more options, including an angled 180º fire arc for Titan arm mounts.
 ====
 
-== Classifying war engine weapons
+.Related information
+* xref:main-rules:the-shooting-phase.adoc[]

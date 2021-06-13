@@ -22,7 +22,13 @@ include::partial$template-cover-bullet.adoc[]
 . The number of covered enemy units in the target detachment is the Firepower value for each {barrage} unit contributing to the attack.
 . Add this to the total Firepower that the detachment brings to bear on the target detachment.
 
-IMPORTANT: For the placement of Blast markers, count a {barrage} shot along with regular Firepower and not as a super-heavy weapon.
+[IMPORTANT]
+====
+When you place Blast markers, {barrage} weapons contribute to the detachment's total Firepower, instead of the number of super-heavy weapons.
+
+For suppression by Blast markers, each {barrage} weapon is a single super-heavy weapon, so can be suppressed by 1 Blast marker.
+====
+
 
 .A classic {barrage} unit
 ====
@@ -34,9 +40,13 @@ What this vehicle lacks in range it can make up for in speed and the ability to 
 ====
 Three Space Marine Whirlwinds are firing at an Ork detachment.
 
-image::barrage-example-1.png[One Barrage template covering Ork Infantry and Vehicles.]
+image::barrage-example-1a.png[One Barrage template covering Ork Infantry and Vehicles.]
 
 * The Space Marine player places one Barrage template for all three Whirlwinds.
-* The template covers Ork Boyz 1 and 2, and the Gunwagon, but the centre of Boy 3 is not covered by the template. In total, the template covers three units
+* The template covers Ork Boyz 1 and 2, and the Gunwagon, but the centre of Ork Boyz 3 is not covered by the template.
+* Ork Boyz 4 is ignored as it is not in the target detachment.
+* In total, the template covers three units from the target detachment.
 * Each Whirlwind therefore adds 3 Firepower to the Space Marine detachment's Firepower.
 ====
+
+// TODO IJW: decide how to determine if detachments are intermingled, and if it's needed.

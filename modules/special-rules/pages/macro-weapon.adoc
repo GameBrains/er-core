@@ -17,6 +17,8 @@ When you shoot with a {macro-weapon}:
 * For each {macro-weapon} shot, roll a D6. If you roll a 4+, the target detachment suffers a hit regardless of Armour values and regardless of cover.
 * Allocate {macro-weapon} hits as you would for regular Firepower, but allocate only to the nearest units of the type that you specified.
 
+NOTE: If shooting at a War Engine detachment, you do not need to specify a unit type.
+
 
 .A classic {macro-weapon} unit
 ====
