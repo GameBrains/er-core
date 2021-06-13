@@ -1,0 +1,28 @@
+= War engine barging
+
+Experimental rules for barging enemy units out of the way when charging with a war engine.
+
+== War engine barging (DC)
+During an Assault move, war engines can barge enemy units out of the way.
+
+. Move the war engine into base contact with an enemy unit, following the standard Assault move rules.
+. The war engine can continue to move, barging aside enemy units it contacts.
+. As soon as the war engine contacts half its starting DC in enemy units, stop its Assault move even if it has movement left.
+. After finishing the Assault move, the opposing player places their barged units in base contact with the war engine, as close as possible to their original positions.
+
+NOTE: Enemy war engines cannot be barged aside.
+
+
+== War engine barging (5 cm)
+During an Assault move, war engines can barge enemy units out of the way.
+
+. Move the war engine into base contact with an enemy unit, following the standard Assault move rules.
+. The war engine can move a further 5cm or the remainder of its Speed (whichever is shortest), barging aside enemy units it contacts.
+. After finishing the Assault move, the opposing player places their barged units in base contact with the war engine, as close as possible to their original positions.
+
+[NOTE]
+====
+Enemy war engines cannot be barged aside.
+
+Remember that the number of units attacking a war engine unit is limited to half the war engine unit’s starting Damage Capacity.
+====
