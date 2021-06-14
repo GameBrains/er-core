@@ -54,7 +54,7 @@
   *** xref:walker.adoc[]
   *** xref:war-engine-supreme-commander.adoc[]
 
-  *** xref:detachment-abilities.adoc[_**Detachment abilities**_]
+  *** xref:detachment-abilities.adoc[*##Detachment abilities##*]
   *** xref:a-dying-race.adoc[]
   *** xref:brood-telepathy.adoc[]
   *** xref:dodge.adoc[]
@@ -68,7 +68,7 @@
   *** xref:synapse.adoc[]
   *** xref:unbreakable.adoc[]
 
-  *** xref:army-abilities.adoc[_**Army abilities**_]
+  *** xref:army-abilities.adoc[*##Army abilities##*]
   *** xref:ork-initiative.adoc[]
   *** xref:tyranid-objectives.adoc[]
 
