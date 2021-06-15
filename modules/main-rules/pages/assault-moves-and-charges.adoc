@@ -16,20 +16,21 @@ In addition, when you move each detachment in the Assault phase, move each of it
 [NOTE.e40k]
 .Assault moves through Dangerous terrain
 ====
-We have added the option for units to avoid charging through Dangerous terrain.
+We have added the option for units to avoid Dangerous terrain during their assault moves.
 ====
 * *Cannot* move away from the closest enemy unit.
 ** The closest enemy unit is the one that can be reached by the shortest route.
 ** Any enemy unit that already has a friendly unit in base contact can be ignored.
 
 ////
-[TODO: I've put the war engine part within comment marks for now, and we can decide if it should be included here or only appear in the WE pages.]
+[TODO IJW: I've put the war engine part within comment marks for now, and we can decide if it should be included here or only appear in the WE pages.]
+
 War engines follow the same rules for assault moves, but their own movement rules take priority. War engines can choose not to move in the Assault phase, but will not be able to initiate Close Combats or Firefights if they do not move.
 ////
 
 == Charge moves
 
-If your unit's Assault move brings it into base contact with an enemy unit, this is referred to as a *charge move*, or a *charge*.
+If your unit's assault move brings it into base contact with an enemy unit, this is referred to as a *charge move*, or a *charge*.
 
 This is the only time that you may move your units into base contact with enemy units.
 
@@ -48,7 +49,7 @@ We've added split Speed values to make it easier to understand the effects of ab
 TIP: You do not have to move units their full Speed value if you do not want to.
 You may simply want to manoeuvre into range for a firefight or to grab an objective, for example.
 
-.Space Marine charge moves
+.Space Marine assault and charge moves
 ====
 A Space Marine detachment of Space Marines, Assault Squads, and Bikes is moving in the Assault phase.
 
