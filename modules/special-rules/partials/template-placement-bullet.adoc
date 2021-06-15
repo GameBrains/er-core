@@ -1,4 +1,8 @@
 . Place a Barrage template so that it:
 * is completely within range and line of sight of the firer
 +
-NOTE: If the unit also has {artillery}, the template does not need to be in line of sight.
+NOTE: If the unit or weapon also has {artillery}, the template does not need to be in line of sight of the firer.
+
+////
+ Editing note, I've added 'or weapon' to the Artillery note for future-proofing purposes. For example if Carapace Landing Pads get added, and they allow one weapon that uses the Barrage template to fire with the Artillery rule.
+////

@@ -16,7 +16,7 @@ When you shoot with a detachment that includes units with {barrage} weapons:
 * is completely within range and line of sight of all units contributing to the {barrage}
 * covers as many units as possible from the target detachment.
 +
-NOTE: For any unit that also has {artillery}, the template does not need to be in their line of sight.
+NOTE: If any unit or weapon also has {artillery}, the template does not need to be in line of sight of that unit.
 include::partial$template-cover-bullet.adoc[]
 
 . The number of covered enemy units in the target detachment is the Firepower value for each {barrage} unit contributing to the attack.
