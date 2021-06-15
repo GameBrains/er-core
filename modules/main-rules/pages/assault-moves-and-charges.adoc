@@ -58,6 +58,36 @@ A Space Marine detachment of Space Marines, Assault Squads, and Bikes is moving 
 * Each Bike unit has a Speed of 35 cm. As they are Vehicle units you do *not* get an increase to their Speed value if you charge them into base contact with an enemy unit. You can move the unit 35 cm.
 ====
 
+.Charging into base contact
+====
+image::assault-move-charge.png[Orks charging into base contact with Space Marines.]
+
+The first three Ork Boyz move into contact with the Blue Marines Units.
+
+Ork Boyz 4 move, and they want to get into base contact. They could move towards one of the Blue Marines Units, but instead they choose to ignore the already-contacted Blue Marines, and move get into base contact with Yellow Marines B. They cannot move into base contact with Yellow Marines A as this would involve moving past B, who are closer.
+====
+
+.Moving towards a more distant enemy unit
+====
+image::assault-move-examples-past.png[Orks moving past other units.]
+
+Ork Boyz 5 move. They could move into base contact with one of the already-contacted Marines, or Yellow Marines A, which is the closest enemy not in base contact with a friendly unit.
+
+Instead, Ork Boyz 5 wants to move towards Yellow Marines C at the back. Ork Boyz 5 will have to stop when they reach the red line, as any further movement will be away from Yellow Marines A, the closest enemy not in base contact with a friendly unit.
+
+[TIP]
+======
+Why would you want to move Ork Boyz 5 towards Yellow Marines C? This could be for several reasons, for example:
+
+* This gets Ork Boyz 5 within range of an objective.
+* It increases the chances of cutting down any retreating Marines because they can’t move outside 15 cm.
+* Yellow Marines C could be in a separate Detachment. The Ork player hopes to win the Close Combat against the first Detachment, then initiate a Firefight against the new Detachment.
+* It gets Orks Boyz 5 into a better position for the next turn.
+======
+
+
+====
+
 .Related information
 * xref:special-rules:cavalry.adoc[]
 * xref:special-rules:jump-packs.adoc[]
