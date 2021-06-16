@@ -7,3 +7,4 @@
   *** xref:ordo-malleus.adoc[]
   *** xref:recovery.adoc[]
  ** xref:war-engine-barging.adoc[]
+ ** xref:robust.adoc[]

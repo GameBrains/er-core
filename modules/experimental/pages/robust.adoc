@@ -1,0 +1,59 @@
+= Robust
+:robust: Robust
+
+An experimental rule for normal units with Damage Capacity 2, slightly similar to a War Engine unit.
+
+[TIP]
+====
+These units require 2 hits to destroy, and count as 2 units for hit allocation and detachment strength.
+
+This ability is being tested for units that are tougher than the standard rules allow, but not as tough as War Engine units.
+For example Land Raiders, Stompas, and Greater Daemons.
+====
+
+---
+
+Where your unit has the {robust} ability, apply these rules:
+
+* The unit starts the game with Damage Capacity 2. Each hit reduces its Damage Capacity by 1. When the unit's Damage Capacity is reduced to 0 it is destroyed.
+* The unit counts as *2* units for hit allocation.
+** When shooting at the detachment, your opponent must allocate 2 dice to the unit before allocating dice to more distant targets.
+// Editing note, I've just used 'dice' here rather than 'successful hit dice'.
+** Where possible, your opponent must allocate 2 dice that are equal to or higher than the unit's Armour value, *or* 2 dice that are lower than the unit's Armour value.
++
+TIP: The aim of this restriction is to reduce the number of units with 1 remaining point of Damage Capacity by forcing the attacker to kill the unit or bypass it.
+
+** A third die cannot be allocated to the unit until all eligible units have had a die allocated to them, and so on.
+** In close combat, a third hit cannot be allocated to the unit until all eligible units have had a successful hit allocated to them, and so on.
+* Each remaining point of Damage Capacity counts as 1 unit for the strength of the detachment.
+* The unit counts as *1* unit for all other purposes, including 'ganging up' in close combat, how many hit rolls it makes in close combat, supporting a close combat, and for the number of units covered by a {barrage} template.
+* Any hit that automatically causes Critical Damage, such as a hit from a {death-ray} weapon, will reduce the unit's Damage Capacity to 0, destroying the unit.
+
+IMPORTANT: Units with the {robust} ability are not War Engine units and do not follow the rules for War Engine units.
+
+.Detachment strength
+====
+A Space Marine detachment contains:
+
+* 1 Captain
+* 6 Land Raiders with {robust}, so they each have Damage Capacity 2
+* 5 Terminator units
+
+The detachment has a strength of 18, so gets +1 to Leadership tests, and is reduced to half strength when it has 9 remaining units and Damage Capacity.
+====
+
+.Shooting hit allocation
+====
+image::damage-capacity-shooting.png[Orks shooting at Space Marine Terminators and Land Raiders.]
+
+The Space Marine detachment of Terminators (Armour 5+) and Land Raiders (Armour 6) has been shot by an Ork detachment.
+The Orks have made six rolls of 5 or more, so have 6 dice to allocate to units.
+
+. The first die must be allocated to Terminator 1.
+. The next 2 dice must be allocated to Land Raider 1. They must both be rolls of 6 that can affect the Land Raider, or both be rolls of 5 that cannot affect the Land Raider.
+. The fourth and fifth dice must be allocated to Terminators 2 and 3.
+. The last die must be allocated to Land Raider 2.
+====
+
+.Related information
+* xref:main-rules:allocate-hits.adoc[]
