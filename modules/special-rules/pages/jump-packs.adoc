@@ -12,7 +12,7 @@ Make the first value twice (2x) the Speed value of the base unit, and the second
 
 .{jump-packs} data sheet modifiers
 ====
-A Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
+The Eldar Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
 
 *  While the base unit has a Speed value of 15 cm, that of the Swooping Hawks is 30/45 cm.
 ====
