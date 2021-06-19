@@ -1,2 +1,4 @@
 = Stubborn
 
+`Detachment ability`
+

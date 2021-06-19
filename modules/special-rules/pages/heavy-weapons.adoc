@@ -1,5 +1,7 @@
 = Heavy Weapons
 
+`Data sheet modifier`
+
 These units specialise in shooting, with weapons that give them longer range and more firepower.
 
 Of course, their advantages in shooting come at a cost to their effectiveness in close combat.

@@ -1,3 +1,5 @@
 = Summon
 
+`Detachment ability`
+
 {blank}[TODO: *NEW* updated name for 'summoning daemons'.]

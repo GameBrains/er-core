@@ -1,5 +1,7 @@
 = Ork Initiative
 
+`Army ability`
+
 Always ready for a krumpin', Orks often charge into combat in an unstoppable rush that forces their enemies to take a reactive stance.
 
 ---
