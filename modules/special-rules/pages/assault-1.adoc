@@ -1,5 +1,7 @@
 = Assault +1
 
+`Data sheet modifier`
+
 These units are exceptionally fierce or gifted at close combat; yet they are no less capable or less equipped for ranged combat than others of their kind.
 
 [NOTE.e40k]

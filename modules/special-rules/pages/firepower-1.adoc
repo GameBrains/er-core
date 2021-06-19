@@ -1,5 +1,7 @@
 = Firepower +1
 
+`Data sheet modifier`
+
 These units are especially potent at range for their kind.
 
 [NOTE.e40k]

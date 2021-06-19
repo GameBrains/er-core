@@ -1,5 +1,7 @@
 = Tyranid Objectives
 
+`Army ability`
+
 The Hive Mind hungers only for biomass and genetic material.
 It doesn't seek to hold ground or capture objectives.
 

@@ -1,5 +1,7 @@
 = Hit and Run
 
+`Detachment ability`
+
 Some forces have honed tactics in which they make a lightning assault, seemingly from nowhere, and then disappear just as suddenly.
 
 ---

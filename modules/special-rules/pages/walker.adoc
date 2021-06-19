@@ -1,5 +1,7 @@
 = Walker
 
+`Unit ability`
+
 Some vehicles that have legs are able to enter terrain that is problematic for other vehicles.
 Thus they can fill niche roles on the battlefield, often in close support of infantry.
 

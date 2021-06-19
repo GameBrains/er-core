@@ -1,5 +1,7 @@
 = No Retreat
 
+`Detachment ability`
+
 Some forces never retreat from combat, no matter how bad it gets.
 
 [NOTE.e40k]

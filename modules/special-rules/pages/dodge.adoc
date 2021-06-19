@@ -1,5 +1,7 @@
 = Dodge
 
+`Detachment ability`
+
 Some formations of very mobile troops can dodge and jink so effectively that they are hard to target.
 
 [NOTE.e40k]
