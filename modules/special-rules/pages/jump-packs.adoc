@@ -30,6 +30,7 @@ Of course you can never end a move in impassable terrain; but if you end a move 
 * When you make an Assault move {blank}[TODO: "charge move"?] with the unit, you can move it over enemy units that are already in base contact with your other units.
 +
 [NOTE.e40k]
+.Move over contacted enemy units
 ====
 We created this rule as part of efforts to rationalise and improve the rules for Assault moves, after discussion with other players.
 ====

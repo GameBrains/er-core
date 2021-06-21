@@ -1,5 +1,7 @@
 = Types of special ability
 
+About the different types of ability and how we use them in the game.
+
 == Data sheet modifier
 
 These abilities do not provide special rules effects.
