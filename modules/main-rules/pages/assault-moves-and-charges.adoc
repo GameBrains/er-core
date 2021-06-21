@@ -4,6 +4,10 @@ During the Assault phase you may only move and attack with detachments that you 
 
 include::partial$leadership-test-before-move.adoc[]
 
+We call each move that you make with a unit in this phase an *assault move*.
+Where you make an assault move that puts your unit in base contact with an enemy unit we call this a *charge move*.
+Every charge move is an assault move, but not every assault move is a charge move.
+
 == Assault moves
 
 Moves in the Assault phase are subject to all the rules that we described for the Movement phase -- except that the Snap-fire rule does *not* apply in the Assault phase.
@@ -16,9 +20,10 @@ For each unit:
 Any movement beyond this is optional.
 * You *must* move your unit as directly as possible towards an enemy unit.
 This does not necessarily mean the nearest enemy unit, or even one that is in a detachment that you intend to assault.
- ** You may detour around Dangerous terrain if you wish.
+ ** You may detour around dangerous terrain if you wish, to avoid Dangerous terrain tests.
 * You may *not* move your unit away from the enemy unit that it is closest to.
- ** The closest enemy unit is the one that can be reached by the shortest route.
+ ** The closest enemy unit is the one that your unit could reach by the shortest route.
+// But 'by the shortest' route' would have to allow for detours around dangerous terrain wouldn't it?
  ** However, you may ignore the closest enemy unit if you already have a friendly unit in base contact with it.
  Then focus on the next closest enemy unit.
 
@@ -26,25 +31,16 @@ TIP: You do not have to move units more than 5 cm if you do not want to.
 You might only want to move units into range for a firefight or to grab an objective, for example.
 
 [NOTE.e40k]
-.Assault moves through Dangerous terrain
+.Assault moves through dangerous terrain
 ====
-We added the option for you to avoid Dangerous terrain during your assault moves.
+We added the option for you to avoid dangerous terrain during your assault moves.
 ====
 
 [NOTE.e40k]
 .Assault moves and 'moving past'
 ====
-We clarified the requirements so that we should not need a separate explanation of the 'no moving past' concept.
+We clarified the requirements to better integrate the 'no moving past' concept.
 ====
-
-
-////
-[TODO IJW: I've put the war engine part within comment marks for now, and we can decide if it should be included here or only appear in the WE pages.]
-[TODO EJW: Yes, I think it is best to put this in the section for War Engines, in the normal way that special rules override main rules. We could add 'related information' links between these topics though, so that there is convenient navigation for those who've moved on from the basics.]
-
-You can choose *not* to move War Engine units in the Assault phase -- but then you will not be able to initiate close combats or firefights with them.
-Otherwise, the same rules apply to War Engine units.
-////
 
 == Charge moves
 
@@ -64,45 +60,5 @@ You can benefit from a special increase to the Speed value of some units, but *o
 We changed the explanation of charge moves and added split Speed values, to make charge moves and special increases to Speed values easier to understand.
 ====
 
-.Space Marine assault and charge moves
-====
-A Space Marine detachment of Space Marines, Assault Squads, and Bikes is moving in the Assault phase.
-
-* Each Space Marine unit has a Speed of 10 cm. As they are Infantry units, you can double this value to 20 cm if you charge them into base contact with an enemy unit, otherwise you can only move the unit 10 cm.
-* Each Assault Squad unit has a Speed of `20/30 cm`. You can use the second value of 30 cm if you charge them into base contact with an enemy unit, otherwise you can only move the unit 20 cm.
-* Each Bike unit has a Speed of 35 cm. As they are Vehicle units you do *not* get an increase to their Speed value if you charge them into base contact with an enemy unit. You can move the unit 35 cm.
-====
-
-.Charging into base contact
-====
-image::assault-move-charge.png[Orks charging into base contact with Space Marines.]
-
-The first three Ork Boyz move into contact with the Blue Marines Units.
-
-Ork Boyz 4 move, and they want to get into base contact. They could move towards one of the Blue Marines Units, but instead they choose to ignore the already-contacted Blue Marines, and move get into base contact with Yellow Marines B. They cannot move into base contact with Yellow Marines A as this would involve moving past B, who are closer.
-====
-
-.Moving towards a more distant enemy unit
-====
-image::assault-move-examples-past.png[Orks moving past other units.]
-
-Ork Boyz 5 move. They could move into base contact with one of the already-contacted Marines, or Yellow Marines A, which is the closest enemy not in base contact with a friendly unit.
-
-Instead, Ork Boyz 5 wants to move towards Yellow Marines C at the back. Ork Boyz 5 will have to stop when they reach the red line, as any further movement will be away from Yellow Marines A, the closest enemy not in base contact with a friendly unit.
-
-[TIP]
-======
-Why would you want to move Ork Boyz 5 towards Yellow Marines C? This could be for several reasons, for example:
-
-* This gets Ork Boyz 5 within range of an objective.
-* It increases the chances of cutting down any retreating Marines because they can’t move outside 15 cm.
-* Yellow Marines C could be in a separate Detachment. The Ork player hopes to win the Close Combat against the first Detachment, then initiate a Firefight against the new Detachment.
-* It gets Orks Boyz 5 into a better position for the next turn.
-======
-
-
-====
-
 .Related information
-* xref:special-rules:cavalry.adoc[]
-* xref:special-rules:jump-packs.adoc[]
+* xref:terrain-effects-on-movement.adoc#_dangerous_terrain_test[]

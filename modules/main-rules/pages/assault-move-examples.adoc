@@ -1,0 +1,76 @@
+= Assault move examples
+
+These examples explain how assault moves work in some more detail -- both assault moves in general and charge moves in particular.
+
+== Mixed units, assault moves and charge moves
+
+.Assault moves and charge moves with a mixed Space Marine detachment
+====
+You have a Space Marine detachment that is on Assault orders.
+Your detachment includes Space Marine, Assault and Bike units.
+You proceed to move this detachment in the Assault phase.
+
+* The Space Marine unit has a Speed value of `10 cm`.
+As an Infantry unit, you can double this value to `20 cm` where you use the extra movement to make a charge move.
++
+That is, you may move your Space Marine units up to 20 cm where you use this to put them into base contact with an enemy unit; otherwise, you may only move them up to 10 cm.
+* The Space Marine Assault unit has a split Speed value of `20/30 cm`, as a result of the {jump-packs} ability.
+You can use the second value of `30 cm` where you use the extra movement to make a charge move.
++
+That is, you may move your Assault units up to 30 cm where you use this to put them into base contact with an enemy unit; otherwise, you may only move them up to 20 cm.
+* The Space Marine Bike unit has a Speed value of `35 cm`.
+As a Vehicle unit, you do *not* get a special increase to their Speed value for a charge move.
++
+That is, you can move your Bike units up to 35 cm, regardless of whether or not you put them into base contact with enemy units.
+
+====
+
+== Charge moves (making base contact)
+
+.Charge moves with an Ork detachment
+====
+image::assault-move-charge.png[Orks charging into base contact with Space Marines.]
+
+You move the first three Ork Boyz units into contact with the blue Marines units.
+
+Then you move Ork Boyz (4), and you want to make base contact again.
+You could move them towards one of the blue Marines units, as you may put up to two units into contact with an enemy unit.
+
+Instead, you choose to ignore the blue Marines units that are already in contact with friendly units, and you move Ork Boyz (4) into base contact with yellow Marines (B).
+
+You cannot move Ork Boyz (4) into base contact with yellow Marines (A).
+This is because you would move them away from (past) Marines (B), who are closer than Marines (A).
+====
+
+== Charge moves towards a more distant enemy unit
+
+.Charge moves with an Ork detachment, with a more distant enemy unit
+====
+image::assault-move-examples-past.png[Orks moving past other units.]
+
+You move Ork Boyz (5).
+You could move them into base contact with one of the Space Marines units where you have already placed Orks in base contact; or you may move them towards yellow Marines A, which is the closest enemy that is *not* in base contact with a friendly unit.
+
+If you wanted to move Ork Boyz (5) towards towards the more distant yellow Marines +(C)+, then you would have to end movement of Ork Boyz (5) at the point where they reach the red line.
+This is because any further movement towards yellow Marines +(C)+ would be away from (past) yellow Marines (A).
+//[TODO: I don't think that this is quite consistent with "The closest enemy unit is the one that your unit could reach by the shortest route." -- because in this graphic we're judging 'nearest' directly, rather than by route.]
+====
+
+[TIP]
+.Why you might want to approach a more distant enemy unit
+====
+You might ask why you would want to move Ork Boyz (5) towards yellow Marines +(C)+.
+This could be for several reasons, such as:
+
+* It puts Ork Boyz (5) within range of an objective, or in a better position for the next turn.
+* It increases the likelihood that, if you win the close combat, you will destroy Space Marine units as they try to retreat.
+That is, because you put your Orks further forward, there is less room for your opponent to place their retreating Space Marines units such that they are at least 15 cm away from your units -- and so you may destroy more of them.
+Of course, this also works against you if you lose the close combat...
+* Where yellow Marines +(C)+ is in a separate Detachment:
+You hope to win the close combat against the first Space Marine detachment, and then trigger a firefight with the detachment that includes yellow Marines +(C)+.
+As you must have at least one unit within 15 cm to trigger the firefight, you move Ork Boyz (5) to meet this requirement.
+====
+
+.Related information
+* xref:special-rules:jump-packs.adoc[]
+* xref:broken-detachments.adoc#retreat-move[Retreat move]

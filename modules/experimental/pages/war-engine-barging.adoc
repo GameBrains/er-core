@@ -7,7 +7,7 @@ Two experimental options to improve the rules for when you make a charge move wi
 Often, when you make a charge move with your War Engine unit, you'd like to move it into base contact with multiple enemy units.
 The rules do not actually explain how this should work. 
 
-.The solution
+.The proposal
 Define charge move rules that explain how you can move your War Engine unit into base contact with multiple enemy units.
 We base these options around the idea that a massive war engine should be able to barge past lesser units to some extent, to get deeper into an enemy detachment and so make contact with more units.
 ****
@@ -17,7 +17,8 @@ We base these options around the idea that a massive war engine should be able t
 When it charges, a war engine can barge some enemy units aside and plough deeper into the enemy line.
 
 So, when you make a charge move with a War Engine unit, use the procedure below.
-But be consistent -- you and your opponent should both agree and use either option A or option B for your entire game.
+
+(But be consistent -- you and your opponent should both agree and use either option A or option B for your entire game.)
 
 NOTE: You may *not* barge aside enemy War Engine units.
 We consider them to be too massive and dangerous for this to be a viable manoeuvre.
