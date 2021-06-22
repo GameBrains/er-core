@@ -1,48 +1,43 @@
 = War engine barging
 
+IMPORTANT: This rule is for playtesting purposes and is not finished content.
+
 Two experimental options to improve the rules for when you make a charge move with a War Engine unit.
 
 ****
 .The problem
 Often, when you make a charge move with your War Engine unit, you'd like to move it into base contact with multiple enemy units.
-The rules do not actually explain how this should work. 
+The original _Epic 40,000_ rules do not appear to allow this.
 
 .The proposal
-Define charge move rules that explain how you can move your War Engine unit into base contact with multiple enemy units.
-We base these options around the idea that a massive war engine should be able to barge past lesser units to some extent, to get deeper into an enemy detachment and so make contact with more units.
+Define charge move rules that allow you to move your War Engine unit into base contact with multiple enemy units.
+We base these options around the idea of War Engine units being able to barge aside smaller units.
 ****
 
 ---
 
-When it charges, a war engine can barge some enemy units aside and plough deeper into the enemy line.
+Before your game starts, choose *one* of these options to try out for the entire game.
 
-So, when you make a charge move with a War Engine unit, use the procedure below.
+== Option A: Barging based on initial Damage Capacity (DC)
+// EDITING NOTE: I've changed these to sections as the labels don't give enough visual separation for the two options, but if you feel strongly about it, please change them back to labels.
+NOTE: You may *not* barge aside enemy War Engine units, so your move will stop if you make base contact with one.
+// EDITING NOTE: The note was moved here so that it's within the rules section.
 
-(But be consistent -- you and your opponent should both agree and use either option A or option B for your entire game.)
-
-NOTE: You may *not* barge aside enemy War Engine units.
-We consider them to be too massive and dangerous for this to be a viable manoeuvre.
-
-.Option A and B
 . As in the standard assault move rules, move your War Engine into base contact with the closest enemy unit.
-
-.Option A: Barging based on initial Damage Capacity (DC)
-[start=2]
 . Rather than stop there, you may continue your move if you have more movement available.
-. You may not continue your move past the point at which you run out of available movement or the War Engine has made contact with a number of enemy units equal to half its initial Damage Capacity -- whichever happens first.
-
-.Option B: Barging based on distance (5 cm)
-[start=2]
-. Rather than stop there, you may move your War Engine up to a further 5 cm, or the remainder of its available move -- whichever is the least.
- * Remember that a War Engine unit can attack or be attacked by no more units than the number equal to half its initial Damage Capacity. So, you must end your assault move if you reach this condition before you run out of movement.
-. (Go to the next step.)
-
-.Option A and B
-[start=4]
+. You may not continue your move past the point at which you run out of available movement or the War Engine has made base contact with a number of enemy units equal to half its initial Damage Capacity -- whichever happens first.
 . After you end your assault move, your opponent must place their units that your War Engine is barging aside.
 They must place these units:
  * in base contact with your War Engine
  * as close as possible to their original positions
+
+== Option B: Barging based on distance (5 cm)
+// EDITING NOTE: Please have a look at this section, I'm not happy with the phrasing of the bullet point. The idea is that you stop as soon as your original movement runs out OR you contact enough units OR you have moved 5 cm from the first contact.
+
+Follow the same procedure as Option A, and apply this *additional* restriction during step 3:
+
+* You may not continue your move by more than 5 cm.
+
 
 .Related information
 * xref:main-rules:assault-moves-and-charges.adoc[]
