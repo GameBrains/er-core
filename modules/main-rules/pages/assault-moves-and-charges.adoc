@@ -11,7 +11,7 @@ Every charge move is an assault move, but not every assault move is a charge mov
 == Assault moves
 
 Moves in the Assault phase are subject to all the rules that we described for the Movement phase -- except that the Snap-fire rule does *not* apply in the Assault phase.
-Also, due to certain complexities in the Assault phase, you need to pay extra attention to the way that you move each individual unit. 
+Also, there are some complexities in this Assault phase that mean you need to pay extra attention to the way that you move each individual unit.
 
 When you move a detachment in the Assault phase, move each of its units one after the other.
 For each unit:
@@ -19,34 +19,36 @@ For each unit:
 * You *must* move your unit at least 5 cm -- or into base contact with an enemy unit that is within 5 cm.
 Any movement beyond this is optional.
 * You *must* move your unit as directly as possible towards an enemy unit.
-This does not necessarily mean the nearest enemy unit, or even one that is in a detachment that you intend to assault.
- ** You may detour around dangerous terrain if you wish, to avoid Dangerous terrain tests.
-* You may *not* move your unit away from the enemy unit that it is closest to.
- ** The closest enemy unit is the one that your unit could reach by the shortest route.
-// But 'by the shortest' route' would have to allow for detours around dangerous terrain wouldn't it?
- ** However, you may ignore the closest enemy unit if you already have a friendly unit in base contact with it.
- Then focus on the next closest enemy unit.
+This does not necessarily mean the *closest* enemy unit, or even one that is in a detachment that you intend to assault.
+* You may *not* move your unit away from the enemy unit that it is *closest* to.
+ ** You may ignore the closest enemy unit if you already have a friendly unit in base contact with it.
+ Then focus on the next closest enemy unit that is not in contact with a friendly unit.
 
 TIP: You do not have to move units more than 5 cm if you do not want to.
 You might only want to move units into range for a firefight or to grab an objective, for example.
 
-[NOTE.e40k]
-.Assault moves through dangerous terrain
+[NOTE]
+.Closest enemy unit
 ====
-We added the option for you to avoid dangerous terrain during your assault moves.
+The closest enemy unit is the one that your unit could reach by the shortest route.
+
+However, you may detour around dangerous terrain if you wish, to avoid Dangerous terrain tests.
+In that case, the closest enemy unit is the one that your unit could reach by the shortest route that does not include dangerous terrain.
 ====
 
 [NOTE.e40k]
-.Assault moves and 'moving past'
+.Assault moves, 'moving past', 'closest' and detours
 ====
 We clarified the requirements to better integrate the 'no moving past' concept.
+
+We added the option for you to avoid dangerous terrain during your assault moves.
 ====
 
 == Charge moves
 
 If the assault move that you make with a unit puts it into base contact with an enemy unit, then we call this a *charge move*, or a *charge*.
 
-This is the only time that you may move your units into base contact with enemy units.
+This is the only time that you may move your unit into base contact with an enemy unit.
 
 You can benefit from a special increase to the Speed value of some units, but *only* where you use this increase to reach base contact -- a charge move.
 
@@ -61,4 +63,4 @@ We changed the explanation of charge moves and added split Speed values, to make
 ====
 
 .Related information
-* xref:terrain-effects-on-movement.adoc#_dangerous_terrain_test[]
+* xref:terrain-effects-on-movement.adoc#dangerous-terrain-test[Dangerous terrain test]
