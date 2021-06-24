@@ -1,27 +1,10 @@
 = S2. Work out Blast markers
+:bm-fp:
 
 When your units shoot at a target detachment, that detachment will tend to accrue *Blast markers*.
 Blast markers represent the chaos and confusion that a target detachment suffers when it comes under heavy fire.
 
 The number of Blast markers that you place on the target detachment depends upon the total Firepower that you direct at it, before modification (for Assault orders, Blast markers on the detachment, and so on).
-// Does this really mean that detachments on Assault orders get their full Firepower for Blast markers, before it is halved to work out how many actual dice they get? Update: Actually, original wording is unclear as to whether it is total Firepower that is halved, or each individual unit's Firepower - which would make quite a difference, given rounding up of odd values.
+// [TODO: Does this really mean that detachments on Assault orders get their full Firepower for Blast markers, before it is halved to work out how many actual dice they get?]
 
-.Blast marker table
-[cols="^,^2"]
-|===
-|Firepower |Blast markers placed
-
-|1 to 7
-|One, if any hits are scored
-
-|8 to 15
-|One
-
-|16 to 23
-|Two
-
-|24 or more
-|Three
-|===
-
-//+[IJW editing note: This table and the one in super-heavy-weapons.adoc have been rationalised.]+
+include::main-rules:partial$blast-marker-table.adoc[]

@@ -1,4 +1,5 @@
 = Super-heavy weapons
+:bm-shw:
 
 These are fearsome and awe inspiring weapons that equip the most powerful units in the game -- usually war engines, but also some particularly potent specialist units of other types.
 
@@ -24,17 +25,8 @@ When you shoot with a detachment that includes super-heavy weapons, you may get 
 * For any regular Firepower that your detachment brings to bear on the target detachment, place Blast markers as normal.
 * For the super-heavy weapons that your detachment brings to bear on the target detachment, place Blast markers as follows.
 +
-.Blast marker table
-[cols="^,^2"]
-|===
-^|Number of super-heavy weapons ^| Blast markers placed
-
-^|1 to 3 ^|One, if any hits are scored
-^|4 to 8 ^|1
-^|9 or more ^|2
-|===
+include::main-rules:partial$blast-marker-table.adoc[]
 +
-// IJW editing note: This table and the one in work-out-blast-markers.adoc have been rationalised.
 [NOTE]
 ====
 Count the number of super-heavy weapons that you direct at the target detachment.
