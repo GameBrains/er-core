@@ -2,7 +2,7 @@
 
 IMPORTANT: This rule is for playtesting purposes and is not finished content.
 
-Two experimental options to improve the rules for when you make a charge move with a War Engine unit.
+An experimental option to improve the rules for when you make a charge move with a War Engine unit.
 
 ****
 .The problem
@@ -11,33 +11,22 @@ The original _Epic 40,000_ rules do not appear to allow this.
 
 .The proposal
 Define charge move rules that allow you to move your War Engine unit into base contact with multiple enemy units.
-We base these options around the idea of War Engine units being able to barge aside smaller units.
+We base this option around the idea of War Engine units being able to barge aside smaller units.
 ****
 
 ---
 
-Before your game starts, choose *one* of these options to try out for the entire game.
-
-== Option A: Barging based on initial Damage Capacity (DC)
-// EDITING NOTE: I've changed these to sections as the labels don't give enough visual separation for the two options, but if you feel strongly about it, please change them back to labels.
-
 . As in the standard assault move rules, move your War Engine into base contact with the closest enemy unit.
-. Rather than stop there, you may continue your move if you have more movement available.
-. You may not continue your move past the point at which any of these events occur:
- * You run out of available movement.
+. Rather than stop there, you may continue to move the War Engine if it has more movement available.
+. You *must* stop the move as soon as any of these events occur:
+ * The War Engine has run out of available movement.
  * The War Engine has made base contact with a number of enemy units equal to half its initial Damage Capacity.
  * The War Engine has made base contact with an enemy War Engine.
+ * The War Engine has moved 5 cm from the first contact with an enemy unit.
 . After you end your assault move, your opponent must place their units that your War Engine is barging aside.
 They must place these units:
  * in base contact with your War Engine
  * as close as possible to their original positions
-
-== Option B: Barging based on distance (5 cm)
-// EDITING NOTE: Please have a look at this section, I'm not happy with the phrasing of the bullet point. Maybe 'You have continued your move by 5 cm'?
-
-Follow the same procedure as Option A, and apply this *additional* restriction during step 3:
-
-* You have moved 5 cm from the first contact with an enemy unit.
 
 
 .Related information
