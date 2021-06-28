@@ -10,8 +10,8 @@ You have a Space Marine detachment that is on Assault orders.
 Your detachment includes Space Marine, Assault and Bike units.
 You proceed to move this detachment in the Assault phase.
 
-* The Space Marine unit has a Speed value of `10 cm`.
-As an Infantry unit, you can double this value to `20 cm` where you use the extra movement to make a charge move.
+* The Space Marine unit has a Speed value of `10/20 cm`.
+As an Infantry unit, you can use the second value of `20 cm` where you use the extra movement to make a charge move.
 +
 That is, you may move your Space Marine units up to 20 cm where you use this to put them into base contact with an enemy unit; otherwise, you may only move them up to 10 cm.
 * The Space Marine Assault unit has a split Speed value of `20/30 cm`, as a result of the {jump-packs} ability.

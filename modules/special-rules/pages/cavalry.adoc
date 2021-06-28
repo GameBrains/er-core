@@ -9,17 +9,13 @@ Of course, riders and their mounts vary enormously -- humans on horses, denizens
 Cavalry forgo some of the advantages of infantry -- they find it difficult to take cover, to move through buildings or rubble, and so on.
 But they make up for this with speed.
 
-[NOTE.e40k]
-====
-In comparison to _Epic 40,000_, we've separated the Armour bonus part of the _Cavalry_ ability into our new {armour-1} ability.
-====
-
 ---
 
 Where your unit has the {cavalry} ability, apply these changes relative to its base unit:
 
-* Make its Speed value into a split Speed value.
-Make the first value twice (2x) the Speed value of the base unit, and the second value three times (3x) the Speed value of the base unit.
+* Make its first Speed value two times (2x) the first Speed value of the base unit.
+* Make its second Speed value three times (3x) the first Speed value of the base unit.
+* Add +1 to its Armour value.
 * Change the unit type to Vehicle (VEH).
 
 .{cavalry} data sheet modifiers
@@ -27,9 +23,12 @@ Make the first value twice (2x) the Speed value of the base unit, and the second
 An Imperial Guard Rough Rider unit is an Imperial Guard unit with added special abilities.
 The {cavalry} ability means that:
 
-* While the base unit has a Speed value of 10 cm, that of the Rough Riders is 20/30 cm.
+* While the base unit has a Speed value of 10/20 cm, that of the Rough Riders is 20/30 cm (10 cm x 2 and 10 cm x 3).
+* While the base unit has an Armour value of 3+, that of the Rough Riders is 4+.
 * While the base unit has a unit type of Infantry (INF), that of the Rough Riders is Vehicle (VEH).
 ====
+
+include::main-rules:partial$charge-moves-split-speed.adoc[]
 
 .Related information
 * xref:main-rules:data-sheets-and-characteristics.adoc[]

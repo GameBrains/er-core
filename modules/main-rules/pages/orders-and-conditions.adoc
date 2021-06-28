@@ -30,7 +30,9 @@ Movement phase:: You may make a move with units in this detachment.
 Shooting phase:: You may shoot with the units in this detachment -- but you must *halve* their total Firepower.
 Assault phase:: You *must* move the units in this detachment, at least 5 cm towards the enemy (though not necessarily the nearest enemy).
 +
-If any of your units can reach base-to-base contact with at least one enemy unit then you may declare that your detachment is *charging into close combat*. As part of a charge, you may make a *double* move with infantry units in the detachment *if* this will bring them into base-to-base contact with the enemy.
+Any of your units that reaches base-to-base contact with at least one enemy unit is *charging into close combat*. As part of a charge, you may use the *second* Speed value of units *if* this will bring them into base-to-base contact with the enemy.
+
+include::partial$charge-moves-split-speed.adoc[]
 
 === March
 image::Orders_March.png[role="left"]
@@ -54,7 +56,7 @@ Movement phase:: You may move units in this detachment up to 5 cm only.
 Shooting phase:: You may shoot with units in this detachment -- and you may *re-roll any misses* you roll with the hit dice.
 +
 +[TODO: Is there any edge case where the detachment might be allowed to shoot outside of the Shooting phase? If so, then might need a note to the effect that the re-roll applies to shooting outside of the Shooting phase as well.]+
-Assault phase:: You may *not* move units in this detachment.  
+Assault phase:: You may *not* move units in this detachment.
 
 === Special
 image::Orders_Special.png[role="left"]

@@ -18,8 +18,9 @@ include::partial$terrain-effects-table.adoc[]
 [[dangerous-terrain-test]]
 == Dangerous terrain test
 
-When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6: On a roll of 1, halt the unit at the edge of the terrain.
-If the unit is halted in this way, roll the D6 again: If you roll another 1 then the unit takes a hit.
+When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6: On a roll of 1, halt the unit. If the unit is moving into terrain, halt at the edge of the terrain.
+If the unit is halted, roll the D6 again: If you roll another 1 then the unit takes a hit.
+// IJW EDITING NOTE: I took out 'in this way' because covering both types of halt made it ambiguous.
 
 include::partial$effect-of-hits.adoc[]
 
@@ -27,18 +28,30 @@ NOTE: Hits from dangerous terrain do *not* cause critical damage on War Engine u
 
 == [[roads]]Movement on roads
 
-Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5 cm to its Speed value for that move.
-Apply this bonus to the unit's base Speed value, before modification.
+Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5 cm to its Speed value for that move. If the unit has a split Speed value, add 5 cm to its first Speed value and 10 cm to its second Speed value.
+//Apply this bonus to the unit's base Speed value, before modification.
 
 .Movement on roads
 ====
 An Ork Boyz Infantry unit is on March orders.
-Ork Boyz have a Speed value of 10 cm.
+Ork Boyz have a Speed value of 10/20 cm.
 
 The player will make the first two moves entirely on roads, and the third move will include some open ground.
 
 So, the player could move the unit up to a maximum of 40 cm.
-That is, up to 30 cm for the first two moves that are on roads ((10 cm Speed value + 5 cm road bonus) x2), plus up to 10 cm for the third move that is over at least some open ground.
+That is, up to 30 cm for the first two moves that are on roads ((10 cm first Speed value + 5 cm road bonus) x2), plus up to 10 cm for the third move that is over at least some open ground.
+====
+
+.Assault movement on roads
+====
+An Ork Boyz Infantry unit is on Assault orders.
+Ork Boyz have a Speed value of 10/20 cm.
+
+The player will make an assault move entirely on a road.
+
+The player could make a charge move of 30 cm, or a normal assault move of 15 cm.
+
+That is, a charge move up to 30 cm (20 cm second Speed value + 10 cm road bonus), or a normal assault move up to 15 cm (10 cm first Speed value + 5 cm road bonus).
 ====
 
 .Related information

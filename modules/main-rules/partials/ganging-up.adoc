@@ -1,0 +1,5 @@
+[NOTE]
+====
+.Ganging up
+A maximum of two units can enter base contact with each enemy unit.
+====

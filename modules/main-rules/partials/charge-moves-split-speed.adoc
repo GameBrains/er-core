@@ -1,0 +1,5 @@
+[NOTE.e40k]
+.Charge moves and split Speed values
+====
+We changed the explanation of charge moves and added split Speed values, to make charge moves and special increases to Speed values easier to understand.
+====

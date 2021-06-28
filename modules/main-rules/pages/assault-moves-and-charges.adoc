@@ -52,15 +52,12 @@ This is the only time that you may move your unit into base contact with an enem
 
 You can benefit from a special increase to the Speed value of some units, but *only* where you use this increase to reach base contact -- a charge move.
 
-* You may double the Speed value of any *Infantry* unit, unless it has a split Speed value.
 * Where a unit has a split Speed value such as `20/30 cm`, use the second value.
 * For any other unit, use its Speed value in the usual way.
 
-[NOTE.e40k]
-.Charge moves and split Speed values
-====
-We changed the explanation of charge moves and added split Speed values, to make charge moves and special increases to Speed values easier to understand.
-====
+include::partial$ganging-up.adoc[]
+
+include::partial$charge-moves-split-speed.adoc[]
 
 .Related information
 * xref:terrain-effects-on-movement.adoc#dangerous-terrain-test[Dangerous terrain test]
