@@ -18,6 +18,3 @@ Where your unit has the {holo-fields} ability:
 If the hit comes from an attack that would normally cause automatic critical damage anyway, there is no added effect -- your opponent gets only the one roll on the table, per hit.
 
 NOTE: While some attacks ignore void shields and power fields, these do *not* ignore holo-fields.
-
-NOTE: If a war engine uses {close-combat-weapons} and it wins a close combat, then it automatically inflicts catastrophic damage.
-This is not a 'hit', so the {holo-fields} ability offers no protection against this.
