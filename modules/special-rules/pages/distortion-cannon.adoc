@@ -7,11 +7,12 @@ The rift is not big enough to vanish a large target like a war engine, but a goo
 
 ---
 
-When you shoot with a {distortion-cannon}:
+When you make a {distortion-cannon} shot:
 
-* Pick any target within range and line of sight, even a specific unit in a detachment.
-* Roll a D6 and multiply the roll by 5, to get a score in the range of 5 to 30. A score that is equal to or greater than the target's Speed value is a hit.
+. Pick any target within range and line of sight, even a specific unit in a detachment.
+. Roll a D6 and multiply the roll by 5, to get a score in the range of 5 to 30.
+If your score is equal to or greater than the target's Speed value then you hit.
 Also, a roll of 1 (score 5) is always a miss, 6 (score 30) is always a hit.
-* {distortion-cannon} hits ignore Void Shields and Power Fields.
+* A hit from a {distortion-cannon} ignores void shields and power fields.
 * A {distortion-cannon} hit on a War Engine unit always causes critical damage.
-Roll on the target War Engine's Critical Damage table.
+Roll for a result on the unit's Critical Damage table.

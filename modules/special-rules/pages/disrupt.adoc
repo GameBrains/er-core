@@ -5,8 +5,9 @@ They entangle or confuse target units, or force them to scatter.
 
 ---
 
-When you shoot with a {disrupt} weapon:
+When you make a {disrupt} shot:
 
-* For each {disrupt} shot, roll a D6. If you roll a 4+, place one Blast marker on the target detachment in addition to any other Blast markers that you would normally place.
+* Roll a D6.
+If you roll a 4+, place one Blast marker on the target detachment in addition to any other Blast markers that you would normally place.
 
-{disrupt} weapons inflict no actual damage in game terms.
+A {disrupt} shot inflicts no actual damage in game terms.
