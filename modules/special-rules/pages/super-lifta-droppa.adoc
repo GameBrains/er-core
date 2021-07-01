@@ -18,7 +18,7 @@ If you roll a result that is higher than the initial Damage Capacity value of th
 Vehicle units usually have a Damage Capacity value of 1.
 War Engine units vary, so check the target unit's data sheet.
 . If the target unit has the {save} ability or the {holo-fields} ability, then your opponent may attempt the save.
-If they are successful, then the target is unharmed and nothing further happens -- do not continue below.
+If they are successful then the target is unharmed and nothing further happens -- do not continue below.
 . For each point by which your result is higher than the target unit's initial Damage Capacity value, you can move the unit up to 1 cm in any direction, above other game pieces.
 This is where the {super-lifta-droppa} will drop the target unit.
 . Resolve the drop:

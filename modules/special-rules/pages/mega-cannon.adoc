@@ -1,6 +1,6 @@
 = Mega Cannon
 
-These are huge pieces of ordinance that shoot a single, giant explosive munition at the target, so powerful that it blasts through any cover.
+These are huge pieces of ordnance that shoot a single, giant explosive munition at the target, so powerful that it blasts through any cover.
 
 ---
 
