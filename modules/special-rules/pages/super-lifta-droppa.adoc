@@ -8,20 +8,31 @@ Then they drop the first target onto the secondary targets...
 
 ---
 
-When you shoot with a {super-lifta-droppa}:
+When you make a {super-lifta-droppa} shot:
 
-* Pick any Vehicle or War Engine target within range and line of sight, even a specific unit in a detachment. You cannot target Infantry units.
-* Roll a D6. You need to roll higher than the initial Damage Capacity value of the target unit to hit.
-Vehicle units usually have a Damage Capacity value of 1; War Engine units vary, so check their data sheet.
+. Pick any Vehicle or War Engine target within range and line of sight, even a specific unit in a detachment.
+You cannot target Infantry units.
+. Roll a D6.
+If you roll a result that is higher than the initial Damage Capacity value of the target unit, then the weapon hits.
 +
-NOTE: If the hit is prevented by the target's {save} or {holo-fields} abilities, the target is unharmed and is not moved.
+Vehicle units usually have a Damage Capacity value of 1.
+War Engine units vary, so check the target unit's data sheet.
+. If the target unit has the {save} ability or the {holo-fields} ability, then your opponent may attempt the save.
+If they are successful, then the target is unharmed and nothing further happens -- do not continue below.
+. For each point by which your result is higher than the target unit's initial Damage Capacity value, you can move the unit up to 1 cm in any direction, above other game pieces.
+This is where the {super-lifta-droppa} will drop the target unit.
+. Resolve the drop:
+* The target unit is automatically destroyed.
+If it is a War Engine unit, roll for a result on its Catastrophic Damage table.
+* For each unit that is under the target unit, roll a D6.
+On a roll of 4+, that unit suffers a hit.
 +
+{blank}[TODO: (a) How do we define 'under', should we reference some of the same points as for the Barrage template; (b) How do we resolve differences between based vehicles and non-based vehicles... or can only War Engine units be dropped on more than one target? The latter seems best to me (in which case we should perhaps revert the plurals at the start of this topic to singular) -- but either way we should define it I think.]
+
 [NOTE.e40k]
 ====
-The original text in _Epic 40,000_ did not describe the {super-lifta-droppa} as causing hits, but Questions and Answers, _Firepower_, issue 2, confirmed that {holo-fields} 'saves' work against _Super Lifta-Droppas_.
+_Epic 40,000_ does not define success with the _Super Lifta Droppa_ effect as a 'hit'.
+But Games Workshop did confirm that the _Holo-fields_ 'save' can protect against the _Super Lifta-Droppa_ (see Questions and Answers, _Firepower_, issue 2).
 
-The {save} ability has been added for consistency, as {save} and {holo-fields} are supposed to work in a similar way.
+As the {save} ability works in a similar way to {holo-fields}, we  use the 'hit' terminology to be consistent and to imply that both of these abilities have the potential to protect a target.
 ====
-. For each point by which your roll is higher than the target unit's initial Damage Capacity value, you can move it up to 1 cm in any direction to determine where the {super-lifta-droppa} will drop it.
-. The target unit is dropped at the spot you chose, and is automatically destroyed -- if it is a War Engine unit, roll on its Catastrophic Damage table immediately.
-. For each unit under the dropped target, roll a D6. On a roll of 4+, that unit suffers a hit.

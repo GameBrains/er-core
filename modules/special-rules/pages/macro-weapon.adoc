@@ -1,27 +1,25 @@
-= Macro-Weapon
+= Macro-weapon
 
-These weapons are able to punch through even the thickest armour with ease.
+These weapons can punch through even the thickest armour with ease.
 
 [NOTE]
 ====
 This super-heavy weapon was originally called _Anti-Tank_.
 That term tends to mislead players as it implies effectiveness against Vehicle units but perhaps not against other unit types such as Infantry -- whereas the rules below actually make this weapon very effective against all unit types.
-We've borrowed the new name from the similar concept in _Epic Armageddon_.
+We borrow the new name from the similar concept in _Epic Armageddon_.
 ====
 
 ---
 
-When you shoot with a {macro-weapon}:
+When you make one or more {macro-weapon} shots:
 
-* Specify whether you will target Infantry units or Vehicle units in the target detachment.
-* For each {macro-weapon} shot, roll a D6. If you roll a 4+, the target detachment suffers a hit regardless of Armour values and regardless of cover.
-* Allocate {macro-weapon} hits as you would for regular Firepower, but allocate only to the nearest units of the type that you specified.
-
-NOTE: If shooting at a War Engine detachment, you do not need to specify a unit type.
-
+. Specify whether you will target Infantry units or Vehicle units in the target detachment.footnote:[To be clear, you can target a War Engine detachment, and then of course you do not need to specify a unit type as there is no mix.]
+. For each shot, roll a D6.
+Each 4+ that you roll is a hit, regardless of armour or cover.
+. Allocate the hits as you would for regular Firepower, but only among units of the type that you specified.
 
 .A classic {macro-weapon} unit
 ====
 The Space Marine Land Raider is both heavily armoured and heavily armed.
-It mounts armour-busting lascannons which make short work of thick armour.
+It has armour-busting lascannons, which make short work of thick armour.
 ====

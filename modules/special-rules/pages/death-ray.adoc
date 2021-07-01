@@ -6,9 +6,10 @@ The technology and form varies; but almost every major warring race in the 41^st
 
 ---
 
-When you shoot with a {death-ray} weapon:
+When you make a {death-ray} shot:
 
-* For each {death-ray} shot, pick any target within range and line of sight, even a specific unit in a detachment.
-* For each {death-ray} shot, roll a D6. If you roll a 2+, the target suffers a hit regardless of Armour values and regardless of cover.
+. Pick any target within range and line of fire, even a specific unit in a detachment.
+. Roll a D6.
+If you roll a 2+ then the target suffers a hit, regardless of armour or cover.
 * A {death-ray} hit on a War Engine unit always causes critical damage.
-Roll on the target War Engine's Critical Damage table.
+Roll for a result on the unit's Critical Damage table.
