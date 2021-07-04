@@ -1,82 +1,58 @@
 = Shooting with war engines
 
-War engines shoot in the second part of the Shooting phase, after all detachments of Infantry and Vehicle units. See the Shooting phase.
+When you reach the "Shoot with war engines" step in the turn sequence then it is time to shoot with your War Engine units.
+This is usually a moment of high drama and excitement -- will your carefully positioned behemoths live up to their fearsome reputations and lay waste to the enemy?
 
-== War engine weapon mounts
+== Weapon mounts
+
+Every War Engine unit has a number of weapon mounts.
+We list each of these in a separate line on the unit's data sheet.
+Usually, each weapon mount holds one weapons system, either a super-heavy weapon or some set of weapons that has a basic Firepower value.
+
+* While you may split fire to target different detachments with different weapon mounts, you may not split fire with the effects of a single weapon mount.
+* For critical damage results, apply effects that destroy or restrict a weapon to the whole weapon mount.
+{blank}[TODO: If we reference 'weapon mount' rather than 'weapon' on every data sheet in future, perhaps we can do away with this bullet point?]
+* Where a weapon mount holds weapons that do not have a basic Firepower value, treat it as a single super-heavy weapon and apply all the rules as normal for a single super-heavy weapon:
++
+include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 [NOTE.e40k]
 ====
-_Epic 40,000_ mentioned 'weapon mounts' but did not use the term consistently. This section combines multiple rules references and FAQs into a single rule.
-
-+[TODO: Eric, could you rewrite this note?]
+_Epic 40,000_ mentions 'weapon mounts' but does not define the term or use it consistently.
+We've integrated various references to make a robust definition that helps us to make certain rules more clear and precise.
 ====
 
-All war engines have a number of weapon mounts, listed in separate lines on their data sheets.
+== Weapon arcs
 
-.War engine data sheets
-====
-* A Warlord Titan has four weapon mounts, its left arm, right arm, left carapace, and right carapace.
-* A Baneblade has one weapon mount, its turret guns.
-* A Shadowsword has two weapon mounts, its {death-ray} and its sponson turrets.
-====
+Each weapon mount on a War Engine unit has an arc that constrains the line of fire for weapons in that mount.
+You may only use weapons that are on that mount against targets that are within that arc.
+We use icons on the War Engine data sheets to show what arc applies to each weapon mount.
 
-Each weapon mount:
-
-* cannot split fire between target detachments
-* is a single weapon for critical damage results that destroy a weapon or limit the war engine to firing one weapon
-
-In addition, a weapon mount that does not have a plain Firepower value, such as a {death-ray} or {heavy-barrage} weapon, counts as a single super-heavy weapon, so:
-
-* is suppressed by 1 Blast marker
-* is one weapon for placing Blast markers
-* rolls once to lock on if Firepower is halved
-* contributes 1 Firepower in a firefight
-
-
-.Firepower weapon mounts: Warhound Titan
-====
-A Warhound Titan has two weapon mounts.
-Each of its weapon mounts is a heavy weapon battery with Firepower 6.
-
-* Both weapon mounts can shoot at the same detachment for a total of 12 Firepower.
-* Each weapon mount can shoot at a different detachment, directing 6 Firepower at each.
-* Each weapon mount can only shoot at one detachment, so you cannot fire at more than two detachments at once.
-* Each Blast marker on the Warhound reduces its total Firepower by one.
-* If the Warhound's Firepower is halved, you do not need to lock on with each battery, but instead you halve its total Firepower.
-====
-
-.Mixed weapon mounts: Shadowsword
-====
-A Shadowsword has two weapon mounts.
-The {death-ray} weapon mount has Range 60 cm.
-The sponson turrets weapon mount has Range 30 cm and Firepower 2.
-
-* Both weapon mounts can shoot at the same detachment for a total of 2 Firepower and a {death-ray} shot.
-* Each weapon mount can shoot at a different detachment, directing 2 Firepower at one, and a {death-ray} shot at the other.
-* Each weapon mount can only shoot at one detachment, so you cannot fire at more than two detachments at once.
-* Each Blast marker on the Shadowsword reduces its total Firepower by one, and any remaining Blast markers will suppress the {death-ray}.
-** If both the weapon mounts are in range, it takes 3 Blast markers to completely suppress the Shadowsword's shooting.
-** If there are no targets within the 30 cm Range of the sponson turrets weapon mount, the Shadowsword has 0 Firepower so a single Blast marker will completely suppress the Shadowsword's shooting.
-* If the Shadowsword's Firepower is halved, roll to lock on with the {death-ray}, and halve the total Firepower.
-====
-
-
-== War engine fire arcs
-
-Each weapon mount on a war engine has a fire arc, and can only be used against targets within that fire arc. The fire arcs are shown with icons on the war engine data sheets.
-
-.Reading fire arc icons
-
-image::fire-arcs-explanation.png[Fire arc examples.]
+.Anatomy of a weapon arc icon
+image::fire-arcs-explanation.png["Weapon arcs explanation",320]
 The arrow in the centre of each icon shows the facing of the war engine.
-The black segment shows the fire arc of the mount.
+The black segment shows the weapon arc of the mount.
 
-.Other fire arcs
-image::fire-arcs-expanded.png[More fire arcs.]
+.Weapon arc icons
+// [TODO: We might want to agree on different terms and change those I've inserted below.]
+image::fire-arcs-expanded.png["Weapon arc icons",352]
+
+From top-left to bottom-right, these icons represent:
+
+[none]
+* diagonal left (180º); ahead (90º); front (180º); diagonal right (180º)
+* left (180º); all round (360º); rear (180º); right (180º)
+
+.Weapon arcs
+
 [NOTE.e40k]
 ====
-_Epic 40,000_ only had front 90º, side 180º, and 360º fire arcs. We have added more options, including an angled 180º fire arc for Titan arm mounts.
+In _Epic 40,000_ there are only front 90º, side 180º and 360º 'weapon fire arcs'.
+
+We add more options, including an angled 180º arc for the arm weapon mounts on titans and gargants.
+We also use the term 'weapon arc' rather than 'weapon fire arc', to be more inclusive of weapon systems that may not have a ranged component, such as {ripper-tentacles}.
 ====
 
 .Related information
 * xref:main-rules:the-shooting-phase.adoc[]
+* xref:super-heavy-weapons.adoc[]

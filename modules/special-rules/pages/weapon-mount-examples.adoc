@@ -1,0 +1,51 @@
+= Weapon mount examples
+
+.War engine weapon mounts
+====
+Refer to the relevant data sheets and you will see that:
+
+* The Imperial Warlord Titan has four weapon mounts: Left Arm; Right Arm; Left Carapace; Right Carapace.
+* The Imperial Baneblade super-heavy tank has one weapon mount: Turret Guns.
+* The Imperial Shadowsword super-heavy has two weapon mounts: {death-ray}; Sponson Turrets.
+====
+
+.Firepower weapon mounts: Warhound Titan
+====
+The Warhound Titan has two weapon mounts.
+Each of its weapon mounts is a Heavy Weapon Battery with a Firepower value of 6.
+
+.Targetting with separate weapon mounts
+* You may shoot both weapon mounts at the same target detachment, to direct a total of 12 Firepower at it.
+You may shoot each weapon mount at a different target detachment, to direct 6 Firepower at each of them.
+
+.Targetting with an individual weapon mount
+* You may only shoot each weapon mount at one detachment -- that is, you may not split fire with an individual weapon mount.
+
+.Weapon mounts and suppression by Blast markers
+* For each Blast marker on the Warhound Titan, reduce its Firepower by one.
+You may choose which weapon mount loses the Firepower.
+* If you are forced to halve the Firepower of the Warhound Titan, then do this as normal -- you do not need to test to lock on like you must with non-Firepower super-heavy weapons.
+====
+
+.Mixed weapon mounts: Shadowsword
+====
+The Shadowsword has two weapon mounts.
+The {death-ray} weapon mount has Range `60 cm`.
+The Sponson Turrets weapon mount has Range `30 cm` and Firepower `2`.
+
+.Targetting with separate weapon mounts
+* You may shoot both weapon mounts at the same target detachment for a total of 2 Firepower and a {death-ray} shot.
++
+*or*
+* You may shoot each weapon mount at a different target detachment, to direct 2 Firepower at one and a {death-ray} shot at the other.
+
+.Targetting with an individual weapon mount
+* You may shoot each weapon mount at only one detachment -- that is, you may not split fire with an individual weapon mount.
+
+.Weapon mounts and suppression by Blast markers
+* The first two Blast markers on the Shadowsword will reduce its total Firepower by one each, assuming that they are within range of the target.
+Any further Blast markers will suppress the {death-ray}.
+** If both of the weapon mounts are in range, it takes three Blast markers to completely suppress the Shadowsword's shooting.
+** If there are no targets within the 30 cm Range of the Sponson Turrets weapon mount, then the Shadowsword has 0 Firepower; and so a single Blast marker will completely suppress the Shadowsword's shooting.
+* If the Shadowsword's Firepower is halved, roll to lock on with the {death-ray}, *and* halve the total Firepower.
+====

@@ -22,7 +22,14 @@ Where a unit that is equipped with super-heavy weapons is on Overwatch orders yo
 
 == Super-heavy weapons in firefights
 
-Where a super-heavy weapon doesn't have a basic Firepower value, count it as having a Firepower value of 1 for a firefight.
+Where a super-heavy weapon doesn't have a basic Firepower value, but is in a position to contribute to a firefight, it contributes 1 Firepower.
+{blank}[TODO: Is it just firefights? Do SHWs count as FP1 in any other situations, like supporting fire in close combat?]
+
+.Super-heavy weapons in firefights
+====
+The {death-ray} and {heavy-barrage} weapons do not have a basic Firepower value.
+Where they are in a position to do so, they each contribute 1 Firepower in a firefight. 
+====
 
 == Super-heavy weapons and placement of Blast markers
 
@@ -49,6 +56,10 @@ You may choose which super-heavy weapons are suppressed.
 // [TODO: Define suppression properly, perhaps in blast-markers.adoc -- as it is we use the term and imply its meaning, but haven't actually made it explicit.]
 
 NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots like {pulsar}, or adds to a detachment's Firepower like {barrage}.
+
+== Summary of super-heavy weapon effects
+
+include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 .Related information
 * xref:main-rules:blast-markers.adoc[]
