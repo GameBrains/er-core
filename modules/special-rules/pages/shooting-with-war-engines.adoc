@@ -47,9 +47,9 @@ From top-left to bottom-right, these icons represent:
 
 [NOTE.e40k]
 ====
-In _Epic 40,000_ there are only front 90º, side 180º and 360º 'weapon fire arcs'.
+In _Epic 40,000_ there are only ahead 90º, side 180º and 360º 'weapon fire arcs'.
 
-We add more options, including an angled 180º arc for the arm weapon mounts on titans and gargants.
+We add more options, including diagonal 180º arcs for the arm weapon mounts on titans and gargants.
 We also use the term 'weapon arc' rather than 'weapon fire arc', to be more inclusive of weapon systems that may not have a ranged component, such as {ripper-tentacles}.
 ====
 

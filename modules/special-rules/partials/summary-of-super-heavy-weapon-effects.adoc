@@ -1,5 +1,5 @@
 .Summary of super-heavy weapon effects
 ** When your detachment's Firepower is halved for any reason, roll to *lock on* with each of its super-heavy weapons.
-** In a firefight, a super-heavy weapon that lacks a basic Firepower value contributes 1 Firepower.
 ** Super-heavy weapons may contribute to the placement of Blast markers in one of two main ways, depending on whether or not they contribute Firepower in the attack.
 ** After Firepower, each remaining Blast marker suppresses one super-heavy weapon.
+** In a firefight, a super-heavy weapon that lacks a basic Firepower value contributes 1 Firepower.
