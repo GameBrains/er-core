@@ -1,19 +1,28 @@
 = Weapon mount examples
 
-.War engine weapon mounts
+.War engine weapon mounts and weapon arcs
 ====
 Refer to the relevant data sheets and you will see that:
 
 * The Imperial Warlord Titan has four weapon mounts: Left Arm; Right Arm; Left Carapace; Right Carapace.
 * The Imperial Baneblade super-heavy tank has one weapon mount: Turret Guns.
 * The Imperial Shadowsword super-heavy has two weapon mounts: {death-ray}; Sponson Turrets.
-// TODO: It's not a Death Ray mount - it's an 'X' mount that holds a Death Ray super-heavy weapon. We need to decide what we're calling the mounts and then apply the appropriate name here.
+// TODO: It's not a 'Death Ray mount' — it's an 'X' ('Hull' or 'Volcano Cannon'?) mount that holds a Death Ray super-heavy weapon (or provides a Death Ray shot, depending on how we define mounts to cover the various cases). We need to decide what we're calling the mounts and then apply the appropriate name here. UPDATE: If my mount+arrays idea works, we can overhaul these examples to match.
+
+You will also see that each weapon mount has an icon to indicate its weapon arc.
 ====
 
 .Firepower weapon mounts: Warhound Titan
 ====
-The Warhound Titan has two weapon mounts.
-Each weapon mount holds a Heavy Weapon Battery with a Firepower value of 6.
+The Warhound Titan has two weapon mounts, which use the same weapon arc.
+Each weapon mount holds a Heavy Weapon Battery that has a Firepower value of 6.
+
+[NOTE]
+=====
+In all cases, you may only allocate hits to units that are actually inside the weapon arc.
+
+{blank}[TODO: This is the implication I think, but I worry that it can be abused by the type of shameless player that deliberately makes sure that an arc is 'just so', to pick off a juicy unit that just happens to be poking out a bit farther than other closer units in the target detachment.]
+=====
 
 .Targetting with separate weapon mounts
 * You may shoot both weapon mounts at the same target detachment, to direct a total of 12 Firepower at it.
@@ -25,15 +34,17 @@ You may shoot each weapon mount at a different target detachment, to direct 6 Fi
 .Weapon mounts and suppression by Blast markers
 * For each Blast marker on the Warhound Titan, reduce its Firepower by one.
 You may choose which weapon mount loses the Firepower.
+{blank}[TODO: Actually, I think I have this wrong -- isn't it -1 Firepower per target detachment?]
 * If you are forced to halve the Firepower of the Warhound Titan, then do this as normal -- you do not need to test to lock on like you must with non-Firepower super-heavy weapons.
-// TODO: There is something a bit fussy buried in all this that we could yet rationalise in the text I think: No super-heavy weapon has basic firepower, but weapon mounts can hold 'other' weapons systems that do have basic Firepower.
+// TODO: 'Non-Firepower super heavy-weapon' isn't really a thing -- I don't think that we can be robust here until we've locked down exactly how we refer to weapon mounts and the different types of 'weapon systems' that they can embody.
+
 ====
 
 .Mixed weapon mounts: Shadowsword
 ====
 The Shadowsword has two weapon mounts.
 The {death-ray} weapon mount has Range `60 cm`.
-// TODO: Again, it isn't a 'Death Ray weapon mount' and we need to settle and apply the correct name.
+// TODO: Again, it isn't a 'Death Ray weapon mount' and we need to settle and apply a consistent nomenclature. I suspect that in this case we should call it a 'Volcano Cannon' mount (with a Front 90 degree arc, where we need that extra detail).
 The Sponson Turrets weapon mount has Range `30 cm` and Firepower `2`.
 
 .Targetting with separate weapon mounts

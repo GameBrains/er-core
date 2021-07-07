@@ -49,7 +49,6 @@ NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots
 == Super-heavy weapons in firefights
 
 Where a super-heavy weapon doesn't have a basic Firepower value, but is in a position to contribute to a firefight, it contributes 1 Firepower.
-{blank}[TODO: Is it just firefights? Do SHWs count as FP1 in any other situations, like supporting fire in close combat?]
 
 .Super-heavy weapons in firefights
 ====
