@@ -9,16 +9,15 @@ The vortex consumes anything it contacts in the brief moments before it collapse
 
 ---
 
-When you shoot a {vortex-missile}:
+When you make a {vortex-missile} shot:
 
-include::partial$template-placement-bullet.adoc[]
-
-. For each unit covered by the template, roll a D6 and resolve this many {death-ray} shots against it.
-include::partial$template-cover-bullet.adoc[]
+. Place a Barrage template in the standard way.
+. For each unit that is covered by the template, roll a D6 and resolve this many {death-ray} shots against it.
 
 include::partial$one-shot-missile.adoc[]
 
 NOTE: Vortex missiles are extremely powerful, so we limit their use to significant War Engine units.
 
 .Related information
+* xref:main-rules:barrage-templates.adoc[]
 * xref:death-ray.adoc[]
