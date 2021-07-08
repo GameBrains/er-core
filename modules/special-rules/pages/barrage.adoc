@@ -11,14 +11,12 @@ This is simply because the barrage will have more target units within its area o
 
 When you shoot with a detachment that includes units with {barrage} weapons:
 
-. Place a single Barrage template over the target detachment, no matter how many {barrage} units in your detachment are firing at them.
+. Place a single Barrage template over the target detachment, no matter how many {barrage} units in your detachment are shooting at them.
 . Place the template so that it:
-* is completely within range and line of sight of all units contributing to the {barrage}
+* is completely within range and line of fire of all units that contribute to the {barrage}
 * covers as many units as possible from the target detachment.
 +
-NOTE: If any unit or weapon also has {artillery}, the template does not need to be in line of sight of that unit.
-include::partial$template-cover-bullet.adoc[]
-
+NOTE: Where a shooting unit also has the {artillery} ability the you do not need a line of fire to the template for that unit.
 . The number of covered enemy units in the target detachment is the Firepower value for each {barrage} unit contributing to the attack.
 . Add this to the total Firepower that the detachment brings to bear on the target detachment.
 
@@ -29,24 +27,25 @@ When you place Blast markers, {barrage} weapons contribute to the detachment's t
 For suppression by Blast markers, each {barrage} weapon is a single super-heavy weapon, so can be suppressed by 1 Blast marker.
 ====
 
-
 .A classic {barrage} unit
 ====
 The Space Marine Whirlwind armoured vehicle is armed with a Whirlwind missile launcher.
 What this vehicle lacks in range it can make up for in speed and the ability to rain a destructive barrage of missiles down onto an area of the battlefield.
 ====
 
-.Adding up Firepower
+.Adding up {barrage} Firepower
 ====
-Three Space Marine Whirlwinds are firing at an Ork detachment.
+Three Space Marine Whirlwinds are shooting at an Ork detachment.
 
-image::barrage-example-1a.png[One Barrage template covering Ork Infantry and Vehicles.]
+image::barrage-example-1a.png[One Barrage template that covers Ork Infantry and Vehicle units.",320]
 
 * The Space Marine player places one Barrage template for all three Whirlwinds.
-* The template covers Ork Boyz 1 and 2, and the Gunwagon, but the centre of Ork Boyz 3 is not covered by the template.
-* Ork Boyz 4 is ignored as it is not in the target detachment.
+* The template covers Ork Boyz (1) and (2), and the Gunwagon, but the centre of Ork Boyz (3) is not covered by the template.
+* Ork Boyz (4) is ignored as it is not in the target detachment.
 * In total, the template covers three units from the target detachment.
 * Each Whirlwind therefore adds 3 Firepower to the Space Marine detachment's Firepower.
 ====
 
 // TODO IJW: decide how to determine if detachments are intermingled, and if it's needed.
+.Related information
+* xref:main-rules:barrage-templates.adoc[]
