@@ -1,2 +1,4 @@
 = Rapid Fire
 
+`Unit ability`
+

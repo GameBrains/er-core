@@ -1,5 +1,7 @@
 = Armour +1
 
+`Data sheet modifier`
+
 These units have particularly effective armour for their kind.
 
 [NOTE.e40k]

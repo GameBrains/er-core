@@ -1,5 +1,7 @@
 = Hero
 
+`Data sheet modifier` `Unit ability`
+
 These units contain exceptional individuals who excel at warcraft.
 As befits their heroic status, they usually have the best equipment too.
 

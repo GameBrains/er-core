@@ -1,5 +1,7 @@
 = Psychic Beacon
 
+`Detachment ability`
+
 Genestealer Patriarchs emit a strong psychic signal, which guides the parent Hive Fleet to the planet.
 
 ---

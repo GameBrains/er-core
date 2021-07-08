@@ -1,5 +1,7 @@
 = Assault
 
+`Data sheet modifier`
+
 These units specialise in close combat, through a combination of skills, doctrine and equipment.
 
 Of course, their advantages in close combat come at a cost to their long-range firepower.

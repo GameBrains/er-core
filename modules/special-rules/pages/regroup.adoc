@@ -1,5 +1,7 @@
 = Regroup
 
+`Detachment ability`
+
 Some hard-bitten troops are able to regroup more effectively than others.
 
 [NOTE.e40k]

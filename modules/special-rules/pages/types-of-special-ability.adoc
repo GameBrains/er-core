@@ -1,0 +1,103 @@
+= Types of special ability
+
+About the different types of ability and how we use them in the game.
+
+== Data sheet modifier
+
+These abilities do not provide special rules effects.
+Rather, they modify the characteristic values on unit data sheets.
+
+.Data sheet modifiers
+====
+The {heavy-weapons} ability changes the unit's Range and Firepower characteristic values.
+====
+
+[[data-sheet-modifiers]]
+.Application of data sheet modifiers
+====
+The Imperial Guard Rough Riders unit is based on the Imperial Guard unit, with the addition of the {cavalry}, {armour-1} and {assault} abilities.
+
+These abilities create several differences between the unit data sheets, as you can see below.
+
+.A base unit with the addition of special abilities
+[cols="2,6*^,2"]
+|===
+|Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
+
+s|Base unit: Imperial Guard
+s|INF
+s|10 cm
+s|30 cm
+s|1
+s|1
+s|3+
+s|
+
+|+ {cavalry}
+|VEH
+|20/30 cm
+|
+|
+|
+|
+|
+
+|+ {armour-1}
+|
+|
+|
+|
+|
+|4+
+|
+
+|+ {assault}
+|
+|
+|15 cm
+|
+|2
+|
+|
+
+s|=> Imperial Guard Rough Riders
+s|VEH
+s|20/30 cm
+s|15 cm
+s|1
+s|2
+s|4+
+s|{cavalry}, {armour-1}, {assault}
+
+|===
+
+====
+
+== Unit ability
+
+These abilities provide special effects that you may use with the units that they apply to.
+
+.Unit abilities
+====
+With {save}, you may be able to 'save' the unit from a hit so that you don't have to remove it as a casualty.
+
+With {jump-packs}, you get the benefit of enhanced movement effects.
+====
+
+== Detachment ability
+
+These abilities change the behaviour of an entire detachment.
+
+.Detachment abilities
+====
+{hit-and-run} allows you to make a Retreat move with the detachment, even after you win a close combat or firefight with it.
+====
+
+== Army ability
+
+These abilities affect the way that you play with an entire army.
+
+.Army abilities
+====
+When you field an Ork army, the {ork-initiative} rule lets you place Initiative counters back into the mug at the start of the Assault phase.
+====

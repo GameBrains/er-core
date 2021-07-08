@@ -1,5 +1,7 @@
 = Unbreakable
 
+`Detachment ability`
+
 Some troops have such high morale, or lack of individual willpower, that they never break.
 
 [NOTE.e40k]

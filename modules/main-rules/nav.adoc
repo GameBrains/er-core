@@ -39,6 +39,7 @@
 
 ** xref:the-assault-phase.adoc[]
  *** xref:assault-moves-and-charges.adoc[]
+ **** xref:assault-move-examples.adoc[]
  *** xref:close-combat-procedure.adoc[]
   **** xref:add-up-assault-values.adoc[]
   **** xref:work-out-close-combat-bonuses.adoc[]

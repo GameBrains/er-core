@@ -1,5 +1,7 @@
 = Walker
 
+`Unit ability`
+
 Some vehicles that have legs are able to enter terrain that is problematic for other vehicles.
 Thus they can fill niche roles on the battlefield, often in close support of infantry.
 
@@ -14,9 +16,9 @@ In _Epic 40,000_ it was a suggestion in the _Battles Book_, later confirmed in O
 Where a Vehicle unit has the {walker} ability:
 
 * The unit counts as an Infantry unit for terrain effects on movement.
-+
-NOTE: To be clear, the unit does not benefit from an Infantry Armour bonus for cover.
 * For a charge move in the Assault phase, you may double the Speed value of the unit if this will bring it into contact with an enemy unit -- just as you can with an Infantry unit.
+
+NOTE: To be clear, {walker} units do not benefit from the Infantry Armour bonus for cover.
 
 .Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]

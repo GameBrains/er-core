@@ -1,5 +1,7 @@
 = Cavalry
 
+`Data sheet modifier`
+
 Despite the abundance and variety of technologies in the galaxy of the 41^st^ millennium, armies still find uses for cavalry -- and not only on the most barbaric worlds.
 
 Of course, riders and their mounts vary enormously -- humans on horses, denizens of Chaos on daemonic steeds, orks on cyboars, and many more.

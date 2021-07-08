@@ -1,5 +1,7 @@
 = Jump Packs
 
+`Data sheet modifier` `Unit ability`
+
 These units are equipped with jet-powered devices or other technology, wings, or even powerful long legs that allow them to make long jumps across the battlefield.
 The resultant speed and mobility usually makes for good assault troops.
 
@@ -12,7 +14,7 @@ Make the first value twice (2x) the Speed value of the base unit, and the second
 
 .{jump-packs} data sheet modifiers
 ====
-A Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
+The Eldar Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
 
 *  While the base unit has a Speed value of 15 cm, that of the Swooping Hawks is 30/45 cm.
 ====
@@ -28,6 +30,7 @@ Of course you can never end a move in impassable terrain; but if you end a move 
 * When you make an Assault move {blank}[TODO: "charge move"?] with the unit, you can move it over enemy units that are already in base contact with your other units.
 +
 [NOTE.e40k]
+.Move over contacted enemy units
 ====
 We created this rule as part of efforts to rationalise and improve the rules for Assault moves, after discussion with other players.
 ====

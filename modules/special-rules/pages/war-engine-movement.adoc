@@ -1,2 +1,6 @@
 = War engine movement
 
+{blank}[TODO: When we draft the rest of the content for this topic, integrate the following in relation to assault moves and charges:]
+
+You can choose *not* to move War Engine units in the Assault phase -- but then you will not be able to initiate close combats or firefights with them.
+Otherwise, the same rules apply to War Engine units.
