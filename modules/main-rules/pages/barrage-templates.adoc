@@ -22,3 +22,6 @@ A unit is 'covered by' or 'under' the template when any one of these conditions 
 In _Epic 40,000_, coverage of Infantry units depends on the number of individual models on the base.
 We use the centre of the Infantry unit's base instead, to account for the wide variation in number of models that players place on their Infantry unit bases.
 ====
+
+.Related information
+* xref:special-rules:artillery.adoc[]

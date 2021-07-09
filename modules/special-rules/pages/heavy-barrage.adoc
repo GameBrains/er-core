@@ -5,9 +5,9 @@ They are also cumbersome and slow to reload -- only war engines are big enough t
 
 ---
 
-When you shoot with a {heavy-barrage} weapon, proceed exactly as for a {barrage} weapon but with these differences:
+When you make a {heavy-barrage} shot, proceed exactly as for a {barrage} shot but with these differences:
 
-* The Firepower value is equal to *twice* the number of units covered by the Barrage template.
+* The Firepower value is equal to *twice* the number of units that are under the Barrage template.
 * If the weapon is on a War Engine unit then you may continue to move and shoot with this unit each turn as normal.
 Otherwise, you may not *move* or *shoot* again with the unit until it has had a full turn to reload.
 Turn the model around, mark it with a token or make a note so that you don't forget that it must reload before you can use it again.

@@ -9,24 +9,22 @@ This is simply because the barrage will have more target units within its area o
 
 //+[IJW editing note: I've changed this to plural as you almost always have multiple barrage weapons being resolved at once.]+
 
-When you shoot with a detachment that includes units with {barrage} weapons:
+When you make a {barrage} shot:
 
-. Place a Barrage template over the target detachment.
-Place it in the standard way, but with these additional considerations:
+. Place a Barrage template in the standard way, but with these additional considerations:
 * Place only a single template, no matter how many {barrage} units in your detachment contribute to the attack.
 * Place the template so that it is completely within range and line of fire of *all* of the {barrage} units that contribute to the attack.
-You may opt to have some units *not* contribute to the attack, but you may not make any separate attack with them against the same target detachment (you may still split fire with these units if there are other suitable target detachments).
-* Cover as many units in the target detachment as possible.
 +
-NOTE: Where a shooting unit also has the {artillery} ability the you do not need a line of fire to the template for that unit.
-. The number of covered enemy units in the target detachment is the Firepower value for each {barrage} unit contributing to the attack.
-. Add this to the total Firepower that the detachment brings to bear on the target detachment.
+You may opt to exclude some {barrage} units from the attack, but you may not make any separate attack with them against the same target detachment.
+* Cover as many units in the target detachment as possible.
+. Count the number of units of the target detachment that are under the template.
+This number is the Firepower value that each {barrage} unit contributes to the total Firepower that your detachment directs at the target detachment.
 
 [IMPORTANT]
 ====
-When you place Blast markers, {barrage} weapons contribute to the detachment's total Firepower, instead of the number of super-heavy weapons.
+When you place Blast markers, {barrage} weapons contribute to your detachment's total Firepower, not the number of super-heavy weapons.
 
-For suppression by Blast markers, each {barrage} weapon is a single super-heavy weapon, so can be suppressed by 1 Blast marker.
+For suppression by Blast markers, each {barrage} weapon is a single super-heavy weapon, so can be suppressed by a single Blast marker.
 ====
 
 .A classic {barrage} unit
@@ -37,17 +35,25 @@ What this vehicle lacks in range it can make up for in speed and the ability to 
 
 .Adding up {barrage} Firepower
 ====
-Three Space Marine Whirlwinds are shooting at an Ork detachment.
+You shoot three Space Marine Whirlwind units at an Ork Warband detachment that is partially intermingled with a Kult of Speed detachment.
 
-image::barrage-example-1a.png[One Barrage template that covers Ork Infantry and Vehicle units.",320]
+.Adding up {barrage} Firepower. Numbered rectangles are Ork Boyz units; solid circles are Gunwagon units; semi-opaque circles are Barrage templates. Green units are in the Ork Warband detachment; red units are in the Kult of Speed detachment.
+image::barrage-example-1a.png[One Barrage template that covers Ork Infantry and Vehicle units,320]
 
-* The Space Marine player places one Barrage template for all three Whirlwinds.
-* The template covers Ork Boyz (1) and (2), and the Gunwagon, but the centre of Ork Boyz (3) is not covered by the template.
-* Ork Boyz (4) is ignored as it is not in the target detachment.
-* In total, the template covers three units from the target detachment.
-* Each Whirlwind therefore adds 3 Firepower to the Space Marine detachment's Firepower.
+You place one Barrage template for all three Whirlwinds.
+
+In total, the template covers three units from the target detachment:
+
+* The template covers Ork Boyz (1) and (2), and the Gunwagon.
+* Ork Boyz (3) is not covered by the template because their centre is not under the template.
+* We ignore Ork Boyz (4) as it is not in the target detachment.
+// TODO: But we don't ignore it completely do we? We'll resolve a separate attack on that detachment at 3 Firepower, won't we?
+
+So, each Whirlwind adds 3 Firepower to the total for your detachment.
+As the Whirlwinds have no other help, the total is 9 Firepower against the Ork Warband detachment.
 ====
 
 // TODO IJW: decide how to determine if detachments are intermingled, and if it's needed.
 .Related information
 * xref:main-rules:barrage-templates.adoc[]
+* xref:special-rules:artillery.adoc[]

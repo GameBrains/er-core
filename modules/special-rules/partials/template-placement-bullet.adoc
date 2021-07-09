@@ -1,8 +1,0 @@
-. Place a Barrage template so that it:
-* is completely within range and line of fire of the shooting unit
-+
-NOTE: If the unit also has the {artillery} ability then the shooting unit does not need a line of fire.
-
-////
- Editing note, I've added 'or weapon' to the Artillery note for future-proofing purposes. For example if Carapace Landing Pads get added, and they allow one weapon that uses the Barrage template to fire with the Artillery rule.
-////
