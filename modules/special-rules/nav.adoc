@@ -1,7 +1,6 @@
 * xref:special-rules.adoc[]
 
  ** xref:super-heavy-weapons.adoc[]
-  *** xref:anti-personnel-weapon.adoc[]
   *** xref:anti-tank.adoc[]
   *** xref:barrage.adoc[]
   *** xref:close-combat-weapons.adoc[]
@@ -20,7 +19,6 @@
  ** xref:special-abilities.adoc[]
   *** xref:types-of-special-ability.adoc[]
   *** xref:a-dying-race.adoc[]
-  *** xref:anti-personnel-ability.adoc[]
   *** xref:armour-1.adoc[]
   *** xref:artillery.adoc[]
   *** xref:assault-1.adoc[]

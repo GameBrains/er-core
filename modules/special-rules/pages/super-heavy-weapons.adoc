@@ -48,7 +48,7 @@ NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots
 
 == Super-heavy weapons in firefights
 
-Where a super-heavy weapon doesn't have a basic Firepower value, but is in a position to contribute to a firefight, it contributes 1 Firepower.
+Where a super-heavy weapon is in a position to contribute to a firefight, it contributes 1 Firepower.
 
 .Super-heavy weapons in firefights
 ====
