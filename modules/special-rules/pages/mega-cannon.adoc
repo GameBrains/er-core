@@ -29,7 +29,6 @@ You place Barrage templates for the {mega-cannon} shots, one over each target de
 image::mega-cannon-example-1.png["Two Mega Cannon templates cover a number of Ork Infantry and Vehicle units in two separate target detachments", 480]
 
 * One template covers Ork Boyz (1) and (2), and one of the Gunwagons, but the centre of Boyz (3) is not covered by the template.
-// TODO: Is this allowed? Shouldn't you place the template so that it covers as many of one detachment as possible, so covering green Boyz (3) and not the Gunwagon from the red detachment? Or is that a limitation on other weapons and we can place Mega Cannon shots much more freely as implied here?
 * The second template covers Ork Boyz (4) and all three Gunwagon units.
 * Roll to hit Ork Boyz units (1), (2), and (4), and the two leftmost Gunwagon units.
 Roll to hit the central Gunwagon unit twice, as it is covered by both templates.
