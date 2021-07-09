@@ -7,28 +7,34 @@ These are huge pieces of ordnance that shoot a single, giant explosive munition 
 When you make a {mega-cannon} shot:
 
 . Place a Barrage template in the standard way.
-. For each unit covered by the template, roll a D6.
+. For each unit that is covered by the template, roll a D6.
 If you roll the unit's Armour value or higher then the unit suffers a hit.
 Use only the unit's actual Armour value -- that is, *ignore any Infantry Armour bonus for cover*.
 . Place one Blast marker on each detachment that had any units under the template, in addition to any other Blast markers that you would normally place.
 
-NOTE: With a {mega-cannon} shot, you can only hit the specific units that are actually under the template.
-This is different to a {barrage} shot in which we simply add the number of units under the template to the Firepower total and then allocate hits as normal.
+NOTE: To be clear, with a {mega-cannon} shot you can only hit the specific units that are actually under the template.
+This is different to a {barrage} shot in which we simply add the number of units under the template to the Firepower total and then allocate hits on the target detachment in the normal way.
+
+Where the shooting detachment has multiple {mega-cannon} shots it can get a little more complex.
+It is best to explain by way of an example.
 
 .Multiple {mega-cannon} shots
-// TODO: Need to introduce this properly, not just sneak it in within an example.
 ====
-A Warlord Titan is shooting two Mega Cannons.
-A Barrage template is placed for each {mega-cannon} shot, affecting an Ork Warband detachment and an Ork Kult of Speed detachment.
+You have a Warlord Titan and are in a position to make two separate {mega-cannon} shots.
+You decide to split fire to target both an Ork Warband detachment and an Ork Kult of Speed detachment.
+You place Barrage templates for the {mega-cannon} shots, one over each target detachment.
 
-image::mega-cannon-example-1.png["Two Mega Cannon templates covering Ork Infantry and Vehicle units", 480]
+.Multiple {mega-cannon} shots diagram. Numbered rectangles are Ork Boyz units; solid circles are Gunwagon units; semi-opaque circles are Barrage templates. Green units are in the Ork Warband detachment; red units are in the Kult of Speed detachment.
+// TODO: Ideally we'd use call-outs and a legend for this type of thing I think, but a caption like this will do for now. One way or another, we should clarify what is what before we proceed to mention things like 'the Gunwagons' in the example when they are unnumbered arbitrary shapes. I think perhaps we ought to number the Gunwagon units too rather than 'leftmost', 'centre' etcetera. Perhaps number things like 'G1' and 'R1' to match the colours and to disambiguate from any numbered call-outs we might add?
+image::mega-cannon-example-1.png["Two Mega Cannon templates cover a number of Ork Infantry and Vehicle units in two separate target detachments", 480]
 
-* The first template covers Ork Boyz (1) and (2), and one of the Gunwagons, but the centre of Boyz (3) is not covered by the template.
-* The second template covers Ork Boyz (4) and all three Gunwagons.
-* Roll to hit Ork Boyz (1), (2), and (4), and the two leftmost Gunwagons.
-Roll to hit the central Gunwagon twice, as it is covered by both templates.
-* Place one extra Blast marker on the green Ork Warband detachment, as it is covered by one template.
-* Place two extra Blast markers on the red Kult of Speed detachment, as it is covered by two templates.
+* One template covers Ork Boyz (1) and (2), and one of the Gunwagons, but the centre of Boyz (3) is not covered by the template.
+// TODO: Is this allowed? Shouldn't you place the template so that it covers as many of one detachment as possible, so covering green Boyz (3) and not the Gunwagon from the red detachment? Or is that a limitation on other weapons and we can place Mega Cannon shots much more freely as implied here?
+* The second template covers Ork Boyz (4) and all three Gunwagon units.
+* Roll to hit Ork Boyz units (1), (2), and (4), and the two leftmost Gunwagon units.
+Roll to hit the central Gunwagon unit twice, as it is covered by both templates.
+* Place one extra Blast marker on the Ork Warband detachment, as it is covered by one template.
+* Place two extra Blast markers on the Kult of Speed detachment, as it is covered by two templates.
 ====
 
 .Related information
