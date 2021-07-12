@@ -27,7 +27,7 @@ If it is a War Engine unit, roll for a result on its Catastrophic Damage table.
 * For each unit that is under the target unit, roll a D6.
 On a roll of 4+, that unit suffers a hit.
 +
-{blank}[TODO: (a) How do we define 'under', should we reference some of the same points as for the Barrage template; (b) How do we resolve differences between based vehicles and non-based vehicles... or can only War Engine units be dropped on more than one target? The latter seems best to me (in which case we should perhaps revert the plurals at the start of this topic to singular) -- but either way we should define it I think.]
+{blank}[TODO: How do we define 'under', should we reference some of the same points as for the Barrage template.]
 
 [NOTE.e40k]
 ====
