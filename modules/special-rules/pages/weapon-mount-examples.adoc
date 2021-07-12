@@ -7,16 +7,15 @@ The detail will be easiest to understand if you also refer to the appropriate wa
 
 .Weapon mounts
 ====
-The Imperial Baneblade super-heavy tank has one weapon mount:
+The Imperial Baneblade super-heavy tank has one weapon mount (and so only one weapon arc):
 
-* *Main Weapons* (All Round arc).
+* *Main Weapons* (`All Round`).
 This mount holds a ranged super-heavy weapon named Turret Guns.
-The weapon arc is All Round.
 
 The Imperial Warlord Titan is more complex.
-It has four weapon mounts:
+It has four weapon mounts (with a total of three weapon arcs):
 
-* *Left Arm* (Left 180° arc); *Right Arm* (Right 180° arc); *Left Carapace* and *Right Carapace* (both Front 90° arc).
+* *Left Arm* (`Left 180°`); *Right Arm* (`Right 180°`); *Left Carapace* and *Right Carapace* (both `Front 90°`).
 +
 You can choose from a range of different weapon systems for each mount, as we detail elsewhere.
 ====
@@ -25,7 +24,7 @@ You can choose from a range of different weapon systems for each mount, as we de
 ====
 The Imperial Warhound Titan has two weapon mounts:
 
-* *Left Arm* and *Right Arm* (both Front 90° arc).
+* *Left Arm* and *Right Arm* (both `Front 90°`).
 Each mount holds a weapon system named Weapon Battery (Firepower `6`).
 
 .Split fire
@@ -43,9 +42,9 @@ If you are forced to halve the Firepower of the Warhound Titan, then do this as 
 ====
 The Imperial Shadowsword super-heavy tank has two weapon mounts:
 
-* *Main Weapons* (Front 90° arc).
+* *Main Weapons* (`Front 90°`).
 This mount holds a ranged super-heavy weapon system named Volcano Cannon (`{death-ray}`, Range `60 cm`).
-* *Secondary Weapons* (All Round arc).
+* *Secondary Weapons* (`All Round`).
 This mount holds a Firepower weapon system named Sponson Turrets (Firepower `2`, Range `30 cm`).
 
 .Split fire
