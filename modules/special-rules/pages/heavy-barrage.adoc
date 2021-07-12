@@ -12,9 +12,9 @@ When you make a {heavy-barrage} shot, proceed exactly as for a {barrage} shot bu
 Otherwise, you may not *move* or *shoot* again with the unit until it has had a full turn to reload.
 Turn the model around, mark it with a token or make a note so that you don't forget that it must reload before you can use it again.
 +
-+[TODO: Clarify what should happen if the unit is forced to move, as in a withdrawal. Presumably they still can't move and so they are automatically destroyed if the enemy gets close enough.]+
-+
-+[REPLY IJW: I think it would make more sense for the reloading to be interrupted than for the unit to die.]+
+{blank}[TODO: Clarify what should happen if the unit is forced to move, as when their detachment is Broken and makes a Retreat move.
+Option *A*: They can't move as stated above, and so in the retreat situation they are automatically destroyed if the enemy gets close enough.
+Option *B*: When the move is compulsory, as in the retreat situation, then they can move -- in contradiction to the above rule -- but they can't reload until after they've had a full turn with no movement.]
 
 .Related information
 * xref:barrage.adoc[]

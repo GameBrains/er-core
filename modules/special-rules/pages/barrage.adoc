@@ -7,8 +7,6 @@ These weapons can saturate a wide area of the battlefield with intense salvoes o
 TIP: The more closely packed the units of the target detachment, the more effective {barrage} weapons are likely to be against it.
 This is simply because the barrage will have more target units within its area of effect.
 
-//+[IJW editing note: I've changed this to plural as you almost always have multiple barrage weapons being resolved at once.]+
-
 When you make a {barrage} shot:
 
 . Place a Barrage template in the standard way, but with these additional considerations:
@@ -22,9 +20,9 @@ This number is the Firepower value that each {barrage} unit contributes to the t
 
 [IMPORTANT]
 ====
-When you place Blast markers, {barrage} weapons contribute to your detachment's total Firepower, not the number of super-heavy weapons.
+When you place Blast markers, {barrage} weapons contribute to your detachment's total Firepower, but not to the number of super-heavy weapons.
 
-For suppression by Blast markers, each {barrage} weapon is a single super-heavy weapon, so can be suppressed by a single Blast marker.
+It still takes only a single Blast marker to suppress a {barrage} weapon though, just like any other super-heavy weapon.
 ====
 
 .A classic {barrage} unit
