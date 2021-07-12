@@ -27,7 +27,7 @@ We've integrated various references to make robust definitions that help us to m
 
 Each weapon system provides one of these weapon combinations:
 
-* One or more shots from a specified super-heavy weapon.
+* One or more shots from a ranged super-heavy weapon.
 Multiple shots from a such a weapon system are just like multiples of that super-heavy weapon, except that we treat the weapon system like a single super-heavy weapon for various game effects.
 * A close combat super-heavy weapon, such as {close-combat-weapons} or {ripper-tentacles}.
 In some cases the weapon system may combine this with a basic Firepower value.
@@ -49,7 +49,7 @@ include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 Each weapon mount on a War Engine unit has a weapon arc.
 The arc constrains the line of fire for the weapon system in that mount.
-You may only use weapons in that weapon system against targets that are within that arc.
+You may only use weapons in that weapon system to target detachments that are inside within that arc, and you may only allocate hits to units that are inside of that arc.
 
 We use icons on the War Engine data sheets to show what arc applies to each weapon mount.
 

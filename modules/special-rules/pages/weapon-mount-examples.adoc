@@ -1,66 +1,63 @@
 = Weapon mount examples
 
-.War engine weapon mounts and weapon arcs
+These examples explain weapon mounts, systems and arcs in more detail.
+
+The detail will be easiest to understand if you also refer to the appropriate war engine data sheets.
+{blank}[TODO: Add relevant cross-references/related info links when the new data sheets are in the project. Or perhaps use cropped images of the parts that are most relevant for each example.]
+
+.Weapon mounts
 ====
-Refer to the relevant data sheets and you will see that:
+The Imperial Baneblade super-heavy tank has one weapon mount:
 
-* The Imperial Warlord Titan has four weapon mounts: Left Arm; Right Arm; Left Carapace; Right Carapace.
-* The Imperial Baneblade super-heavy tank has one weapon mount: Turret Guns.
-* The Imperial Shadowsword super-heavy has two weapon mounts: {death-ray}; Sponson Turrets.
-// TODO: It's not a 'Death Ray mount' — it's an 'X' ('Hull' or 'Volcano Cannon'?) mount that holds a Death Ray super-heavy weapon (or provides a Death Ray shot, depending on how we define mounts to cover the various cases). We need to decide what we're calling the mounts and then apply the appropriate name here. UPDATE: If my mount+arrays idea works, we can overhaul these examples to match.
+* *Main Weapons* (All Round arc).
+This mount holds a ranged super-heavy weapon named Turret Guns.
+The weapon arc is All Round.
 
-You will also see that each weapon mount has an icon to indicate its weapon arc.
-====
+The Imperial Warlord Titan is more complex.
+It has four weapon mounts:
 
-.Firepower weapon mounts: Warhound Titan
-====
-The Warhound Titan has two weapon mounts, which use the same weapon arc.
-Each weapon mount holds a Heavy Weapon Battery that has a Firepower value of 6.
-
-[NOTE]
-=====
-In all cases, you may only allocate hits to units that are actually inside the weapon arc.
-
-{blank}[TODO: This is the implication I think, but I worry that it can be abused by the type of shameless player that deliberately makes sure that an arc is 'just so', to pick off a juicy unit that just happens to be poking out a bit farther than other closer units in the target detachment.]
-=====
-
-.Targetting with separate weapon mounts
-* You may shoot both weapon mounts at the same target detachment, to direct a total of 12 Firepower at it.
-You may shoot each weapon mount at a different target detachment, to direct 6 Firepower at each of them.
-
-.Targetting with an individual weapon mount
-* You may only shoot each weapon mount at one detachment -- that is, you may not split fire with an individual weapon mount.
-
-.Weapon mounts and suppression by Blast markers
-* For each Blast marker on the Warhound Titan, reduce its Firepower by one.
-You may choose which weapon mount loses the Firepower.
-{blank}[TODO: Actually, I think I have this wrong -- isn't it -1 Firepower per target detachment?]
-* If you are forced to halve the Firepower of the Warhound Titan, then do this as normal -- you do not need to test to lock on like you must with non-Firepower super-heavy weapons.
-// TODO: 'Non-Firepower super heavy-weapon' isn't really a thing -- I don't think that we can be robust here until we've locked down exactly how we refer to weapon mounts and the different types of 'weapon systems' that they can embody.
-
-====
-
-.Mixed weapon mounts: Shadowsword
-====
-The Shadowsword has two weapon mounts.
-The {death-ray} weapon mount has Range `60 cm`.
-// TODO: Again, it isn't a 'Death Ray weapon mount' and we need to settle and apply a consistent nomenclature. I suspect that in this case we should call it a 'Volcano Cannon' mount (with a Front 90 degree arc, where we need that extra detail).
-The Sponson Turrets weapon mount has Range `30 cm` and Firepower `2`.
-
-.Targetting with separate weapon mounts
-* You may shoot both weapon mounts at the same target detachment for a total of 2 Firepower and a {death-ray} shot.
+* *Left Arm* (Left 180° arc); *Right Arm* (Right 180° arc); *Left Carapace* and *Right Carapace* (both Front 90° arc).
 +
-*or*
-* You may shoot each weapon mount at a different target detachment, to direct 2 Firepower at one and a {death-ray} shot at the other.
+You can choose from a range of different weapon systems for each mount, as we detail elsewhere.
+====
 
-.Targetting with an individual weapon mount
-* You may shoot each weapon mount at only one detachment -- that is, you may not split fire with an individual weapon mount.
+.Multiple Firepower weapon systems -- the Warhound Titan
+====
+The Imperial Warhound Titan has two weapon mounts:
 
-.Weapon mounts and suppression by Blast markers
-* The first two Blast markers on the Shadowsword will reduce its total Firepower by one each, assuming that they are within range of the target.
-Any further Blast markers will suppress the {death-ray}.
-// TODO: Or more specifically, suppress the mount that holds the Death Ray. In effect the suppression of weapon mounts overrides the suppression of SHWs doesn't it? 
-** If both of the weapon mounts are in range, it takes three Blast markers to completely suppress the Shadowsword's shooting.
-** If there are no targets within the 30 cm Range of the Sponson Turrets weapon mount, then the Shadowsword has 0 Firepower; and so a single Blast marker will completely suppress the Shadowsword's shooting.
-* If the Shadowsword's Firepower is halved, roll to lock on with the {death-ray}, *and* halve the total Firepower.
+* *Left Arm* and *Right Arm* (both Front 90° arc).
+Each mount holds a weapon system named Weapon Battery (Firepower `6`).
+
+.Split fire
+You may shoot both weapon systems at the same target detachment, to direct a total of 12 Firepower at it.
+Or, you may split fire to shoot each Weapon Battery at a different target detachment, to direct 6 Firepower at each of them.
+
+.Suppression by Blast markers
+For each Blast marker on the Warhound Titan, choose a Weapon Battery and reduce its Firepower by one.
+
+.Half Firepower (no lock-on)
+If you are forced to halve the Firepower of the Warhound Titan, then do this as normal -- as each Weapon Battery is a Firepower weapon system you do not need to test to lock on like you must with a super-heavy weapon system.
+====
+
+.Mixed weapon systems -- the Shadowsword
+====
+The Imperial Shadowsword super-heavy tank has two weapon mounts:
+
+* *Main Weapons* (Front 90° arc).
+This mount holds a ranged super-heavy weapon system named Volcano Cannon (`{death-ray}`, Range `60 cm`).
+* *Secondary Weapons* (All Round arc).
+This mount holds a Firepower weapon system named Sponson Turrets (Firepower `2`, Range `30 cm`).
+
+.Split fire
+You may shoot both weapon systems at the same target detachment for a total of one {death-ray} shot and 2 Firepower.
+Or, you may shoot the weapon systems at two different target detachments, to direct the {death-ray} shot at one and 2 Firepower at another.
+
+.Suppression by Blast markers
+Where your target is within range and line of fire of both weapon systems, then it will take three Blast markers to completely suppress the Shadowsword's shooting -- two to bring the Sponson Turrets down to zero Firepower and one to suppress the Volcano Cannon.
+
+Where your target is not within the range and line of fire of the Sponson Turrets, then it will take only one Blast marker to completely suppress the Shadowsword's shooting.
+This is because it has no Firepower available and so a single Blast marker is enough to suppress the Volcano Cannon.
+
+.Half Firepower and lock-on
+If you are forced to halve the Firepower of the Shadowsword, then do this as normal -- and also roll to lock on with the Volcano Cannon.
 ====
