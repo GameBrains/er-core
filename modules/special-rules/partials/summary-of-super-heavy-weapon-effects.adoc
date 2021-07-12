@@ -8,8 +8,8 @@ ifdef::shw-effects[]
 endif::[]
 
 ifdef::shw-sys-effects[]
-** When your detachment's Firepower is halved for any reason, roll to *lock on* with each of its super-heavy weapon systems.
+** When your detachment's Firepower is halved for any reason, roll to *lock on* with each of its super-heavy weapon systems -- not with each individual shot.
 ** Super-heavy weapon systems may contribute to the placement of Blast markers in one of two main ways, depending on whether or not they contribute Firepower in the attack.
-** After Firepower, each remaining Blast marker suppresses one super-heavy weapon system.
-** In a firefight, a super-heavy weapon system contributes 1 Firepower.
+** After Firepower, each remaining Blast marker suppresses one entire super-heavy weapon system.
+** In a firefight, a super-heavy weapon system contributes 1 Firepower -- regardless of the number of shots.
 endif::[]
