@@ -10,7 +10,7 @@ The detail will be easiest to understand if you also refer to the appropriate wa
 The Imperial Baneblade super-heavy tank has one weapon mount (and so only one weapon arc):
 
 * *Main Weapons* (`All Around`).
-This mount holds a ranged super-heavy weapon system named Turret Guns.
+This mount holds a Firepower weapon system named Turret Guns.
 
 The Imperial Warlord Titan is more complex.
 It has four weapon mounts (with a total of three weapon arcs):
