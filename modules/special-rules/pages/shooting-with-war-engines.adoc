@@ -1,4 +1,5 @@
 = Shooting with war engines
+:shw-sys-effects:
 
 When you reach the "Shoot with war engines" step in the turn sequence then it is time to shoot with your War Engine units.
 This is usually a moment of high drama and excitement -- will your carefully positioned behemoths live up to their fearsome reputations and lay waste to the enemy?
@@ -25,6 +26,8 @@ We've integrated various references to make robust definitions that help us to m
 
 == Weapon systems
 
+=== Types of weapon system
+
 Each weapon system provides one of these weapon combinations:
 
 * One or more shots from a ranged super-heavy weapon.
@@ -36,13 +39,13 @@ This represents some kind of battery of heavy weapons.
 
 Where you can choose from a wide range of weapon systems, we leave empty boxes on the data sheet for you to fill with the information to match your particular choices.
 
-The actual game effects of weapon systems are as follows:
+=== Game effects of weapon systems
 
 * While you may split fire to target different detachments with different weapon systems, you may not split fire with the effects of a single weapon system.
 * For critical damage results, apply effects that destroy or restrict a weapon to the whole weapon system.
 {blank}[TODO: If we reference 'weapon system' rather than 'weapon' on every data sheet in future, perhaps we can do away with this bullet point?]
-* Where a weapon system does not have a basic Firepower value, treat it as a single super-heavy weapon and apply all the rules as normal for a single super-heavy weapon:
-+
+* Where a weapon system does not have a basic Firepower value, treat it like a single super-heavy weapon:
+
 include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 == Weapon arcs

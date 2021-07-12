@@ -1,5 +1,6 @@
 = Super-heavy weapons
 :bm-shw:
+:shw-effects:
 
 These are fearsome and awe inspiring weapons that equip the most powerful units in the game -- usually war engines, but also some particularly potent specialist units of other types.
 
