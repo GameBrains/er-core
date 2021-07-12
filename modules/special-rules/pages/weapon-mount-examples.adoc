@@ -17,7 +17,7 @@ It has four weapon mounts (with a total of three weapon arcs):
 
 * *Left Arm* (`Left 180°`); *Right Arm* (`Right 180°`); *Left Carapace* and *Right Carapace* (both `Front 90°`).
 +
-You can choose from a range of different weapon systems for each mount, as we detail elsewhere.
+For each mount, you can choose a weapon system from a variety of options, as we detail elsewhere.
 ====
 
 .Multiple Firepower weapon systems -- the Warhound Titan
