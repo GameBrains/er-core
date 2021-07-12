@@ -9,7 +9,7 @@ The detail will be easiest to understand if you also refer to the appropriate wa
 ====
 The Imperial Baneblade super-heavy tank has one weapon mount (and so only one weapon arc):
 
-* *Main Weapons* (`All Round`).
+* *Main Weapons* (`All Around`).
 This mount holds a ranged super-heavy weapon named Turret Guns.
 
 The Imperial Warlord Titan is more complex.
@@ -44,7 +44,7 @@ The Imperial Shadowsword super-heavy tank has two weapon mounts:
 
 * *Main Weapons* (`Front 90°`).
 This mount holds a ranged super-heavy weapon system named Volcano Cannon (`{death-ray}`, Range `60 cm`).
-* *Secondary Weapons* (`All Round`).
+* *Secondary Weapons* (`All Around`).
 This mount holds a Firepower weapon system named Sponson Turrets (Firepower `2`, Range `30 cm`).
 
 .Split fire

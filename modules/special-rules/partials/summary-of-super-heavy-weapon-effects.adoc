@@ -1,6 +1,4 @@
 ifdef::shw-effects[]
-.Summary of ranged super-heavy weapon effects
-
 * When your detachment's Firepower is halved for any reason, roll to *lock on* with each of its super-heavy weapons.
 * Super-heavy weapons may contribute to the placement of Blast markers in one of two main ways, depending on whether or not they contribute Firepower in the attack.
 * After Firepower, each remaining Blast marker suppresses one super-heavy weapon.

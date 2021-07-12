@@ -68,13 +68,13 @@ From top-left to bottom-right, these icons represent:
 
 [none]
 * Front-left 180°; Front 90°; Front 180°; Front-right 180°
-* Left 180°; All-round 360°; Rear 180°; Right 180°
+* Left 180°; All Around (360°); Rear 180°; Right 180°
 
 .Weapon arcs
 
 [NOTE.e40k]
 ====
-In _Epic 40,000_ there are only Front (90°), Left/Right Side (180°) and All-round (360°) 'weapon fire arcs'.
+In _Epic 40,000_ there are only Front (90°), Left/Right Side (180°) and All Round (360°) 'weapon fire arcs'.
 
 * We add more options, mainly to support diagonal 180° arcs that we intend to use with arm weapon mounts on titans and gargants.
 These will overlap in front, and leave a corresponding gap at the rear.
