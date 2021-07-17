@@ -27,7 +27,7 @@ If it is a War Engine unit, roll for a result on its Catastrophic Damage table.
 * For each unit that is under the target unit, roll a D6.
 On a roll of 4+, that unit suffers a hit.
 +
-{blank}[TODO: How do we define 'under', should we reference some of the same points as for the Barrage template.]
+NOTE: In this case, we consider a unit to be 'under' where any part of the unit’s base is under or touched by the outline of the target unit -- no matter the unit type.
 
 [NOTE.e40k]
 ====
