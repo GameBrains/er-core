@@ -38,12 +38,11 @@ Count the number of super-heavy weapons that you direct at the target detachment
 * Do *not* count super-heavy weapons that add to the detachment's Firepower total, such as {barrage} -- the Firepower component already accounts for any Blast markers that they may add.
 ====
 
-== Super-heavy weapons and suppression by Blast markers
+== Super-heavy weapons and suppression
 
-Normally, for each Blast marker on a detachment you must reduce its Firepower by 1.
+Normally, suppression means that for each Blast marker on a detachment you must reduce its Firepower by 1.
 However, if the detachment has more Blast markers than Firepower, or has no Firepower, then for each remaining Blast marker you lose the ability to shoot with one super-heavy weapon.
 You may choose which super-heavy weapons are suppressed.
-// [TODO: Define suppression properly, perhaps in blast-markers.adoc -- as it is we use the term and imply its meaning, but haven't actually made it explicit.]
 
 NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots like {pulsar}, or adds to a detachment's Firepower like {barrage}.
 

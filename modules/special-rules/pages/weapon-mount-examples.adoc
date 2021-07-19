@@ -31,7 +31,7 @@ Each mount holds a weapon system named Weapon Battery (Firepower `6`).
 You may shoot both weapon systems at the same target detachment, to direct a total of 12 Firepower at it.
 Or, you may split fire to shoot each Weapon Battery at a different target detachment, to direct 6 Firepower at each of them.
 
-.Suppression by Blast markers
+.Suppression
 For each Blast marker on the Warhound Titan, choose a Weapon Battery and reduce its Firepower by one.
 
 .Half Firepower (no lock-on)
@@ -51,7 +51,7 @@ This mount holds a Firepower weapon system named Sponson Turrets (Firepower `2`,
 You may shoot both weapon systems at the same target detachment for a total of one {death-ray} shot and 2 Firepower.
 Or, you may shoot the weapon systems at two different target detachments, to direct the {death-ray} shot at one and 2 Firepower at another.
 
-.Suppression by Blast markers
+.Suppression
 Where your target is within range and line of fire of both weapon systems, then it will take three Blast markers to completely suppress the Shadowsword's shooting -- two to bring the Sponson Turrets down to zero Firepower and one to suppress the Volcano Cannon.
 
 Where your target is not within the range and line of fire of the Sponson Turrets, then it will take only one Blast marker to completely suppress the Shadowsword's shooting.
