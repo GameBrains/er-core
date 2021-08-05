@@ -60,7 +60,6 @@ So, each Whirlwind adds 3 Firepower to the total for your detachment.
 As the Whirlwinds have no other help, the total is 9 Firepower against the Ork Warband detachment.
 ====
 
-// TODO IJW: decide how to determine if detachments are intermingled, and if it's needed.
 .Related information
 * xref:main-rules:barrage-templates.adoc[]
 * xref:special-rules:artillery.adoc[]
