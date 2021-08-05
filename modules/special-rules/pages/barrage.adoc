@@ -25,10 +25,10 @@ When you place Blast markers, {barrage} weapons contribute to your detachment's 
 It still takes only a single Blast marker to suppress a {barrage} weapon though, just like any other super-heavy weapon.
 ====
 
-.Intermingled detachments under a Barrage template
+.{barrage} and intermingled detachments under the template
 [NOTE]
 ====
-After you place to template to cover as many units in the target detachment as possible, it may be that the template also covers some units from another detachment.
+After you place the template to cover as many units in the target detachment as possible, it may be that the template also covers some units from another detachment.
 
 Make a separate count of the number of units of the other detachment that are under the template.
 After you have resolved the attack against the target detachment, use the separate count to resolve the attack against the other detachment, as if it were a separate attack.
