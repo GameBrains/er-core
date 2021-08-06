@@ -56,11 +56,13 @@ In total, the template covers three units from the target detachment:
 
 * The template covers Ork Boyz (1) and (2), and the Gunwagon.
 * Ork Boyz (3) is not covered by the template because their centre is not under the template.
-* We ignore Ork Boyz (4) as it is not in the target detachment.
-// TODO: But we don't ignore it completely do we? We'll resolve a separate attack on that detachment at 3 Firepower, won't we?
+* Ork Boyz (4) is in a different detachment, the Kult of Speed — so we make a separate count to resolve the attack against that detachment.
 
-So, each Whirlwind adds 3 Firepower to the total for your detachment.
+So, against the target detachment, each Whirlwind adds 3 Firepower to the total for your detachment's attack.
 As the Whirlwinds have no other help, the total is 9 Firepower against the Ork Warband detachment.
+
+After you resolve that, you also resolve the attack against the Kult of Speed detachment.
+Each Whirlwind contributes 1 Firepower in this case, for a total of 3 Firepower.
 ====
 
 .Related information
