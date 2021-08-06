@@ -1,0 +1,33 @@
+[[blast-marker-table]]
+
+ifdef::bm-fp[]
+.Blast marker table (Firepower)
+[cols="^,^2"]
+|===
+|Firepower |Blast markers to place
+
+|1 to 7
+|One, if you score any hits
+
+|8 to 15
+|One
+
+|16 to 23
+|Two
+
+|24 or more
+|Three
+|===
+endif::[]
+
+ifdef::bm-shw[]
+.Blast marker table (super-heavy weapons)
+[cols="^,^2"]
+|===
+|Number of super-heavy weapons | Blast markers to place
+
+|1 to 3 |One, if you score any hits
+|4 to 8 |One
+|9 or more |Two
+|===
+endif::[]

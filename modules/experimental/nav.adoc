@@ -1,5 +1,8 @@
 * xref:experimental.adoc[_Experimental_]
+ ** xref:experimental-super-heavy-weapons.adoc[]
+  *** xref:anti-personnel-weapon.adoc[]
  ** xref:experimental-special-abilities.adoc[]
+  *** xref:anti-personnel-ability.adoc[]
   *** xref:bridge.adoc[]
   *** xref:engineers.adoc[]
   *** xref:medic.adoc[]

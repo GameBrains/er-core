@@ -9,7 +9,7 @@ Detachments under your command will often receive Blast markers when the enemy s
 The effects of Blast markers will make more sense when you have read the rest of the rules.
 But in summary, detachments that have Blast markers on them suffer a range of penalties that include:
 
-* *Shooting*: For each Blast marker on a detachment, reduce its Firepower by 1.
+* *Shooting*: Suppression -- for each Blast marker on a detachment, reduce its Firepower by 1.
 For example, if a detachment with a Firepower of 9 has 3 Blast markers then reduce its Firepower to 6.
 * *Movement*: To move a detachment that has Blast markers on it you must first pass a Leadership test.
 * *Assaults*: The detachment will be at a disadvantage in close combat and firefights, as as you will find in the relevant topics.

@@ -1,2 +1,3 @@
 = War engines
 
+{blank}[TODO: When we work on this topic, it may also be a good place to state that all War Engine units have the {no-retreat} and {unbreakable} abilities. It'd be a bit redundant to have a whole topic just to state that, but I think that we need some mention in place of the original E40k "No Retreat, No Surrender" topic. Another option as Ian pointed out is to add the statement to a partial and use it in both "War engines in close combat" and "War engines in firefights" topics, where the abilities both take effect.]

@@ -1,6 +1,6 @@
 = Anti-Personnel [weapon]
 
-Weapon systems that are optimised to be especially effective against infantry and light vehicles.
+Weapons that are optimised to be especially effective against infantry and light vehicles.
 
 ---
 

@@ -5,8 +5,7 @@ When a detachment becomes Broken, remove its order marker (if any) and place a B
 
 *A detachment becomes Broken when it loses a close combat or a firefight.*
 
-When a detachment first becomes Broken, you *must* make an immediate <<Retreat move>> with it -- and any units that aren't able to get far enough away from enemy units will be destroyed.
-
+When a detachment first becomes Broken, you *must* make an immediate <<Retreat move>> with it.
 Thereafter, apply the following rules while the detachment remains subject to the Broken condition:
 
 * You cannot give orders to your Broken detachment -- so it can't shoot or enter overwatch, and it can't move in the normal way either.
@@ -18,10 +17,12 @@ This is the only type of move you may make with a Broken detachment.
 [[retreat-move]]
 == Retreat move
 
-The Retreat move is a single move in which you may move all of the Broken units up to 20 cm -- regardless of the actual Speed values of units.
+The Retreat move is a single move in which you may move all mobile units in the Broken detachment up to 20 cm -- regardless of their actual Speed values.
 
-* You may make the Retreat move in any direction, subject to the normal rules for terrain effects on movement.
-* If you end a Retreat move such that any Broken units are within 15 cm of *any* enemy unit footnote:[Even Broken enemy units.], then they are *destroyed* -- remove those units as casualties.
+* You may use the Retreat move to move the units in any direction, subject to the normal rules for terrain effects on movement.
+* You may 'move' units 0 cm if you wish.
+Or, it may be that you can't move some units anywayfootnote:[There may be a rule in force that states that you 'may not move' a unit — the Retreat move rules do not override this.].
+* If you end a Retreat move such that any Broken units are within 15 cm of *any* enemy unitfootnote:[Even Broken enemy units.], then they are *destroyed* -- remove those units as casualties.
 (They are killed by the advancing enemy or scattered in the confusion -- they play no further part in the battle.)
 
 == The Broken condition and the 'out of command' rules
