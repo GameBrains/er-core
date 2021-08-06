@@ -2,9 +2,9 @@
 
 These weapons can punch through even the thickest armour with ease.
 
-[NOTE]
+[NOTE.e40k]
 ====
-This super-heavy weapon was originally called _Anti-Tank_.
+In _Epic 40,000_, this super-heavy weapon is called _Anti-Tank_.
 That term tends to mislead players as it implies effectiveness against Vehicle units but perhaps not against other unit types such as Infantry -- whereas the rules below actually make this weapon very effective against all unit types.
 We borrow the new name from the similar concept in _Epic Armageddon_.
 ====
