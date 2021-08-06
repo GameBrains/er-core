@@ -45,9 +45,7 @@ What this vehicle lacks in range it can make up for in speed and the ability to 
 You shoot with three Space Marine Whirlwind units at an Ork Warband detachment.
 This target detachment is partially intermingled with a Kult of Speed detachment.
 
-.Adding up {barrage} Firepower.
-Numbered rectangles are Ork Boyz units; solid circles are Gunwagon units; semi-opaque circles are Barrage templates. 
-Green units are in the Ork Warband detachment; red units are in the Kult of Speed detachment.
+.Adding up {barrage} Firepower. Numbered rectangles are Ork Boyz units; solid circles are Gunwagon units; semi-opaque circles are Barrage templates. Green units are in the Ork Warband detachment; red units are in the Kult of Speed detachment.
 image::barrage-example-1a.png[One Barrage template that covers Ork Infantry and Vehicle units,320]
 
 You place one Barrage template for all three Whirlwinds.
