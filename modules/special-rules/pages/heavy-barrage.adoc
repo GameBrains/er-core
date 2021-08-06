@@ -11,10 +11,6 @@ When you make a {heavy-barrage} shot, proceed exactly as for a {barrage} shot bu
 * If the weapon is on a War Engine unit then you may continue to move and shoot with this unit each turn as normal.
 Otherwise, you may not *move* or *shoot* again with the unit until it has had a full turn to reload.
 Turn the model around, mark it with a token or make a note so that you don't forget that it must reload before you can use it again.
-+
-{blank}[TODO: Clarify what should happen if the unit is forced to move, as when their detachment is Broken and makes a Retreat move.
-Option *A*: They can't move as stated above, and so in the retreat situation they are automatically destroyed if the enemy gets close enough.
-Option *B*: When the move is compulsory, as in the retreat situation, then they can move -- in contradiction to the above rule -- but they can't reload until after they've had a full turn with no movement.]
 
 .Related information
 * xref:barrage.adoc[]
