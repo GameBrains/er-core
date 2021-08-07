@@ -23,7 +23,7 @@ We added this rule to minimise the effects that result from the assortment of di
 == Destruction of transportation units
 
 If a transportation unit is destroyed then, just before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the unit suffers a hit.
-If the unit survives, disembark it as normal from the destroyed transportation unit, so place it completely within 5 cm.
+If the unit survives, place it completely within 5 cm of the destroyed transportation unit.
 
 Then remove the transportation unit as normal.
 
@@ -52,7 +52,7 @@ To embark or disembark a unit:
 You may perform no other actions with units that are embarked -- so, you cannot shoot with them, for example.
 Obviously, once you disembark them then the normal rules apply again.
 
-TIP: When you disembark a unit from a {transport-x} unit, you sacrifice 5 cm of its movement and place it completely within 5 cm of the {transport-x} unit. In practice, this means that you can simply measure its full movement from the {transport-x} unit.
+TIP: When you disembark a unit from a {transport-x} unit, you sacrifice 5 cm of its movement and place it completely within 5 cm of the {transport-x} unit. In practice, this means that you can simply measure its movement from the {transport-x} unit.
 
 == Transportation by {hitch-x} units
 
