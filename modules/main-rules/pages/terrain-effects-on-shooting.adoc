@@ -15,6 +15,7 @@ So, it is best to discuss terrain pieces and principles with your opponent befor
 Perhaps add some detail here about 'model's eye view', hull-down, and such.
 Might need to rationalise with the main rules for the Shooting phase too.]+
 
+[[infantry-armour-bonus]]
 == Armour bonus for infantry that are in cover
 
 Infantry that are 'in cover' -- that is, in terrain that provides ready concealment and/or physical protection from incoming munitions -- gain special benefits.

@@ -2,3 +2,20 @@
 
 `Unit ability`
 
+Some beings have psychic powers — that is, they can tap into the alternate dimension of the Warp and direct a little of its fickle energy on the battlefield and elsewhere.
+These beings are known as 'pyskers'.
+
+Some psychic powers are very subtle, but those that manifest on the battlefield tend to be spectacularly violent: a sudden conflagration of all-consuming spectral fire, a powerful bolt of dark lightning, a blast of telepathy that can bypass armour and melt minds.
+
+---
+
+Where your unit has the {psyker} ability:
+
+* You can use certain Fate cards to make a special Psychic Blast attack with the unit.
+* You can use certain Fate cards to try to nullify a Psychic Blast attack by an enemy Psyker unit.
+* You may gain an advantage in a close combat or firefight if this unit is involved.
+For more about this, see xref:main-rules:work-out-close-combat-bonuses.adoc[] and xref:main-rules:work-out-firefight-bonuses.adoc[].
+// TODO: Do we need to define "is involved", either here or in the actual bonus tables? The text in the tables is a bit vague and only loosely correlates with the rules text -- "fighting" versus "in base-to-base contact", "supporting" rather than "within 15 cm" (though I suppose "most psykers in the firefight" works okay given the way that the trigger for a firefight is defined).
+
+.Related information
+* xref:battles:fate-cards.adoc[]
