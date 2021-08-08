@@ -6,5 +6,5 @@
   *** xref:open-top.adoc[]
   *** xref:ordo-malleus.adoc[]
   *** xref:recovery.adoc[]
+  *** xref:robust.adoc[]
  ** xref:war-engine-barging.adoc[]
- ** xref:robust.adoc[]
