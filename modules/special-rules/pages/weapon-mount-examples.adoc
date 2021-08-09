@@ -1,0 +1,62 @@
+= Weapon mount examples
+
+These examples explain weapon mounts, systems and arcs in more detail.
+
+The detail will be easiest to understand if you also refer to the appropriate war engine data sheets.
+{blank}[TODO: Add relevant cross-references/related info links when the new data sheets are in the project. Or perhaps use cropped images of the parts that are most relevant for each example.]
+
+.Weapon mounts
+====
+The Imperial Baneblade super-heavy tank has one weapon mount (and so only one weapon arc):
+
+* *Main Weapons* (`All Around`).
+This mount holds a Firepower weapon system named Turret Guns.
+
+The Imperial Warlord Titan is more complex.
+It has four weapon mounts (with a total of three weapon arcs):
+
+* *Left Arm* (`Left 180°`); *Right Arm* (`Right 180°`); *Left Carapace* and *Right Carapace* (both `Front 90°`).
++
+For each mount, you can choose a weapon system from a variety of options, as we detail elsewhere.
+====
+
+.Multiple Firepower weapon systems -- the Warhound Titan
+====
+The Imperial Warhound Titan has two weapon mounts:
+
+* *Left Arm* and *Right Arm* (both `Front 90°`).
+Each mount holds a weapon system named Weapon Battery (Firepower `6`).
+
+.Split fire
+You may shoot both weapon systems at the same target detachment, to direct a total of 12 Firepower at it.
+Or, you may split fire to shoot each Weapon Battery at a different target detachment, to direct 6 Firepower at each of them.
+
+.Suppression
+For each Blast marker on the Warhound Titan, choose a Weapon Battery and reduce its Firepower by one.
+
+.Half Firepower (no lock-on)
+If you are forced to halve the Firepower of the Warhound Titan, then do this as normal -- as each Weapon Battery is a Firepower weapon system you do not need to test to lock on like you must with a super-heavy weapon system.
+====
+
+.Mixed weapon systems -- the Shadowsword
+====
+The Imperial Shadowsword super-heavy tank has two weapon mounts:
+
+* *Main Weapons* (`Front 90°`).
+This mount holds a ranged super-heavy weapon system named Volcano Cannon (`{death-ray}`, Range `60 cm`).
+* *Secondary Weapons* (`All Around`).
+This mount holds a Firepower weapon system named Sponson Turrets (Firepower `2`, Range `30 cm`).
+
+.Split fire
+You may shoot both weapon systems at the same target detachment for a total of one {death-ray} shot and 2 Firepower.
+Or, you may shoot the weapon systems at two different target detachments, to direct the {death-ray} shot at one and 2 Firepower at another.
+
+.Suppression
+Where your target is within range and line of fire of both weapon systems, then it will take three Blast markers to completely suppress the Shadowsword's shooting -- two to bring the Sponson Turrets down to zero Firepower and one to suppress the Volcano Cannon.
+
+Where your target is not within the range and line of fire of the Sponson Turrets, then it will take only one Blast marker to completely suppress the Shadowsword's shooting.
+This is because it has no Firepower available and so a single Blast marker is enough to suppress the Volcano Cannon.
+
+.Half Firepower and lock-on
+If you are forced to halve the Firepower of the Shadowsword, then do this as normal -- and also roll to lock on with the Volcano Cannon.
+====

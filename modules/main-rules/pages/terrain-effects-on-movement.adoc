@@ -18,9 +18,12 @@ include::partial$terrain-effects-table.adoc[]
 [[dangerous-terrain-test]]
 == Dangerous terrain test
 
-When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6: On a roll of 1, halt the unit. If the unit is moving into terrain, halt at the edge of the terrain.
-If the unit is halted, roll the D6 again: If you roll another 1 then the unit takes a hit.
-// IJW EDITING NOTE: I took out 'in this way' because covering both types of halt made it ambiguous.
+When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6:
+
+* On a result of 1: You may not move the unit any farther — leave it at the edge of the dangerous terrain.
+Or, where the unit is already in dangerous terrain, you may not move it.
+Then roll a D6 again: If you roll another 1 then the unit takes a hit.
+* On any other result: You may move the unit as normal.
 
 include::partial$effect-of-hits.adoc[]
 

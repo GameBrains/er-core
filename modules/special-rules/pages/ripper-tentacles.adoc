@@ -7,8 +7,7 @@ The hulking ropes of muscle and sinew are immensely powerful, able to trap the c
 
 ---
 
-Apply these rules where your War Engine unit is armed with {ripper-tentacles}:
+Where your War Engine unit is armed with {ripper-tentacles}:
 
-* In close combat with opposing war engines, choose one {close-combat-weapons} system -- the {ripper-tentacles} wrap around and trap that weapon system, which means that the opposing War Engine unit cannot use it in the close combat.
-
-+[TODO: Presumably, if in close combat with multiple opposing war engines, you can only choose one CCW from among the opponents, not one each. Also, as part of a wider question, should weapon arcs apply to {ripper-tentacles} and {close-combat-weapons}?]+
+* When it fights against one or more enemy War Engine units in close combat, choose one {close-combat-weapons} system.
+The {ripper-tentacles} wrap around and trap that system, which means that the enemy gains no benefit from it for this close combat.

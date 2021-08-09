@@ -7,8 +7,10 @@ Their primary purpose is to gain a big advantage over other war engines and mang
 
 ---
 
-Apply these rules where your War Engine unit is armed with {close-combat-weapons}:
+Where your War Engine unit is armed with {close-combat-weapons}:
 
 * Double its Assault value when it fights against an enemy war engine in close combat.
 * When it wins a close combat against an enemy war engine, it automatically inflicts *catastrophic* damage.
-Make one roll on the losing war engine's Catastrophic Damage table to find out what happens to it.
+Roll on the losing war engine's Catastrophic Damage table.
++
+NOTE: This effect is not a 'hit', so the {save} and {holo-fields} abilities offer no protection against it.

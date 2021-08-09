@@ -1,0 +1,27 @@
+= Barrage templates
+
+We use Barrage templates to determine the area of effect for certain weapons.
+
+When the rules tell you when to place a Barrage template as part of a game effect, use these conventions.
+
+== Placement of a Barrage template
+
+When the rules tell you to place a Barrage template you must place it such that it is completely within range and line of fire of the shooting unit.
+
+NOTE: Units that have the {artillery} ability benefit from the Indirect Fire rule -- so they do not need a line of fire.
+
+== Coverage of units with a Barrage template
+
+A unit is 'covered by' or 'under' the template when any one of these conditions is true:
+
+* Infantry unit: The *centre* of the unit's base is under the template or touched by the edge of the template.
+* Vehicle or War Engine unit: *Any part* of the unit's base is under the template or touched by the edge of the template.
+
+[NOTE.e40k]
+====
+In _Epic 40,000_, coverage of Infantry units depends on the number of individual models on the base.
+We use the centre of the Infantry unit's base instead, to account for the wide variation in number of models that players place on their Infantry unit bases.
+====
+
+.Related information
+* xref:special-rules:artillery.adoc[]

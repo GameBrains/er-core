@@ -6,8 +6,10 @@ The technology and form varies; but almost every major warring race in the 41^st
 
 ---
 
-Apply these rules to {death-ray} weapons:
+When you make a {death-ray} shot:
 
-* Always roll one die, at 2+ to hit regardless of the target's actual Armour value.
-* {death-ray} weapons are so potent that when they hit a war engine they always cause critical damage.
-Roll on the target war engine's Critical Damage table.
+. Pick any target within range and line of fire, even a specific unit in a detachment.
+. Roll a D6.
+If you roll a 2+ then the target suffers a hit, regardless of armour or cover.
+* A {death-ray} hit on a War Engine unit always causes critical damage.
+Roll for a result on the unit's Critical Damage table.

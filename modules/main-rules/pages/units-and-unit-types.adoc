@@ -33,7 +33,7 @@ We represent each Vehicle unit with a single model.
 War Engine (WE):: All very large war machines.
 Examples include the super-heavy tanks and Titans of various factions, and Ork Gargants.
 These units dwarf the units of other unit types and can absorb a lot more damage before they are destroyed.
-Best of all, these behemoths usually have multiple giant weapons systems that can rain destruction upon your enemies! +
+Best of all, these behemoths usually have multiple giant weapon systems that can rain destruction upon your enemies! +
 We represent each War Engine unit with a single Epic model.
 
 Flyer (FLY):: Aircraft, and even some creatures that can fly within a planet's atmosphere.
