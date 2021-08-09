@@ -9,14 +9,14 @@ The resultant speed and mobility usually makes for good assault troops.
 
 Where your unit has the {jump-packs} ability, apply this change relative to its base unit:
 
-* Make its first Speed value two times (2x) the first Speed value of the base unit.
-* Make its second Speed value three times (3x) the first Speed value of the base unit.
+* Make its first Speed value two times (2x) the *first* Speed value of the base unit.
+* Make its second Speed value three times (3x) the *first* Speed value of the base unit.
 
 .{jump-packs} data sheet modifiers
 ====
 The Eldar Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} ability.
 
-*  While the base unit has a Speed value of 15/30 cm, that of the Swooping Hawks is 30/45 cm (15 cm x 2 and 15 cm x 3).
+*  While the base unit has a Speed value of `15/30 cm`, that of the Swooping Hawks is `30/45 cm` -- that is, `(15 x 2)/(15 x 3) cm`.
 ====
 
 include::main-rules:partial$charge-moves-split-speed.adoc[]
@@ -30,7 +30,6 @@ Of course you can never end a move in impassable terrain; but if you end a move 
 +
 {blank}[TODO: This appears to be slightly different to other units, who must test if they start *or* end their move in dangerous terrain. Is this difference clear enough?]
 * When you make a charge move with the unit, you can move it over enemy units that are already in base contact with your other units.
-// IJW EDITING NOTE: Yes, I think it should be restricted to charge moves.
 +
 [NOTE.e40k]
 .Move over contacted enemy units

@@ -15,14 +15,15 @@ Some general points about movement:
 * When you move a unit, you can move it a distance (in centimetres) up to their Speed value.
 * You may turn the unit freely during the course of its move (unless it is a War Engine unit).
 * In the Movement phase, it is never compulsory to move any particular unit.
-//Possible alternative: * Unless a rule specifically states that you must move a unit in the Movement phase then you do not have to move it in this phase if you don't want to.
+// TODO: Possible alternative: * Unless a rule specifically states that you must move a unit in the Movement phase then you do not have to move it in this phase if you don't want to.
 * Once you have moved a unit and removed your hand from the model, you may not change the move.
-* When you move a unit, you can move it through other friendly units, as long as they are not war engines.
+* When you move a unit, you can move it through other friendly units, as long as they are not War Engine units.
 
 [NOTE.e40k]
 .Moving through friendly units
 ====
-We added a rule for moving through other friendly units, which was not covered in the original Epic 40,000 rules.
+We added this rule for clarity.
+_Epic 40,000_ rules do not cover this.
 ====
 
 

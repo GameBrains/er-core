@@ -16,10 +16,12 @@ In _Epic 40,000_ it was a suggestion in the _Battles Book_, later confirmed in O
 Where a Vehicle unit has the {walker} ability:
 
 * The unit counts as an Infantry unit for terrain effects on movement.
-* The unit has a second Speed value which is two times (2x) the unit's normal Speed value.
-// IJW EDITING NOTE: This is awkwardly worded, and I'm not sure we even need it - we can just adjust the Speed values directly. If this bullet is removed, we also need to remove the include below.
-
-include::main-rules:partial$charge-moves-split-speed.adoc[]
+* The unit has a split Speed value, just like an Infantry unit.
+[NOTE.e40k]
+====
+The {walker} ability was an afterthought in _Epic 40,000_.
+We have integrated it in full along with split Speed values which you will find on the appropriate unit data sheets. 
+====
 
 NOTE: To be clear, {walker} units do not benefit from the Infantry Armour bonus for cover.
 
