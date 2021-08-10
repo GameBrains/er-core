@@ -31,7 +31,7 @@ We've integrated various references to make robust definitions that help us to m
 Each weapon system provides one of these weapon combinations:
 
 * One or more shots from a ranged super-heavy weapon.
-Multiple shots from a such a weapon system are just like multiples of that super-heavy weapon, except that we treat the weapon system like a single super-heavy weapon for various game effects.
+Multiple shots from such a weapon system are just like multiples of that super-heavy weapon, except that we treat the weapon system like a single super-heavy weapon for various game effects.
 * A close combat super-heavy weapon, such as {close-combat-weapons} or {ripper-tentacles}.
 In some cases the weapon system may combine this with a basic Firepower value.
 * A basic Firepower value.
