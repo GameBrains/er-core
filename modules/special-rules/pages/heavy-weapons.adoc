@@ -9,8 +9,8 @@ Common examples include Ork Shooty Boyz and Space Marine Devastators.
 
 ---
 
-Where your unit has the {heavy-weapons} ability, apply these changes relative to their base unit:
+Where your unit has the {heavy-weapons} ability, apply these changes relative to its base unit:
 
-* Add +1 to their Firepower value.
-* Increase their Range value to `45 cm`.
-* Halve their Assault value (round up).
+* Add +1 to its Firepower value.
+* Change its Range value to `45 cm`.
+* Halve its Assault value (round up).

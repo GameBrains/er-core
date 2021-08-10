@@ -13,7 +13,7 @@ Where your unit has the {assault} ability, apply these changes relative to its b
 * Add +1 to its Assault value.
 * Change its Range value to `15 cm`.
 
-Where your unit has both the {assault} ability *and* the {heavy-weapons} ability, apply these changes relative to their base unit:
+Where your unit has both the {assault} ability *and* the {heavy-weapons} ability, apply these changes relative to its base unit:
 
 * Halve its Assault value, then add +1 to that total to get the new value (round up).
 * Change its Range value to `45 cm`.

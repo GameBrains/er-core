@@ -8,10 +8,10 @@ These units are the expert scouts and commandos who gather information, set ambu
 
 Where your unit has the {infiltrators} ability:
 
-* Count them as *in command* while they are within 60cm of their HQ unit, rather than the usual 30cm.
-However, they are still destroyed if they become Broken and they are more than 30cm away from their HQ unit.
-* You may deploy them up to 30cm outside of your normal deployment zone for the scenario that you are playing.
-Or, if they are not deployed at the start of the battle then, in the turn when they arrive, you may add +30cm to their first move -- even if their first move is to disembark from transport vehicles or drop pods.
+* Count it as *in command* while it is within 60 cm of its HQ unit, rather than the usual 30 cm.
+However, it is still destroyed if it becomes Broken and it is more than 30 cm away from its HQ unit.
+* You may deploy it up to 30 cm outside of your normal deployment zone for the scenario that you are playing.
+Or, if it is not deployed at the start of the battle then, in the turn when it arrives, you may add +30 cm to its first move -- even if its first move is to disembark from transport vehicles or drop pods.
 
 .Related information
 * xref:main-rules:hq-units-and-command.adoc[]
