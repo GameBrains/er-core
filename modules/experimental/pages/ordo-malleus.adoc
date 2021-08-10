@@ -1,2 +1,11 @@
 = Ordo Malleus
 
+`Unit ability`
+
+{blank}[TODO: Add introductory text.]
+
+---
+
+Where your unit has the {ordo-malleus} ability:
+
+* In close combat with a Chaos daemon unit, double the Assault value of the {ordo-malleus} unit.
