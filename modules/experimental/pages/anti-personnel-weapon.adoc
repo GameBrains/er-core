@@ -1,10 +1,10 @@
 = Anti-Personnel [weapon]
 
-Weapons that are optimised to be especially effective against infantry and light vehicles.
+These weapons are optimised to be especially effective against infantry and light vehicles.
 
 ---
 
-When you shoot with an {anti-personnel} weapon:
+When you make an {anti-personnel} shot:
 
 . Roll a number of dice equal to the Firepower value of the unit.
 Do not use the Firepower table for this attack.
