@@ -1,6 +1,7 @@
 = Anti-personnel [ability]
+// TODO: Should we change the name of this ability to differentiate from the weapon, just as Siege translates to Macro-weapon?
 
-`Unit ability`
+`Data sheet modifier`
 
 A unit with this ability has weaponry that is optimised to be especially effective against infantry and light vehicles.
 

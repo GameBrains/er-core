@@ -1,5 +1,7 @@
 = Bridge
 
+`Unit ability`
+
 These units carry a bridge that they can deploy as needed, so that forces can cross certain types of terrain.
 
 ---
@@ -16,6 +18,8 @@ In this case, only Infantry units may then scale the inclined bridge and cross t
 This should be obvious, but to be clear: Once placed, the bridge remains in play even if the {bridge} unit is destroyed later -- and enemy forces can move over the bridge too, with the same restrictions.
 
 IMPORTANT: A {bridge} unit carries only one bridge -- once you've placed it, you cannot place another with that unit during the battle.
+
+{blank}[TODO: Shouldn't a Bridge unit lose what ranged weapons the base unit has?]
 
 .Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]

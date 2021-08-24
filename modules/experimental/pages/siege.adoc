@@ -1,0 +1,16 @@
+= Siege
+
+`Data sheet modifier` `Unit ability`
+
+These units are specially adapted from their original design, to specialise in close support of other units.
+They have particular value in operations that involve assaults on fortifications or in the close confines of cities.
+
+---
+
+Where your unit has the {siege} ability, apply these changes relative to its base unit:
+
+* Change its Range value to `15 cm`.
+* Apply the {close-support} special ability rules.
+
+.Related information
+* xref:special-rules:close-support.adoc[]

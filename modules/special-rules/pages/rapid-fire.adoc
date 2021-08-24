@@ -2,3 +2,12 @@
 
 `Unit ability`
 
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {rapid-fire} ability:
+
+* Double its Firepower value when its is on Overwatch orders.
+
+NOTE: Units that have the {heavy-weapons} ability cannot use the {rapid-fire} ability.

@@ -1,0 +1,20 @@
+= Jungle Fighters
+
+`Unit ability`
+
+Some infantry are especially well adapted to jungle fighting.
+
+[NOTE.e40k]
+====
+This ability is equivalent to the _Kroot_ ability in _Epic 40,000_ -- we call it {jungle-fighters} instead so as not to imply that the ability is faction-specific.
+====
+
+---
+
+Where your unit has the {jungle-fighters} ability:
+
+* Treat woods and jungle terrain as fortifications for this unit.
+That is, when the unit is in cover in woods or jungle terrain, apply a +2 Infantry Armour bonus for cover rather than the usual +1.
+
+.Related information
+* xref:main-rules:terrain-effects-on-shooting.adoc#infantry-armour-bonus[Armour bonus for infantry that are in cover]

@@ -24,7 +24,7 @@ ifndef::movement,shooting[]
 |Dangerous
 |Dangerous
 
-|Woods
+|Woods; jungle
 |+1
 |No effect
 |Dangerous
@@ -74,7 +74,7 @@ ifdef::movement[]
 |Dangerous
 |Dangerous
 
-|Woods
+|Woods; jungle
 |No effect
 |Dangerous
 |Dangerous
@@ -114,7 +114,7 @@ ifdef::shooting[]
 |Ruins; rubble
 |+1
 
-|Woods
+|Woods; jungle
 |+1
 
 |Marsh; swamp

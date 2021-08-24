@@ -1,15 +1,17 @@
 = Engineers
 
+`Unit ability`
+
 These units perform special technical duties to support the rest of the army, often while under fire.
 They clear routes through minefields, erect defences in the field, and use explosives to demolish enemy fortifications.
 
 ---
 
-Apply these rules to units with the {engineers} ability:
+Apply these rules to units that have the {engineers} ability:
 
 == Mine clearance
 
-[TODO: The original text is very unclear about when and how the {engineers} units can make an Assault move into a minefield, and how they should work meaningfully with the Hidden Setup rules for booby traps and minefields.
+{blank}[TODO: The original text is very unclear about when and how the {engineers} units can make an Assault move into a minefield, and how they should work meaningfully with the Hidden Setup rules for booby traps and minefields.
 
 * What is a 'mine counter'?
 A minefield terrain piece, or a hidden setup marker, or something else?
@@ -22,11 +24,11 @@ A minefield terrain piece, or a hidden setup marker, or something else?
 ]
 
 == Field defences
-[TODO: Again, there should be more clarity about orders and the rest of the detachment while {engineers} units must remain stationary so that we can place a fortification or razorwire in the Rally phase.
+{blank}[TODO: Again, there should be more clarity about orders and the rest of the detachment while {engineers} units must remain stationary so that we can place a fortification or razorwire in the Rally phase.
 ]
 
 == Demolitions
-[TODO: Again, how should the Assault move against fortifications work?
+{blank}[TODO: Again, how should the Assault move against fortifications work?
 ]
 
 .Related information
