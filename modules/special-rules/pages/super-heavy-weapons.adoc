@@ -62,3 +62,4 @@ include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 .Related information
 * xref:main-rules:blast-markers.adoc[]
+* xref:experimental:experimental-super-heavy-weapons.adoc[]

@@ -1,1 +1,4 @@
 = Experimental super-heavy weapons
+
+.Related information
+* xref:special-rules:super-heavy-weapons.adoc[]
