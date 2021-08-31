@@ -12,33 +12,38 @@ ifdef::firefight[.Firefight bonuses table]
 |+1
 
 |Your side has the most {psyker} units
-ifdef::close-combat[fighting or supporting the combat]
-ifdef::firefight[in the firefight]
+ifdef::close-combat[fighting or supporting the combat*]
+ifdef::firefight[in the firefight*]
 |+1
 
-|Your side's 
+|Your side's
 ifdef::close-combat[Assault]
 ifdef::firefight[Firepower]
 total is higher than the enemy's
-|+1*
+|+1**
 
 |Your side's
 ifdef::close-combat[Assault]
 ifdef::firefight[Firepower]
 total is double the enemy's or more
-|+2*
+|+2**
 
 |Your side's
 ifdef::close-combat[Assault]
 ifdef::firefight[Firepower]
 total is triple the enemy's or more
-|+3*
+|+3**
 
 |Your side's
 ifdef::close-combat[Assault]
 ifdef::firefight[Firepower]
 total is quadruple the enemy's or more
-|+4*
+|+4**
 
-2+e|*These modifiers are not cumulative -- use only the best one that applies.
+2+e|
+ifdef::close-combat[*The Psyker must be contributing its Assault value, or adding +1 for being within 15 cm.]
+ifdef::firefight[*The Psyker must be contributing its Firepower value.]
+// IJW editing note: I've used similar phrasing to the updated Supreme Commander rule.
+
+2+e|**These modifiers are not cumulative -- use only the best one that applies.
 |===

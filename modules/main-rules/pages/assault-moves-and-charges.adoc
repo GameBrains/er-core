@@ -28,6 +28,12 @@ TIP: You do not have to move units more than 5 cm if you do not want to.
 You might only want to move units into range for a firefight or to grab an objective, for example.
 
 [NOTE]
+.Units that can't move
+====
+The requirement to move at least 5 cm or into base contact does not override any rules that prevent the unit from moving, for example if the detachment fails a Leadership test to move, or the unit fails the first part of a Dangerous terrain test.
+====
+
+[NOTE]
 .Closest enemy unit
 ====
 The closest enemy unit is the one that your unit could reach by the shortest route.

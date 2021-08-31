@@ -16,6 +16,7 @@ Where your unit has the {psyker} ability:
 * You may gain an advantage in a close combat or firefight if this unit is involved.
 For more about this, see xref:main-rules:work-out-close-combat-bonuses.adoc[] and xref:main-rules:work-out-firefight-bonuses.adoc[].
 // TODO: Do we need to define "is involved", either here or in the actual bonus tables? The text in the tables is a bit vague and only loosely correlates with the rules text -- "fighting" versus "in base-to-base contact", "supporting" rather than "within 15 cm" (though I suppose "most psykers in the firefight" works okay given the way that the trigger for a firefight is defined).
+// IJW editing note: I've added a new conditional footnote to the assault bonuses table.
 
 .Related information
 * xref:battles:fate-cards.adoc[]
