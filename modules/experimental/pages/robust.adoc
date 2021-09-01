@@ -35,8 +35,7 @@ This means that when you allocate hit dice and you reach a {robust} unit, you mu
 +
 NOTE: The aim of this restriction is to force the attacker to destroy the unit or bypass it, and so to minimise the need to track units that have only one remaining point of Damage Capacity.
 
-* You may not allocate a third hit die to the unit until you have first allocated a hit die to all eligible units, in the usual way.
-// TODO: Shouldn't this be "a third and fourth hit die" (or "more dice") to be consistent? Or, what if the unit has only 1 DC remaining -- should it then be only "a second die" (or "another die")?
+* You may not allocate a further hit die to the unit until you have first allocated hit dice to all eligible units, in the usual way.
 
 * Any hit that would automatically cause critical damage against a War Engine unit, such as a hit from a {death-ray} weapon, causes an extra point of damage instead against a {robust} unit.
 In other words, a single hit from such a weapon will always destroy a {robust} unit outright.
