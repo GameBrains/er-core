@@ -36,7 +36,6 @@ To embark or disembark one or more units:
 
 You may perform no other actions with embarked units -- so, you cannot shoot with them, for example.
 Obviously, once you disembark them then the normal rules apply again.
-// TODO: I think we might need to refine this because 'action' might be ambiguous -- for example, shouldn't the 'stubborn' part of the Supreme Commander ability still be allowed even while the unit is inside transportation, while the 're-roll Assault resolution die' part would not?
 
 TIP: When you disembark a unit from a {transport-x} unit, you sacrifice 5 cm of its movement and place it completely within 5 cm of the {transport-x} unit.
 In practice, this means that you can simply measure its movement from the {transport-x} unit.
