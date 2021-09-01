@@ -12,6 +12,7 @@
   *** xref:open-top.adoc[]
   *** xref:ordo-malleus.adoc[]
   *** xref:recovery.adoc[]
+  *** xref:robust.adoc[]
   *** xref:self-propelled-artillery.adoc[]
   *** xref:shootier.adoc[]
   *** xref:siege.adoc[]
