@@ -1,4 +1,6 @@
 = Super-heavy weapons
+:bm-shw:
+:shw-effects:
 
 These are fearsome and awe inspiring weapons that equip the most powerful units in the game -- usually war engines, but also some particularly potent specialist units of other types.
 
@@ -7,19 +9,17 @@ These rules define the effects of super-heavy weapons; see the specific unit dat
 
 == Shooting with super-heavy weapons
 
-* Except where we state otherwise, you may shoot super-heavy weapons at any target within range.
-That is, you can pick out individual targets within a detachment.
-
-* Where a unit that is equipped with super-heavy weapons is on Assault orders, and you wish it to shoot in the Shooting phase: For each super-heavy weapon you wish to shoot, you must first roll a 4 or more on a D6.
-This is because it is much harder to target the enemy and route enough power to a super-heavy weapon while the unit hastens to engage the enemy more closely.
+Half Firepower and 'lock on'::
+Where a game effect forces you to halve the Firepower of a detachment or unit, you also suffer a reduction in the effectiveness of its super-heavy weaponsfootnote:[Common game effects that force you to halve Firepower include Assault orders and some particular critical damage effects for War Engine units.].
+In these situations, you must test to *lock on* with each super-heavy weapon before you can shoot with it.
 +
-+[TODO: Consider how this should work if we're using standard rules in which war engines don't actually need specific orders.]+
+.Lock on
+For each super-heavy weapon that you wish to shoot, roll a D6.
+On a roll of 4+ the weapon locks on successfully, so you may shoot with it.
+Otherwise, you may not shoot with it this time.
 
-* Where a unit that is equipped with super-heavy weapons is on Overwatch orders: You may re-roll misses when you shoot with these weapons, just as you do with regular weapons.
-
-== Super-heavy weapons in firefights
-
-* Where a unit that is equipped with super-heavy weapons is in a firefight, and a super-heavy weapon doesn't have a basic Firepower value: Treat that weapon as if it has a Firepower value of 1.
+Overwatch::
+Where a unit that is equipped with super-heavy weapons is on Overwatch orders you may re-roll misses when you shoot with these weapons, just as you do with dice that you get from Firepower.
 
 == Super-heavy weapons and placement of Blast markers
 
@@ -27,28 +27,39 @@ When you shoot with a detachment that includes super-heavy weapons, you may get 
 
 * For any regular Firepower that your detachment brings to bear on the target detachment, place Blast markers as normal.
 * For the super-heavy weapons that your detachment brings to bear on the target detachment, place Blast markers as follows.
-+
-|===
-^|Number of super-heavy weapons brought to bear ^|Number of Blast markers to place
 
-^|1 to 3 ^|*
-^|4 to 8 ^|1
-^|9 or more ^|2
-2+|* = 1 Blast marker, but only if you score at least one hit.
-|===
-+
+include::main-rules:partial$blast-marker-table.adoc[]
+
 [NOTE]
 ====
 Count the number of super-heavy weapons that you direct at the target detachment.
-Do not modify this number because of Assault orders, Blast markers on the shooting detachment, or anything similar.
 
-+[TODO: Check and consider the wording around this. I seem to remember that there were some inconsistencies or nuances in how Firepower and super-heavy weapons are suppressed by Blast markers. There may be an important difference between how many we "bring to bear" and how many can actually shoot, that also effects Blast marker placement.]+
+* Do *not* modify this number because of Assault orders, Blast markers on the shooting detachment, or anything similar.
+* Do *not* count super-heavy weapons that add to the detachment's Firepower total, such as {barrage} -- the Firepower component already accounts for any Blast markers that they may add.
 ====
 
-== Super-heavy weapons and suppression by Blast markers
+== Super-heavy weapons and suppression
 
-With regular Firepower, Blast markers on the detachment each cause the loss of one point of Firepower in the Shooting phase.
-However, where a detachment has only super-heavy weapons available then each Blast marker will normally suppress one entire super-heavy weapon.
-That is, unless the weapon profile on a unit datasheet says otherwise, treat each super-heavy weapon as having a Firepower value of 1.
+Normally, suppression means that for each Blast marker on a detachment you must reduce its Firepower by 1.
+However, if the detachment has more Blast markers than Firepower, or has no Firepower, then for each remaining Blast marker you lose the ability to shoot with one super-heavy weapon.
+You may choose which super-heavy weapons are suppressed.
 
-+[TODO: Consider a more concise way to explain this, and integrate it into the 'Shooting with...' bullet points.]+
+NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots like {pulsar}, or adds to a detachment's Firepower like {barrage}.
+
+== Super-heavy weapons in firefights
+
+Where a super-heavy weapon is in a position to contribute to a firefight, it contributes 1 Firepower.
+
+.Super-heavy weapons in firefights
+====
+The {death-ray} and {heavy-barrage} weapons do not have a basic Firepower value.
+Where they are in a position to do so, they each contribute 1 Firepower in a firefight. 
+====
+
+== Summary of super-heavy weapon effects
+
+include::partial$summary-of-super-heavy-weapon-effects.adoc[]
+
+.Related information
+* xref:main-rules:blast-markers.adoc[]
+* xref:experimental:experimental-super-heavy-weapons.adoc[]

@@ -1,3 +1,22 @@
 = Summon
 
-{blank}[TODO: *NEW* updated name for 'summoning daemons'.]
+`Detachment ability`
+
+{blank}[TODO: This ability replaces the 'summoning daemons' text in the original Chaos army list. Add introductory text.]
+
+---
+
+Where your detachment has the {summon} ability:
+
+* Do not deploy the detachment at the start of the battle.
+Instead, it is in reserve -- even if the scenario does not normally use the Reserves rule.
+* Roll for the arrival of the detachment as is usual for the Reserves rule.
+However, your opponent lost more army morale points from their total last turn than you did, then you may add +1 to the roll.
+* When the detachment arrives, use the drop pods rules to deploy them.
+
+{blank}[TODO: Can we choose to deploy daemon detachments as normal, rather than summon them? The original text seems to imply this, but is ambiguous -- if indeed there is a choice then we should it explicit. Also, it isn't clear whether the Summon rule should apply only to the Black Crusades list, or whether it should also apply to the Daemonic Legions list where the original text seems to imply that they deploy in the normal way.]
+
+.Related information
+* xref:battles:reserves.adoc[]
+* xref:battles:army-morale.adoc[]
+* xref:battles:drop-pods.adoc[]

@@ -1,2 +1,18 @@
 = Rampage
 
+`Unit ability`
+
+Some units are so ferocious in close combat that they will rampage through enemy forces in a berserk fury, heedless of their own safety. 
+
+---
+
+Where your unit has the {rampage} ability:
+
+* When you roll for hits in close combat, roll two dice to try to score hits with this unit rather than the usual one die.
+* They never retreat from close combat.
+If you lose a close combat, make the Retreat move as normal with other units in the detachment but do not move {rampage} units.
+This means that {rampage} units are always caught and destroyed by the enemy if they are on the losing side in a close combat.
+
+.Related information
+* xref:main-rules:roll-for-close-combat-hits.adoc[]
+* xref:main-rules:broken-detachments.adoc#retreat-move.adoc[Retreat move]

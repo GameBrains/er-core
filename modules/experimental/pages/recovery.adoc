@@ -2,3 +2,22 @@
 
 `Unit ability`
 
+{blank}[TODO: Add introductory text.]
+
+---
+
+Where you have units that have the {recovery} ability in play, do not remove Vehicle units that are destroyed by dangerous terrain.
+Instead, identify these units with a marker or place them on their side. 
+
+You may use a unit that has the {recovery} ability to recover the marked units:
+
+. Move the {recovery} unit into base contact with a marked unit.
+. In the Rally phase, roll a D6:
+* 1 to 3: Recovery is not possible.
+Remove the marked unit from play.
+* 4 to 6: Success! Place the marked vehicle upright.
+It is no longer destroyed and you may use it as normal from next turn onwards.
+
+.Related information
+
+* xref:main-rules:terrain-effects-on-movement.adoc[]

@@ -1,5 +1,7 @@
 = Assault +1
 
+`Data sheet modifier`
+
 These units are exceptionally fierce or gifted at close combat; yet they are no less capable or less equipped for ranged combat than others of their kind.
 
 [NOTE.e40k]
@@ -9,6 +11,6 @@ This ability is equivalent to the _Space Wolves_ ability in _Epic 40,000_ -- we 
 
 ---
 
-Where your unit has the {assault-1} ability, apply this change relative to their base unit:
+Where your unit has the {assault-1} ability, apply this change relative to its base unit:
 
-* Add +1 to their Assault value.
+* Add +1 to its Assault value.

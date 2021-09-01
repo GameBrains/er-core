@@ -1,5 +1,7 @@
 = Holo-fields
 
+`Unit ability`
+
 This unique technology projects a field that can hide an Eldar titan in a colourful but diffuse and baffling appearance.
 This makes it almost impossible for the enemy to pinpoint the precise location of the titan -- it can thwart even the most advanced targetting systems.
 
@@ -18,6 +20,3 @@ Where your unit has the {holo-fields} ability:
 If the hit comes from an attack that would normally cause automatic critical damage anyway, there is no added effect -- your opponent gets only the one roll on the table, per hit.
 
 NOTE: While some attacks ignore void shields and power fields, these do *not* ignore holo-fields.
-
-NOTE: If a war engine uses {close-combat-weapons} and it wins a close combat, then it automatically inflicts catastrophic damage.
-This is not a 'hit', so the {holo-fields} ability offers no protection against this.

@@ -1,0 +1,14 @@
+= Fast
+
+`Data sheet modifier`
+
+This ability applies to some Vehicle unit variants.
+// TODO: Should we use text like this on some or all of the abilities which originate from 'Vehicle variant rules', to make clear where they only apply to vehicles?
+It represents vehicles which have been stripped of weapons or armour to increase their speed.
+
+---
+
+Where your unit has the {fast} ability, apply these changes relative to its base unit:
+
+* Increase its Speed value by 5 cm.
+* Reduce its Firepower value by 1 -- or if this would result in a Firepower value of `0`, then reduce their Armour value by 1 instead.

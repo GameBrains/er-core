@@ -6,7 +6,7 @@ Usually, the maximum distance that you may move any individual model in any sing
 
 Sometimes, the distance you may move units your detachment may be defined in a different way (as with Overwatch orders or a Broken detachment's Retreat move).
 
-Or, you may be allowed to chain more than one move together at one time -- as with a triple move under March orders or a double move for infantry when they charge under Assault orders).
+Or, you may be allowed to chain more than one move together at one time -- as with a triple move under March orders.
 Note that these are technically separate moves, so don't just multiply the Speed value -- in some cases, terrain may affect the Speed value of your units for one move but not for other moves in the same chain.
 
 For each move that a detachment is allowed to make, you may move each unit in that detachment any distance up to the unit's individual Speed value.

@@ -1,5 +1,7 @@
 = Heavy Weapons
 
+`Data sheet modifier`
+
 These units specialise in shooting, with weapons that give them longer range and more firepower.
 
 Of course, their advantages in shooting come at a cost to their effectiveness in close combat.
@@ -7,8 +9,8 @@ Common examples include Ork Shooty Boyz and Space Marine Devastators.
 
 ---
 
-Apply these rules to units with the {heavy-weapons} ability, relative to the base units:
+Where your unit has the {heavy-weapons} ability, apply these changes relative to its base unit:
 
-* Add +1 to their Firepower value.
-* Increase their Range value to 45 cm.
-* Halve their Assault value (round up).
+* Add +1 to its Firepower value.
+* Change its Range value to `45 cm`.
+* Halve its Assault value (round up).

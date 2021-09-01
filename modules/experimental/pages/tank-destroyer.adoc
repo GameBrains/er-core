@@ -1,0 +1,15 @@
+= Tank Destroyer
+
+`Data sheet modifier` `Unit ability`
+
+These units are specially adapted from their original design, to replace their main armament with a more potent anti-armour capability.
+
+---
+
+Where your unit has the {tank-destroyer} ability, apply these changes relative to its base unit:
+
+* Replace its Firepower value with a single {macro-weapon} super-heavy weapon.
+
+.Related information
+
+* xref:special-rules:macro-weapon.adoc[]

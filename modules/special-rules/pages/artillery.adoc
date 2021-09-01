@@ -1,5 +1,7 @@
 = Artillery
 
+`Unit ability`
+
 Most armies include some form of artillery -- units that can bombard their targets from afar without a direct line of sight, because they can shoot their munitions in a high arc over intervening terrain.
 
 Much artillery is designed to rain explosive shells, rockets or missiles on the target.

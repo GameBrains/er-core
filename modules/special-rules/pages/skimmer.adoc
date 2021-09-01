@@ -1,2 +1,16 @@
 = Skimmer
 
+`Unit ability`
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {skimmer} ability:
+
+* You may ignore terrain when you move the unit — though you must still take a dangerous terrain test if the unit is in dangerous terrain at the start or end of the move, and you may not place the unit on impassable terrain.
+* In the Shooting phase, you may make a 'pop-up' attack with the unit.
+In such an attack, the unit rises up so that it can see over intervening terrain and target an enemy that lies beyond.
+** When you make a pop-up attack with the unit, you can draw a line of sight over intervening terrain.
+** The unit remains 'popped up' for the remainder of the Shooting phase -- it returns to ground level at the end of the phase.
+In the meantime, your opponent can also draw a line over intervening terrain to shoot back.

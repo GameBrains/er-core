@@ -1,1 +1,4 @@
 = Experimental special abilities
+
+.Related information
+* xref:special-rules:special-abilities.adoc[]

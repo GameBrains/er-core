@@ -1,5 +1,7 @@
 = Dauntless
 
+`Detachment ability`
+
 Some troops are so disciplined or relentless that they never flinch in the face of the enemy.
 
 [NOTE.e40k]

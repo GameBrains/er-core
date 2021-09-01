@@ -1,10 +1,12 @@
 = Hit and Run
 
+`Detachment ability`
+
 Some forces have honed tactics in which they make a lightning assault, seemingly from nowhere, and then disappear just as suddenly.
 
 ---
 
-Apply these rules to detachments which have the {hit-and-run} ability:
+Where your detachment has the {hit-and-run} ability:
 
 * After a close combat or firefight with this detachment, you can always make a retreat move -- even if you win.
 +

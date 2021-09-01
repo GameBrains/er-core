@@ -8,6 +8,8 @@ The Movement phase is not the only phase in which movement occurs, but it is the
 
 The actions you can take are explained in this section, but in summary: You may move some or all of your units, according to the orders that you give to their detachment.
 
+include::partial$leadership-test-before-move.adoc[]
+
 Some general points about movement:
 
 * When you move a unit, you can move it a distance (in centimetres) up to their Speed value.

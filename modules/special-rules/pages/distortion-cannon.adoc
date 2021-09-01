@@ -3,15 +3,16 @@
 These weapons literally distort reality.
 They create a momentary rift between reality and the warp,  and in the blink of an eye this rift will tear the target apart or even vanish it from reality forever.
 
-The rift is not big enough to vanish a large target like a war engine, but a good hit will inflict severe damage.
+The rift is not big enough to vanish a target as large as a war engine, but a good hit will inflict severe damage.
 
 ---
 
-When you shoot with a {distortion-cannon}, roll a D6 and multiply the result by 5, to get a score in the range of 5 to 30.
-If the score is equal to or greater than Speed value of the target unit then the weapon hits.
-Also, a result of 1 (score 5) is always a miss, 6 (score 30) is always a hit.
+When you make a {distortion-cannon} shot:
 
-If you hit the target unit then apply damage according to its type:
-
-* War Engine unit: Ignore any shields and apply one hit which *automatically* causes critical damage.
-* Units with a Damage Capacity value of 1 (any unit other than a war engine): Destroyed.
+. Pick any target within range and line of sight, even a specific unit in a detachment.
+. Roll a D6 and multiply the roll by 5, to get a score in the range of 5 to 30.
+If your score is equal to or greater than the target's Speed value then you hit.
+Also, a roll of 1 (score 5) is always a miss, 6 (score 30) is always a hit.
+* A {distortion-cannon} hit ignores void shields and power fields.
+* A {distortion-cannon} hit on a War Engine unit always causes critical damage.
+Roll for a result on the unit's Critical Damage table.

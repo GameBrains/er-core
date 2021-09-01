@@ -1,2 +1,18 @@
 = Supreme Commander
 
+`Unit ability`
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {supreme-commander} ability:
+
+* All of your detachments that have their HQ unit within 30 cm of the {supreme-commander} unit gain the {stubborn} ability.
+* If this specific unit fights in a close combat or contributes its Firepower to a firefight then you may re-roll the die that decides the outcome of that close combat or firelight.
+If you re-roll the die then you must abide by the second result.
++
+{blank}[TODO: Does "fights in a close combat" include not only base-contact but also 'supporting fire'?]
+
+.Related information
+* xref:stubborn.adoc[]

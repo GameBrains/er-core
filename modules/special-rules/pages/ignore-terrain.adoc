@@ -1,5 +1,7 @@
 = Ignore Terrain
 
+`Unit ability`
+
 Some units can stalk with ease through terrain that is treacherous for others.
 
 [NOTE.e40k]
