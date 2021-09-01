@@ -28,10 +28,10 @@ Where your unit has the {robust} ability:
 
 Where you attack a detachment that includes units that have the {robust} ability:
 
-* Each {robust} unit counts as *two* units for hit allocation.
-This means that when you allocate hit dice and you reach a {robust} unit, you must allocate *two* dice to that unit before you allocate dice to more distant targets.
-// TODO: Do we still have to allocate two dice even if the unit has only 1 DC remaining?
-* Where possible, you must allocate two dice that score equal to or higher than the {robust} unit's Armour value, *or* two dice that score lower.
+* Each {robust} unit counts as either *one* or *two* units for hit allocation, according to the number of Damage Capacity points it has left.
+This means that when you allocate hit dice and you reach a {robust} unit, you must allocate two dice if it is undamaged or one die if it is damaged.
+Then continue to allocate dice to more distant targets in the usual way.
+* Where possible, all dice that you allocate to a {robust} unit must score equal to or higher than its Armour value, *or* all dice that you allocate must score lower.
 +
 NOTE: The aim of this restriction is to force the attacker to destroy the unit or bypass it, and so to minimise the need to track units that have only one remaining point of Damage Capacity.
 
