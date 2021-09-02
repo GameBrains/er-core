@@ -31,9 +31,6 @@ Shooting phase:: You may shoot with the units in this detachment -- but you must
 Assault phase:: You *must* move the units in this detachment, and you may initiate a close combat or firefight.
 For the full detail, see xref:assault-moves-and-charges.adoc[].
 +
-Any of your units that reaches base-to-base contact with at least one enemy unit is *charging into close combat*. As part of a charge, you may use the *second* Speed value of units *if* this will bring them into base-to-base contact with the enemy.
-
-include::partial$charge-moves-split-speed.adoc[]
 
 === March
 image::Orders_March.png[role="left"]
