@@ -2,3 +2,21 @@
 
 `Unit ability`
 
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {tunneller} ability:
+
+{blank}[TODO: Need to check the detail and structure of these points against the drop pod rules and the Planetary Assault scenario rules.]
+
+* Treat these units just like drop pods, except replace the Drop Pod marker on the tabletop with the corresponding {tunneller} unit.
+** You can then use the {tunneller} units just as you would for any other detachment.
+** As with Drop Pods, make sure that you clearly indicate which cargo units are embarked in which {tunneller} transport units before you deploy them.
+* Like drop pods, detachments of {tunneller} units always count as Reserves.
+* {tunneller} units do not count as drop pods in Planetary Assault scenarios, but you may deploy them with their free transport vehicle.
+
+.Related information
+* xref:battles:drop-pods.adoc[]
+* xref:battles:reserves.adoc[]
+* xref:battles:planetary-assault.adoc[]

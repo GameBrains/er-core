@@ -64,3 +64,4 @@ We changed the explanation of charge moves and added split Speed values, to make
 
 .Related information
 * xref:terrain-effects-on-movement.adoc#dangerous-terrain-test[Dangerous terrain test]
+* Experimental: xref:experimental:war-engine-barging.adoc[]

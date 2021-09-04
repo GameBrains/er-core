@@ -1,4 +1,0 @@
-= Shootier
-
-`Data sheet modifier`
-

@@ -1,0 +1,101 @@
+= Robust
+
+`Unit ability`
+
+An experimental rule to allow some normal units to have Damage Capacity `2`.
+
+This is similar to how Damage Capacity works with War Engine units.
+That said...
+
+IMPORTANT: Units that have the {robust} ability are not War Engine units — do not apply the War Engine rules to them.
+
+In brief, it takes two hits to destroy a {robust} unit, and each {robust} unit counts as two normal units for both hit allocation and detachment strength.
+
+[NOTE]
+====
+We're testing this ability as a way to make some units tougher than the standard rules allow, but not as tough as War Engine units.
+Candidates for this ability include Space Marine Land Raiders, Ork Stompas, and Chaos Greater Daemons.
+====
+
+---
+
+Where your unit has the {robust} ability:
+
+* The unit starts the game with Damage Capacity `2`.
+* When you calculate the detachment strength, count the unit as equal to its remaining Damage Capacity.
+* Each hit reduces its Damage Capacity by one point.
+* If the unit's Damage Capacity is reduced to 0 then it is destroyed.
+
+Where you attack a detachment that includes units that have the {robust} ability:
+
+* Each {robust} unit counts as either *one* or *two* units for hit allocation, according to the number of Damage Capacity points it has left.
+This means that when you allocate hit dice and you reach a {robust} unit, you must allocate two dice if it is undamaged or one die if it is damaged.
+Then continue to allocate dice to more distant targets in the usual way.
+* Where possible, all dice that you allocate to a {robust} unit must score equal to or higher than its Armour value, *or* all dice that you allocate must score lower.
++
+NOTE: The aim of this restriction is to force the attacker to destroy the unit or bypass it, and so to minimise the need to track units that have only one remaining point of Damage Capacity.
+
+* You may not allocate a further hit die to the unit until you have first allocated hit dice to all eligible units, in the usual way.
+
+* Any hit that would automatically cause critical damage against a War Engine unit, such as a hit from a {death-ray} weapon, causes an extra point of damage instead against a {robust} unit.
+In other words, a single hit from such a weapon will always destroy a {robust} unit outright.
+
+NOTE: A {robust} unit counts as *one* unit for *all* other purposes, such as 'ganging up' and hit rolls in close combat, supporting a close combat, and to determine the number of units that are under a {barrage} template.
+
+.{robust} ability and detachment strength
+====
+Consider a Space Marine detachment like this:
+
+[cols="2,2*^1"]
+|===
+|Units |Number of units |Detachment strength
+
+|1x Captain
+|1
+|1
+
+|6x Land Raider (with the {robust} ability)
+|6
+|12
+
+|5x Terminator squad
+|5
+|5
+
+h|Total
+h|12
+h|18
+
+|===
+
+Although the actual number of units is only 12, the {robust} ability of the Land Raiders means that the effective detachment strength is 18.
+So, at the outset of the battle you will benefit from a +1 modifier for Leadership tests.
+// TODO: This ability implies that in due course we should change the Leadership test wording to the effect of "current detachment strength of 15 or more" rather than the present "15 or more units". And then perhaps we need not mention the Leadership test here? Also implies that we should define 'detachment strength' clearly too.
+
+The detachment will be at half strength when its number of normal units and remaining Damage Capacity totals nine or less.
+====
+
+.{robust} ability and allocation of shooting hits 
+====
+You shoot your detachment of Orks at a Space Marines detachment that includes Terminator (Armour `5+`) and Land Raider (Armour `6+`) units.
+
+.{robust} ability and allocation of shooting hits. The green rectangle is a detachment of Orks. The blue rectangles are Space Marine Terminator units. The Blue circles are Land Raider units that have the {robust} ability.
+image::damage-capacity-shooting.png[Orks shooting at Space Marine Terminators and Land Raiders.]
+////
+TODO: Some things to consider in future tweaks to the image:
+* It gives the impression of a single unit of Orks, rather than a detachment. Maybe use a much larger block instead, as they do in _Epic 40,000_?
+* It'd be better and more usual to associate the text "Shoot" with the arrow rather than the Ork graphic -- or better yet, to use some graphical element that evokes shooting rather than text.
+* Maybe set Land Raider (2) back just a little more, as at a glance it seems to be just as close to the Orks as Terminator squad (3).
+////
+
+Your dice rolls yield six results of 5 or more -- so you have six hit dice to allocate.
+
+. Allocate a die to the closest target unit, Terminator squad (1).
+. The next closest unit is Land Raider (1), which has the {robust} ability -- so allocate *two* dice to it.
+These must either both be results of 6 that can affect the Land Raider, or both be rolls of 5 that cannot affect the Land Raider.
+. The next closest units are Terminator squads (2) and (3), so allocate the fourth and fifth die to these.
+. Finally, you must allocate your last die to the next closest unit, which is Land Raider (2).
+====
+
+.Related information
+* xref:main-rules:allocate-hits.adoc[]

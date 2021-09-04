@@ -22,3 +22,6 @@ This upgrades the basic Imperial Guard unit entry to include the {psyker} abilit
 In contrast, a Space Marine Librarian is a psyker and is integral to the unit of the same name.
 So the {psyker} ability is part of the Space Marine Librarian unit entry.
 ====
+
+.Related information
+* xref:experimental:experimental-special-abilities.adoc[]
