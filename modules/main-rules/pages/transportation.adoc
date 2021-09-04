@@ -5,54 +5,37 @@ On some unit data sheets you'll see that the unit has one of two special abiliti
 These abilities indicate units that can carry -- transport -- other units across the battlefield.
 These abilities have some features in common, but also differ in some important ways.
 
-== Embark and disembark
 To describe the actions that relate to the units that you transport we use the terms *embark* and *disembark*.
-Where we refer to these actions, keep these additional points in mind:
-
-Embark:: 
-You may embark a unit only when it is completely within 5 cm of the transportation unit.
-Disembark::
-When you disembark a unit, place it completely within 5 cm of the transportation unit.
+To describe the units that we embark and disembark, we use the term *cargo unit*.
 
 [NOTE.e40k]
-.Embark and disembark
+.Transportation
 ====
-The transportation rules in _Epic 40,000_ leave a lot of room for interpretation, and they aren't entirely clear on some of the commonalities and differences between _Transport_ and _Hitch_.
+The Transport rules in _Epic 40,000_ leave a lot of room for interpretation, and they aren't entirely clear on some of the commonalities and differences between _Transport_ and _Hitch_.
 Nor do they account well for disparities that stem from the range of different base sizes that Epic enthusiasts use for their units these days.
 
-We've changed the conditions or embarkation and disembarkation and integrated them with the {transport-x} and {hitch-x} abilities to minimise these problems.
+To minimise these problems, we've integrated the {transport-x} and {hitch-x} abilities with some new conditions.
 ====
 
 NOTE: To be clear, a transportation unit does not gain the abilities of any embarked units.
-// TODO: However, some abilities, or parts of abilities, can still operate from within a transportation unit. See comment further down, in relation to 'no other actions with embarked units'.
 
 == Transportation by {transport-x} units
 
-To embark or disembark one or more units:
+:by-transport-x:
+include::partial$transportation-by-transport-units.adoc[]
 
-* You must sacrifice 5 cm from the movement of the {transport-x} unit.
-* You must sacrifice 5 cm from the movement of the unit that you embark or disembark.
-* You may embark and disembark units in the same turn, the same phase or even in the same move -- so long as all of the involved units have enough movement.
-
-You may perform no other actions with embarked units -- so, you cannot shoot with them, for example.
-Obviously, once you disembark them then the normal rules apply again.
-
-TIP: When you disembark a unit from a {transport-x} unit, you sacrifice 5 cm of its movement and place it completely within 5 cm of the {transport-x} unit.
-In practice, this means that you can simply measure its movement from the {transport-x} unit.
+:!by-transport-x:
 
 == Transportation by {hitch-x} units
 
-To use the {hitch-x} ability to transport one or more Infantry units:
+:by-hitch-x:
+include::partial$transportation-by-transport-units.adoc[]
 
-* You do *not* need to sacrifice any of the movement of the {hitch-x} unit.
-* You must sacrifice *all* of the movement of the Infantry unit.
-* You must embark *and* disembark your Infantry units in the same move, or the same series of moves if the {hitch-x} unit is on March orders.
-Embark the units at any point during your move of the {hitch-x} unit, and disembark at another point in same move, or series of moves.
-* You may only embark your Infantry unit onto a {hitch-x} unit once per phase -- you may not hitch a lift multiple times with the same Infantry unit.
+:!by-hitch-x:
 
 == Destruction of transportation units
 
-If a transportation unit is destroyed while other units are embarked then, before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the embarked unit suffers a hit.
+If a transportation unit is destroyed while cargo units are embarked then, before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the embarked unit suffers a hit.
 If the embarked unit survives, place it completely within 5 cm of the destroyed transportation unit.
 
 Then remove the transportation unit as normal.
@@ -72,7 +55,7 @@ Where transportation units from one detachment carry units from another detachme
 [NOTE.e40k]
 .Transportation of other detachments
 ====
-We make this restriction to avoid oddities that arise where transportation units and embarked units are under different orders.
+We make this restriction to avoid oddities that arise where transportation units and cargo units are under different orders.
 ====
 
 .Related information

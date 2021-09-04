@@ -8,7 +8,7 @@ These units are convenient for friendly but somewhat crazed infantry to grab ont
 
 Where your unit has the {hitch-x} ability:
 
-* It can transport Infantry units.
+* It can transport Infantry units as cargo.
 It can carry as many of these units as we state in brackets.
 +
 See the main transportation rules for more about how this works.
