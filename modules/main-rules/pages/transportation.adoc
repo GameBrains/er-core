@@ -5,8 +5,8 @@ On some unit data sheets you'll see that the unit has one of two special abiliti
 These abilities indicate units that can carry -- transport -- other units across the battlefield.
 These abilities have some features in common, but also differ in some important ways.
 
-To describe the actions that relate to the units that you transport we use the terms *embark* and *disembark*.
-To describe the units that we embark and disembark, we use the term *cargo unit*.
+To refer to the actions that we take with units that we transport, we use the terms *embark* and *disembark*.
+To refer to the units that we transport, we sometimes use the term *cargo*.
 
 [NOTE.e40k]
 .Transportation
