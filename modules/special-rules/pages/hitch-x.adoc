@@ -15,7 +15,7 @@ See the main transportation rules for more about how this works.
 
 .{hitch-x}
 ====
-The Ork Battlefortress has {hitch-4} -- so you can embark up to four Infantry units in a Battlefortress.
+The Ork Battlefortress has {hitch-4} -- so you can embark up to four Infantry units on a Battlefortress.
 ====
 
 .Related information
