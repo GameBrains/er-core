@@ -62,7 +62,6 @@
 
  ** xref:war-engines.adoc[]
   *** xref:war-engine-movement.adoc[]
-  *** xref:war-engine-orders.adoc[]
   *** xref:war-engines-and-blast-markers.adoc[]
   *** xref:shooting-with-war-engines.adoc[]
    **** xref:weapon-mount-examples.adoc[]
