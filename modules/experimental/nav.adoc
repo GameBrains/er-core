@@ -18,3 +18,4 @@
   *** xref:siege.adoc[]
   *** xref:tank-destroyer.adoc[]
 ** xref:war-engine-barging.adoc[]
+** xref:war-engine-orders.adoc[]

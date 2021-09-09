@@ -1,3 +1,5 @@
 = War engines
 
 {blank}[TODO: When we work on this topic, it may also be a good place to state that all War Engine units have the {no-retreat} and {unbreakable} abilities. It'd be a bit redundant to have a whole topic just to state that, but I think that we need some mention in place of the original E40k "No Retreat, No Surrender" topic. Another option as Ian pointed out is to add the statement to a partial and use it in both "War engines in close combat" and "War engines in firefights" topics, where the abilities both take effect.]
+
+{blank}[TODO: The Transportation topic says that for transportation units in one detachment to transport another detachment, both detachments must be on the same orders. Given that as standard we don't apply orders to War Engine units, remember to add something to address what should happen when War Engine units act as transportation for another detachment. Perhaps we'll want a specific topic or sub-heading like 'War Engine units as transportation'.]
