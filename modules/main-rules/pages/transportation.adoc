@@ -50,8 +50,6 @@ We make it clear that embarked units are subject to the same risk when their tra
 == Transportation of units from another detachment
 
 Where transportation units from one detachment carry units from another detachment, both detachments must be on the same orders.
-// IJW editing note - the war engine orders page will need a note saying how this works if you're *not* using war engine orders.
-// TODO: I wonder if we should thrash this detail out in the Experimental section? I mean, the original war engine orders rules were an afterthought and by no means universally accepted. Thus, I suggest that until such time as we nail down an alternative we should default to the original 'no orders' -- in which case this tract won't make sense here anyway.
 
 [NOTE.e40k]
 .Transportation of other detachments
