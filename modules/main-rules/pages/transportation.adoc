@@ -35,8 +35,9 @@ include::partial$transportation-by-transport-units.adoc[]
 
 == Destruction of transportation units
 
-If a transportation unit is destroyed while cargo units are embarked then, before you remove the unit as a casualty, roll a D6 for each embarked unit: On a result of 1, 2 or 3, the embarked unit suffers a hit.
-If the embarked unit survives, place it completely within 5 cm of the destroyed transportation unit.
+If a transportation unit is destroyed then any cargo unit that is embarked at the time may also suffer a hit.
+Before you remove the destroyed transport unit, roll a D6 for each embarked unit: On a result of 1, 2 or 3, it suffers a hit.
+If the unit survives, place it completely within 5 cm of the destroyed transportation unit.
 
 Then remove the transportation unit as normal.
 
