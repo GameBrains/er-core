@@ -12,8 +12,13 @@ Where your unit has the {supreme-commander} ability:
 * If the unit contributes its Assault value to a close combat or contributes its Firepower value to a firefight then you may re-roll a single die when working out who wins the combat.
 If you re-roll a die then you must abide by the second roll.
 +
-{blank}[TODO: Does "fights in a close combat" include not only base-contact but also 'supporting fire'?]
+//[TODO: Does "fights in a close combat" include not only base-contact but also 'supporting fire'?]
 // IJW editing note: I've changed the text to refer to using the Assault value, based on the original rules's reference to the SC unit itself needing to fight in a CC, not just its bodyguard. I've also tweaked the re-roll text based on the Fate Card Counterattack text, and to allow it to work more easily for players who use highest of 2d6 for combat resolution.
+
+== Tyranid Dominatrix
+In addition to the above, if the Dominatrix supports a close combat you may re-roll a single die when working out who wins the combat.
+
 
 .Related information
 * xref:stubborn.adoc[]
+* xref:war-engines-supporting-close-combats.adoc[]
