@@ -4,11 +4,14 @@ ifdef::by-transport-x[]
 * After you embark your cargo units, you can keep them embarked until you are ready to disembark them in some later phase.
 Or, you may embark and disembark units in the same phase or even in the same move -- so long as all of the involved units have enough movement.
 * While a cargo unit is embarked, you may perform no other actions with it -- you cannot shoot with it, for example.
+* You may only embark each cargo unit onto a {transport-x} unit once per phase.
+* You may only disembark each cargo unit from a {transport-x} unit once per phase.
 endif::[]
 
 ifdef::by-hitch-x[]
 * You must embark *and* disembark each cargo unit in the same move -- or in the same series of moves, if the {hitch-x} unit is on March orders.
 Embark each cargo unit at any point during your move of the {hitch-x} unit, and disembark at another point in same move, or series of moves.
+* You may only embark each cargo unit onto a {hitch-x} unit once per phase -- you may not hitch a lift multiple times with the same cargo unit in the same phase.
 endif::[]
 
 *To embark one or more valid cargo units:*
@@ -17,15 +20,12 @@ ifdef::by-transport-x[]
 . You may embark a cargo unit only when it is completely within 5 cm of the {transport-x} unit.
 . You must pay 5 cm from the movement of the {transport-x} unit.
 . You must pay 5 cm from the movement of each cargo unit.
-. You may only embark each cargo unit onto a {transport-x} unit once per phase.
-You may only disembark each cargo unit from a {transport-x} unit once per phase.
 endif::[]
 
 ifdef::by-hitch-x[]
 . You may embark a cargo unit only when it is completely within 5 cm of the {hitch-x} unit.
 . You do *not* need to pay any of the movement of the {hitch-x} unit.
 . You must pay *all* of the movement of each cargo unit.
-. You may only embark each cargo unit onto a {hitch-x} unit once per phase -- you may not hitch a lift multiple times with the same cargo unit.
 endif::[]
 
 *To disembark one or more cargo units:*
