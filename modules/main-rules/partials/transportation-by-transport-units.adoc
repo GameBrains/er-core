@@ -17,6 +17,8 @@ ifdef::by-transport-x[]
 . You may embark a cargo unit only when it is completely within 5 cm of the {transport-x} unit.
 . You must pay 5 cm from the movement of the {transport-x} unit.
 . You must pay 5 cm from the movement of each cargo unit.
+. You may only embark each cargo unit onto a {transport-x} unit once per phase.
+You may only disembark each cargo unit from a {transport-x} unit once per phase.
 endif::[]
 
 ifdef::by-hitch-x[]
