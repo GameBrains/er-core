@@ -37,12 +37,12 @@ Apply this bonus to the unit's base Speed value, before modification.
 .Movement on roads
 ====
 An Ork Boyz Infantry unit is on March orders.
-Ork Boyz have a Speed value of 10 cm.
+Ork Boyz have a Speed value of `10 cm`.
 
 The player will make the first two moves entirely on roads, and the third move will include some open ground.
 
 So, the player could move the unit up to a maximum of 40 cm.
-That is, up to 30 cm for the first two moves that are on roads ((10 cm Speed value + 5 cm road bonus) x2), plus up to 10 cm for the third move that is over at least some open ground.
+That is, up to 30 cm for the first two moves that are on roads ((`10 cm` Speed value + 5 cm road bonus) x2), plus up to 10 cm for the third move that is over at least some open ground.
 ====
 
 .Related information
