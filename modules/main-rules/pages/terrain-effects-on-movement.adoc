@@ -44,16 +44,16 @@ So, the player could move the unit up to a maximum of 40 cm.
 That is, up to 30 cm for the first two moves that are on roads ((`10 cm` first Speed value + 5 cm road bonus) x2), plus up to 10 cm for the third move that is not entirely on roads.
 ====
 
-.Assault movement on roads
+.Assault moves on roads
 ====
-An Ork Boyz Infantry unit is on Assault orders.
-Ork Boyz have a Speed value of 10/20 cm.
+You have an Ork Boyz Infantry unit that is on Assault orders.
+Ork Boyz have a Speed value of `10/20 cm`.
 
-The player will make an assault move entirely on a road.
+You intend to make an entirely road-based assault move.
+So, you can make either:
 
-The player could make a charge move of 30 cm, or a normal assault move of 15 cm.
-
-That is, a charge move up to 30 cm (20 cm second Speed value + 10 cm road bonus), or a normal assault move up to 15 cm (10 cm first Speed value + 5 cm road bonus).
+* A normal assault move of between 5 and 15 cm (`10 cm` first Speed value + 5 cm road bonus).
+* A charge move of up to 30 cm to reach base contact with an enemy unit (`20 cm` second Speed value + 10 cm road bonus).
 ====
 
 .Related information
