@@ -25,4 +25,17 @@ This indicates how many hits the War Engine unit can take before it is destroyed
 War Engine units are more complex than normal units, so their data sheets are bigger and more detailed.
 You can see an example of a War Engine data sheet at xref:war-engine-data-sheets.adoc[].
 
+== War Engine detachments
+
+War Engine units do not mix in detachments with other types of unit.
+Rather, we organise and field them in separate detachments of one or more War Engine units.
+
+.War Engine detachments
+====
+In general, large War Engine units such as 'battle titans' form their own detachment of one unit.
+
+The same can be true of smaller War Engine units such as 'scout titans' and super-heavy tanks -- but it is more usual to group two or more into a single detachment.
+====
+
+
 {blank}[TODO: The Transportation topic says that for transportation units in one detachment to transport another detachment, both detachments must be on the same orders. Given that as standard we don't apply orders to War Engine units, remember to add something to address what should happen when War Engine units act as transportation for another detachment. Perhaps we'll want a specific topic or sub-heading like 'War Engine units as transportation'.]

@@ -27,5 +27,11 @@ To keep track of remaining Damage Capacity on each damaged War Engine unit you m
 Or, you may like to use coloured dice or 'damage tracker' dials -- when a War Engine takes damage, place a die or dial near it at the correct value to show the remaining Damage Capacity for that unit.
 ====
 
+== Allocation of hits in War Engine detachments
+
+Where the target detachment consists of more than one War Engine unit, allocate hits in the usual way.
+In other words, you must allocate hits evenly among the target War Engine units that are within the range and line of fire of your attacking units.
+{blank}[TODO: Clarify whether we allocate against initial or current Damage Capacity. Current, I presume?]
+
 .Related information
 * xref:war-engine-critical-damage.adoc[]

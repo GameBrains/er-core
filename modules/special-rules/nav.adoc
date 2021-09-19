@@ -66,7 +66,6 @@
   *** xref:shooting-with-war-engines.adoc[]
    **** xref:weapon-mount-examples.adoc[]
   *** xref:shooting-at-war-engines.adoc[]
-  *** xref:war-engine-detachments.adoc[]
   *** xref:war-engine-critical-damage.adoc[]
   *** xref:war-engine-catastrophic-damage.adoc[]
   *** xref:war-engine-shields.adoc[]
