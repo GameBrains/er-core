@@ -1,2 +1,12 @@
 = War engine catastrophic damage
 
+A war engine can be 'destroyed' to different degrees.
+It may be only wrecked -- out of the battle, but perhaps not out of the war.
+Or, it may be truly destroyed in a spectacular fashion that presents a hazard to nearby units, whether friend or foe.
+
+---
+
+When a War Engine unit's current Damage Capacity value reaches `0`, it suffers *catastrophic damage*.
+Roll a D6 and check the result against the Catastrophic Damage Table on that unit's data sheet.
+
+{blank}[TODO: Ideally, we should change some terminology to disambiguate the general usage of the term 'destroyed' from the specific result of 'Destroyed' (rather than 'Wrecked') on catastrophic damage tables.]
