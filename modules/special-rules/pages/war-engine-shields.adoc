@@ -4,7 +4,7 @@ Some large war engines carry technology that can generate protective force field
 There are two main technologies -- power fields and void shields.
 Power fields are an Ork technology, but void shields are common to various other factions.
 
-The technologies work in a similar way to each other -- the difference is mainly in philosophy.
+The technologies reflect different approaches but achieve a similar defensive effect.
 Power fields are many but irreplaceable during a battle, while void shields are fewer but recoverable.
 
 ---

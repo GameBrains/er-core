@@ -39,3 +39,7 @@ The same can be true of smaller War Engine units such as 'scout titans' and supe
 
 
 {blank}[TODO: The Transportation topic says that for transportation units in one detachment to transport another detachment, both detachments must be on the same orders. Given that as standard we don't apply orders to War Engine units, remember to add something to address what should happen when War Engine units act as transportation for another detachment. Perhaps we'll want a specific topic or sub-heading like 'War Engine units as transportation'.]
+
+.Related information
+* xref:no-retreat.adoc[]
+* xref:unbreakable.adoc[]
