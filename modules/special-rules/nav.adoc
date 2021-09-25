@@ -70,7 +70,7 @@
   *** xref:war-engine-catastrophic-damage.adoc[]
   *** xref:war-engine-shields.adoc[]
   *** xref:war-engines-in-close-combat.adoc[]
-  *** xref:war-engines-supporting-close-combats.adoc[]
+  *** xref:war-engines-in-support-of-close-combats.adoc[]
   *** xref:war-engines-in-firefights.adoc[]
   *** xref:war-engine-data-sheets.adoc[]
 
