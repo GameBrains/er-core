@@ -1,2 +1,32 @@
 = Flyers
 
+'Flyers' are aircraft and -- in the case of Tyranids -- giant creatures that act like aircraft.
+Nimble fighter aircraft, sturdy fighter-bombers, lumbering bombers, cargo transport aircraft -- all have their place in support of ground forces in the 41^st^ millennium.
+
+In many ways, Flyer units and detachments are quite different to ground forces, and their rules reflect this.
+
+== Flyer data sheets
+
+Flyers have data sheets just like regular units -- but with these differences:
+
+* The Speed value is always `Flyer`.
+Flyer units are so fast that we treat them as though their Speed value is unlimited -- you can move them as far as you wish across the play area.
+* The Assault value is a split value, such as `2/2`.
+We call this the 'Dogfight value' -- although most of the time we refer specifically to only one of its two parts:
+** The first number is the *Intercept value* of the flyer, which represents its overall manoeuvrability.
+** The second number is its *Gunnery value*, which represents the overall deadliness of the flyer's air-to-air weaponry, when it can get an enemy flyer in its sights.
+
+== Deployment of flyers
+
+You don't deploy flyers along with other units at the start of the battle -- place them somewhere outside of the playing area, in the Ready state (see xref:flyer-readiness-states.adoc[]).
+You can imagine that they are in orbit, or stationed at a nearby airbase.
+
+== Flyers and Blast markers
+
+Do not place Blast markers on Flyer detachments, at all.
+
+== Flyers and assaults
+
+Flyers can never take part in close combats or firefights in any way, and can never become Broken.
+
+{blank}[TODO: This sounds absolute, but there is the edge case of landed transport aircraft. Consider new wording -- or perhaps a simple footnote to acknowledge this exception would suffice. Although I suppose we might also need to clarify some points of detail about this edge case somewhere in this section.]

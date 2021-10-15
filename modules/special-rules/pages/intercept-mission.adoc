@@ -1,0 +1,45 @@
+= Intercept mission
+
+{blank}[TODO: Add introductory text.]
+
+== Requirements for the mission
+
+* A detachment that is on an Intercept mission does not have to refuel and rearm until it has performed an interception -- they can 'loiter' on combat air patrol (CAP), ready to intercept at a moment's notice.
+This means that you can keep the detachment ready on the Intercept mission for multiple turns if they do not make an interception.
++
+{blank}[TODO: What should happen if you want to cancel the Intercept mission and do something else with the detachment? Logically I suppose they must lose a turn in the Re-arm state, so in a typical game (in which we're doing well to get each flyer detachment into action more than once) it'd rarely be worthwhile to cancel Intercept orders.]
+
+== Declare the mission
+
+include::partial$declare-the-mission.adoc[]
+
+You may declare an Intercept mission with any Ready Flyer detachment that you have not already committed to another mission.
+
+== Perform the mission
+
+Declare the interception::
+You may declare the interception when your opponent places a Flyer detachment on the table to carry out a flyer mission of any type -- even an Intercept mission of their own.
+If you have more than one detachment on the Intercept mission, declare which one will will use for this particular interception.
+
+{blank}[TODO: Can a player declare more than one detachment for the interception?]
+
+Deploy interceptors and resolve the aerial combat attacks::
+. Place your interceptor models next to those of the enemy detachment that you chose to intercept.
+(This step is not essential, but it helps to show what is going on and it's nice to see the models in action!)
+. Each unit in the opposing detachments can attack one enemy unit.
+Start with the whichever unit has the highest Intercept value.
+Where Intercept values are the same:
+* Units that are on an Intercept mission attack first.
+* If both detachments are on an Intercept mission, alternate between the two sides -- the player who has the Initiative goes first.
+. Resolve each attack individually as follows:
+.. Roll a number of hit dice equal to the Gunnery value of your attacking unit.
+Each die that scores equal to or more than the Armour value of the target unit is a hit.
+.. Resolve hits immediately and then move on to the next attack. (See xref:hits-on-flyers.adoc[])
+. Once all of the flyers involved in the aerial combat have attacked -- or been driven off or destroyed before they can attack -- remove the interceptor models from the play area.
+. If any of the target units remain in the playing area then your opponent can now continue with the mission that you interrupted with the interception.
+
+.Related information
+* xref:main-rules:the-start-phase.adoc[]
+* link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_InterceptingInterceptors.htm[FAQ: Intercepting interceptors^] (external URL)
+
+{blank}[TODO: Integrate the key points of the original FAQ into the Remastered rules.]
