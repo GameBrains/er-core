@@ -1,5 +1,6 @@
 = Ground Attack mission
 
+{blank}[TODO: Add introductory text.]
 
 == Declare the mission
 
@@ -7,9 +8,12 @@ include::partial$declare-the-mission.adoc[]
 
 == Perform the mission
 
+=== Deploy, and make the attack run
+
 include::partial$deploy-and-make-the-attack-run.adoc[]
 
-Complete the attack::
+=== Complete the attack
+
 . Make ranged attacks with the Flyer units, just like you would with ground units in the Shooting phase -- use the Firepower values of the Flyer units and any super-heavy weapons that they have.
 But note:
 * You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.

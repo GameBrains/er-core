@@ -4,12 +4,12 @@ The Air Transport mission is much like the Ground Attack mission, except that Fl
 
 == Requirements for the mission
 
-. You can use Flyer units that have the {transport-x} ability to carry valid cargo units from other detachments in your army.
+* You can use Flyer units that have the {transport-x} ability to carry valid cargo units from other detachments in your army.
 Keep the cargo units outside the play area along with the transport Flyer units until you are ready to deploy them.
-. If your available {transport-x} flyer units don't have enough transport capacity to carry all of the units in your ground detachment in one trip, then choose which units to leave behind for the current mission.
+* If your available {transport-x} flyer units don't have enough transport capacity to carry all of the units in your ground detachment in one trip, then choose which units to leave behind for the current mission.
 You can bring them into play on a future turn.
-* Be sure to include the detachment HQ in the first wave unless you want all of your units to be out of command!
-* Similarly, disembark later arrivals within 30 cm of whichever unit is currently the HQ unit, unless you want them to be out of command.
+** Be sure to include the detachment HQ in the first wave unless you want all of your units to be out of command!
+** Similarly, disembark later arrivals within 30 cm of whichever unit is currently the HQ unit, unless you want them to be out of command.
 
 == Declare the mission
 
@@ -17,11 +17,14 @@ include::partial$declare-the-mission.adoc[]
 
 == Perform the mission
 
+=== Deploy, and make the attack run
+
 include::partial$deploy-and-make-the-attack-run.adoc[]
 
-NOTE: If a {transport-x} Flyer unit is destroyed while airborne, then any embarked cargo units are destroyed along with it -- there is no possibility that they can escape destruction in this case!
+NOTE: If a {transport-x} Flyer unit is destroyed while airborne then any embarked cargo units are destroyed along with it -- there is no possibility that they can escape destruction in this case!
 
-Complete the attack::
+=== Complete the attack
+
 . Make ranged attacks with the Flyer units, just like you would with ground units in the Shooting phase -- use the Firepower values of the Flyer units and any super-heavy weapons that they have.
 But note:
 * You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.

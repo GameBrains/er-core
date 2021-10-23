@@ -1,4 +1,3 @@
-Deploy, and make the attack run::
 . When play passes to you in the Movement phase, place all of the Ready units in the detachment at any point along any edge of the playing area.
 You must place them so that they all face in the same direction.
 This is where they will start their attack run.

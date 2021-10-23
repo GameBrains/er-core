@@ -1,0 +1,62 @@
+= Counter-strike mission
+
+If you can gain supremacy in the airspace over the battlefield then this can give you a big advantage on the ground.
+The ability to strike ground targets at will without risk of interception by enemy fighters will take its toll on your opponent's forces.
+You'll foil their plans while you gain more freedom to act.
+
+You may be able to gain this supremacy by destruction of enemy aircraft through aerial combat and anti-aircraft attacks from ground-based units.
+But why not hit enemy air forces when they are at their most vulnerable -- while they are on the ground!
+Send your flyers on a ground attack against the enemy airbase!
+
+****
+This is our version of the _Counter-strike_ mission that appeared in the _Air Superiority_ article which Games Workshop published in both _Firepower_, issue 1, and _White Dwarf_, issue 214.
+
+The article offered the mission as 'optional' rules that you must agree with your opponent -- neither fully 'official', nor 'experimental'.
+{blank}[TODO: This seems like a bit of an oddity. Consider whether to make this mission fully part of the _Remastered_ rules, or to pursue another alternative.]
+
+We might need to rework this rule quite a lot -- in its current form it seems like it may unbalance the game too much.
+Perhaps the overall idea would work better as a special scenario that we could use in a campaign, rather than as a 'regular' flyer mission.
+****
+
+== Declare the mission
+
+include::special-rules:partial$declare-the-mission.adoc[]
+
+== Perform the mission
+
+{blank}[TODO: Presumably, we resolve Counter-strike in the Movement phase, but we should make it explicit. We should also integrate and state all the steps in full, rather than just allude to similarities with the Ground Attack rules.]
+
+=== Scramble defending flyers
+
+Your opponent may be able to 'scramble' some of their flyers before you complete your attack -- that is, at least some may get airborne so that your strike does not catch them on the ground.
+
+Flyers in the Ready state::
+Where your opponent has declared a mission for Ready Flyer units, these are already airborne.
+{blank}[TODO: Do we need to state something to the effect that flyers that are on a mission do not enter the Repair or Re-arm states until after any Counter-strikes are resolved?]
++
+Where your opponent has Flyer units in the Ready state, but not declared for a mission, these units automatically scramble to get airborne.
+{blank}[TODO: Presumably, these flyers will be Ready again next turn?]
+
+Flyers in the Re-arm state::
+Your opponent may roll a D6 for each such unit:
+* If the score is equal to or less than the unit's Intercept value then it successfully scrambles to get airborne.
+* If the score is greater than their Intercept value then they do not scramble and your strike will catch them on the ground.
+
+Flyers in the Repair state::
+These units cannot scramble to get airborne and so your strike will catch them on the ground.
+
+=== Complete the attack
+. Resolve the Counter-strike attack just as you would for a Ground Attack mission -- though note the following:
+* For the sake of clarity, if your opponent has flyers on Intercept orders then they can intercept your Counter-strike flyers just as they can for other missions.
+* Your opponent may also resolve one Snap Fire attack against each of your Counter-strike flyers, to represent the anti-aircraft defences of their airbase.
+* Treat all the enemy flyers that you catch on the ground as a single vehicle detachment in the open.
+* We assume that all of your units are in range for their attack.
+* As there are no 'closest models' among the units that you catch on the ground, allocate hits to them however you like.
+* Where your attacking units have the {barrage} or {heavy-barrage} ability, these contribute 2 or 4 Firepower each, respectively.
+* There is no chance that a Flyer unit on the ground will be 'driven off' -- a hit will always cause damage, just as it does with non-Flyer units.
+{blank}[TODO: Consider a separate topic or partial to cover the whole 'treat flyers that are on the ground/landed just like other ground units' aspect.]
+* As usual for target Flyer detachments, do not place Blast markers for this attack.
+. After you complete the attack, place your units in the Re-arm state.
+
+.Related information
+* xref:main-rules:the-start-phase.adoc[]

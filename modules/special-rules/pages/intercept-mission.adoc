@@ -17,13 +17,15 @@ You may declare an Intercept mission with any Ready Flyer detachment that you ha
 
 == Perform the mission
 
-Declare the interception::
+=== Declare the interception
+
 You may declare the interception when your opponent places a Flyer detachment on the table to carry out a flyer mission of any type -- even an Intercept mission of their own.
 If you have more than one detachment on the Intercept mission, declare which one will will use for this particular interception.
 
 {blank}[TODO: Can a player declare more than one detachment for the interception?]
 
-Deploy interceptors and resolve the aerial combat attacks::
+=== Deploy interceptors and resolve the aerial combat attacks
+
 . Place your interceptor models next to those of the enemy detachment that you chose to intercept.
 (This step is not essential, but it helps to show what is going on and it's nice to see the models in action!)
 . Each unit in the opposing detachments can attack one enemy unit.
