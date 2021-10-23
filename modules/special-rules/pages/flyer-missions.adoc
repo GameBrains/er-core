@@ -4,8 +4,8 @@ Missions are to detachments of flyers as orders are to detachments of ground uni
 
 The Flyer missions are:
 
-* xref:ground-attack-mission.adoc[]
 * xref:air-transport-mission.adoc[]
+* xref:ground-attack-mission.adoc[]
 * xref:intercept-mission.adoc[]
 
 .Related information
