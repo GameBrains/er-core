@@ -1,0 +1,4 @@
+[NOTE.option]
+====
+In _Epic 40,000 Magazine #8 page 6_, it was highly recommended that players roll *two* D6 and use the highest. If using this option, any abilities that allow you to re-roll the combat resolution roll allow you to re-roll *one* die.
+====

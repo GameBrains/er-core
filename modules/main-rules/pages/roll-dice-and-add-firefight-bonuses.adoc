@@ -1,6 +1,9 @@
-= FF3. Roll dice and add firefight bonuses
+= FF3. Make the combat resolution roll
 
+.Combat resolution roll
 Both players: Roll a D6 and add your firefight bonuses to the result.
 
 * The player with the highest total score wins the firefight.
 * If the total scores are the same then the outcome hangs in the balance! Place one Blast marker on every detachment in the firefight and then *roll again*.
+
+include::partial$combat-resolution-two-dice.adoc[]

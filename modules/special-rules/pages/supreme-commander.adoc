@@ -9,7 +9,7 @@
 Where your unit has the {supreme-commander} ability:
 
 * All of your detachments that have their HQ unit within 30 cm of the {supreme-commander} unit gain the {stubborn} ability.
-* If the unit contributes its Assault value to a close combat or contributes its Firepower value to a firefight then you may re-roll a single die when working out who wins the combat.
+* If the unit contributes its Assault value to a close combat or contributes its Firepower value to a firefight then you may re-roll a single die when making the combat resolution roll.
 If you re-roll a die then you must abide by the second roll.
 +
 //[TODO: Does "fights in a close combat" include not only base-contact but also 'supporting fire'?]
@@ -21,4 +21,6 @@ In addition to the above, if the Dominatrix supports a close combat you may re-r
 
 .Related information
 * xref:stubborn.adoc[]
+* xref:main-rules:roll-dice-and-add-combat-bonuses.adoc[]
+* xref:main-rules:roll-dice-and-add-firefight-bonuses.adoc[]
 * xref:war-engines-supporting-close-combats.adoc[]

@@ -1,6 +1,6 @@
 = CC4. Work out difference in combat scores and place Blast markers
 
-The difference between the two total combat scores -- the combat difference -- dictates how great a victory the combat was for the winner and how crushing a defeat it was for the loser.
+The difference between the two total scores in the combat resolution roll -- the combat difference -- dictates how great a victory the combat was for the winner and how crushing a defeat it was for the loser.
 For example, a score of 6 versus 8 means the winner has won by 2 (combat difference = 2).
 
 Look up the difference up on the <<close-combat-results-table>> to find out how many Blast markers to place on the losing detachment(s) and what scores each side will need to get hits in the next step.
@@ -33,10 +33,10 @@ The bonuses for the ensuing assault are:
 .3+|*No bonuses*
 
 |Less Blast markers *+1*
-	 
+
 
 |Enemy has 5+ Blast markers *+1*
-	 
+
 
 |Total *+4*
 |Total *0*
