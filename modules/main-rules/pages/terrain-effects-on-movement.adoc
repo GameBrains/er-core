@@ -31,7 +31,8 @@ NOTE: Hits from dangerous terrain do *not* cause critical damage on War Engine u
 
 == [[roads]]Movement on roads
 
-Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5 cm to its Speed value for that move. If the unit has a split Speed value, add 5 cm to its first Speed value and 10 cm to its second Speed value.
+Where you will move a unit such that its entire move will take place on a road -- in any phase -- add 5 cm to its Speed value for that move.
+If the unit has a split Speed value, add 5 cm to its first Speed value and 10 cm to its second Speed value.
 
 .Movement on roads
 ====
