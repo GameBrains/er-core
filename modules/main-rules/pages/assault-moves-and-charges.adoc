@@ -16,9 +16,9 @@ Also, there are some complexities in this Assault phase that mean you need to pa
 When you move a detachment in the Assault phase, move each of its units one after the other.
 For each unit:
 
-* You *must* move your unit at least 5 cm -- or into base contact with an enemy unit that is within 5 cm.
+* Where possible, you *must* move it at least 5 cm -- or into base contact with an enemy unit that is within 5 cm.
 Any movement beyond this is optional.
-* You *must* move your unit as directly as possible towards an enemy unit.
+* This move *must* be as direct as possible towards an enemy unit.
 This does not necessarily mean the *closest* enemy unit, or even one that is in a detachment that you intend to assault.
 * You may *not* move your unit away from the enemy unit that it is *closest* to.
  ** You may ignore the closest enemy unit if you already have a friendly unit in base contact with it.
@@ -52,15 +52,12 @@ This is the only time that you may move your unit into base contact with an enem
 
 You can benefit from a special increase to the Speed value of some units, but *only* where you use this increase to reach base contact -- a charge move.
 
-* You may double the Speed value of any *Infantry* unit, unless it has a split Speed value.
 * Where a unit has a split Speed value such as `20/30 cm`, use the second value.
 * For any other unit, use its Speed value in the usual way.
 
-[NOTE.e40k]
-.Charge moves and split Speed values
-====
-We changed the explanation of charge moves and added split Speed values, to make charge moves and special increases to Speed values easier to understand.
-====
+include::partial$ganging-up.adoc[]
+
+include::partial$charge-moves-split-speed.adoc[]
 
 .Related information
 * xref:terrain-effects-on-movement.adoc#dangerous-terrain-test[Dangerous terrain test]
