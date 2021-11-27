@@ -1,2 +1,33 @@
 = War engine shields
 
+Some large war engines carry technology that can generate protective force fields, to absorb or deflect incoming fire.
+There are two main technologies -- power fields and void shields.
+Power fields are an Ork technology, but void shields are common to various other factions.
+
+The technologies reflect different approaches but achieve a similar defensive effect.
+Power fields are many but irreplaceable during a battle, while void shields are fewer but recoverable.
+
+---
+
+Where a War Engine is equipped with power field or void shield technology, its data sheet will tell you this -- along with how many fields or shields it has at the start of the battle.
+
+Each field/shield can absorb one shooting hit -- the hit has no effect, except that the field/shield collapses.
+Don't reduce the current Damage Capacity of the War Engine or roll for critical damage (but do count the hit for Blast markers in the usual way).
+
+Keep track of the remaining number of fields/shields.
+When all of the unit's fields/shields are collapsed then any further hits will cause damage as normal.
+
+[TIP]
+.How to keep track of fields/shields
+====
+You can track remaining fields/shields in a similar way to Damage Capacity -- just be sure to differentiate so that you are clear about which tracker relates to which feature on which War Engine.
+====
+
+The main difference between the two technologies is that on collapse, power fields are destroyed and of no further use in the battle, while void shields may recover during the battle to provide protection again.
+You check to see if void shields recover at the appropriate step in the Rally phase.
+
+Neither power fields nor void shields offer any protection from close combat hits, as the enemy is inside the protective envelope at that point.
+{blank}[TODO: " -- though they do protect in a firefight" perhaps?]
+
+.Related information
+* xref:main-rules:attempt-repairs.adoc[]

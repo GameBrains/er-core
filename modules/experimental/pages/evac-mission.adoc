@@ -1,0 +1,74 @@
+= Evac mission
+
+Not only can you use transport flyers to deploy troops -- as in an Air Transport mission -- you can also use them to evacuate troops to safety.
+You might do this simply to save units from imminent destruction, or to redeploy them to greater effect elsewhere on the battlefield in a later turn.
+
+****
+This is our version of the _Evac! Evac!_ mission that appeared in the _Air Superiority_ article which Games Workshop published in both _Firepower_, issue 1, and _White Dwarf_, issue 214.
+
+The article offered the mission as 'optional' rules that you must agree with your opponent -- neither fully 'official', nor 'experimental'.
+{blank}[TODO: This seems like a bit of an oddity. Consider whether to make this mission fully part of the _Remastered_ rules, or to pursue another alternative.]
+****
+
+== Requirements for the mission
+
+* You can only evacuate units where they are valid cargo for the particular {transport-x} Flyer units that you use.
+* {blank}[TODO: Add points on what happens when you have non-valid/excess units that you must leave behind. Perhaps comment on HQ units and command too.]
+
+== Declare the mission
+
+include::special-rules:partial$declare-the-mission.adoc[]
+
+== Perform the mission
+
+=== Deploy, and make the attack run
+
+include::special-rules:partial$deploy-and-make-the-attack-run.adoc[]
+
+=== Complete the attack
+
+. Make ranged attacks with the Flyer units, just like you would with ground units in the Shooting phase -- use the Firepower values of the Flyer units and any super-heavy weapons that they have.
+But note:
+* You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.
+Ignore any intervening terrain though, as it is far below the altitude of the flyers.
+* Otherwise, the attack works just like a normal shooting attack -- so for example,as long as you meet the other requirements then you may split fire between multiple target detachments.
+* *Halve the Firepower* of each {transport-x} Flyer unit that will disembark cargo units (and roll to lock on with any super-heavy weapons).
+. After you resolve the shooting effects, leave the {transport-x} Flyer units where they are until the end of the Movement phase.
+
+=== Embark the cargo units
+
+. With the units in the detachment that you intend to embark, make a 20 cm Retreat move, just as if they were Broken.
+This means that you can move them without a Leadership test, no matter how many Blast markers are on the detachment.
++
+{blank}[TODO: Presumably they would also be destroyed if we end their move within 15 cm of enemy units, as normal -- but as long as they reach and embark in the transport flyers they are okay? A 'hot' extraction!]
++
+Embark the cargo units just like you would with a ground transportation unit.
+But note:
++
+* In each case, measure to the *centre* of the transport flyer's flight stand.
++
+{blank}[TODO: Make sure that this mirrors the Air Transport case, whatever we decide about possible edge cases.]
++
+{blank}[TODO: When *exactly* should we complete the Retreat move to embark the cargo units? Immediately I presume, but might there be any reason to allow players to do it later in the phase if they prefer in some cases?]
++
+[NOTE]
+====
+While your {transport-x} Flyer units are landed, they are subject to the same game effects as ground units.
+This means that, for example:
+
+* Your opponent may use artillery on Preparatory Bombardment orders to shoot at them in the Movement phase, before they can disengage.
+* There is no chance that a flyer on the ground will be 'driven off' -- a hit will always cause damage, just as it does with non-Flyer units.
+====
++
+. At the end of the Movement phase, the transport flyers take off with their cargo and disengage -- remove them from the playing area {blank}[TODO: ..."and place them in the Rearm state"?].
+* If you're forced to leave any of the cargo detachment units behind, then leave all Blast markers it has in place.
+* If you leave no units behind, remove all Blast markers from the detachment with no penalty.
++
+From the next turn onwards, treat the evacuated detachment as though it is a Flyer detachment in reserve (see xref:battles:reserves.adoc[]).
+When you get a successful roll to check it's 'arrival', it is ready to return to combat -- you can use an Air Transport mission to return them to the battlefield, if and when you have {transport-x} Flyer units available in the Ready state.
++
+{blank}[TODO: This seems needlessly complex and limiting, especially given that in the average game it is already pretty difficult to get a Flyer detachment to appear in a battle more than once. Consider some adjustments.]
+
+.Related information
+* xref:main-rules:the-start-phase.adoc[]
+* xref:main-rules:transportation.adoc[]

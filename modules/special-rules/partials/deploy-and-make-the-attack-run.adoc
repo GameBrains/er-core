@@ -1,0 +1,7 @@
+. When play passes to you in the Movement phase, place all of the Ready units in the detachment at any point along any edge of the playing area.
+You must place them so that they all face in the same direction.
+This is where they will start their attack run.
+. Flyers have an unlimited move, but you can only move them in the direction that they face when you place them.
+So, you must move all Flyer units that are in the same detachment in parallel courses, in formation.
+Enemy units can Snap Fire at them as they move -- but in contrast to ground units, Snap Fire does not halt the movement of Flyer units.
+. You may halt movement of Flyer units at any point -- halt them all at the same time.

@@ -1,8 +1,0 @@
-= Counter-strike [Flyer mission]
-
-[NOTE.e40k]
-====
-We've brought this ability into the main body of the rules.
-In _Epic 40,000_ it is an optional rule that you must agree with your opponent.
-It appeared in the Air Superiority article which Games Workshop published in both _Firepower_, issue1, and _White Dwarf_, issue 214.
-====

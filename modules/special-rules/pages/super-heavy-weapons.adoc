@@ -40,7 +40,7 @@ Count the number of super-heavy weapons that you direct at the target detachment
 
 == Super-heavy weapons and suppression
 
-Normally, suppression means that for each Blast marker on a detachment you must reduce its Firepower by 1.
+Normally, suppression means that for each Blast marker on a detachment you must reduce its Firepower total by 1.
 However, if the detachment has more Blast markers than Firepower, or has no Firepower, then for each remaining Blast marker you lose the ability to shoot with one super-heavy weapon.
 You may choose which super-heavy weapons are suppressed.
 
@@ -62,3 +62,4 @@ include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 .Related information
 * xref:main-rules:blast-markers.adoc[]
+* xref:experimental:experimental-super-heavy-weapons.adoc[]

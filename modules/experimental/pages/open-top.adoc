@@ -1,2 +1,12 @@
 = Open Top
 
+`Unit ability`
+
+{blank}[TODO: Add introductory text.]
+
+---
+
+Where your {transport-x} unit has the {open-top} ability:
+
+* While the unit carries embarked units, you may shoot or fight close combat with some of them -- no more than half of the {transport-x} capacity (round up).
+* If the unit suffers a hit from a {barrage} or {heavy-barrage} weapon then each embarked unit also suffers a hit.

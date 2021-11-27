@@ -2,3 +2,10 @@
 
 `Detachment ability`
 
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your detachment has the {stubborn} ability:
+
+* When you fail a Leadership test for the detachment, you may re-roll the die.

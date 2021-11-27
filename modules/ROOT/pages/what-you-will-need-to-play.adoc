@@ -5,13 +5,15 @@ Things that you'll need to play the game -- and a few that are nice to have.
 
 If you're an avid tabletop wargame enthusiast then you'll have most of this already.
 
-Otherwise... you might have to borrow, buy or make some of these things. And, welcome to the addictive world of wargames!
+Otherwise... you might have to borrow, buy or make some of these things.
+And, welcome to the addictive world of wargames!
 Play for fun, don't sweat the losses and may all your games be jolly and entertaining!
 
 == The big stuff
 
 * An opponent!
-* Two armies of 6mm miniatures to represent the _Warhammer 40,000_ factions that you and your opponent wish to play.
+* Two armies of 'Epic scale' miniatures to represent the _Warhammer 40,000_ factions that you and your opponent wish to play.
+'Epic scale' is nominally 6 mm or 1:285 scale, but varies somewhat in practice.
 * A suitable wargames table to serve as your battlefield.
 * Miniature terrain to make your battlefield visually appealing and tactically interesting.
 
@@ -41,7 +43,7 @@ You will need visual markers for certain effects in the game -- particularly whe
 
 Order Dice -- as in Games Workshop's old _Epic 40,000_ and _Battlefleet Gothic_ games -- are ideal if you can get hold of enough of them.
 More likely, you'll need to create some custom markers or find suitable substitutes.
-(Note that some of the dice from the 2016 Adeptus Titanicus game would make ideal substitutes as they are very reminiscent of the original _Epic 40,000_ order dice.)
+(Note that some of the dice from the 2016 _Adeptus Titanicus_ game would make ideal substitutes as they are very reminiscent of the original _Epic 40,000_ order dice.)
 
 +[TODO: Perhaps someone will be kind enough to design and contribute files that we can provide for people to download, and to use for the graphics in these rules.
 The design must avoid copyright infringement, but ideally would be mutually recognisable with GW Order dice. I'm thinking (1) 2D raster designs for markers that people can print out at home; (2) 2D vector designs that people can use to get custom dice made; (3) File to 3D print custom dice.]+
@@ -50,7 +52,8 @@ The design must avoid copyright infringement, but ideally would be mutually reco
 
 Damage trackers::
 
-You can manage with pencil and paper, but it's nice to have some markers that you can use to track damage (and shields) on some of the larger engines of war in the game. You might consider:
+You can manage with pencil and paper, but it's nice to have some markers that you can use to track damage (and shields) on some of the larger engines of war in the game.
+You might consider:
 
 * Dice of different number of faces, colour and/or size to your handfuls of ordinary dice.
 * 'Damage tracker' or 'wound' dials -- available from many manufacturers, in a range of styles.
@@ -69,7 +72,8 @@ Barrage templates::
 
 Airfields::
 
-The original _Epic 40,000_ game had nice printed airfields, to help players to keep track of the readiness of their Flyer units. These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are +[TODO: Name the states]+.
+The original _Epic 40,000_ game had nice printed airfields, to help players to keep track of the readiness of their Flyer units.
+These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Rearm; Ready.
 
 === Fate cards
 

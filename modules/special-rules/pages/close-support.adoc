@@ -2,10 +2,16 @@
 
 `Unit ability`
 
-These units are equipped with weapons that are especially effective in support of close combat -- such as flame-throwers, heavy short-ranged cannons and bomb-launchers.
+These units are equipped with weapons that are especially effective in support of close combat -- such as flamethrowers, heavy short-ranged cannons and bomb launchers.
 
 ---
 
-When your {close-support} unit would lend support in a close combat, count its full Firepower value instead of only +1.
+Where your unit has the {close-support} ability:
 
-To be clear, if a {close-support} unit is in base contact with an enemy unit then you must use its Assault value as normal.
+* When it would lend support in a close combat, count its full Firepower value instead of only +1 to the Assault value total.
++
+NOTE: To be clear, if a {close-support} unit is in base contact with an enemy unit then you must use its Assault value as normal.
+
+.Related information
+
+* xref:main-rules:add-up-assault-values.adoc[]

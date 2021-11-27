@@ -11,7 +11,7 @@ ifdef::firefight[.Firefight bonuses table]
 |The opposing side has more Blast markers than your side
 |+1
 
-|Your side has the most psykers
+|Your side has the most {psyker} units
 ifdef::close-combat[fighting or supporting the combat]
 ifdef::firefight[in the firefight]
 |+1

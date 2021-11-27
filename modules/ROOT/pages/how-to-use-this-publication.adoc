@@ -27,3 +27,8 @@ These boxes contain examples that put rules in context for you, or that show you
 ****
 We use these boxes to separate some types of supplemental information from the main text.
 ****
+
+.Related information
+
+You'll sometimes see this heading at the bottom of a topic, above a short list of links.
+These links are convenient shortcuts to other information that is especially relevant to the topic.

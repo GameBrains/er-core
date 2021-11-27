@@ -1,0 +1,22 @@
+= Shootier
+
+`Data sheet modifier` `Unit ability`
+
+These units are specially adapted from their original design, with extra weapons to which increase their firepower.
+However, this comes at the cost of more weight and so less speed.
+
+---
+
+Where your unit has the {shootier} ability, apply these changes relative to its base unit:
+
+* Increase its Firepower value by 1.
+** Or, if the unit also has either the {macro-weapon} or {anti-personnel} super-heavy weapon then give it one extra shot instead.
+// TODO: Do we need to reword or clarify this? The term 'shot' in the context of a super-heavy weapon was fine in the original rules, but in this project this term has a more restricted meaning per the war engine rules for weapons systems. The specific interpretation affects how split fire should work on regular units that have multiple super-heavy weapons versus multiple super-heavy weapon *shots.
+** Or, if the unit also has the {barrage} super-heavy weapon, treat this as {heavy-barrage} instead.
+* Reduce its Speed value by 5 cm.
+
+.Related information
+
+* xref:special-rules:macro-weapon.adoc[]
+* xref:anti-personnel-weapon.adoc[]
+* xref:special-rules:barrage.adoc[]

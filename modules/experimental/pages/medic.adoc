@@ -1,2 +1,15 @@
 = Medic
 
+`Unit ability`
+
+{blank}[TODO: Add introductory text.]
+
+---
+
+Where your unit has the {medic} ability:
+
+* When you count Blast markers to calculate army morale in the Rally phase, ignore one Blast marker on each detachment that includes at least one {medic} unit.
+
+.Related information
+
+* xref:battles:army-morale.adoc[]

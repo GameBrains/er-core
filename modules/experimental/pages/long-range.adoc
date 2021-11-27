@@ -1,0 +1,13 @@
+= Long Range
+
+`Data sheet modifier`
+
+These units are specially adapted from their original design, to improve the range of their main armament.
+However, this comes at the cost of more weight and so less speed.
+
+---
+
+Where your unit has the {long-range} ability, apply these changes relative to its base unit:
+
+* Increase its Range value by 15 cm.
+* Reduce its Speed value by 5 cm.
