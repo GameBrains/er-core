@@ -7,7 +7,7 @@
 * A detachment that is on an Intercept mission does not have to refuel and rearm until it has performed an interception -- they can 'loiter' on combat air patrol (CAP), ready to intercept at a moment's notice.
 This means that you can keep the detachment ready on the Intercept mission for multiple turns if they do not make an interception.
 +
-{blank}[TODO: What should happen if you want to cancel the Intercept mission and do something else with the detachment? Logically I suppose they must lose a turn in the Re-arm state, so in a typical game (in which we're doing well to get each flyer detachment into action more than once) it'd rarely be worthwhile to cancel Intercept orders.]
+{blank}[TODO: What should happen if you want to cancel the Intercept mission and do something else with the detachment? Logically I suppose they must lose a turn in the Rearm state, so in a typical game (in which we're doing well to get each flyer detachment into action more than once) it'd rarely be worthwhile to cancel Intercept orders.]
 
 == Declare the mission
 

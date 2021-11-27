@@ -32,12 +32,12 @@ Your opponent may be able to 'scramble' some of their flyers before you complete
 
 Flyers in the Ready state::
 Where your opponent has declared a mission for Ready Flyer units, these are already airborne.
-{blank}[TODO: Do we need to state something to the effect that flyers that are on a mission do not enter the Repair or Re-arm states until after any Counter-strikes are resolved?]
+{blank}[TODO: Do we need to state something to the effect that flyers that are on a mission do not enter the Repair or Rearm states until after any Counter-strikes are resolved?]
 +
 Where your opponent has Flyer units in the Ready state, but not declared for a mission, these units automatically scramble to get airborne.
 {blank}[TODO: Presumably, these flyers will be Ready again next turn?]
 
-Flyers in the Re-arm state::
+Flyers in the Rearm state::
 Your opponent may roll a D6 for each such unit:
 * If the score is equal to or less than the unit's Intercept value then it successfully scrambles to get airborne.
 * If the score is greater than their Intercept value then they do not scramble and your strike will catch them on the ground.
@@ -56,7 +56,7 @@ These units cannot scramble to get airborne and so your strike will catch them o
 * There is no chance that a Flyer unit on the ground will be 'driven off' -- a hit will always cause damage, just as it does with non-Flyer units.
 {blank}[TODO: Consider a separate topic or partial to cover the whole 'treat flyers that are on the ground/landed just like other ground units' aspect.]
 * As usual for target Flyer detachments, do not place Blast markers for this attack.
-. After you complete the attack, place your units in the Re-arm state.
+. After you complete the attack, place your units in the Rearm state.
 
 .Related information
 * xref:main-rules:the-start-phase.adoc[]

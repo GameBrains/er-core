@@ -8,10 +8,10 @@ They may also need repairs if they are driven off -- that is, if they are hit bu
 Keep track of your flyers' state of readiness, as follows:
 
 * *Repair*: Place Flyer units in this state when they are hit but not destroyed (see xref:hits-on-flyers.adoc[]).
-You must leave them here for one full turn -- then, at the end of that turn, move them to the Re-arm state.
-* *Re-arm*: Place Flyer units in this state after they have performed a mission, or they missed a turn in the Repair state.
+You must leave them here for one full turn -- then, at the end of that turn, move them to the Rearm state.
+* *Rearm*: Place Flyer units in this state after they have performed a mission, or they missed a turn in the Repair state.
 You must leave them here for one full turn -- then, at the end of that turn, move them to the Ready state.
-* *Ready*: Place Flyer units here at the start of the game, and after they leave the Re-arm state.
+* *Ready*: Place Flyer units here at the start of the game, and after they leave the Rearm state.
 In the Start phase, you may declare a flyer mission for any detachment that has at least one Flyer unit in the Ready state.
 
 TIP: The original _Epic 40,000_ cardboard airfields provide a visually appealing way to keep track.

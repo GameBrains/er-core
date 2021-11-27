@@ -42,7 +42,7 @@ To be clear, you *may* put the detachment on Assault orders and make assault mov
 {blank}[TODO: When *exactly* should we complete the move with the disembarked detachment? Presumably we should complete the move as part of the mission, either now or immediately after we remove the flyers in the next step?]
 . After you complete the disembarkation, the transport flyers take off and disengage.
 They go to full power and rapidly climb out of reach of ground-based weapons.
-Remove the flyers from the play area and place them in the Re-arm state.
+Remove the flyers from the play area and place them in the Rearm state.
 
 .Related information
 * xref:main-rules:the-start-phase.adoc[]

@@ -21,4 +21,4 @@ Ignore any intervening terrain though, as it is far below the altitude of the fl
 * Otherwise, the attack works just like a normal shooting attack -- so for example,as long as you meet the other requirements then you may split fire between multiple target detachments.
 . After you resolve the shooting effects, the attack is complete and the flyers disengage.
 They go to full power and rapidly climb out of reach of ground-based weapons.
-Remove them from the play area and place them in the Re-arm state.
+Remove them from the play area and place them in the Rearm state.

@@ -60,7 +60,7 @@ This means that, for example:
 * There is no chance that a flyer on the ground will be 'driven off' -- a hit will always cause damage, just as it does with non-Flyer units.
 ====
 +
-. At the end of the Movement phase, the transport flyers take off with their cargo and disengage -- remove them from the playing area {blank}[TODO: ..."and place them in the Re-arm state"?].
+. At the end of the Movement phase, the transport flyers take off with their cargo and disengage -- remove them from the playing area {blank}[TODO: ..."and place them in the Rearm state"?].
 * If you're forced to leave any of the cargo detachment units behind, then leave all Blast markers it has in place.
 * If you leave no units behind, remove all Blast markers from the detachment with no penalty.
 +

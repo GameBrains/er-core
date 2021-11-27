@@ -73,7 +73,7 @@ Barrage templates::
 Airfields::
 
 The original _Epic 40,000_ game had nice printed airfields, to help players to keep track of the readiness of their Flyer units.
-These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Re-arm; Ready.
+These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Rearm; Ready.
 
 === Fate cards
 

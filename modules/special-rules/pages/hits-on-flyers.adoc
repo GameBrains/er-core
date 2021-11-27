@@ -12,6 +12,6 @@ Remove it as normal for a destroyed unit.
 We say that it is *driven off*.
 +
 Remove it from play immediately, and place it in the Repair state.
-It must miss the next turn under repair, and then you can move it to the Re-arm state (in which it will miss another turn before it is Ready).
+It must miss the next turn under repair, and then you can move it to the Rearm state (in which it will miss another turn before it is Ready).
 
 {blank}[TODO: How should we adjust this to accommodate new possibilities for Remastered -- War Engine flyers and/or flyers that have the (currently experimental) {robust} ability?]

@@ -10,7 +10,7 @@ Every charge move is an assault move, but not every assault move is a charge mov
 
 == Assault moves
 
-Moves in the Assault phase are subject to all the rules that we described for the Movement phase -- except that the Snap-fire rule does *not* apply in the Assault phase.
+Moves in the Assault phase are subject to all the rules that we described for the Movement phase -- except that the Snap Fire rule does *not* apply in the Assault phase.
 Also, there are some complexities in this Assault phase that mean you need to pay extra attention to the way that you move each individual unit.
 
 When you move a detachment in the Assault phase, move each of its units one after the other.

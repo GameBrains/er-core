@@ -34,7 +34,7 @@ At the start of the Movement phase, all of the units in this detachment are with
 === Out of command
 
 Out of command units can *not* move or shoot in that phase, regardless of the orders you place for the detachment.
-You can still complete some actions with these units, such as: Snap-fire; fight or lend support in close combat; shoot in a firefight.
+You can still complete some actions with these units, such as: Snap Fire; fight or lend support in close combat; shoot in a firefight.
 (We explain these actions elsewhere in the rules, in the appropriate sections.)
 
 Check to see whether units are in command or not at the start of each phase, as the situation can change through your own mistakes or through casualties.
@@ -47,3 +47,9 @@ Though you may move and shoot as normal with the rest of the detachment, you may
 In practice this means that you may not shoot with these units in the current Shooting phase.
 And, unless something unusual happens footnote:[Such as, your opponent eliminates your HQ unit in the Shooting phase and your next unit in the chain of command happens to be closer to your out of command units such that they are in command again at the start of the Assault phase.], then you may not move these two units in the following Assault phase either.
 ====
+
+Aside from carelessness or certain special rulesfootnote:[pass:m[Chiefly, the xref:special-rules:infiltrators.adoc[\] special ability.]], you won't often have units that are out of command.
+But when you do:
+
+* Don't place Blast markers on out of command units.footnote:[pass:m[The main reason for this is to avoid excessive penalties when you use the xref:battles:army-morale.adoc[\] rules.]]
+* If your current HQ unit is destroyed, you may not nominate an out of command unit as the new HQ -- even if the rest of the detachment is destroyed!
