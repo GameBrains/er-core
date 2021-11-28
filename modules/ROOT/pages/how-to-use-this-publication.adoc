@@ -14,6 +14,12 @@ Notes to highlight significant differences in the rules as compared with _Epic 4
 We might change the way we do this in future; but the main idea is to help players who are familiar with _Epic 40,000_ to adjust to {project-name} and perhaps to decide which differences they want to use or ignore.
 ====
 
+[NOTE.option]
+====
+Notes to highlight an alternative or additional way to play that some players prefer to the default.
+If you want to use an option, you and your opponent must both agree.
+====
+
 TIP: Advice to help you learn the rules more effectively or get the best out of the game.
 
 IMPORTANT: Reminders about things that are important to get right but easy to miss or forget in the heat of battle.
