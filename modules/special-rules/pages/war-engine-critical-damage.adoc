@@ -27,7 +27,7 @@ Some results indicate that the War Engine is Immobilised, and thus unable to mov
 Mark this as appropriate and apply the rules for the Immobilised condition while it remains in effect.
 
 Some results indicate that the effect only lasts 'until repaired'.
-You may attempt to repair each repairable critical result on your War Engine at the appropriate step in the Rally phase.
+You may attempt to repair each repairable critical damage effect on your War Engine at the appropriate step in the Rally phase.
 
 .Related information
 * xref:main-rules:orders-and-conditions.adoc#Immobilised[Immobilised]

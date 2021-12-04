@@ -9,11 +9,8 @@ These categories reflect the fact that these units are so large and easy to hit.
 
 * A War Engine unit can become Immobilised -- and so even easier to hit -- as a result of *critical damage*.
 * There is no target category for 'Immobilised War Engine in the open' -- instead, you simply roll as many hit dice as the total Firepower that you direct at the unit.
-
-{blank}[TODO: Cross-reference the Firepower table, once we've added it. Also, we actually target detachments not units, and we need to clarify what happens when a War Engine detachment has a mix of Immobilised and non-Immobilised WE units.]
-{blank}[TODO: reply IJW, I think the easiest is to treat it as a detachment that's partially in cover - you can concentrate on the IMM units and get more dice, or potentially hit everyone and get fewer dice.]
-
-If a detachment of War Engine units has a mix of mobile and immobilised units, then you may choose to shoot at only the units that are immobilised, if you wish. If you do this then, when you allocate hits later in this procedure, you may not allocate hits to any of the units that still mobile.
+* If a target detachment contains both mobile and Immobilised War Engine units, then you may choose to shoot at only those that are Immobilised, if you wish.
+If you do this then you may allocate hits to the Immobilised units **only**.
 
 == War Engine units and Damage Capacity
 
@@ -32,11 +29,8 @@ Or, you may like to use coloured dice or 'damage tracker' dials -- when a War En
 
 == Allocation of hits in War Engine detachments
 
-Where the target detachment consists of more than one War Engine unit, allocate hits in the usual way. So allocate one hit to the nearest available target, then the next closest, and so on.
-// IJW editing note, I've tweaked this by copying text from S6 Allocate hits, to reinforce that you do the standard front-to-back hit allocation, one hit at a time.
-
-{blank}[TODO: Clarify whether we allocate against initial or current Damage Capacity. Current, I presume?]
-{blank}[TODO: reply IJW, as originally written, neither. You allocate as if they were regular units.]
+Where the target detachment consists of more than one War Engine unit, allocate hits in the usual way.
+So, allocate one hit to the nearest available target unit, then the next nearest, and so on.
 
 .Related information
 * xref:war-engine-critical-damage.adoc[]

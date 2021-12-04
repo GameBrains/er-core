@@ -25,11 +25,8 @@ You can track remaining fields/shields in a similar way to Damage Capacity -- ju
 
 The main difference between the two technologies is that on collapse, power fields are destroyed and of no further use in the battle, while void shields may be repaired during the battle to provide protection again.
 You check to see if void shields are repaired at the appropriate step in the Rally phase.
-// IJW editing note: I've changed all 'recover' references to 'repair' for consistency with other pages.
 
 Neither power fields nor void shields offer any protection from close combat hits, as the enemy is inside the protective envelope at that point.
-{blank}[TODO: " -- though they do protect in a firefight" perhaps?]
-// IJW reply: I don't think the firefight text is needed, as this is effectively a duplicate of the CC page text, and there is no equivalent text on the firefight page.
 
 .Related information
 * xref:main-rules:attempt-repairs.adoc[]

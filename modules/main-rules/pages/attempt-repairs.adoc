@@ -2,10 +2,10 @@
 
 This step is relevant only for war engines with minor (repairable) damage or collapsed void shields.
 
-For each repairable critical result and each collapsed shield, take a Repair test.
+For each repairable critical damage effect and each collapsed void shield, take a Repair test.
 
 .Repair test
-Roll a D6: On a score of 4 or more you succeed -- the critical result or void shield is repaired.
+Roll a D6: On a score of 4 or more you succeed -- the critical damage effect or void shield is repaired.
 
 .Related information
 * xref:special-rules:war-engine-critical-damage.adoc[]

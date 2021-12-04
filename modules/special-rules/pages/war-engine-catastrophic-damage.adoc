@@ -7,6 +7,3 @@ Or, it may be completely annihilated in a spectacular fashion that presents a ha
 
 When a War Engine unit's current Damage Capacity value reaches `0`, it suffers *catastrophic damage*.
 Roll a D6 and check the result against the Catastrophic Damage Table on that unit's data sheet.
-
-{blank}[TODO: Ideally, we should change some terminology to disambiguate the general usage of the term 'destroyed' from the specific result of 'Destroyed' (rather than 'Wrecked') on catastrophic damage tables.]
-// IJW reply: Biotitans are 'Killed' rather than 'Wrecked'. I suggest 'Annihilated' to replace 'Destroyed' in the results.

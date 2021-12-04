@@ -33,7 +33,7 @@ But then you would have to take your chances with a dangerous terrain test.
 == Reverse movement of War Engine units
 
 You may move a War Engine unit backwards, though not as fast.
-Make the move in the same way as for forward movement, except that you cannot move the unit more than 5 cm.
+Make the move in the same way as for forward movement, except that you may not move the unit more than 5 cm.
 
 == Movement of War Engine units in the Assault phase
 
