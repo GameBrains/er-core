@@ -7,9 +7,10 @@ The sheer mass of a war engine makes it lumbering and slow to manoeuvre.
 == Forward movement of War Engine units
 
 In general, when you move a War Engine unit, you may only move it in a straight line, directly ahead.
-You may make a single turn of up to 45° for free as part of the move.
-// IJW editing note: I've tweaked this to make it clearer that you get a single free turn, and not multiple free turns that add up to 45º. The original GW text was ambiguous, but the example made it clear that they _meant_ one turn...
-You may make more turns, at a cost of 5 cm of the unit's move per turn of up to 45°.
+However:
+
+* You may make a single turn of up to 45° for free as part of the move.
+* You may make more turns, at a cost of 5 cm of the unit's move per extra turn of up to 45°.
 
 .Forward movement of War Engine units
 ====

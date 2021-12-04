@@ -17,7 +17,6 @@ There is no further effect.
 Make a 2D6 roll on the Critical Damage Table on the War Engine unit's data sheet, to find out what happens.
 
 The Critical Damage Table describes what additional effect the hit has.
-// IJW editing note: I've removed the references to locations, as a number of critical results (notable 'Fire' on Gargants and others, and Stunned, Deep Wound etc. on Biotitans) are not associated with a specific location.
 Critical damage takes many forms -- inoperable weapons, raging fires, crippled engines, and so on.
 The table also states how many extra points to deduct from the War Engine's current Damage Capacity.
 
