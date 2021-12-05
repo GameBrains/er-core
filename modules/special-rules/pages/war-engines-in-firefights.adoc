@@ -2,6 +2,5 @@
 
 War engines participate in firefights in much the same way as other units.
 
-* Count the Firepower of each weapon system that has at least one enemy unit within fire arc and within 15 cm.
-//IJW editing note: firefights aren't restricted by line of fire, so this has to refer to the weapon arc instead.
+* Count the Firepower of each weapon system that has at least one enemy unit within its weapon arc and within 15 cm.
 * Count 1 Firepower for each ranged super-heavy weapon system that can draw a line of fire to at least one enemy unit within 15 cm, regardless of the number of shots it has.

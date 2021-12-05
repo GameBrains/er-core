@@ -14,8 +14,6 @@ You can place as many units in base contact with the War Engine unit as its init
 ====
 In _Epic 40,000_, you could only 'gang up' with half as many units, which meant that smaller War Engine units like Baneblades could only be attacked by two units -- the same as a regular target!
 ====
-//{blank}[TODO: How do War Engine units -- or a mix of War Engine and regular units -- gang up on on other War Engine units?]
-// IJW reply just treat them as units, so that you can actually gang up on similar-size targets.
 
 == Close combat attacks with a War Engine
 
@@ -50,12 +48,12 @@ In _Epic 40,000_, there were rules for War Engines to support *other* close comb
 ====
 {blank}[TODO: Need a suitable graphic.]
 
-In the Assault phase, your Great Gargant is in an assault with the Space Marines.
-Your Great Gargant is undamaged, so its current Damage Capacity value is 18.
-This means that in the subsequent close combat, you roll nine dice to hit the Space Marines.
+Your Great Gargant is in close combat with some Space Marine infantry.
+It is undamaged, so its current Damage Capacity value is `18`.
+This means that you roll nine dice to hit the Space Marine units.
+
 Your opponent may still only roll a number of dice equal to the number of Space Marine units that are in base contact -- four dice, in this case.
 ====
-// IJW editing note: I've removed the reference to the Gargant making a charge move, because the original diagram showed a situation that required war engines being able to barge enemy units out of the way - and that's currently just an experimental rule!
 
 .Related information
 * xref:main-rules:assault-moves-and-charges.adoc[]

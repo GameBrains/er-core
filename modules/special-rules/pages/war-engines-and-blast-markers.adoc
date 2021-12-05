@@ -5,7 +5,6 @@ However, *all* War Engine detachments have the {stubborn} ability.
 
 You may add +1 to the result of Leadership tests when the total initial Damage Capacity value of the War Engine detachment is `15` or more, instead when it has `15` or more units.
 
-{blank}[TODO: Is this the best place to highlight this point? I think it might be better to improve the Leadership test text and to clarify what is what when it comes to 'number of units' and 'detachment strength' and initial Damage Capacity versus current Damage Capacity for the purposes of the Leadership test.]
 
 .Ork Great Gargant
 ====
