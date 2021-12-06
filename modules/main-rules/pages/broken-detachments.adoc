@@ -9,7 +9,7 @@ When a detachment first becomes Broken, you *must* make an immediate <<Retreat m
 Thereafter, apply the following rules while the detachment remains subject to the Broken condition:
 
 * You cannot give orders to your Broken detachment -- so it can't shoot or enter overwatch, and it can't move in the normal way either.
-+[TODO: Can a detachment still Snap-fire while Broken?]+
++[TODO: Can a detachment still Snap Fire while Broken?]+
 * You may make a <<Retreat move>> in the Movement phase, if you wish.
 This is the only type of move you may make with a Broken detachment.
 * If the enemy engages your Broken detachment in close combat or a firefight then you must halve your detachment's Assault and Firepower totals in the engagement.

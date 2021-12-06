@@ -1,0 +1,5 @@
+[NOTE]
+====
+.Ganging up
+You may place a maximum of two units in base contact with an enemy unit.
+====

@@ -1,0 +1,24 @@
+= Ground Attack mission
+
+{blank}[TODO: Add introductory text.]
+
+== Declare the mission
+
+include::partial$declare-the-mission.adoc[]
+
+== Perform the mission
+
+=== Deploy, and make the attack run
+
+include::partial$deploy-and-make-the-attack-run.adoc[]
+
+=== Complete the attack
+
+. Make ranged attacks with the Flyer units, just like you would with ground units in the Shooting phase -- use the Firepower values of the Flyer units and any super-heavy weapons that they have.
+But note:
+* You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.
+Ignore any intervening terrain though, as it is far below the altitude of the flyers.
+* Otherwise, the attack works just like a normal shooting attack -- so for example,as long as you meet the other requirements then you may split fire between multiple target detachments.
+. After you resolve the shooting effects, the attack is complete and the flyers disengage.
+They go to full power and rapidly climb out of reach of ground-based weapons.
+Remove them from the play area and place them in the Rearm state.

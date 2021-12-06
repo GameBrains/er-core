@@ -1,0 +1,50 @@
+= Air Transport mission
+
+The Air Transport mission is much like the Ground Attack mission, except that Flyer units that have the {transport-x} ability sacrifice some shooting while they swoop in and disembark cargo units.
+
+== Requirements for the mission
+
+* You can use Flyer units that have the {transport-x} ability to carry valid cargo units from other detachments in your army.
+Keep the cargo units outside the play area along with the transport Flyer units until you are ready to deploy them.
+* If your available {transport-x} flyer units don't have enough transport capacity to carry all of the units in your ground detachment in one trip, then choose which units to leave behind for the current mission.
+You can bring them into play on a future turn.
+** Be sure to include the detachment HQ in the first wave unless you want all of your units to be out of command!
+** Similarly, disembark later arrivals within 30 cm of whichever unit is currently the HQ unit, unless you want them to be out of command.
+
+== Declare the mission
+
+include::partial$declare-the-mission.adoc[]
+
+== Perform the mission
+
+=== Deploy, and make the attack run
+
+include::partial$deploy-and-make-the-attack-run.adoc[]
+
+NOTE: If a {transport-x} Flyer unit is destroyed while airborne then any embarked cargo units are destroyed along with it -- there is no possibility that they can escape destruction in this case!
+
+=== Complete the attack
+
+. Make ranged attacks with the Flyer units, just like you would with ground units in the Shooting phase -- use the Firepower values of the Flyer units and any super-heavy weapons that they have.
+But note:
+* You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.
+Ignore any intervening terrain though, as it is far below the altitude of the flyers.
+* Otherwise, the attack works just like a normal shooting attack -- so for example,as long as you meet the other requirements then you may split fire between multiple target detachments.
+* *Halve the Firepower* of each {transport-x} Flyer unit that will disembark cargo units (and roll to lock on with any super-heavy weapons).
+. After you resolve the shooting effects, disembark the cargo units just like you would with a ground transportation unit.
+But note:
+* In each case, measure from the *centre* of the transport flyer's flight stand.
++
+{blank}[TODO: Are there any awkward edge cases where this 'measure from the centre' restriction poses a problem? If yes, what is the best alternative given the variety of base and model sizes that is even more variable than with ground units?]
+* Give the disembarked detachment whatever orders you prefer, except that you may not choose Overwatch or March orders.
+To be clear, you *may* put the detachment on Assault orders and make assault moves in the usual way this turn.
++
+{blank}[TODO: When *exactly* should we complete the move with the disembarked detachment? Presumably we should complete the move as part of the mission, either now or immediately after we remove the flyers in the next step?]
+. After you complete the disembarkation, the transport flyers take off and disengage.
+They go to full power and rapidly climb out of reach of ground-based weapons.
+Remove the flyers from the play area and place them in the Rearm state.
+
+.Related information
+* xref:main-rules:the-start-phase.adoc[]
+* xref:main-rules:hq-units-and-command.adoc[]
+* xref:main-rules:transportation.adoc[]

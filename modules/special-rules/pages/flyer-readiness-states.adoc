@@ -1,0 +1,20 @@
+= Flyer readiness states
+
+Flyer units can only take part in a mission when they are properly prepared, and they must rearm and refuel after each mission.
+They may also need repairs if they are driven off -- that is, if they are hit but not destroyed while on a mission.
+
+---
+
+Keep track of your flyers' state of readiness, as follows:
+
+* *Repair*: Place Flyer units in this state when they are hit but not destroyed (see xref:hits-on-flyers.adoc[]).
+You must leave them here for one full turn -- then, at the end of that turn, move them to the Rearm state.
+* *Rearm*: Place Flyer units in this state after they have performed a mission, or they missed a turn in the Repair state.
+You must leave them here for one full turn -- then, at the end of that turn, move them to the Ready state.
+* *Ready*: Place Flyer units here at the start of the game, and after they leave the Rearm state.
+In the Start phase, you may declare a flyer mission for any detachment that has at least one Flyer unit in the Ready state.
+
+TIP: The original _Epic 40,000_ cardboard airfields provide a visually appealing way to keep track.
+Of course you could make your own equivalent, which could be a nice hobby project, or you can just use another method such as pen and paper.
+
+{blank}[TODO: This would be a good place to add a good photograph of an original E40k airfield and/or provide a printable alternative.]

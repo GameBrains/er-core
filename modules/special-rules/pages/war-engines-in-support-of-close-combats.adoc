@@ -1,0 +1,17 @@
+= War engines in support of close combats
+
+In contrast to regular units, you can use War Engine units to support *other detachments* that are in close combat.
+
+To do this, your War Engine unit must not be engaged in combat itself, and must be within 15 cm of an enemy unit which is engaged in a combat (either in base contact, or lending support to the combat).
+
+{blank}[TODO: It'd probably be best to define 'engaged' as a particular term in the Assault rules, and then use this term consistently in situations like this one.]
+
+If you meet these conditions then, when you add up your Assault values in the combat, you may add a number equal to half the current Damage Capacity of your War Engine.
+
+* Ignore any Blast markers that your supporting War Engine detachment may have -- do not count them towards modifiers in the close combat.
+And do not apply any Blast markers to this War Engine detachment if your side loses the combat.
+* Each War Engine unit can only support one close combat in each player's Assault phase.
+{blank}[TODO: But presumably, a WE detachment can support multiple close combats if it has multiple WE units and they each support different combats?]
+
+.Related information
+* xref:main-rules:add-up-assault-values.adoc[]

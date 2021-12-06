@@ -1,7 +1,6 @@
 = CC1. Add up Assault values
 
 Both players: Add up the Assault values of all your units that are in base-to-base contact with the enemy.
-A maximum of two units can 'gang up' on each enemy unit.
 
 Also, add a further +1 to the total for each other unit that is in your engaged detachment and that is within 15 cm of the enemy.
 This represents the effects of supporting fire from others in the detachment who are near to the action.

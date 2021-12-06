@@ -1,2 +1,23 @@
-= War engines data sheets
+= War engine data sheets
 
+An example of a War Engine data sheet.
+
+{blank}[TODO: Need a suitable image with numbered callouts. Pending new data sheets for this project.]
+
+.Legend
+. The *type of War Engine* (and *specific name* in some unique cases).
+. *Description*.
+A brief description of the War Engine. 
+. *Main characteristic values*.
+This part of the data sheet is similar to that of a regular unit.
+It states all of the most fundamental information about this War Engine, aside from its weaponry.
+. *Weapon Systems Table*.
+States the weapon systems that the War Engine carries.
+. *Critical Damage Table*.
+This comes into effect as we explain at xref:war-engine-critical-damage.adoc[].
+You'll see that many types of War Engine have a unique set of results, especially the larger ones.
+. *Catastrophic Damage Table*.
+This comes into effect as we explain at xref:war-engine-catastrophic-damage.adoc[].
+
+.Related information
+* xref:main-rules:data-sheets-and-characteristics.adoc[]

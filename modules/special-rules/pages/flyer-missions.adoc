@@ -1,0 +1,12 @@
+= Flyer missions
+
+Missions are to detachments of flyers as orders are to detachments of ground units -- they determine what you can do with the detachment, and when.
+
+The Flyer missions are:
+
+* xref:air-transport-mission.adoc[]
+* xref:ground-attack-mission.adoc[]
+* xref:intercept-mission.adoc[]
+
+.Related information
+* xref:experimental:experimental-flyer-missions.adoc[]

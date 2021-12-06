@@ -1,2 +1,41 @@
 = War engines in close combat
 
+== War Engine assault moves and charges
+
+You may move your War Engine units in the Assault phase, and you may make charge moves with them if you wish. 
+This does not affect the War Engine unit's ability to shoot in the Shooting phase in any way; it always fires at full effect.
+
+War Engine units have a comparatively high Assault value, as you will see on their data sheets.
+Lesser units can and must 'gang up' on a War Engine if they are to defeat it in close combat.
+
+You can 'gang up' on War Engine units with a number of regular units equal to half of the War Engine unit's initial Damage Capacity value.
+{blank}[TODO: How do War Engine units -- or a mix of War Engine and regular units -- gang up on on other War Engine units?]
+
+== Close combat attacks with a War Engine
+
+War engines can also do a lot more damage in close combat than regular units.
+
+* Roll a number of dice to hit equal to half the current Damage Capacity of the War Engine unit (round up).
+* Note that you may allocate hits only among units that the War Engine is actually in base contact with.
+So, even if you score excess hits, your War Engine unit can't destroy more units in close combat than it is actually in base contact with.
+
+{blank}[TODO: In a detachment of multiple War Engine units, can units that are not in base contact with the enemy provide supporting fire like regular units can? If so, is it just +1 to the Assault value total, or should it be '+half the current Damage Capacity' as it is when they support *other* detachments?]
+
+== Close combat attacks against a War Engine
+
+* For each regular unit that you have in base contact with an enemy War Engine, roll a single hit die as normal.
+* Ignore power fields and void shields for any hits that you score in close combat -- they damage the War Engine directly.
+Roll for critical damage as normal.
+
+.War engines in close combat
+====
+{blank}[TODO: Need a suitable graphic.]
+
+In the Assault phase, you make a charge move with your Great Gargant, to assault the Space Marines.
+Your Great Gargant is undamaged, so its current Damage Capacity value is 18.
+This means that in the subsequent close combat, you roll nine dice to hit the Space Marines.
+Your opponent may still only roll a number of dice equal to the number of Space Marine units that are in base contact -- four dice, in this case.
+====
+
+.Related information
+* xref:main-rules:assault-moves-and-charges.adoc[]
