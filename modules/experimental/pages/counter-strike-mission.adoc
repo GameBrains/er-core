@@ -51,7 +51,7 @@ These units cannot scramble to get airborne and so your strike will catch them o
 * Your opponent may also resolve one Snap Fire attack against each of your Counter-strike flyers, to represent the anti-aircraft defences of their airbase.
 * Treat all the enemy flyers that you catch on the ground as a single vehicle detachment in the open.
 * We assume that all of your units are in range for their attack.
-* As there are no 'closest models' among the units that you catch on the ground, allocate hits to them however you like.
+* As there are no 'nearest models' among the units that you catch on the ground, allocate hits to them however you like.
 * Where your attacking units have the {barrage} or {heavy-barrage} ability, these contribute 2 or 4 Firepower each, respectively.
 * There is no chance that a Flyer unit on the ground will be 'driven off' -- a hit will always cause damage, just as it does with non-Flyer units.
 {blank}[TODO: Consider a separate topic or partial to cover the whole 'treat flyers that are on the ground/landed just like other ground units' aspect.]

@@ -16,7 +16,7 @@ We base this option around the idea of War Engine units being able to barge asid
 
 ---
 
-. As in the standard assault move rules, move your War Engine into base contact with the closest enemy unit.
+. As in the standard assault move rules, move your War Engine into base contact with the nearest enemy unit.
 . Rather than stop there, you may continue to move the War Engine if it has more movement available.
 . You *must* stop the move as soon as any of these events occur:
  * The War Engine has run out of available movement.

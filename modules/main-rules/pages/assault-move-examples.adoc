@@ -49,11 +49,11 @@ This is because you would move them away from (past) Marines (B), who are closer
 image::assault-move-examples-past.png[Orks moving past other units.]
 
 You move Ork Boyz (5).
-You could move them into base contact with one of the Space Marines units where you have already placed Orks in base contact; or you may move them towards yellow Marines A, which is the closest enemy that is *not* in base contact with a friendly unit.
+You could move them into base contact with one of the Space Marines units where you have already placed Orks in base contact; or you may move them towards yellow Marines A, which is the nearest enemy that is *not* in base contact with a friendly unit.
 
 If you wanted to move Ork Boyz (5) towards towards the more distant yellow Marines +(C)+, then you would have to end movement of Ork Boyz (5) at the point where they reach the red line.
 This is because any further movement towards yellow Marines +(C)+ would be away from (past) yellow Marines (A).
-//[TODO: I don't think that this is quite consistent with "The closest enemy unit is the one that your unit could reach by the shortest route." -- because in this graphic we're judging 'nearest' directly, rather than by route.]
+//[TODO: I don't think that this is quite consistent with "The nearest enemy unit is the one that your unit could reach by the shortest route." -- because in this graphic we're judging 'nearest' directly, rather than by route.]
 ====
 
 [TIP]

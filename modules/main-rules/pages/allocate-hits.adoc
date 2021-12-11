@@ -2,7 +2,7 @@
 
 Allocate your successful hit dice against eligible units in the target detachment.
 
-* Allocate one die at a time, starting with the nearest available target unit, then the next closest, and so on.
+* Allocate one die at a time, starting with the nearest available target unit, then the next nearest, and so on.
 You may choose which individual hit die you allocate in each case, but you must allocate in this order for all hit dice.
 
 * You must allocate every successful hit die to a target unit, whether or not it can actually affect that unit.
@@ -13,13 +13,14 @@ You must still allocate one of the 4's against this unit -- even though it will 
 You may *not* ignore a nearer unit so as to allocate a hit to a unit that is farther away instead.
 
 * You may only allocate one hit to each eligible unit in a target detachment until all eligible units have been allocated a hit already.
-Then you may allocate each unit a second hit starting with the closest. If all the units have taken two hits you may allocate a third, and so on.
+Then you may allocate each unit a second hit, starting with the nearest.
+If all the units have taken two hits you may allocate a third, and so on.
 
 [IMPORTANT]
 ====
 * You may not allocate hits to target units that are in cover unless unless you used the *Vehicles or Infantry in Cover* column on the Firepower table.
 
-* You may only allocate hits against units in the target detachment that are in range and in the line of fire of at least one of your shooting units -- if a target can't shot at in the first place then it can't be hit either!
+* You may only allocate hits against units in the target detachment that are in range and in the line of fire of at least one of your shooting units -- if a target can't be shot at in the first place then it can't be hit either!
 ====
 
 .Allocating hits step (i)
@@ -42,15 +43,15 @@ The 2 and the 3 are discarded as misses.
 +[TODO: Need new example image and text.]+
 
 ////
-. The closest unit to the Space Marines is a Boyz unit, the Space Marine player allocates one of the 4's to it and it is destroyed.
-. The second closest unit is a Boyz unit in cover.
+. The nearest unit to the Space Marines is a Boyz unit, the Space Marine player allocates one of the 4's to it and it is destroyed.
+. The second nearest unit is a Boyz unit in cover.
 As he did not fire using the cover column or the Firepower table this unit cannot be hit and is ignored.
-. The next closest unit is a Battlewagon.
+. The next nearest unit is a Battlewagon.
 The 5 is allocated to it and it is destroyed.
-. The next closest unit is another Boyz unit in cover, again this is ignored.
-The next closest unit is another Battlewagon behind a wood.
+. The next nearest unit is another Boyz unit in cover, again this is ignored.
+The next nearest unit is another Battlewagon behind a wood.
 No Space Marine unit in the firing detachment has a line of sight to it, and therefore it cannot be hit.
-. The next closest unit is a third Battlewagon.
+. The next nearest unit is a third Battlewagon.
 The 4 must be allocated to this, and as a Battlewagon is Armour 5+ the shot bounces off harmlessly.
 
 Firepower 9 also places one Blast marker on the Ork detachment (as noted at xref:work-out-blast-markers.adoc[]).
