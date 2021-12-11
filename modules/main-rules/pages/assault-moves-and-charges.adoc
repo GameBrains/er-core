@@ -16,7 +16,7 @@ Also, there are some complexities in this Assault phase that mean you need to pa
 When you move a detachment in the Assault phase, move each of its units one after the other.
 For each unit:
 
-* Where possible, you *must* move it at least 5 cm -- or into base contact with an enemy unit that is within 5 cm.
+* You *must* move it at least 5 cm -- or into base contact with an enemy unit that is within 5 cm -- if you are free to do so.footnote:[That is, this requirement does not override rules that state that you may not move the unit or must cease movement with the unit -- such as when you fail a Leadership test to move the detachment, or you fail the first part of a Dangerous terrain test for the unit.]
 Any movement beyond this is optional.
 * This move *must* be as direct as possible towards an enemy unit.
 This does not necessarily mean the *closest* enemy unit, or even one that is in a detachment that you intend to assault.
@@ -26,12 +26,6 @@ This does not necessarily mean the *closest* enemy unit, or even one that is in 
 
 TIP: You do not have to move units more than 5 cm if you do not want to.
 You might only want to move units into range for a firefight or to grab an objective, for example.
-
-[NOTE]
-.Units that can't move
-====
-The requirement to move at least 5 cm or into base contact does not override any rules that prevent the unit from moving, for example if the detachment fails a Leadership test to move, or the unit fails the first part of a Dangerous terrain test.
-====
 
 [NOTE]
 .Closest enemy unit

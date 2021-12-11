@@ -43,7 +43,7 @@
  *** xref:close-combat-procedure.adoc[]
   **** xref:add-up-assault-values.adoc[]
   **** xref:work-out-close-combat-bonuses.adoc[]
-  **** xref:roll-dice-and-add-combat-bonuses.adoc[]
+  **** xref:roll-to-resolve-close-combat.adoc[]
   **** xref:work-out-difference-in-combat-scores-and-place-blast-markers.adoc[]
   **** xref:roll-for-close-combat-hits.adoc[]
   **** xref:broken-detachments-and-retreats.adoc[]
@@ -51,7 +51,7 @@
  *** xref:firefight-procedure.adoc[]
   **** xref:calculate-your-firepower-total.adoc[]
   **** xref:work-out-firefight-bonuses.adoc[]
-  **** xref:roll-dice-and-add-firefight-bonuses.adoc[]
+  **** xref:roll-to-resolve-the-firefight.adoc[]
   **** xref:allocate-hits-and-blast-markers-to-losing-detachments.adoc[]
   **** xref:multiple-firefights.adoc[]
 

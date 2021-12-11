@@ -1,0 +1,6 @@
+[NOTE.option]
+.Optional two D6 method for assault resolution
+====
+In _Epic 40,000 Magazine_ issue 8, page 6, game designer Jervis Johnson recommended that players roll *two* D6 and use the highest of the two results.
+If you use this option then note that any game effects that allow you to re-roll the combat resolution roll allow you to re-roll *one* D6, not both.
+====

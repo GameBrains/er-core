@@ -21,6 +21,6 @@ In addition to the above, if the Dominatrix supports a close combat you may re-r
 
 .Related information
 * xref:stubborn.adoc[]
-* xref:main-rules:roll-dice-and-add-combat-bonuses.adoc[]
-* xref:main-rules:roll-dice-and-add-firefight-bonuses.adoc[]
+* xref:main-rules:roll-to-resolve-close-combat.adoc[]
+* xref:main-rules:roll-to-resolve-the-firefight.adoc[]
 * xref:war-engines-in-support-of-close-combats.adoc[]
