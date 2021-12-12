@@ -1,13 +1,32 @@
 = Quick reference
 :bm-fp:
 :bm-shw:
+:bonus-as:
 
-== Summary of terrain effects
+== Terrain effects
 
 A summary of the effects of some common types of terrain on the different types of ground unit. 
 
 include::main-rules:partial$terrain-effects-table.adoc[]
 
+== Special abilities
+
+See xref:special-rules:special-abilities.adoc[].
+
+== Firepower
+
+{blank}[TODO: Add Firepower table]
+
 == Blast markers
 
 include::main-rules:partial$blast-marker-table.adoc[]
+
+== Super-heavy weapons
+
+See xref:special-rules:super-heavy-weapons.adoc[].
+
+== Assaults
+
+include::main-rules:partial$assault-bonuses-table.adoc[]
+
+include::main-rules:partial$close-combat-results-table.adoc[]

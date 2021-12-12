@@ -1,49 +1,50 @@
 [#assault-bonuses-table]
-ifdef::close-combat[.Close combat bonuses table]
-ifdef::firefight[.Firefight bonuses table]
+ifdef::bonus-cc[.Assault bonuses table (close combat)]
+ifdef::bonus-ff[.Assault bonuses table (firefight)]
+ifdef::bonus-as[.Assault bonuses table (close combat/firefight)]
 [cols="7,1", options="footer"]
 |===
 |Condition |Bonus
 
-|The opposing side has 5 or more Blast markers
+|The enemy has 5 or more Blast markers
 |+1
 
-|The opposing side has more Blast markers than your side
+|The enemy has more Blast markers than your side
 |+1
 
 |Your side has the most {psyker} units
-ifdef::close-combat[fighting or supporting the combat*]
-ifdef::firefight[in the firefight*]
+ifdef::bonus-cc[that contribute their Assault value or add 'supporting fire']
+ifdef::bonus-ff[that contribute their Firepower value]
+ifdef::bonus-as[that contribute their Assault value or add 'supporting fire' (close combat)/that contribute their Firepower value (firefight)]
 |+1
 
 |Your side's
-ifdef::close-combat[Assault]
-ifdef::firefight[Firepower]
-total is higher than the enemy's
-|+1**
+ifdef::bonus-cc[Assault]
+ifdef::bonus-ff[Firepower]
+ifdef::bonus-as[Assault/Firepower]
+total is higher than that of the enemy
+|+1*
 
 |Your side's
-ifdef::close-combat[Assault]
-ifdef::firefight[Firepower]
-total is double the enemy's or more
-|+2**
+ifdef::bonus-cc[Assault]
+ifdef::bonus-ff[Firepower]
+ifdef::bonus-as[Assault/Firepower]
+total is at least double (2x) that of the enemy
+|+2*
 
 |Your side's
-ifdef::close-combat[Assault]
-ifdef::firefight[Firepower]
-total is triple the enemy's or more
-|+3**
+ifdef::bonus-cc[Assault]
+ifdef::bonus-ff[Firepower]
+ifdef::bonus-as[Assault/Firepower]
+total is at least triple (3x) that of the enemy
+|+3*
 
 |Your side's
-ifdef::close-combat[Assault]
-ifdef::firefight[Firepower]
-total is quadruple the enemy's or more
-|+4**
+ifdef::bonus-cc[Assault]
+ifdef::bonus-ff[Firepower]
+ifdef::bonus-as[Assault/Firepower]
+total is at least quadruple (4x) that of the enemy
+|+4*
 
-2+e|
-ifdef::close-combat[*The Psyker must be contributing its Assault value, or adding +1 for being within 15 cm.]
-ifdef::firefight[*The Psyker must be contributing its Firepower value.]
-// IJW editing note: I've used similar phrasing to the updated Supreme Commander rule.
-
-2+e|**These modifiers are not cumulative -- use only the best one that applies.
+2+e|*These modifiers are not cumulative -- use only the best one that applies.
 |===

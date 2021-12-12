@@ -1,5 +1,5 @@
 = FF2. Work out firefight bonuses
-:firefight:
+:bonus-ff:
 
 Firefight bonuses reveal who has the overall advantage and combine to act as a modifier for the dice rolls that will determine the winner.
 
