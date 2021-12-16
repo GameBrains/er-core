@@ -1,7 +1,7 @@
 = War engine catastrophic damage
 
-A destroyed war engine may be only wrecked or killed -- out of the battle, but possibly salvageable.
-Or, it may be completely annihilated in a spectacular fashion that presents a hazard to nearby units, whether friend or foe.
+A destroyed war engine might be only wrecked.
+Or, it might be annihilated in a spectacular fashion that presents a hazard to nearby units, whether friend or foe.
 
 ---
 
