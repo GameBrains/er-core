@@ -3,7 +3,7 @@
 Blast markers affect War Engine detachments in much the same way as other units.
 However, *all* War Engine detachments have the {stubborn} ability.
 
-You may add +1 to the result of Leadership tests when the total initial Damage Capacity value of the War Engine detachment is `15` or more, instead when it has `15` or more units.
+Where your War Engine detachment currently has units in it whose *initial* Damage Capacity values total 15 or more, you may add +1 to the result of the Leadership test.
 
 
 .Ork Great Gargant

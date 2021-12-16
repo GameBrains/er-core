@@ -8,11 +8,13 @@ This does not affect the War Engine unit's ability to shoot in the Shooting phas
 War Engine units have a comparatively high Assault value, as you will see on their data sheets.
 Lesser units can and must 'gang up' on a War Engine if they are to defeat it in close combat.
 
-You can place as many units in base contact with the War Engine unit as its initial Damage Capacity value.
+The maximum number of units that you may place in base contact with a War Engine unit is equal to the number of its initial Damage Capacity value.
 
 [NOTE.e40k]
+.'Ganging up' on War Engine units
 ====
-In _Epic 40,000_, you could only 'gang up' with half as many units, which meant that smaller War Engine units like Baneblades could only be attacked by two units -- the same as a regular target!
+In _Epic 40,000_, you can only 'gang up' with *half* as many units as the initial Damage Capacity.
+This leads to a number of odd effects, not least that it makes war engines *excessively* difficult to overcome in close combat -- so, we reference the full initial Damage Capacity instead.
 ====
 
 == Close combat attacks with a War Engine
@@ -20,7 +22,7 @@ In _Epic 40,000_, you could only 'gang up' with half as many units, which meant 
 War engines can also do a lot more damage in close combat than regular units.
 
 * Roll a number of dice to hit equal to half the current Damage Capacity of the War Engine unit (round up).
-* As normal, you can apply hits to any enemy unit in the combat which is in base contact with any of your units.
+* As normal, you can allocate hits to any enemy units that are in base contact with any of your units in the close combat.
 
 [NOTE.e40k]
 ====
