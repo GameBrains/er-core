@@ -26,7 +26,9 @@ War engines can also do a lot more damage in close combat than regular units.
 
 [NOTE.e40k]
 ====
-In _Epic 40,000_, the rules for close combat attacks with War Engines assumed that you had a single War Engine in combat with the enemy, and that there were no other War Engines or allied detachments in the close combat. This revised version treats all the close combat hits normally, instead of limiting the hits to units in base contact with that specific War Engine.
+_Epic 40,000_ phrases the rules for War Engine close combat attacks on the basis of a single War Engine in close combat with the enemy.
+Without further clarification, this tends to imply that the allocation of hits might be on a per War Engine basis (in contrast to the usual rules).
+We make it clear that we should allocate all close combat hits in the same way, regardless of origin.
 ====
 
 == Close combat attacks against a War Engine
