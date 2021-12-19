@@ -1,12 +1,9 @@
 = FF2. Work out firefight bonuses
-:firefight:
+:bonus-ff:
 
-Firefight bonuses reveal who has the overall advantage and combine to act as a modifier for the dice rolls that will determine the winner.
+Each player receives bonuses in the firefight that are dependent on how certain factors compare for each side.
 
-Your Firepower total from the previous step is important, but you don't use it directly (you don't add it onto the dice roll to determine the winner!).
-
-Each player may get firefight bonuses that are based on the difference between each side's Firepower totals and other factors such as the number of Blast markers that the enemy detachments have.
-
-Add up all of the bonuses that apply for your side to get a total to use as your modifier in the next step.
+Your Firepower total from the previous step is important, but you don't make direct use of it to resolve the firefight -- rather, you compare your totals and the player that has the higher total gets a bonus.
+You'll combine this with other bonuses and use your overall bonus in the the assault resolution roll that you'll make in the next step.
 
 include::partial$assault-bonuses-table.adoc[]

@@ -9,10 +9,21 @@
 Where your unit has the {supreme-commander} ability:
 
 * All of your detachments that have their HQ unit within 30 cm of the {supreme-commander} unit gain the {stubborn} ability.
-* If this specific unit fights in a close combat or contributes its Firepower to a firefight then you may re-roll the die that decides the outcome of that close combat or firelight.
-If you re-roll the die then you must abide by the second result.
-+
-{blank}[TODO: Does "fights in a close combat" include not only base-contact but also 'supporting fire'?]
+* If the unit contributes its Assault value to a close combat, or contributes its Firepower value to a firefight, then you may re-roll the die for Assault resolution.
+If you re-roll the die then you must abide by the second roll.
+
+[NOTE]
+.Tyranid Dominatrix -- additional {supreme-commander} effect
+====
+The Tyranid Dominatrix unit is a special case.
+Not only is it a War Engine that has the {supreme-commander} ability, but for this unit only the ability has this additional effect:
+
+* If the Dominatrix supports another detachment that is in close combat, then you may re-roll the die for Assault Resolution in that close combat.
+If you re-roll the die then you must abide by the second roll.
+====
 
 .Related information
 * xref:stubborn.adoc[]
+* xref:main-rules:roll-to-resolve-the-close-combat.adoc[]
+* xref:main-rules:roll-to-resolve-the-firefight.adoc[]
+* xref:war-engines-in-support-of-close-combats.adoc[]

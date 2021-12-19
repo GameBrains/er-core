@@ -90,11 +90,11 @@ TODO: Some things to consider in future tweaks to the image:
 
 Your dice rolls yield six results of 5 or more -- so you have six hit dice to allocate.
 
-. Allocate a die to the closest target unit, Terminator squad (1).
-. The next closest unit is Land Raider (1), which has the {robust} ability -- so allocate *two* dice to it.
+. Allocate a die to the nearest target unit, Terminator squad (1).
+. The next nearest unit is Land Raider (1), which has the {robust} ability -- so allocate *two* dice to it.
 These must either both be results of 6 that can affect the Land Raider, or both be rolls of 5 that cannot affect the Land Raider.
-. The next closest units are Terminator squads (2) and (3), so allocate the fourth and fifth die to these.
-. Finally, you must allocate your last die to the next closest unit, which is Land Raider (2).
+. The next nearest units are Terminator squads (2) and (3), so allocate the fourth and fifth die to these.
+. Finally, you must allocate your last die to the next nearest unit, which is Land Raider (2).
 ====
 
 .Related information

@@ -1,13 +1,16 @@
 = Firefight procedure
 
-A firefight takes place if there is an enemy detachment within 15 cm after a player has resolved his close combats.
+A firefight takes place if there is an enemy detachment within 15 cm after a player has resolved all of the close combats that they triggered in this Assault phase.
+
 Note that it is possible for a detachment to be involved in a close combat and then take part in a firefight immediately afterwards.
-If a detachment has any units within 15 cm of an enemy detachment a firelight must be resolved between the two detachments.
-When several firefights occur in the same turn the player with the Initiative may decide what order to resolve them in.
+
+If a detachment has any units within 15 cm of an enemy detachment at this stage then you must resolve a firefight between the two detachments.
+When several firefights occur in the same turn, the player with the Initiative may decide the order in which to resolve them.
+{blank}[TODO: Consider whether instead the first player should decide the order while they resolve the assaults that they trigger, and then the second player should get to do the same.]
 
 [none]
 * xref:calculate-your-firepower-total.adoc[]
 * xref:work-out-firefight-bonuses.adoc[]
-* xref:roll-dice-and-add-firefight-bonuses.adoc[]
+* xref:roll-to-resolve-the-firefight.adoc[]
 * xref:allocate-hits-and-blast-markers-to-losing-detachments.adoc[]
 * xref:multiple-firefights.adoc[]

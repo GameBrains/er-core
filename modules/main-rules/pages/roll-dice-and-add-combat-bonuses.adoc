@@ -1,6 +1,0 @@
-= CC3. Roll dice and add combat bonuses
-
-Both players: Roll a D6 and add your close combat bonuses to the result.
-
-* The player with the highest total score wins the combat.
-* If the total scores are the same then the outcome hangs in the balance! Place one Blast marker on every detachment in the combat and then *roll again*.

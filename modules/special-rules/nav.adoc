@@ -58,7 +58,6 @@
   *** xref:tyranid-objectives.adoc[]
   *** xref:unbreakable.adoc[]
   *** xref:walker.adoc[]
-  *** xref:war-engine-supreme-commander.adoc[]
 
  ** xref:war-engines.adoc[]
   *** xref:war-engine-movement.adoc[]

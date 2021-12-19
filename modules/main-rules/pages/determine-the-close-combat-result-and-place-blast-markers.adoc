@@ -1,0 +1,47 @@
+= CC4. Determine the close combat result and place Blast markers
+
+The difference between the two total scores in the Assault resolution roll dictates how great a victory the combat is for the winner and how crushing a defeat it is for the loser.
+
+Check the difference on the <<close-combat-results-table>> to find the overall result and the severity of its effects.
+This tells you how many Blast markers to place on the losing detachment(s) and what scores each side will need to get hits in the next step.
+
+include::partial$close-combat-results-table.adoc[]
+
+For each detachment on the losing side, place a number of Blast markers equal to the difference.
+
+IMPORTANT: Do not place more Blast markers on a losing detachment than the number of units that it had in base contact with its victorious enemy.
+
+.Close combat bonuses
+====
++[TODO: New image and text required.]+
+////
+In this combat, the Orks have 3 Boyz units (Assault value 2 each) in contact with 2 Space Marine units.
+They also have 6 Battlewagons and another 4 Ork units within 15cm to lend supporting fire.
+This gives them a total Assault value of 2+2+2+10=16.
+
+As well as the 2 units in actual combat (Assault value 3 each), the Space Marines have 2 units that can lend support, giving them a total of 3+3+2=8.
+They've been pretty shot up already and have 6 Blast markers on them.
+
+The bonuses for the ensuing assault are:
+
+[options="footer"]
+|===
+|Orks |Space Marines
+
+|Double Assault value *+2*
+.3+|*No bonuses*
+
+|Less Blast markers *+1*
+
+
+|Enemy has 5+ Blast markers *+1*
+
+
+|Total *+4*
+|Total *0*
+
+|===
+
+The Orks add 4 to their dice roll while the Space Marines get no bonus at all -- it doesn't look good for the battered Space Marines!
+////
+====
