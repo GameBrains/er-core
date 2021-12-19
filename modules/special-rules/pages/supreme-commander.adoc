@@ -25,7 +25,6 @@ Not only is it a War Engine that has the {supreme-commander} ability, but for th
 If you re-roll the die then you must abide by the second roll.
 ====
 
-
 .Related information
 * xref:stubborn.adoc[]
 * xref:main-rules:roll-to-resolve-the-close-combat.adoc[]
