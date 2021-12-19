@@ -11,9 +11,6 @@ Where your unit has the {supreme-commander} ability:
 * All of your detachments that have their HQ unit within 30 cm of the {supreme-commander} unit gain the {stubborn} ability.
 * If the unit contributes its Assault value to a close combat, or contributes its Firepower value to a firefight, then you may re-roll the die for Assault resolution.
 If you re-roll the die then you must abide by the second roll.
-+
-//[TODO: Does "fights in a close combat" include not only base-contact but also 'supporting fire'?]
-// IJW editing note: I've changed the text to refer to using the Assault value, based on the original rules's reference to the SC unit itself needing to fight in a CC, not just its bodyguard. I've also tweaked the re-roll text based on the Fate Card Counterattack text, and to allow it to work more easily for players who use highest of 2d6 for combat resolution.
 
 [NOTE]
 .Tyranid Dominatrix -- additional {supreme-commander} effect
