@@ -1,9 +1,9 @@
 = CC2. Work out close combat bonuses
 :bonus-cc:
 
-Each player receives bonuses in close combat for the Assault value of their units, whether they are supported by {psyker} units, which side has more Blast markers, and so on.
-These are summarised on the <<#assault-bonuses-table>>.
+Each player receives bonuses in the close combat that are dependent on how certain factors compare for each side.
 
-Note that the bonus you receive for the Assault value total of your units depends on how it compares with your opponent's Assault value total -- you don't add your Assault value total onto your die roll!
+Your Assault value total from the previous step is important, but you don't make direct use of it to resolve the close combat -- rather, you compare your totals and the player that has the higher total gets a bonus.
+You'll combine this with other bonuses and use your overall bonus in the the assault resolution roll that you'll make in the next step.
 
 include::partial$assault-bonuses-table.adoc[]

@@ -2,7 +2,7 @@
 .Close combat results table
 [cols="4*^", hrows=2, footer]
 |===
-|Combat difference* |Result 2+| Score required to hit
+|Difference in scores* |Overall result 2+| Score required to hit
 
 || s|Winner s|Loser
 

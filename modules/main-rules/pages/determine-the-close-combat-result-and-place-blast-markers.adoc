@@ -1,15 +1,15 @@
-= CC4. Work out difference in combat scores and place Blast markers
+= CC4. Determine the close combat result and place Blast markers
 
 The difference between the two total scores in the Assault resolution roll dictates how great a victory the combat is for the winner and how crushing a defeat it is for the loser.
-For example, an Assault resolution score of 6 versus 8 means the winner wins by 2 (difference = 2).
 
-Look up the difference up on the <<close-combat-results-table>> to find out how many Blast markers to place on the losing detachment(s) and what scores each side will need to get hits in the next step.
+Check the difference on the <<close-combat-results-table>> to find the overall result and the severity of its effects.
+This tells you how many Blast markers to place on the losing detachment(s) and what scores each side will need to get hits in the next step.
 
 include::partial$close-combat-results-table.adoc[]
 
 For each detachment on the losing side, place a number of Blast markers equal to the difference.
 
-NOTE: The maximum number of Blast markers a detachment can suffer in close combat is equal to the number of its units that were in base-to-base contact with the enemy.
+IMPORTANT: Do not place more Blast markers on a losing detachment than the number of units that it had in base contact with its victorious enemy.
 
 .Close combat bonuses
 ====

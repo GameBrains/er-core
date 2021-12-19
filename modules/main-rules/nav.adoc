@@ -44,7 +44,7 @@
   **** xref:add-up-assault-values.adoc[]
   **** xref:work-out-close-combat-bonuses.adoc[]
   **** xref:roll-to-resolve-the-close-combat.adoc[]
-  **** xref:work-out-difference-in-combat-scores-and-place-blast-markers.adoc[]
+  **** xref:determine-the-close-combat-result-and-place-blast-markers.adoc[]
   **** xref:roll-for-close-combat-hits.adoc[]
   **** xref:broken-detachments-and-retreats.adoc[]
   **** xref:multiple-close-combats.adoc[]

@@ -28,7 +28,7 @@ TIP: You do not have to move units more than 5 cm if you do not want to.
 You might only want to move units into range for a firefight or to grab an objective, for example.
 
 [NOTE]
-.nearest enemy unit
+.Nearest enemy unit
 ====
 The nearest enemy unit is the one that your unit could reach by the shortest route.
 

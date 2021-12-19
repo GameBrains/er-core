@@ -2,18 +2,18 @@
 
 After a player has made all of their assault moves and charges then, if there are opposing detachments that have units in base-to-base contact with each other, you *must* resolve close combat between them.
 
-IMPORTANT: The first player completes all of their assault moves and charges, and resolves all close combats (and firefights) that they trigger, before the second player gets to do the same.
+IMPORTANT: The first player completes all of their assault moves and charges, and resolves all close combats (and firefights) that they trigger.
+Only then does the second player get to do the same.
 
-The player with the Initiative decides the order in which to resolve close combats.
-+[TODO: Consider whether instead the order should be decided by the first player while they are resolving their assaults, and then the second player while they resolve their assaults.]+
-
+The player who has the Initiative decides the order in which to resolve close combats.
+{blank}[TODO: Consider whether instead the first player should decide the order while they resolve the assaults that they trigger, and then the second player should get to do the same.]
 To resolve a close combat, use the close combat procedure as follows.
 
 [none]
 * xref:add-up-assault-values.adoc[]
 * xref:work-out-close-combat-bonuses.adoc[]
 * xref:roll-to-resolve-the-close-combat.adoc[]
-* xref:work-out-difference-in-combat-scores-and-place-blast-markers.adoc[]
+* xref:determine-the-close-combat-result-and-place-blast-markers.adoc[]
 * xref:roll-for-close-combat-hits.adoc[]
 * xref:broken-detachments-and-retreats.adoc[]
 * xref:multiple-close-combats.adoc[]
