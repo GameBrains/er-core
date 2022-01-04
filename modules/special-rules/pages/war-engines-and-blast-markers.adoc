@@ -1,27 +1,27 @@
 = War engines and Blast markers
 
 Blast markers affect War Engine detachments in much the same way as other units.
-However, *all* War Engine detachments have the {stubborn} ability.
+But note the following.
 
-Where your War Engine detachment currently has units in it whose *initial* Damage Capacity values total 15 or more, you may add +1 to the result of the Leadership test.
-
-
-.Ork Great Gargant
+* *All* War Engine detachments have the {stubborn} ability.
+* Where your War Engine detachment currently has units in it whose *initial* Damage Capacity values total 15 or more, you may add +1 to the result when you make a Leadership test for the detachment.
++
+.Leadership bonus for Ork Great Gargant
 ====
-A Great Gargant is a war engine with an initial Damage Capacity value of 18.
+A Great Gargant is a War Engine unit that has an initial Damage Capacity value of `18`.
+It forms its own detachment.
 
-You may add +1 to the result of Leadership tests, even if the Great Gargant's current Damage Capacity value falls below 15.
+You may add +1 to the result of Leadership tests for this detachment, even if the Great Gargant's current Damage Capacity value falls below 15.
 ====
-
-.Imperial Guard Super Heavy Tank Company
++
+.Leadership bonus for Imperial Guard Super Heavy Tank Company
 ====
-Baneblades are war engines with an initial Damage Capacity value of 4.
+The Baneblade is a War Engine unit that has an initial Damage Capacity value of `4`.
 
-A detachment of four Baneblades has a total initial Damage Capacity value of 16, so you may add +1 to the result of Leadership tests.
+A detachment of four Baneblade units has a initial Damage Capacity value total of 16, so you may add +1 to the result of Leadership tests for this detachment.
 
-If the detachment is reduced to three Baneblades the total is 12, so you cannot add +1 to the result of Leadership tests.
+If the detachment is reduced to three Baneblade units then the initial Damage Capacity value of these remaining units is 12 -- so you may no longer add +1 to the result of Leadership tests for this detachment.
 ====
-
 
 .Related information
 * xref:special-rules:stubborn.adoc[]

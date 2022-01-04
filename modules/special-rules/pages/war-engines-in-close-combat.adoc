@@ -54,7 +54,7 @@ We make both situations plain.
 ====
 {blank}[TODO: Need a suitable graphic.]
 
-Your Great Gargant is in close combat with some Space Marine infantry.
+Your Ork Great Gargant is in close combat with some Space Marine infantry.
 It is undamaged, so its current Damage Capacity value is `18`.
 This means that you roll nine dice to hit the Space Marine units.
 
@@ -63,4 +63,4 @@ Your opponent may still only roll a number of dice equal to the number of Space 
 
 .Related information
 * xref:main-rules:assault-moves-and-charges.adoc[]
-* xref:experimental:war-engine-barging.adoc[]
+* Experimental: xref:experimental:war-engine-barging.adoc[]
