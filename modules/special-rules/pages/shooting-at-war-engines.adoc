@@ -1,6 +1,6 @@
 = Shooting at war engines
 
-Resolve shooting at War Engine detachments in much the same way as for other detachments -- there are just a few more details to consider. 
+Resolve shooting at War Engine detachments in much the same way as for other detachments -- there are just a few more details to consider.
 
 == War Engine detachments and the Firepower table
 
@@ -9,8 +9,8 @@ These categories reflect the fact that these units are so large and easy to hit.
 
 * A War Engine unit can become Immobilised -- and so even easier to hit -- as a result of *critical damage*.
 * There is no target category for 'Immobilised War Engine in the open' -- instead, you simply roll as many hit dice as the total Firepower that you direct at the unit.
-
-{blank}[TODO: Cross-reference the Firepower table, once we've added it. Also, we actually target detachments not units, and we need to clarify what happens when a War Engine detachment has a mix of Immobilised and non-Immobilised WE units.]
+* If a target detachment contains both mobile and Immobilised War Engine units, then you may choose to shoot at only those that are Immobilised, if you wish.
+If you do this then you may allocate hits to the Immobilised units *only*.
 
 == War Engine units and Damage Capacity
 
@@ -30,8 +30,7 @@ Or, you may like to use coloured dice or 'damage tracker' dials -- when a War En
 == Allocation of hits in War Engine detachments
 
 Where the target detachment consists of more than one War Engine unit, allocate hits in the usual way.
-In other words, you must allocate hits evenly among the target War Engine units that are within the range and line of fire of your attacking units.
-{blank}[TODO: Clarify whether we allocate against initial or current Damage Capacity. Current, I presume?]
+So, allocate one hit to the nearest available target unit, then the next nearest, and so on.
 
 .Related information
 * xref:war-engine-critical-damage.adoc[]

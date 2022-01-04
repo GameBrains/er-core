@@ -1,10 +1,27 @@
 = War engines and Blast markers
 
-Blast markers affect War Engine detachments in much the same way as other units. 
-However, *all* War Engine detachments have the {stubborn} ability.
+Blast markers affect War Engine detachments in much the same way as other units.
+But note the following.
 
-Note that for a War Engine detachment has a total initial Damage Capacity value of more than `15`, you may add +1 to the result of the Leadership test.
-{blank}[TODO: Is this the best place to highlight this point? I think it might be better to improve the Leadership test text and to clarify what is what when it comes to 'number of units' and 'detachment strength' and initial Damage Capacity versus current Damage Capacity for the purposes of the Leadership test.]
+* *All* War Engine detachments have the {stubborn} ability.
+* Where your War Engine detachment currently has units in it whose *initial* Damage Capacity values total 15 or more, you may add +1 to the result when you make a Leadership test for the detachment.
++
+.Leadership bonus for Ork Great Gargant
+====
+A Great Gargant is a War Engine unit that has an initial Damage Capacity value of `18`.
+It forms its own detachment.
+
+You may add +1 to the result of Leadership tests for this detachment, even if the Great Gargant's current Damage Capacity value falls below 15.
+====
++
+.Leadership bonus for Imperial Guard Super Heavy Tank Company
+====
+The Baneblade is a War Engine unit that has an initial Damage Capacity value of `4`.
+
+A detachment of four Baneblade units has a initial Damage Capacity value total of 16, so you may add +1 to the result of Leadership tests for this detachment.
+
+If the detachment is reduced to three Baneblade units then the initial Damage Capacity value of these remaining units is 12 -- so you may no longer add +1 to the result of Leadership tests for this detachment.
+====
 
 .Related information
 * xref:special-rules:stubborn.adoc[]

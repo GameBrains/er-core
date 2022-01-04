@@ -5,7 +5,7 @@ There are two main technologies -- power fields and void shields.
 Power fields are an Ork technology, but void shields are common to various other factions.
 
 The technologies reflect different approaches but achieve a similar defensive effect.
-Power fields are many but irreplaceable during a battle, while void shields are fewer but recoverable.
+Power fields are many but irreplaceable during a battle, while void shields are fewer but repairable.
 
 ---
 
@@ -23,11 +23,10 @@ When all of the unit's fields/shields are collapsed then any further hits will c
 You can track remaining fields/shields in a similar way to Damage Capacity -- just be sure to differentiate so that you are clear about which tracker relates to which feature on which War Engine.
 ====
 
-The main difference between the two technologies is that on collapse, power fields are destroyed and of no further use in the battle, while void shields may recover during the battle to provide protection again.
-You check to see if void shields recover at the appropriate step in the Rally phase.
+The main difference between the two technologies is that on collapse, power fields are destroyed and of no further use in the battle, while void shields may be repaired during the battle to provide protection again.
+You check to see if void shields are repaired at the appropriate step in the Rally phase.
 
 Neither power fields nor void shields offer any protection from close combat hits, as the enemy is inside the protective envelope at that point.
-{blank}[TODO: " -- though they do protect in a firefight" perhaps?]
 
 .Related information
 * xref:main-rules:attempt-repairs.adoc[]

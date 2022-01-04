@@ -4,8 +4,8 @@ In close combat Armour values are ignored and instead you get a hit if you equal
 Look up the combat difference on the table to find out the hit numbers for winning and losing units.
 
 Roll a D6 for each of your units in base-to-base contact with the enemy, even if you lost.
-Don't forget that a maximum of two units can attack one enemy unit in close combat.
-You can choose which enemy units to apply hits against but as with shooting you can only put a second hit on a unit once all of the enemy units have been allocated one hit each.
+Don't forget that you can place a maximum of two units in base contact with an enemy unit.
+You can choose which enemy units to apply hits against -- but, similar to the allocation of shooting hits, you may not allocate a second hit to a unit unless you have already allocated a hit to every unit that is in base contact.
 
 include::partial$close-combat-results-table.adoc[]
 

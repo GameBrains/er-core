@@ -2,24 +2,34 @@
 
 == War Engine assault moves and charges
 
-You may move your War Engine units in the Assault phase, and you may make charge moves with them if you wish. 
+You may move your War Engine units in the Assault phase, and you may make charge moves with them if you wish.
 This does not affect the War Engine unit's ability to shoot in the Shooting phase in any way; it always fires at full effect.
 
 War Engine units have a comparatively high Assault value, as you will see on their data sheets.
 Lesser units can and must 'gang up' on a War Engine if they are to defeat it in close combat.
 
-You can 'gang up' on War Engine units with a number of regular units equal to half of the War Engine unit's initial Damage Capacity value.
-{blank}[TODO: How do War Engine units -- or a mix of War Engine and regular units -- gang up on on other War Engine units?]
+The maximum number of units that you may place in base contact with a War Engine unit is equal to the number of its initial Damage Capacity value.
+
+[NOTE.e40k]
+.'Ganging up' on War Engine units
+====
+In _Epic 40,000_, you can only 'gang up' with *half* as many units as the initial Damage Capacity.
+This leads to a number of odd effects, not least that it makes war engines *excessively* difficult to overcome in close combat -- so, we reference the full initial Damage Capacity instead.
+====
 
 == Close combat attacks with a War Engine
 
 War engines can also do a lot more damage in close combat than regular units.
 
 * Roll a number of dice to hit equal to half the current Damage Capacity of the War Engine unit (round up).
-* Note that you may allocate hits only among units that the War Engine is actually in base contact with.
-So, even if you score excess hits, your War Engine unit can't destroy more units in close combat than it is actually in base contact with.
+* As normal, you can allocate hits to any enemy units that are in base contact with any of your units in the close combat.
 
-{blank}[TODO: In a detachment of multiple War Engine units, can units that are not in base contact with the enemy provide supporting fire like regular units can? If so, is it just +1 to the Assault value total, or should it be '+half the current Damage Capacity' as it is when they support *other* detachments?]
+[NOTE.e40k]
+====
+_Epic 40,000_ phrases the rules for War Engine close combat attacks on the basis of a single War Engine in close combat with the enemy.
+Without further clarification, this tends to imply that the allocation of hits might be on a per War Engine basis (in contrast to the usual rules).
+We make it clear that we should allocate all close combat hits in the same way, regardless of origin.
+====
 
 == Close combat attacks against a War Engine
 
@@ -27,15 +37,30 @@ So, even if you score excess hits, your War Engine unit can't destroy more units
 * Ignore power fields and void shields for any hits that you score in close combat -- they damage the War Engine directly.
 Roll for critical damage as normal.
 
+== War Engine detachments in close combat
+
+When you add up Assault values for a War Engine detachment that is in close combat, do not add +1 for 'supporting fire' from each unit in the detachment that is within 15 cm of the enemy but not in base contact.
+Instead, add a number equal to half the current Damage Capacity of each such War Engine unit.
+
+To be clear, such units may still also support *other detachments* as we explain at xref:war-engines-in-support-of-close-combats.adoc[].
+
+[NOTE.e40k]
+.Supporting fire from War Engine units 
+====
+_Epic 40,000_ gives rules for War Engine units in support of other detachments that are in close combat -- but does not give similar rules to apply the same logic for supporting fire within their own detachment (so only the usual +1 would apply, which seems odd).
+We make both situations plain.
+====
 .War engines in close combat
 ====
 {blank}[TODO: Need a suitable graphic.]
 
-In the Assault phase, you make a charge move with your Great Gargant, to assault the Space Marines.
-Your Great Gargant is undamaged, so its current Damage Capacity value is 18.
-This means that in the subsequent close combat, you roll nine dice to hit the Space Marines.
+Your Ork Great Gargant is in close combat with some Space Marine infantry.
+It is undamaged, so its current Damage Capacity value is `18`.
+This means that you roll nine dice to hit the Space Marine units.
+
 Your opponent may still only roll a number of dice equal to the number of Space Marine units that are in base contact -- four dice, in this case.
 ====
 
 .Related information
 * xref:main-rules:assault-moves-and-charges.adoc[]
+* Experimental: xref:experimental:war-engine-barging.adoc[]

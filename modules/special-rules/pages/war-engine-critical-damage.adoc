@@ -16,7 +16,7 @@ There is no further effect.
 * *6*: The hit causes critical damage.
 Make a 2D6 roll on the Critical Damage Table on the War Engine unit's data sheet, to find out what happens.
 
-The Critical Damage Table describes what critical location is damaged by the hit, and it details the effects on the systems at that location.
+The Critical Damage Table describes what additional effect the hit has.
 Critical damage takes many forms -- inoperable weapons, raging fires, crippled engines, and so on.
 The table also states how many extra points to deduct from the War Engine's current Damage Capacity.
 
@@ -26,7 +26,7 @@ Some results indicate that the War Engine is Immobilised, and thus unable to mov
 Mark this as appropriate and apply the rules for the Immobilised condition while it remains in effect.
 
 Some results indicate that the effect only lasts 'until repaired'.
-You may attempt to repair each damaged location on your War Engine at the appropriate step in the Rally phase.
+You may attempt to repair each repairable critical damage effect on your War Engine at the appropriate step in the Rally phase.
 
 .Related information
 * xref:main-rules:orders-and-conditions.adoc#Immobilised[Immobilised]

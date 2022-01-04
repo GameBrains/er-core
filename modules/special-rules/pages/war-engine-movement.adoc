@@ -7,8 +7,10 @@ The sheer mass of a war engine makes it lumbering and slow to manoeuvre.
 == Forward movement of War Engine units
 
 In general, when you move a War Engine unit, you may only move it in a straight line, directly ahead.
-You may turn the unit by up to 45° for free as part of the move.
-You may make more turns, at a cost of 5 cm of the unit's move per turn of up to 45°.
+However:
+
+* You may make a single turn of up to 45° for free as part of the move.
+* You may make more turns, at a cost of 5 cm of the unit's move per extra turn of up to 45°.
 
 .Forward movement of War Engine units
 ====
@@ -32,13 +34,12 @@ But then you would have to take your chances with a dangerous terrain test.
 == Reverse movement of War Engine units
 
 You may move a War Engine unit backwards, though not as fast.
-Make the move in the same way as for forward movement, except that you must pay an additional 5 cm of the unit's movement.
-{blank}[TODO: Is a mere 5 cm reduction for a reverse move too liberal, should it be a bit more restrictive than this? Also, should we allow reverse movement for all war engines, or only for a sub-set such as super-heavy tanks (as implied in the original note from Firepower #1)?]
+Make the move in the same way as for forward movement, except that you may not move the unit more than 5 cm.
 
 == Movement of War Engine units in the Assault phase
 
 In the Assault phase, you may choose *not* to move units in a War Engine detachment -- but then you may not initiate close combats or firefights with them either.
-Otherwise, War Engine units are subject to the same movement restrictions in the Assault phase as other units.
+Otherwise, War Engine units are subject to the same movement restrictions in the Assault phase as other units, but their own movement restrictions take priority.
 
 == War engine units and dangerous terrain tests
 
