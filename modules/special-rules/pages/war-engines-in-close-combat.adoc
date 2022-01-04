@@ -39,15 +39,17 @@ Roll for critical damage as normal.
 
 == War Engine detachments in close combat
 
-* When a War Engine detachment is in close combat and some of the War Engine units are not in base contact with the enemy, do not add +1 for the units not in base contact.
-Instead, add a number equal to half the current Damage Capacity of these War Engines.
-This does not prevent the War Engine units from supporting other close combats.
+When you add up Assault values for a War Engine detachment that is in close combat, do not add +1 for 'supporting fire' from each unit in the detachment that is within 15 cm of the enemy but not in base contact.
+Instead, add a number equal to half the current Damage Capacity of each such War Engine unit.
+
+To be clear, such units may still also support *other detachments* as we explain at xref:war-engines-in-support-of-close-combats.adoc[].
 
 [NOTE.e40k]
+.Supporting fire from War Engine units 
 ====
-In _Epic 40,000_, there were rules for War Engines to support *other* close combats, but no rules for supporting a close combat that the War Engine detachment was in. We have adapted the rules for supporting other close combats.
+_Epic 40,000_ gives rules for War Engine units in support of other detachments that are in close combat -- but does not give similar rules to apply the same logic for supporting fire within their own detachment (so only the usual +1 would apply, which seems odd).
+We make both situations plain.
 ====
-
 .War engines in close combat
 ====
 {blank}[TODO: Need a suitable graphic.]
