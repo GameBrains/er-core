@@ -1,12 +1,12 @@
 :project-name: <i>Epic Remastered</i>
-= {project-name} main content
+= {project-name} -- Core
 // URIs:
 :uri-project: https://epicremastered.com/
 :uri-playbook: https://github.com/GameBrains/er-playbook
 
 == About this repository
 
-This repository contains the source code for the main content component of the {uri-project}[{project-name}] project.
+This repository contains the source code for the main content component of the {uri-project}[{project-name}] project, which we call _Core_.
 
 For more about the project and its components, see the `README.adoc` file in the {uri-playbook}[playbook repository].
 
