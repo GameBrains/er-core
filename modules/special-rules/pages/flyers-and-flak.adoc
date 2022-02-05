@@ -72,4 +72,4 @@ NOTE: You may not use super-heavy weapon effects -- such as {macro-weapon} -- fo
 
 .Related information
 * xref:flak.adoc[]
-* xref:battles:drop-pods.adoc[]
+* xref:battles:scenario-special-rules:drop-pods.adoc[]

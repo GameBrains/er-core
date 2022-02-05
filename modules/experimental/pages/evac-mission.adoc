@@ -64,7 +64,7 @@ This means that, for example:
 * If you're forced to leave any of the cargo detachment units behind, then leave all Blast markers it has in place.
 * If you leave no units behind, remove all Blast markers from the detachment with no penalty.
 +
-From the next turn onwards, treat the evacuated detachment as though it is a Flyer detachment in reserve (see xref:battles:reserves.adoc[]).
+From the next turn onwards, treat the evacuated detachment as though it is a Flyer detachment in reserve (see xref:battles:scenario-special-rules:reserves.adoc[]).
 When you get a successful roll to check it's 'arrival', it is ready to return to combat -- you can use an Air Transport mission to return them to the battlefield, if and when you have {transport-x} Flyer units available in the Ready state.
 +
 {blank}[TODO: This seems needlessly complex and limiting, especially given that in the average game it is already pretty difficult to get a Flyer detachment to appear in a battle more than once. Consider some adjustments.]

@@ -3,7 +3,7 @@
 Check the game end conditions for the scenario that you are playing.
 So long as the state of your game in the End phase does not match the game end conditions then you will proceed to play another turn.
 
-Each scenario in the xref:battles:battles.adoc[] section specifies game end conditions, along with the conditions that determine who is the winner -- the rightful claimant to glorious victory on this day!
+Each scenario in the xref:battles::index.adoc[] component specifies game end conditions, along with the conditions that determine who is the winner -- the rightful claimant to glorious victory on this day!
 
 _(Just don't gloat too much -- no-one likes a gloater any more than they like a bad loser... be a good sport and you'll attract fun opponents.)_
 

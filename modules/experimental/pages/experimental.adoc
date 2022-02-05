@@ -1,3 +1,3 @@
 = Experimental
 
-This is where we experiment with new or alternate rules for {project-name} Core.
+This is where we experiment with new or alternate rules for the _Core_ component.

@@ -17,6 +17,6 @@ Where your unit has the {tunneller} ability:
 * {tunneller} units do not count as drop pods in Planetary Assault scenarios, but you may deploy them with their free transport vehicle.
 
 .Related information
-* xref:battles:drop-pods.adoc[]
-* xref:battles:reserves.adoc[]
-* xref:battles:planetary-assault.adoc[]
+* xref:battles:scenario-special-rules:drop-pods.adoc[]
+* xref:battles:scenario-special-rules:reserves.adoc[]
+* xref:battles:scenarios:battle-6-planetary-assault.adoc[]

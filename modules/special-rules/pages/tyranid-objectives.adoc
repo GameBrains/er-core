@@ -13,4 +13,4 @@ When you field a Tyranid army, apply these rules:
 * After you destroy an enemy detachment, add its morale value to your army morale in the Rally phase.
 
 .Related information
-* xref:battles:army-morale.adoc[]
+* xref:battles:scenario-special-rules:army-morale.adoc[]

@@ -6,7 +6,5 @@ nav:
 - modules/ROOT/nav.adoc
 - modules/main-rules/nav.adoc
 - modules/special-rules/nav.adoc
-- modules/battles/nav.adoc
-- modules/armies/nav.adoc
 - modules/more/nav.adoc
 - modules/experimental/nav.adoc

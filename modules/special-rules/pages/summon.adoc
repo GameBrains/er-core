@@ -17,6 +17,6 @@ However, your opponent lost more army morale points from their total last turn t
 {blank}[TODO: Can we choose to deploy daemon detachments as normal, rather than summon them? The original text seems to imply this, but is ambiguous -- if indeed there is a choice then we should it explicit. Also, it isn't clear whether the Summon rule should apply only to the Black Crusades list, or whether it should also apply to the Daemonic Legions list where the original text seems to imply that they deploy in the normal way.]
 
 .Related information
-* xref:battles:reserves.adoc[]
-* xref:battles:army-morale.adoc[]
-* xref:battles:drop-pods.adoc[]
+* xref:battles:scenario-special-rules:reserves.adoc[]
+* xref:battles:scenario-special-rules:army-morale.adoc[]
+* xref:battles:scenario-special-rules:drop-pods.adoc[]

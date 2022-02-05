@@ -12,4 +12,4 @@ Where your unit has the {medic} ability:
 
 .Related information
 
-* xref:battles:army-morale.adoc[]
+* xref:battles:scenario-special-rules:army-morale.adoc[]

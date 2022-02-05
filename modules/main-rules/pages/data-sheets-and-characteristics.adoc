@@ -2,7 +2,7 @@
 
 == Data sheets
 
-Each unit is defined by a set of characteristics that tell you how fast and how dangerous it is in game terms. These characteristics are detailed in the unit's *data sheet*. You will find data sheets for every unit in the game at xref:armies:armies.adoc[].
+Each unit is defined by a set of characteristics that tell you how fast and how dangerous it is in game terms. These characteristics are detailed in the unit's *data sheet*. You will find data sheets for every unit in the game at xref:armies::index.adoc[].
 
 .Data sheets
 ====

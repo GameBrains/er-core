@@ -1,9 +1,0 @@
-= Battles
-
-So — you've got your armies together, you've read the rules and you're ready for a game. In order to play a game the players must do a bit of preparation first. Here's the check list:
-
-* Pick a scenario, and decide who will be the attacker and who will be the defender, if this is required by the scenario.
-* Sort out the troops that make up the armies.
-* Set up the terrain on the wargames table.
-* Deploy the armies.
-* Fight the battle!

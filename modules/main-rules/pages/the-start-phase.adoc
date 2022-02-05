@@ -27,6 +27,6 @@ Take Leadership tests in the normal way, where the rules require it for you to s
 Gather the five Initiative counters and place them in the mug (or other receptacle).
 
 .Related information
-* xref:battles:reserves.adoc[]
+* xref:battles:scenario-special-rules:reserves.adoc[]
 * xref:special-rules:flyers.adoc[]
 * xref:the-initiative.adoc[]

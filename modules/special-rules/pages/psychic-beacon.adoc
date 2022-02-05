@@ -13,5 +13,5 @@ When you field an army that includes detachments that have the {psychic-beacon} 
 {blank}[TODO: Is this the right interpretation? Seems like it might be overpowered -- include a single small Genestealer Cult detachment, and all Mycetic Swarms in a Tyranid army get to deploy on turn 1, no roll for Reserves required...]
 
 .Related information
-* xref:battles:drop-pods.adoc[]
-* xref:battles:reserves.adoc[]
+* xref:battles:scenario-special-rules:drop-pods.adoc[]
+* xref:battles:scenario-special-rules:reserves.adoc[]

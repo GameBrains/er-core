@@ -13,7 +13,7 @@ Detachments are comprised of either Infantry and/or Vehicle units, War Engine un
 
 [NOTE]
 ====
-We detail the armies of various factions -- and the detachments and units that you may field with them -- at xref:armies:armies.adoc[].
+We detail the armies of various factions -- and the detachments and units that you may field with them -- at xref:armies::index.adoc[].
 
 Within the restrictions of the particular army and detachment list you choose, you can tailor each of your detachments to include whatever number of units you like from the available selection.
 ====

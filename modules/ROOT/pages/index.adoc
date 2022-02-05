@@ -8,44 +8,36 @@ This is an unofficial project that *reworks* and *extends* the third edition of 
 Date of this build: {docdate}
 
 == Developmental state 
-This project is now more than a proof of concept, but still very early in development -- perhaps what some would call a *pre-ALPHA* state.
 
-* You'll find some draft content, but much that we will need is missing.
+This project is now well under way, but we still have lots to do.
+
+We're not yet ready to treat any part of the project as 'stable' -- we treat all content as 'draft' and subject to change at any moment.
+So, we don't spend the time to document the changes (except at a high level as occasional updates in the Facebook group -- see <<Discussion>>).
+
 * Important features are likely to change without notice.
 * Styling is minimal.
 
-.Why do it this way?
-****
-Speaking from long experience as a professional technical writer: It is usually hard, even exhausting, to deliver and maintain documentation projects.
-
-This is partly because such projects don't scale well, given the inherent complexity and the typical tools and processes that are in use:
-
-* 'More collaborators' doesn't always equate to 'faster and better progress'.
-Yes, collaboration is great in principle, because you share effort and pool ideas and expertise.
-But in practice, collaboration also makes it even harder to keep track of work, to ensure consistency and to reach agreement.
-* Feedback from the wider community is hard to get and to track in a way that makes it easy to discuss and act upon.
-* Even when the writing and editing is 'done', the actual publishing usually involves many labour-intensive steps.
-
-And in spite of all the marketing buzz words, most software for writing projects doesn't actually help much with these challenges.
-
-So, while we could work *hard* with word processors/wikis/forums/whatever, I'd much rather we work *smart*...
-
-So, I've chosen technologies that facilitate a 'docs like code' approachfootnote:[For a general idea of what this means, see link:https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/[Why we use a ‘docs as code’ approach for technical documentation^] (external URL).].
-I think that this will help to bring vitality to the project in a way that traditional writing tools and processes just can't.
-
-_Eric Weston_
-****
-
 == Content
-Many of the topics in this project are empty placeholders at the moment.
-But there are some early drafts of content in progress, including:
 
-* *xref:core::index.adoc[Core]* component: The main body of the project.
-At the moment this contains drafts of introductory, main rules and some special rules content.
-* *xref:contributors-guide::index.adoc[Contributor's Guide]* component: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
-//* *xref:experimental::index.adoc[Experimental]* component: An area where we can work on ideas, away from the Core component.
+The content components in this project are as follows:
 
-TIP: To switch between components, use the component menu at the bottom of the navigation panel.
+* *xref:core::index.adoc[Core]*: The main body of the project.
+This is now functionally complete, but there are still improvements we'd like to make and details to attend to.
+Among other things, we need to create and add graphics and images -- especially where explanatory examples are concerned.
+* *xref:battles::index.adoc[]*: Mostly contains empty placeholder topics at present.
+* *xref:armies::index.adoc[]*: Mostly contains empty placeholder topics at present.
+* *xref:contributors-guide::index.adoc[Contributor's Guide]*: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
+
+TIP: You'll find links to the main components in the main navigation menu.
+You can switch between all components at the component menu (at the bottom of the secondary navigation panel).
+
+Also important to the project, but not held in the same repositories and hosting:
+
+* *link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit datasheets.
+Ian Wood continues to adapt and extend this from the open source 'Army Forge' software to suit our needs, and to populate it with new and revised content.
+We intend that the builder and the _Armies_ component will mirror each other.
+
+TIP: You can also find a link for the builder under the *Resources* item in the main navigation menu.
 
 == Output formats
 This web output is the only format at this time.
@@ -58,11 +50,13 @@ However, when the project reaches a suitable level of maturity and stability the
 By that time, hopefully the underlying technology will evolve to make PDF output somewhat easier than it would be right nowfootnote:[This project uses Antora, a static site generator for Asciidoc.].
 
 == Current limitations for usability
-* There is no search function.
-However, we should be able to integrate one soon -- working examples exist.
-* There are no 'relationship table' or 'broken link checker' features for authors, so helpful 'related information' links may pose a challenge for long-term maintenance and consistency.
-//* The *Edit this page* function is inactive.
-//I expect it to provide an easy route for people to contribute in future.
+
+* There is no search function yet.
+We will add this in due course, either when we get some help from a developer or make time to figure it out with some trial and error.
+* There are no 'relationship table' or 'broken link checker' features for authors -- this makes it much harder for us to maintain links effectively and to find and fix broken links.
+We may be able to integrate some tools to help with this in future, but they will require some advanced coding and so we may need help.
+* We don't use the *Edit this page* function yet.
+We hope to use this in future to provide an easy way for enthusiasts to suggest edits to fix typographical errors, unclear text, and so on.
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
 
 == Discussion

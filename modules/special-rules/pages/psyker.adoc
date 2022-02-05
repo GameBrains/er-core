@@ -17,4 +17,4 @@ Where your unit has the {psyker} ability:
 For more about this, see xref:main-rules:work-out-close-combat-bonuses.adoc[] and xref:main-rules:work-out-firefight-bonuses.adoc[].
 
 .Related information
-* xref:battles:fate-cards.adoc[]
+* xref:battles:get-ready-to-play:draw-fate-cards.adoc[]
