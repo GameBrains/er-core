@@ -1,0 +1,157 @@
+= Example Army Layout 1
+
+Using an example block as the main detachment container.
+
+
+.Imperial Guard infantry detachment all bullets
+====
+[discrete]
+== *Command*
+
+*Detachment base cost: 25 points*
+
+---
+You must choose 1-3 command squads.
+
+*Infantry Command Squad:*
+
+* 1 Command Squad _(IG unit)_: 22 points
+** *or* Command Squad with Captain _(IG w. Hero)_: 26 points
+** *or* Command Squad with Primaris Psyker _(IG w. Psyker)_: 32 points
+** *or* Command Squad with Captain and Psyker _(IG w. Hero, Psyker)_: 36 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Rough Rider Command Squad:*
+
+* 1 Rough Rider Command _(IG w. Assault, Cavalry)_: 24 points
+** *or* Rough Rider Command with Captain _(IG w. Assault, Cavalry, Hero)_: 29 points
+** *or* Rough Rider Command with Primaris Psyker _(IG w. Assault, Cavalry, Psyker)_: 34 points
+** *or* Rough Rider Captain with Psyker _(IG w. Assault, Cavalry, Hero, Psyker)_: 39 points
+
+
+[discrete]
+== *Main Force*
+Choose up to *3* squads from the following list for each command squad chosen.
+
+*Imperial Guard Squad:*
+
+* 2 Imperial Guard units: 14 points
+** *or* 1 Imperial Guard unit and 1 Imperial Guard unit w. Commissar _(IG unit w. Hero)_: 18 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Imperial Guard Heavy Weapon Squad:*
+
+* 1 Heavy Weapon unit _(IG w. Heavy Weapons)_: 15 points
+** *or* 1 Heavy Weapon unit w. Commissar _(IG w. Heavy Weapons, Hero_): 19 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Rough Rider Squad:*
+
+* 1 Rough Rider unit _(IG w. Assault, Cavalry)_: 9 points
+
+NOTE: Rough Riders as a Main Force choice require at least one Rough Rider Command.
+
+[discrete]
+== *Support*
+Make up to *9* choices from the following list, but you may not exceed the number of choices made on the Main Force list.
+
+*Imperial Guard Squad (Support):*
+
+* 2 Imperial Guard units: 14 points
+** *or* 1 Imperial Guard unit and 1 Imperial Guard unit w. Commissar _(IG unit w. Hero)_: 18 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Imperial Guard Heavy Weapon Squad (Support):*
+
+* 1 Heavy Weapon unit _(IG w. Heavy Weapons)_: 15 points
+** *or* 1 Heavy Weapon unit w. Commissar _(IG w. Heavy Weapons, Hero_): 19 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Rough Rider Squad (Support):*
+
+* 1 Rough Rider unit _(IG w. Assault, Cavalry)_: 9 points
+
+
+====
+
+---
+---
+---
+
+.Imperial Guard infantry detachment fewer bullets
+====
+[discrete]
+== Command
+
+You must choose 1-3 command squads.
+
+*Infantry Command Squad:*
+
+1 Command Squad _(IG unit)_: 22 points
+
+* *or* Command Squad with Captain _(IG w. Hero)_: 26 points
+* *or* Command Squad with Primaris Psyker _(IG w. Psyker)_: 32 points
+* *or* Command Squad with Captain and Psyker _(IG w. Hero, Psyker)_: 36 points
+
+*Add* 1 Chimera: 15 points
+
+---
+*Rough Rider Command Squad:*
+
+* 1 Rough Rider Command _(IG w. Assault, Cavalry)_: 24 points
+** *or* Rough Rider Command with Captain _(IG w. Assault, Cavalry, Hero)_: 29 points
+** *or* Rough Rider Command with Primaris Psyker _(IG w. Assault, Cavalry, Psyker)_: 34 points
+** *or* Rough Rider Captain with Psyker _(IG w. Assault, Cavalry, Hero, Psyker)_: 39 points
+
+[discrete]
+== Main Force
+Choose up to *3* squads from the following list for each command squad chosen.
+
+*Imperial Guard Squad:*
+
+* 2 Imperial Guard units: 14 points
+** *or* 1 Imperial Guard unit and 1 Imperial Guard unit w. Commissar _(IG unit w. Hero)_: 18 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Imperial Guard Heavy Weapon Squad:*
+
+* 1 Heavy Weapon unit _(IG w. Heavy Weapons)_: 15 points
+** *or* 1 Heavy Weapon unit w. Commissar _(IG w. Heavy Weapons, Hero_): 19 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Rough Rider Squad:*
+
+* 1 Rough Rider unit _(IG w. Assault, Cavalry)_: 9 points
+
+NOTE: Rough Riders as a Main Force choice require at least one Rough Rider Command.
+
+[discrete]
+== Support
+Make up to *9* choices from the following list, but you may not exceed the number of choices made on the Main Force list.
+
+*Imperial Guard Squad (Support):*
+
+* 2 Imperial Guard units: 14 points
+** *or* 1 Imperial Guard unit and 1 Imperial Guard unit w. Commissar _(IG unit w. Hero)_: 18 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Imperial Guard Heavy Weapon Squad (Support):*
+
+* 1 Heavy Weapon unit _(IG w. Heavy Weapons)_: 15 points
+** *or* 1 Heavy Weapon unit w. Commissar _(IG w. Heavy Weapons, Hero_): 19 points
+* *Add* 1 Chimera: 15 points
+
+---
+*Rough Rider Squad (Support):*
+
+* 1 Rough Rider unit _(IG w. Assault, Cavalry)_: 9 points
+
+====

@@ -1,1 +1,8 @@
 * xref:armies.adoc[]
+** xref:sidebar-test-01.adoc[]
+** xref:example-test-01.adoc[]
+** xref:example-test-02.adoc[]
+** xref:openblock-test-01.adoc[]
+** xref:table-test-01.adoc[]
+** xref:table-test-02.adoc[]
+** xref:table-test-03.adoc[]
