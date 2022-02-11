@@ -4,4 +4,21 @@ This is where they will start their attack run.
 . Flyers have an unlimited move, but you can only move them in the direction that they face when you place them.
 So, you must move all Flyer units that are in the same detachment in parallel courses, in formation.
 Enemy units can Snap Fire at them as they move -- but in contrast to ground units, Snap Fire does not halt the movement of Flyer units.
-. You may halt movement of Flyer units at any point -- halt them all at the same time.
+. You may halt movement of Flyer detachments at any point -- halt all the Flyer units in the detachment at the same time.
+
+==== Snap Fire against Flyers
+
+When rolling for Snap Fire against Flyers:
+
+. Roll a D6 for each unit Snap Firing.
+. Discard any dice which scored less than the Flyer detachment's lowest Armour value.
+. Allocate the remaining dice, one at a time, to any unit which was in Snap Fire range. You may choose which individual die you allocate in each case.
+. You must allocate every successful die to a unit, whether or not it can actually affect that unit.
+. You may only allocate one die to each eligible unit in the Flyer detachment until all eligible units have been allocated a die already. Then you may allocate each unit a second die. If all the units have been allocated two dice you may allocate a third, and so on.
+. Discard any dice that scored lower than the Armour value of the unit they have been allocated to.
+. Roll each remaining die again:
+.. If the result scores equal to or greater than the unit's Armour value then the Flyer suffers a hit.
+If this destroys the unit then remove it as normal, otherwise it is temporarily damaged and must abort its mission.
+We say that it is *driven off*.
+.. If the result scores less than the Flyer unit's Armour value then the flyer is not hit -- but it is temporarily damaged, and it must abort its mission.
+We say that it is *driven off*.

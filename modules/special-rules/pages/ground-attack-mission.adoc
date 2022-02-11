@@ -18,7 +18,7 @@ include::partial$deploy-and-make-the-attack-run.adoc[]
 But note:
 * You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.
 Ignore any intervening terrain though, as it is far below the altitude of the flyers.
-* Otherwise, the attack works just like a normal shooting attack -- so for example,as long as you meet the other requirements then you may split fire between multiple target detachments.
+* Otherwise, the attack works just like a normal shooting attack -- so for example, as long as you meet the other requirements then you may split fire between multiple target detachments.
 . After you resolve the shooting effects, the attack is complete and the flyers disengage.
 They go to full power and rapidly climb out of reach of ground-based weapons.
 Remove them from the play area and place them in the Rearm state.
