@@ -31,4 +31,10 @@ Flyers can never take part in close combats or firefights in any way, and can ne
 
 {blank}[TODO: This sounds absolute, but there is the edge case of landed transport aircraft. Consider new wording -- or perhaps a simple footnote to acknowledge this exception would suffice. Although I suppose we might also need to clarify some points of detail about this edge case somewhere in this section.]
 
-{blank}[IJW reply: the Air Transport and Evac missions don't leave Flyer models on the table - they disengage and are removed from the table as soon as the cargo units have embarked/disembarked. So Flyer units can never be on the table in the Assault phase.
+{blank}[IJW reply: the Air Transport and Evac missions don't leave Flyer models on the table - they are immediately removed from the table after the cargo units have embarked/disembarked. So Flyer units are never on the table in the Assault phase.
+
+== Flyers and HQs
+
+* As Flyers are always outside the playing area at the start of each phase, you cannot measure ranges to their HQ to see if they are in command.
+Instead, Flyers are only in command if they are in the same readiness state as their HQ.
+* If a Flyer detachment loses its HQ and all its remaining units are outside the playing area, you must choose the next most senior remaining unit in the chain of command as the new HQ, even though you cannot usually choose an Out of Command unit.

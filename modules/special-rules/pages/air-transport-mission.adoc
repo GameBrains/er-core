@@ -8,8 +8,13 @@ The Air Transport mission is much like the Ground Attack mission, except that Fl
 Keep the cargo units outside the play area along with the transport Flyer units until you are ready to deploy them.
 * If your available {transport-x} flyer units don't have enough transport capacity to carry all of the units in your ground detachment in one trip, then choose which units to leave behind for the current mission.
 You can bring them into play on a future turn.
-** Be sure to include the detachment HQ in the first wave unless you want all of your units to be out of command!
-** Similarly, disembark later arrivals within 30 cm of whichever unit is currently the HQ unit, unless you want them to be out of command.
+
+[TIP]
+.Split detachments and HQs
+====
+* Be sure to include the detachment HQ in the first wave unless you want all of your units to be out of command!
+* Similarly, disembark later arrivals within 30 cm of whichever unit is currently the HQ unit, unless you want them to be out of command.
+====
 
 == Declare the mission
 
@@ -37,13 +42,13 @@ But note:
 +
 {blank}[TODO: Are there any awkward edge cases where this 'measure from the centre' restriction poses a problem? If yes, what is the best alternative given the variety of base and model sizes that is even more variable than with ground units?]
 +
-{blank}[IJW reply: Yes, there are. A 60 mm round base (fairly common for stability purposes) makes it impossible to disembark units on 20 mm square or 25 mm round bases, and even strip bases barely squeeze in by a few mm. There are also 115 x 90 mm oval bases that are sometimes used for SM Landing Craft, or bigger Ork Landa conversions. I suggest using the standard disembarkation rules,  and add a restriction that any landing Flyers can't place their bases within 10 cm of enemy units, or within terrain impassible to vehicles.]
+{blank}[IJW reply: Yes, there are. A 60 mm round base (fairly common for stability purposes) makes it impossible to disembark units on 20 mm square or 25 mm round bases, and even strip bases barely squeeze in by a few mm. There are also 115 x 90 mm oval bases that are sometimes used for SM Landing Craft, or bigger Ork Landa conversions. I suggest using the standard disembarkation rules, and add a NOTE saying that landing Flyers can't be placed within 10 cm of enemy units and are Vehicles for terrain purposes.]
 * Give the disembarked detachment whatever orders you prefer, except that you may not choose Overwatch or March orders.
 To be clear, you *may* put the detachment on Assault orders and make assault moves in the usual way this turn.
 +
 {blank}[TODO: When *exactly* should we complete the move with the disembarked detachment? Presumably we should complete the move as part of the mission, either now or immediately after we remove the flyers in the next step?]
 +
-{blank}[IJW reply: It doesn't make any difference, there is no 'sequence' of that kind in 3rd.]
+{blank}[IJW reply: I'm not sure it matters, 3rd doesn't really have discrete steps inside a player's part of the Movement phase.]
 . After you complete the disembarkation, the transport flyers take off, and all the flyers disengage.
 They go to full power and rapidly climb out of reach of ground-based weapons.
 Remove the flyers from the play area and place them in the Rearm state.

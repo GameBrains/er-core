@@ -7,17 +7,17 @@ They may also need repairs if they are driven off -- that is, if they are damage
 
 Keep track of your flyers' state of readiness, as follows:
 
-* *Repair*: Place Flyer units in this state when they are temporarily damaged but not destroyed (see xref:hits-on-flyers.adoc[]).
+* *Repair*: Place Flyer units in this state when they are temporarily damaged but not destroyed (see xref:damaging-flyers.adoc[]).
 You must leave them here for one full turn -- then, at the end of that turn, move them to the Rearm state.
 * *Rearm*: Place Flyer units in this state after they have performed a mission, or they missed a turn in the Repair state.
 You must leave them here for one full turn -- then, at the end of that turn, move them to the Ready state.
 
-NOTE: If a Flyer detachment contains units in different states, you can keep units in the Rearm state until all units in the detachment are in the Rearm state.
+NOTE: To allow Out of Command Flyer units to get back in command, any Out of Command Flyer units in the Rearm state must remain in the Rearm state until they are in command again.
 
-* *Ready*: Place Flyer units here at the start of the game, and after they leave the Rearm state.
-In the Start phase, you may choose to declare a flyer mission for any detachment that has its HQ in the Ready state.
+* *Ready*: Place Flyer units here at the start of the game, after they leave the Rearm state, and when they arrive from Reserves.
+In the Start phase, you must declare a flyer mission for any detachment that has its HQ in the Ready state.
 
-{blank}[IJW editing note: I've changed this to 'HQ', because having a Flyer unit in Ready state is not enough. Also, after checking the source material I've made it more explicit that declaring (and performing) a mission is optional.]
+{blank}[IJW editing note: I've changed this to 'HQ', because having a Flyer unit in Ready state is not enough. Also, after checking the source material I've made it explicit that declaring a mission is obligatory.]
 
 TIP: The original _Epic 40,000_ cardboard airfields provide a visually appealing way to keep track.
 Of course you could make your own equivalent, which could be a nice hobby project, or you can just use another method such as pen and paper.

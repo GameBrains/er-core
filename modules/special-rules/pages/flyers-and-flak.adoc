@@ -47,13 +47,17 @@ Each result that is equal to or higher than the Flyer unit's Armour value scores
 NOTE: You can split the firepower of the {flak} unit between several target Flyer units if you wish.
 +
 * Or, where your {flak} unit has a super-heavy weapon, you can apply the effects as normal.
-* Once you have rolled a D6 for each point of the {flak} unit's Firepower, or you've used its super-heavy weapon, you cannot shoot again with this unit for the rest of the turn.
+* Once you have rolled a D6 for each point of the {flak} unit's Firepower, or you've used all of its super-heavy weapon shots, you cannot shoot again with this unit for the rest of the turn.
 
 {blank}[TODO: This wording implies the player could split {flak} unit firepower between multiple waves of flyers in the phase. Is this intended and important? If not, then it'd be simpler to phrase and to track in-game if we say that once you've made a Flak attack with a unit you can't shoot with it again that turn.]
 
+{blank}[IJW reply: Yes this appears to be intended, and is definitely important. If you weren't allowed to hold back shots then a small sacrificial detachment could 'clear out' a corridor through the Flak before your heavier Flyers arrive.]
+
+{blank}[IJW reply: I've expanded the super-heavy weapon reference to include 'shots', as there may be future WE weapon mounts that count as being on Flak orders and have more than one super-heavy weapon shot.]
+
 .Flak, with a super-heavy weapon
 ====
-The Eldar Fire Prism has a single {macro-weapon} attack.
+The Eldar Fire Prism has a single {macro-weapon} shot.
 This means that you will roll one die, and you'll hit on a result of 4+ — regardless of the flyer's Armour value.
 ====
 

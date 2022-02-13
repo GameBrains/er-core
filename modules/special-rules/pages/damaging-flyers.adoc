@@ -1,0 +1,19 @@
+= Damaging flyers
+
+Successful rolls against airborne flyers work differently to other units -- we use an extra step to determine what actually happens.
+
+---
+
+Each time you damage a Flyer unit, roll another D6:
+
+* If the result scores equal to or greater than the Flyer unit's Armour value then the Flyer suffers a hit.
+If this destroys the unit then remove it as normal for a destroyed unit, otherwise it is *driven off*.
+* If the result scores less than the Flyer unit's Armour value then the flyer is not destroyed -- but it is temporarily damaged, and is *driven off*.
+
+A Flyer that is *driven off* must abort its mission.
+Remove it from play immediately, and place it in the Repair state.
+It must miss the next turn under repair, and then you can move it to the Rearm state (in which it will miss another turn before it is Ready).
+
+{blank}[TODO: How should we adjust this to accommodate new possibilities for Remastered -- War Engine flyers and/or flyers that have the (currently experimental) {robust} ability?]
+
+{blank}[IJW reply: the change in terminology should fix this.]

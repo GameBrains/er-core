@@ -37,22 +37,12 @@ Start with the whichever unit has the highest Intercept value.
 Where Intercept values are the same:
 * Units that are on an Intercept mission attack first.
 * If both detachments are on an Intercept mission, alternate between the two sides -- the player who has the Initiative goes first.
-. Resolve each attack individually and then move on to the next attack. (See _Gunnery attacks against Flyers_)
+. Resolve each attack individually as follows:
+.. Roll a number of hit dice equal to the Gunnery value of your attacking unit.
+Each die that scores equal to or more than the Armour value of the target unit will damage or destroy the unit.
+.. Resolve damage immediately and then move on to the next attack. (See xref:damaging-flyers.adoc[])
 . Once all of the flyers involved in the aerial combat have attacked -- or been driven off or destroyed before they can attack -- remove the interceptor models from the play area.
 . If any of the target units remain in the playing area then your opponent can now continue with the mission that you interrupted with the interception.
-
-==== Gunnery attacks against Flyers
-
-When rolling for Gunnery attacks against Flyers:
-
-. Roll dice equal to the Gunnery value of your attacking unit.
-. Discard any dice that scored lower than the Armour value of the target unit.
-. Roll each remaining die again:
-.. If the result scores equal to or greater than the target's Armour value then the Flyer suffers a hit.
-If this destroys the unit then remove it as normal, otherwise it is temporarily damaged and must immediately abort its mission.
-We say that it is *driven off*.
-.. If the result scores less than the target's Armour value then the flyer is not hit -- but it is temporarily damaged, and it must immediately abort its mission.
-We say that it is *driven off*.
 
 === Multiple combats
 
