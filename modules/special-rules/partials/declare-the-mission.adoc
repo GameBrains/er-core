@@ -1,1 +1,5 @@
 You must declare each Flyer detachment that you wish to perform this mission at the appropriate step in the Start phase.
+
+In order to declare this mission:
+
+* The detachment HQ must be in the Ready state.

@@ -2,10 +2,10 @@
 
 The Air Transport mission is much like the Ground Attack mission, except that Flyer units that have the {transport-x} ability sacrifice some shooting while they swoop in and disembark cargo units.
 
-== Requirements for the mission
+== Flyers and {transport-x}
 
 * You can use Flyer units that have the {transport-x} ability to carry valid cargo units from other detachments in your army.
-Keep the cargo units outside the play area along with the transport Flyer units until you are ready to deploy them.
+Keep the carried detachment outside the play area along with the Flyer detachment until you are ready to deploy them.
 * If your available {transport-x} flyer units don't have enough transport capacity to carry all of the units in your ground detachment in one trip, then choose which units to leave behind for the current mission.
 You can bring them into play on a future turn.
 
@@ -20,6 +20,8 @@ You can bring them into play on a future turn.
 
 include::partial$declare-the-mission.adoc[]
 
+* The detachment must have at least one unit with Transport (X) in the Ready state.
+
 == Perform the mission
 
 === Deploy, and make the attack run
@@ -32,23 +34,26 @@ NOTE: If a {transport-x} Flyer unit is destroyed while airborne then any embarke
 
 . Make ranged attacks with the Flyer units, just like you would with ground units in the Shooting phase -- use the Firepower values of the Flyer units and any super-heavy weapons that they have.
 But note:
-* You can draw a line of fire only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.
-Ignore any intervening terrain though, as it is far below the altitude of the flyers.
+* You can attack only where an enemy unit lies within range *and* inside the forward 90° arc of your Flyer unit.
+Flyer units do not need line of fire, as they can see over all intervening units and terrain.
 * Otherwise, the attack works just like a normal shooting attack -- so for example, as long as you meet the other requirements then you may split fire between multiple target detachments.
 * *Halve the Firepower* of each {transport-x} Flyer unit that will disembark cargo units (and roll to lock on with any super-heavy weapons).
 . After you resolve the shooting effects, disembark the cargo units just like you would with a ground transportation unit.
-But note:
-* In each case, measure from the *centre* of the transport flyer's flight stand.
+//But note:
+//* In each case, measure from the *centre* of the transport flyer's flight stand.
 +
 {blank}[TODO: Are there any awkward edge cases where this 'measure from the centre' restriction poses a problem? If yes, what is the best alternative given the variety of base and model sizes that is even more variable than with ground units?]
 +
-{blank}[IJW reply: Yes, there are. A 60 mm round base (fairly common for stability purposes) makes it impossible to disembark units on 20 mm square or 25 mm round bases, and even strip bases barely squeeze in by a few mm. There are also 115 x 90 mm oval bases that are sometimes used for SM Landing Craft, or bigger Ork Landa conversions. I suggest using the standard disembarkation rules, and add a NOTE saying that landing Flyers can't be placed within 10 cm of enemy units and are Vehicles for terrain purposes.]
-* Give the disembarked detachment whatever orders you prefer, except that you may not choose Overwatch or March orders.
-To be clear, you *may* put the detachment on Assault orders and make assault moves in the usual way this turn.
+{blank}[IJW reply: Yes, there are. A 60 mm round base (fairly common for stability purposes) makes it impossible to disembark units on 20 mm square or 25 mm round bases, and even strip bases barely squeeze in by a few mm. There are also 115 x 90 mm oval bases that are sometimes used for SM Landing Craft, or bigger Ork Landa conversions. I suggest using the standard disembarkation rules, and add a NOTE saying that landing Flyers can't be placed within 10 cm of enemy units and are Vehicles for terrain purposes.
++
+Plus there are players that use scenic bases rather than traditional flight stands, so there is no central column to measure from anyway.]
+
+*  You can only give the disembarking detachment normal orders or Assault orders.
 +
 {blank}[TODO: When *exactly* should we complete the move with the disembarked detachment? Presumably we should complete the move as part of the mission, either now or immediately after we remove the flyers in the next step?]
 +
 {blank}[IJW reply: I'm not sure it matters, 3rd doesn't really have discrete steps inside a player's part of the Movement phase.]
+
 . After you complete the disembarkation, the transport flyers take off, and all the flyers disengage.
 They go to full power and rapidly climb out of reach of ground-based weapons.
 Remove the flyers from the play area and place them in the Rearm state.

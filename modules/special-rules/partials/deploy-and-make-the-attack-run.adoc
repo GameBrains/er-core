@@ -17,3 +17,9 @@ When rolling for Snap Fire against Flyers:
 . You may only allocate one die to each eligible unit in the Flyer detachment until all eligible units have been allocated a die already. Then you may allocate each unit a second die. If all the units have been allocated two dice you may allocate a third, and so on.
 . Discard any dice that scored lower than the Armour value of the unit they have been allocated to.
 . Each remaining die will damage or destroy the unit. See xref:damaging-flyers.adoc[].
+
+[NOTE.e40k]
+.Hit allocation and Flyers
+====
+The _Epic 40,000_ rules did not include any hit allocation rules for Snap Fire against Flyers. We have adapted the rules used for the Shooting phase.
+====
