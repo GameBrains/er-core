@@ -20,7 +20,7 @@ You can bring them into play on a future turn.
 
 include::partial$declare-the-mission.adoc[]
 
-* The detachment must have at least one unit with Transport (X) in the Ready state.
+* The flyer detachment must have at least one {transport-X} unit available in the Ready state.
 
 == Perform the mission
 
