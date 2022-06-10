@@ -1,0 +1,23 @@
+= Short/Medium/Long Range
+
+`Unit modifier`
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {short-range} ability, apply this change relative to its base unit:
+
+* Change its Range value to `15 cm`.
+
+---
+
+Where your unit has the {medium-range} ability, apply this change relative to its base unit:
+
+* Change its Range value to `30 cm`.
+
+---
+
+Where your unit has the {long-range} ability, apply this change relative to its base unit:
+
+* Change its Range value to `45 cm`.

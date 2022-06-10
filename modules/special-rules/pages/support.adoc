@@ -1,0 +1,21 @@
+= Support
+
+`Data sheet modifier`
+
+These units are specially adapted from their original design, to specialise in close support of other units.
+
+[NOTE.e40k]
+====
+This ability expands the experimental _Epic 40,000_ {siege} ability by increasing the unit's Firepower value to a minimum of 2, without requiring a separate ability.
+====
+
+---
+
+Where your unit has the {support} ability, apply these changes relative to its base unit:
+
+* Change its Range value to `15 cm`.
+* Add the {close-support} special ability.
+* If its Firepower value is less than 2, increase the value to 2.
+
+.Related information
+* xref:special-rules:close-support.adoc[]

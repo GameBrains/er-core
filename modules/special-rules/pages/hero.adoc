@@ -1,6 +1,6 @@
 = Hero
 
-`Data sheet modifier` `Unit ability`
+`Data sheet modifier`
 
 These units contain exceptional individuals who excel at warcraft.
 As befits their heroic status, they usually have the best equipment too.
@@ -12,7 +12,7 @@ Common examples include Infantry units like the Space Marine Captain and the Ork
 Where your unit has the {hero} ability, apply these changes relative to its base unit:
 
  * Double its Assault value.
- * Apply the {save} ability rules.
+ * Add the {save} ability.
 
 .Related information
 * xref:save.adoc[]

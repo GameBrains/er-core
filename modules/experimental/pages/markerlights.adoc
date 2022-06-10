@@ -1,0 +1,17 @@
+= Markerlights
+
+`Unit ability`
+
+xxx
+
+---
+
+Where your unit has the {markerlights} ability:
+
+* Any enemy detachment currently within 30 cm and Line of Fire of the unit is marked.
+* This does not apply if the unit's detachment is Broken, or Marched this turn.
+
+
+.Related information
+* xref:target-lock.adoc[]
+* xref:guided.adoc[]

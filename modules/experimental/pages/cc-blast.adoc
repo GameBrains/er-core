@@ -1,0 +1,15 @@
+= CC Blast
+
+`Detachment ability`
+
+Some forces are able to disrupt their close combat opponents, for example by infecting them with Nurgle's Rot.
+
+---
+
+Where your detachment has the {cc-blast} ability and takes part in a close combat:
+
+* After rolling to resolve the close combat, every enemy detachment that was in base contact with your detachment gains one Blast marker. This effect does not stack with other detachments with the {cc-blast} ability.
+
+.Related information
+* xref:main-rules:blast-markers.adoc[]
+* xref:main-rules:roll-to-resolve-the-close-combat.adoc[]

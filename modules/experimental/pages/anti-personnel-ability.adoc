@@ -5,6 +5,11 @@
 
 A unit with this ability has weaponry that is optimised to be especially effective against infantry and light vehicles.
 
+[NOTE.e40k]
+====
+This data sheet modifier ability has been replaced with the more flexible {has-super-heavy-weapon} ability.
+====
+
 ---
 
 Where your unit has the {anti-personnel} ability:
@@ -12,4 +17,5 @@ Where your unit has the {anti-personnel} ability:
 * Do not use the unit's Firepower value in the usual way -- apply the {anti-personnel} super-heavy weapon rules instead.
 
 .Related information
+* xref:special-rules:has-super-heavy-weapon.adoc[]
 * xref:anti-personnel-weapon.adoc[]

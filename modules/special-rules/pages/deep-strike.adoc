@@ -1,0 +1,20 @@
+= Deep Strike
+
+`Unit ability`
+
+These units are capable of rapid insertion onto the battlefield via Drop Pods, Teleportation, and other methods.
+
+---
+
+Where all units in a detachment have the {deep-strike} ability:
+
+* The detachment can deploy using the Drop Pods rule, regardless of scenario.
+
+[NOTE]
+====
+This ability is used where a limited number of units in a detachment are capable of arriving via the Drop Pods rule, for example Swooping Hawks in an Eldar Warhost, or Crisis Battlesuits in a Tau Hunter Cadre.
+====
+
+.Related information
+
+* xref:battles:scenario-special-rules:drop-pods.adoc[]

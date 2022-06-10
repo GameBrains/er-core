@@ -1,8 +1,13 @@
 = Tank Destroyer
 
-`Data sheet modifier` `Unit ability`
+`Data sheet modifier`
 
 These units are specially adapted from their original design, to replace their main armament with a more potent anti-armour capability.
+
+[NOTE.e40k]
+====
+This data sheet modifier ability has been replaced with the more flexible {has-super-heavy-weapon} ability.
+====
 
 ---
 
@@ -12,4 +17,5 @@ Where your unit has the {tank-destroyer} ability, apply these changes relative t
 
 .Related information
 
+* xref:special-rules:has-super-heavy-weapon.adoc[]
 * xref:special-rules:macro-weapon.adoc[]

@@ -8,10 +8,12 @@ Genestealer Patriarchs emit a strong psychic signal, which guides the parent Hiv
 
 When you field an army that includes detachments that have the {psychic-beacon} ability:
 
-* You can deploy any Mycetic Swarms that you have in the first turn, rather than roll for their arrival as Reserves.
-+
-{blank}[TODO: Is this the right interpretation? Seems like it might be overpowered -- include a single small Genestealer Cult detachment, and all Mycetic Swarms in a Tyranid army get to deploy on turn 1, no roll for Reserves required...]
+* For each undestroyed detachment with the {psychic-beacon} ability, you may re-roll one failed Reserves roll per turn.
+
+[NOTE.e40k]
+====
+The _Epic 40,000_ version of this ability was exceptionally cheap and powerful, enabling all Mycetic Swarm detachments in the army to automatically arrive in turn 1. This revised version scales with the number of detachments with the ability.
+====
 
 .Related information
-* xref:battles:scenario-special-rules:drop-pods.adoc[]
 * xref:battles:scenario-special-rules:reserves.adoc[]

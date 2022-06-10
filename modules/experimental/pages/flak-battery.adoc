@@ -1,6 +1,6 @@
 = Flak Battery
 
-`Data sheet modifier` `Unit ability`
+`Data sheet modifier`
 
 These units are specially adapted from their original design, so that they can engage enemy flyers.
 
@@ -9,8 +9,9 @@ These units are specially adapted from their original design, so that they can e
 Where your unit has the {flak-battery} ability, apply these changes relative to its base unit:
 
 * Halve its Firepower value (round up).
-* Apply the {flak} special ability rules.
+* Add the {flak} special ability.
 // TODO: I'm not sure about the best phrasing here, or for other cases like Hero and Self-propelled Artillery. "Apply the {X} special ability" might be taken to imply that we should add the ability text to the data sheet, which is a bit redundant. Perhaps "Apply the {X} special ability rules" is slightly better in this regard? Or perhaps we can find a still better way to present this?
+// IJW note: The special ability should be added to the unit, so that it can appear in the final calculated data sheet.
 
 .Related information
 * xref:special-rules:flak.adoc[]

@@ -1,0 +1,16 @@
+= Psychic Focus
+
+`Detachment ability`
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your detachment has the {psychic-focus} ability:
+
+* The detachment has a free Psychic Blast card with a value of 0, that can only be used by this detachment. When you use this card, roll a D6. On a roll of 4+ the card takes effect.
+* Psychic Fate Cards can be played from any unit in the detachment, not just from {psyker} units.
+
+.Related information
+* xref:battles:get-ready-to-play:draw-fate-cards.adoc[]
+* xref:special-rules:psyker.adoc[]

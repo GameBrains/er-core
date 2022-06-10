@@ -1,0 +1,16 @@
+= Guided
+
+`Unit ability`
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit–or weapon system–has the {guided} ability:
+
+* When shooting at a marked enemy detachment, the unit–or weapon system–has Range 60 cm and the {artillery} special ability.
+
+
+.Related information
+* xref:markerlights.adoc[]
+* xref:special-rules:artillery.adoc[]

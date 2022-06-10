@@ -1,0 +1,35 @@
+= Has +{super-heavy weapon}+
+
+`Data sheet modifier`
+
+These units are specially adapted from their original design, to replace their main armament with a more specialised weapon.
+
+---
+
+[NOTE]
+.+{super-heavy weapon}+
+====
++{super-heavy weapon}+ is a placeholder for one of the types of super-heavy weapon, such as {barrage} or {macro-weapon}.
+====
+
+Where your unit has the {shootier} ability, apply these changes relative to its base unit:
+
+* Replace its Firepower value with the listed super-heavy weapon.
+
+.{has-death-ray}
+====
+The Mekboy Speedsta with Death Ray unit is a Mekboy Speedsta unit with added {has-death-ray} ability.
+
+* While the base unit has Firepower `1`, the Mekboy Speedsta with Death Ray has a {death-ray} super-heavy weapon.
+====
+
+.{has-macro-weapon}
+====
+The Leman Russ Vanquisher unit is a Leman Russ unit with added {has-macro-weapon} ability.
+
+* While the base unit has Firepower `3`, the Leman Russ Vanquisher has a {macro-weapon} super-heavy weapon.
+====
+
+.Related information
+
+* xref:special-rules:super-heavy-weapons.adoc[]

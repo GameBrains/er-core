@@ -1,0 +1,14 @@
+= Manoeuvrable
+
+`Unit ability`
+
+These War Engine units are unusually manoeuvrable.
+
+---
+
+Where your unit has the {manoeuvrable} ability:
+
+* You may make any number of free turns when moving the unit.
+
+.Related information
+* xref:special-rules:war-engine-movement.adoc[]

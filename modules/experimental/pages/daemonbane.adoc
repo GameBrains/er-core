@@ -1,0 +1,30 @@
+= Daemonbane
+
+`Detachment ability`
+
+These detachments specialise in fighting Psykers and Daemons.
+
+---
+
+== Daemonbane in standard games
+
+Where your detachment has the {daemonbane} ability:
+
+* Any unit in the detachment increases their Assault value by 1 while they are in base contact with an enemy {psyker} or Daemon.
+
+== Daemonbane in scenarios
+
+In special scenarios where you want detachments with {daemonbane} to be more powerful, use these alternative rules, but you will need to make the {daemonbane} detachments more expensive, or apply a discount to enemy Daemon detachments.
+
+Where your detachment has the {daemonbane} ability:
+
+* Any unit in the detachment doubles their Assault value while they are in base contact with an enemy {psyker} or Daemon.
+* When this detachment shoots, any Daemon or {psyker} units in the target detachment(s) have their Armour value reduced by 1.
+
+[NOTE]
+====
+Daemons include any unit in a Daemon detachment, and any Daemon Prince.
+====
+
+.Related information
+* xref:special-rules:psyker.adoc[]

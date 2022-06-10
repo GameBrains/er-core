@@ -9,13 +9,17 @@ Of course, riders and their mounts vary enormously -- humans on horses, denizens
 Cavalry forgo some of the advantages of infantry -- they find it difficult to take cover, to move through buildings or rubble, and so on.
 But they make up for this with speed.
 
+[NOTE.e40k]
+====
+In comparison to _Epic 40,000_, we've separated the Armour bonus part of the _Cavalry_ ability into our new {armour-1} ability.
+====
+
 ---
 
 Where your unit has the {cavalry} ability, apply these changes relative to its base unit:
 
 * Make its first Speed value two times (2x) the *first* Speed value of the base unit.
 * Make its second Speed value three times (3x) the *first* Speed value of the base unit.
-* Add +1 to its Armour value.
 * Change the unit type to Vehicle (`VEH`).
 
 .{cavalry} data sheet modifiers

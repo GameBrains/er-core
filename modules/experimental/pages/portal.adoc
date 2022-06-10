@@ -1,0 +1,40 @@
+= Portal
+
+`Unit ability`
+
+Some races, such as Necrons and Eldar, can open portals onto the battlefield.
+
+---
+
+[NOTE]
+====
+This ability allows the player to keep detachments in reserve, and have them arrive on the game table through a unit or objective with the {portal} special ability.
+====
+
+== Portal Reserves
+
+For each unit or objective in your list with the {portal} ability:
+
+* One detachment that can fit through that {portal} can be kept in Reserves, regardless of scenario.
+** When this detachment arrives from Reserves, it can only arrive on the table through a {portal}. If there are no {portal} units or objectives on the game table, or arriving from Reserves this turn, the detachment stays in Reserves this turn.
+** If all {portal} units or objectives in your list have been destroyed, all these detachments are destroyed.
+
+== Portal
+
+Where your unit or objective has the {portal} ability:
+
+* Detachments in Portal Reserves can move onto the table through the {portal}.
+* Detachments moving out of a {portal} measure their movement from the edge of the {portal} unit's or objective's base.
+* Detachments moving out of a {portal} are limited to Advance orders or Assault orders.
+* Each {portal} can be used once per turn.
+* Allied units that move into base contact with a {portal} unit or objective can be removed from the game table and immediately continue moving out of a different {portal}.
+* Portals list the units that can use the {portal} in brackets:
+** (INF) allows Infantry units to use the {portal}.
+** (Walker) allows Vehicle units with the {walker} special ability to use the {portal}.
+** (4+) allows Vehicle units with an Armour value of 4+ or lower to use the {portal}.
+** These can be combined, for example (INF, Walker).
+
+
+
+.Related information
+* xref:battles:scenario-special-rules:reserves.adoc[]
