@@ -5,7 +5,7 @@ When you reach the "Shoot with war engines" step in the turn sequence then it is
 This is usually a moment of high drama and excitement -- will your carefully positioned behemoths live up to their fearsome reputations and lay waste to the enemy?
 
 War engines make excellent mobile weapons platforms -- but their sheer mass means that they can't point their weapons in any direction at a moment's notice.
-The rules here add some extra detail to reflect these features. 
+The rules here add some extra detail to reflect these features.
 
 == Weapon mounts
 
@@ -15,6 +15,8 @@ Each weapon mount also has:
 
 * A weapon system that defines the weapon effects that exist in this mount (<<Weapon systems>>).
 * A weapon arc that restricts the line of fire of the weapon system (<<Weapon arcs>>).
+
+Critical damage effects that destroy or restrict a weapon mount apply to the whole weapon system carried in that location.
 
 We list each weapon mount that a War Engine has in a separate line on the unit's data sheet, along with the corresponding weapon system details and weapon arc.
 
@@ -31,7 +33,7 @@ We've integrated various references to make robust definitions that help us to m
 Each weapon system provides one of these weapon combinations:
 
 * One or more shots from a ranged super-heavy weapon.
-Multiple shots from such a weapon system are just like multiples of that super-heavy weapon, except that we treat the weapon system like a single super-heavy weapon for various game effects.
+Multiple shots from such a weapon system are just like multiples of that super-heavy weapon.
 * A close combat super-heavy weapon, such as {close-combat-weapons} or {ripper-tentacles}.
 In some cases the weapon system may combine this with a basic Firepower value.
 * A basic Firepower value.
@@ -42,9 +44,7 @@ Where you can choose from a wide range of weapon systems, we leave empty boxes o
 === Game effects of weapon systems
 
 * While you may split fire to target different detachments with different weapon systems, you may not split fire with the effects of a single weapon system.
-* For critical damage results, apply effects that destroy or restrict a weapon to the whole weapon system.
-{blank}[TODO: If we reference 'weapon system' rather than 'weapon' on every data sheet in future, perhaps we can do away with this bullet point?]
-* Where a weapon system does not have a basic Firepower value, treat it like a single super-heavy weapon:
+* Where a weapon system does not have a basic Firepower value, treat it like a set of super-heavy weapons:
 
 include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
