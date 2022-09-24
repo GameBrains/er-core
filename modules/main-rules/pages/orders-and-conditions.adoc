@@ -30,7 +30,6 @@ Movement phase:: You may make a move with units in this detachment.
 Shooting phase:: You may shoot with the units in this detachment -- but you must *halve* their total Firepower.
 Assault phase:: You *must* move the units in this detachment, and you may initiate a close combat or firefight.
 For the full detail, see xref:assault-moves-and-charges.adoc[].
-+
 
 === March
 image::Orders_March.png[role="left"]
