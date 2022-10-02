@@ -2,13 +2,12 @@
 
 `Detachment ability`
 
-{blank}[TODO: add introductory text.]
-
+Some detachments contain many low-level Psykers, not powerful enough to have the usual effect in an assault.
 ---
 
 Where your detachment has the {psychic-focus} ability:
 
-* The detachment has a free Psychic Blast card with a value of 0, that can only be used by this detachment. When you use this card, roll a D6. On a roll of 4+ the card takes effect.
+* The detachment has a free Psychic Blast card with a value of 0, that can only be used by this detachment.
 * Psychic Fate Cards can be played from any unit in the detachment, not just from {psyker} units.
 
 .Related information

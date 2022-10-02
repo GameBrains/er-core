@@ -2,39 +2,54 @@
 
 `Unit ability`
 
-Some races, such as Necrons and Eldar, can open portals onto the battlefield.
+Some races, such as Necrons and Eldar, can open portals directly onto the battlefield.
 
 ---
 
 [NOTE]
 ====
-This ability allows the player to keep detachments in reserve, and have them arrive on the game table through a unit or objective with the {portal} special ability.
+This ability allows the player to keep detachments off-table, and have them arrive on the game table through a unit—or objective—with the {portal} special ability.
 ====
 
 == Portal Reserves
 
-For each unit or objective in your list with the {portal} ability:
+If your army includes any units—or objectives—with the {portal} ability:
 
-* One detachment that can fit through that {portal} can be kept in Reserves, regardless of scenario.
-** When this detachment arrives from Reserves, it can only arrive on the table through a {portal}. If there are no {portal} units or objectives on the game table, or arriving from Reserves this turn, the detachment stays in Reserves this turn.
-** If all {portal} units or objectives in your list have been destroyed, all these detachments are destroyed.
+* Detachments that can fit through a {portal} can be kept off-table, regardless of scenario.
+** If the {portal} lists 'Auto' in brackets, detachments in {portal-reserves} do not follow the standard rules for Reserves. Instead, from turn two onwards, they **must** disembark from a {portal} in the Movement phase unless there are not enough Portals available, or none of the available Portals can disembark all the units in the detachment.
+** If the {portal} lists 'Roll' in brackets, detachments in {portal-reserves} follow the standard rules for Reserves. When a detachment arrives from {portal-reserves}, it **must** disembark from a {portal}. If there are not enough Portals available, or none of the available Portals can disembark all the units in the detachment, the detachment stays in {portal-reserves} and rolls again next turn.
+** If all {portal} units—or objectives—in your army have been destroyed, or the game has ended, all your detachments still in {portal-reserves} are destroyed
+** If the only Portals available cannot disembark all the units of a detachment in {portal-reserves}, you can choose to disembark the detachment anyway. The units that cannot disembark are immediately destroyed, and the detachment gains a Blast marker.
 
 == Portal
 
 Where your unit or objective has the {portal} ability:
 
-* Detachments in Portal Reserves can move onto the table through the {portal}.
-* Detachments moving out of a {portal} measure their movement from the edge of the {portal} unit's or objective's base.
+* Detachments in {portal-reserves} **must** move onto the table through a {portal}.
+* Detachments moving out of a {portal} disembark using the normal xref:main-rules:transportation.adoc[] rules.
 * Detachments moving out of a {portal} are limited to Advance orders or Assault orders.
-* Each {portal} can be used once per turn.
-* Allied units that move into base contact with a {portal} unit or objective can be removed from the game table and immediately continue moving out of a different {portal}.
-* Portals list the units that can use the {portal} in brackets:
+* Each {portal} can be used by one detachment per turn.
+* In the Movement phase, allied units can embark 'into' a {portal} but **must** immediately disembark from a different {portal}.
+* Portals list the units that can embark/disembark through the {portal} in brackets, for example:
 ** (INF) allows Infantry units to use the {portal}.
 ** (Walker) allows Vehicle units with the {walker} special ability to use the {portal}.
 ** (4+) allows Vehicle units with an Armour value of 4+ or lower to use the {portal}.
-** These can be combined, for example (INF, Walker).
+** These can be combined, for example (INF, Walker, 4+, Auto).
 
+[NOTE]
+====
+When you disembark units from an objective with the {portal} special ability you obviously cannot pay 5 cm of its movement, so you only pay 5 cm from the movement of each disembarking unit.
+====
 
+.Necron Portals
+====
+A Necron army list includes a Monolith with {portal} (INF, 4+, Auto), and a Warbarque with {portal} (INF, Walker, 4+, Auto). This means that:
+
+* A detachment of Necron Warriors (Infantry), Lokhust Destroyers (Infantry), and Tomb Blades (Vehicles with Armour 4+) can be kept back in {portal-reserves} and can arrive via either {portal}.
+* A detachment of Necron Immortals (Infantry), Canoptek Spyders (Vehicles with Walker), and a C'Tan Shard (Vehicle with Walker) can be kept back in {portal-reserves} and can arrive via the Warbarque's {portal}.
+** If you choose to disembark this detachment from the Monolith's smaller {portal}, the Canoptek Spyders and the C'Tan Shard are destroyed and the remaining Immortals gain a Blast marker.
+====
 
 .Related information
 * xref:battles:scenario-special-rules:reserves.adoc[]
+* xref:battles:main-rules:transportation:reserves.adoc[]

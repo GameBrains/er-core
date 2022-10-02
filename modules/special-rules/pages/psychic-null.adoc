@@ -8,7 +8,7 @@ These units disrupt nearby Psykers.
 
 Where your unit has the {psychic-null} ability:
 
-* The unit cannot be targeted by psychic Fate Cards such as Psychic Blast.
+* The unit cannot be targeted by Psychic Fate Cards such as Psychic Blast.
 * Any {psyker} unit in base contact with this unit cannot use psychic Fate Cards such as Psychic Blast.
 * Any {psyker} unit in base contact with this unit does not count towards which side has more Psykers in an assault.
 

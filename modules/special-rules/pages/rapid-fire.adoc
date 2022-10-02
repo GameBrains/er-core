@@ -2,12 +2,17 @@
 
 `Unit ability`
 
-{blank}[TODO: add introductory text.]
+These units specialise in laying down heavy fire as soon as they take up position.
+
+[NOTE.e40k]
+====
+In comparison to _Epic 40,000_, we've changed the {rapid-fire} ability from doubling the Firepower value to increasing it by 1. This doesn't affect any of the original units with {rapid-fire} as they all had Firepower 1, but this allows us to add new units with Firepower 2 or higher and {rapid-fire}, without them becoming overpowered.
+====
 
 ---
 
 Where your unit has the {rapid-fire} ability:
 
-* Double its Firepower value when its is on Overwatch orders.
+* Add +1 to its Firepower value when it is on Overwatch orders.
 
 NOTE: Units that have the {heavy-weapons} ability cannot use the {rapid-fire} ability.
