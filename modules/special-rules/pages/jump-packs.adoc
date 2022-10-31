@@ -6,8 +6,9 @@ These units are equipped with jet-powered devices or other technology, wings, or
 The resultant speed and mobility usually makes for good assault troops.
 
 ---
+== Jump Packs added to base units
 
-Where your unit has the {jump-packs} ability, apply this change relative to its base unit:
+Where your unit uses the {jump-packs} ability to modify a base unit, apply these changes relative to its base unit:
 
 * Make its first Speed value two times (2x) the *first* Speed value of the base unit.
 * Make its second Speed value three times (3x) the *first* Speed value of the base unit.
@@ -21,14 +22,28 @@ The Eldar Swooping Hawks unit is an Aspect Warrior unit with added {jump-packs} 
 
 include::main-rules:partial$charge-moves-split-speed.adoc[]
 
----
+== Jump Packs and unique units
+
+Where your unit has the {jump-packs} ability and is a base unit:
+
+* Use the Speed values listed in the unit's data sheet.
++
+[NOTE.e40k]
+====
+Due to the way _Epic Remastered_ displays the final modified Speed values in datasheets, we needed to explain how the {jump-packs} ability works for units that do not have a separate base unit, for example Tau Crisis Suits or Revenant Scout Titans.
+====
+
+== Jump Packs and movement
 
 Where your unit has the {jump-packs} ability, apply these rules during the game:
 
-* While you move the unit, you can ignore the effects of terrain as long as you don't end any individual move in the terrain.
-Of course you can never end a move in impassable terrain; but if you end a move in dangerous terrain then you must make a dangerous terrain test for the unit.
+* You may ignore terrain when you move the unit — though you must still take a dangerous terrain test whenever the unit starts a move in dangerous terrain, and whenever it ends a move in dangerous terrain. You may not place the unit on impassable terrain.
 +
-{blank}[TODO: This appears to be slightly different to other units, who must test if they start *or* end their move in dangerous terrain. Is this difference clear enough?]
+[NOTE.e40k]
+.Dangerous terrain tests
+====
+In _Epic 40,000_ it wasn't clear whether units with the {jump-packs} ability ignored the standard rules for starting a move in dangerous terrain. After discussion with players, we have applied the standard rules.
+====
 * When you make a charge move with the unit, you can move it over enemy units that are already in base contact with your other units.
 +
 [NOTE.e40k]
