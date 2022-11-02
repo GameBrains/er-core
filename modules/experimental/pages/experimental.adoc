@@ -1,3 +1,4 @@
 = Experimental
+:reftext: _Experimental_
 
 This is where we experiment with new or alternate rules for the _Core_ component.

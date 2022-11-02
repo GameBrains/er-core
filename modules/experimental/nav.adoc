@@ -1,4 +1,4 @@
-* xref:experimental.adoc[_Experimental_]
+* xref:experimental.adoc[]
  ** xref:experimental-super-heavy-weapons.adoc[]
   *** xref:anti-personnel-weapon.adoc[]
  ** xref:experimental-special-abilities.adoc[]

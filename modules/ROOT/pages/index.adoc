@@ -1,4 +1,5 @@
 = Welcome to the {project-name} project
+:reftext: Welcome
 :experimental:
 
 This is an unofficial project that *reworks* and *extends* the third edition of Games Workshop's _Epic_ game system, _Epic 40,000_.
