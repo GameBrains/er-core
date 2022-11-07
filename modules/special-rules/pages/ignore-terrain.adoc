@@ -14,7 +14,8 @@ This allows for more flexibility in unit design.
 
 Where your unit has the {ignore-terrain} ability:
 
-* You may ignore terrain when you move the unit, and you never take dangerous terrain tests for it. You may not place the unit on impassable terrain.
+* When you move the unit, you may ignore terrain and you never take dangerous terrain tests for the unit.
+However, you still may not place the unit on impassable terrain.
 
 .Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]

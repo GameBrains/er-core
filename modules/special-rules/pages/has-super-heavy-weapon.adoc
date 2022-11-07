@@ -7,27 +7,28 @@ These units are specially adapted from their original design, to replace their m
 ---
 
 [NOTE]
-.+{super-heavy weapon}+
+.The +{super-heavy weapon}+ placeholder
 ====
-+{super-heavy weapon}+ is a placeholder for one of the types of super-heavy weapon, such as {barrage} or {macro-weapon}.
-====
-
-Where your unit has the {shootier} ability, apply these changes relative to its base unit:
-
-* Replace its Firepower value with the listed super-heavy weapon.
-
-.{has-death-ray}
-====
-The Mekboy Speedsta with Death Ray unit is a Mekboy Speedsta unit with added {has-death-ray} ability.
-
-* While the base unit has Firepower `1`, the Mekboy Speedsta with Death Ray has a {death-ray} super-heavy weapon.
++{super-heavy weapon}+ is a placeholder that we use here to explain a number of related abilities.
+You won't see it in the army lists and unit data sheets -- rather, you'll see the name of a specific super-heavy weapon, as in {has-barrage} or {has-macro-weapon}.
 ====
 
-.{has-macro-weapon}
-====
-The Leman Russ Vanquisher unit is a Leman Russ unit with added {has-macro-weapon} ability.
+Where your unit has the {has-super-heavy-weapon} ability, apply these changes relative to its base unit:
 
-* While the base unit has Firepower `3`, the Leman Russ Vanquisher has a {macro-weapon} super-heavy weapon.
+* Replace its Firepower value with the corresponding super-heavy weapon.
+
+.The {has-death-ray} ability
+====
+The Mekboy Speedsta with Death Ray unit is a Mekboy Speedsta base unit with added {has-death-ray} ability.
+
+* The base unit has Firepower `1`, whilst the Mekboy Speedsta with Death Ray unit has a {death-ray} super-heavy weapon instead.
+====
+
+.The {has-macro-weapon} ability
+====
+The Leman Russ Vanquisher unit is a Leman Russ base unit with added {has-macro-weapon} ability.
+
+* The base unit has Firepower `3`, whilst the Leman Russ Vanquisher unit has a {macro-weapon} super-heavy weapon instead.
 ====
 
 .Related information

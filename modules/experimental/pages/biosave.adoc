@@ -2,7 +2,7 @@
 
 `Unit ability`
 
-These units have unusual levels of resilience to critical damage that would cripple most Titans.
+These units are unusually resilient; they often remain functional in spite of damage that would cripple most war engines.
 
 ---
 

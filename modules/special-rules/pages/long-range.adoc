@@ -1,14 +1,14 @@
 = Long Range
 
-`Unit modifier`
+`Data sheet modifier`
 
-{blank}[TODO: add introductory text.]
+These units differ from their original design in some way that increases the effective range of their shooting.
 
 ---
 
 Where your unit has the {long-range} ability, apply this change relative to its base unit:
 
-* Add `15 cm` to its Range value.
+* Increase its Range value by 15 cm.
 
 .Related information
 * xref:short-range.adoc[]

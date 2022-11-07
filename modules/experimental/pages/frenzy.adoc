@@ -8,8 +8,9 @@ The troopers in this detachment are filled with bloodlust and the joy of battle.
 
 Where your detachment has the {frenzy} ability:
 
-* The detachment has the {stubborn} ability during the Assault phase, so you may re-roll failed Leadership tests.
-* In close combats, the detachment gets a +1 bonus to the assault resolution roll. This bonus does not stack with the bonus from other detachments with {frenzy}, or with the bonus for having more {psyker} units.
+* During the Assault phase *only*: The detachment has the {stubborn} ability, so you may re-roll Leadership tests that you fail for this detachment.
+* In close combats, the detachment gets a +1 bonus to the assault resolution roll.
+This bonus does *not* stack with the bonus from other detachments that also have the {frenzy} ability, nor with the bonus for having more {psyker} units.
 
 .Related information
 * xref:special-rules:stubborn.adoc[]

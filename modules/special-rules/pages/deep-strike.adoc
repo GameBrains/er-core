@@ -6,9 +6,9 @@ These units are capable of rapid insertion onto the battlefield via Drop Pods, T
 
 ---
 
-Where all units in a detachment have the {deep-strike} ability:
+Where *every* unit in your detachment has the {deep-strike} ability:
 
-* The detachment can deploy using the Drop Pods rule, regardless of scenario.
+* You can use the Drop Pods rule to deploy this detachment, regardless of the scenario.
 
 [NOTE]
 ====
