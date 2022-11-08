@@ -4,6 +4,13 @@
 
 Some forces are able to disrupt their firefight opponents, for example by using the sonic weapons of Slaaneshi Noise Marines.
 
+[NOTE]
+====
+'CC Blast' and 'FF Blast' are temporary names -- we hope to settle on better names for these abilities in future.
+In a perfect world, these abilities will have names that are evocative and yet which also neatly hint at the relatedness of their distinct yet similar gameplay effects.
+Easier said than done!
+====
+
 ---
 
 Where your detachment has the {ff-blast} ability and takes part in a firefight:
