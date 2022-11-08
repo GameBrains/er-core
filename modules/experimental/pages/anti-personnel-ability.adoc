@@ -7,7 +7,7 @@ A unit with this ability has weaponry that is optimised to be especially effecti
 
 [NOTE.e40k]
 ====
-This data sheet modifier ability has been replaced with the more flexible {has-super-heavy-weapon} ability.
+We've replaced this ability with the more flexible {has-anti-personnel} ability.
 ====
 
 ---
