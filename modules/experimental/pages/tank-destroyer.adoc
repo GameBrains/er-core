@@ -6,7 +6,7 @@ These units are specially adapted from their original design, to replace their m
 
 [NOTE.e40k]
 ====
-This data sheet modifier ability has been replaced with the more flexible {has-super-heavy-weapon} ability.
+We've replaced this ability with the more flexible {has-macro-weapon} ability.
 ====
 
 ---
