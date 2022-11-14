@@ -8,7 +8,8 @@
 
 Where your unit has the {destiny-not-fate} ability:
 
-* You can use Psychic Blast Fate cards as if the unit were a {psyker}, but instead of inflicting a hit, remove Blast markers from the unit's detachment. When the card is used, remove as many Blast markers as the Psychic Blast's value.
+* This unit allows you to use 'Psychic Attack (X) — Psychic Blast' Fate cards in a special way.
+Instead of the usual effect, remove (X) number of Blast markers from your unit's detachment.
 
 
 .Related information
