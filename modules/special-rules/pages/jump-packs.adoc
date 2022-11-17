@@ -30,7 +30,7 @@ Where your unit is *not* a base unit, and has the {jump-packs} ability, apply th
 
 .{jump-packs} data sheet modifiers
 ====
-The Eldar Swooping Hawks unit is an Aspect Warrior base unit with added {jump-packs} ability.
+The Eldar Swooping Hawks unit is an Aspect Warriors base unit with added {jump-packs} ability.
 
 *  The base unit has a Speed value of `15/30 cm`, whilst the Swooping Hawks unit has `30/45 cm` instead -- that is, `(15 x 2)/(15 x 3) cm`.
 ====
