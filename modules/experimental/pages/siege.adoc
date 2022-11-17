@@ -7,7 +7,7 @@ They have particular value in operations that involve assaults on fortifications
 
 [NOTE.e40k]
 ====
-This data sheet modifier ability has been replaced with the more powerful {support} ability.
+We've replaced this ability with the more flexible {support} ability.
 ====
 
 ---

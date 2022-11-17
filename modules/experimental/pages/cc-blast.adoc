@@ -4,6 +4,13 @@
 
 Some forces are able to disrupt their close combat opponents, for example by infecting them with Nurgle's Rot.
 
+[NOTE]
+====
+'CC Blast' and 'FF Blast' are temporary names -- we hope to settle on better names for these abilities in future.
+In a perfect world, these abilities will have names that are evocative and yet which also neatly hint at the relatedness of their distinct yet similar gameplay effects.
+Easier said than done!
+====
+
 ---
 
 Where your detachment has the {cc-blast} ability and takes part in a close combat:

@@ -16,12 +16,10 @@ You may not shoot the unit at targets which are closer than the minimum.
 
 .{self-propelled-artillery} data sheet modifier
 ====
-The Ork Gun Trukks (Lobba) unit is a Buggy unit with added {self-propelled-artillery} ability.
+The Ork Gun Trukk (Lobba) unit is a Buggy base unit with added {self-propelled-artillery} ability.
 
-* While the base unit has a Range value of `30 cm`, that of the Gun Trukks (Lobba) unit `30 to 60 cm`.
-* The Gun Trukks (Lobba) unit has the {artillery} special ability.
-// TODO: Similar to note at Flak Battery, can we find a better way to phrase how one ability incorporates the effects of another ability? I don't think that they should both be on the data sheet.
-// As with Flak Battery, Hero, and Siege, it should be added so that it can appear on the final calculated data sheet.
+* Whilst the base unit has a Range value of `30 cm`, that of the Gun Trukk (Lobba) unit is `30 to 60 cm`.
+* The Gun Trukk (Lobba) unit has the {artillery} ability.
 ====
 
 .Related information

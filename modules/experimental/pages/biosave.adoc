@@ -8,14 +8,7 @@ These units are unusually resilient; they often remain functional in spite of da
 
 Where your unit has the {biosave} ability:
 
-* When the unit suffers a hit that causes critical damage, from any source, roll a D6. On a roll of 4+, ignore the critical damage and do not roll on the Critical Damage Chart. The Damage Capacity of the War Engine unit is still reduced by one by the hit.
-
-[NOTE]
-====
-This ability works in a similar way to the {save} ability, but only against critical damage.
-====
-
+* When the unit suffers critical damage, from any source, roll a D6: On a roll of 4+, ignore the critical damage -- that is, do not roll on the Critical Damage Table.
 
 .Related information
 * xref:special-rules:war-engine-critical-damage.adoc[]
-* xref:special-rules:save.adoc[]
