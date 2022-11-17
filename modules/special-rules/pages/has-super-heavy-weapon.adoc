@@ -17,13 +17,6 @@ Where your unit has the {has-super-heavy-weapon} ability, apply these changes re
 
 * Replace its Firepower value with the corresponding super-heavy weapon.
 
-.The {has-death-ray} ability
-====
-The Mekboy Speedsta with Death Ray unit is a Mekboy Speedsta base unit with added {has-death-ray} ability.
-
-* The base unit has Firepower `1`, whilst the Mekboy Speedsta with Death Ray unit has a {death-ray} super-heavy weapon instead.
-====
-
 .The {has-macro-weapon} ability
 ====
 The Leman Russ Vanquisher unit is a Leman Russ base unit with added {has-macro-weapon} ability.

@@ -13,8 +13,8 @@ This ability is only for use when included in a specific scenario, as agreed by 
 
 Where your detachment has the {daemonbane} ability:
 
-* Any unit in the detachment doubles their Assault value while they are in base contact with an enemy {psyker} or Daemon.
-* When this detachment shoots, any Daemon or {psyker} units in the target detachment(s) have their Armour value reduced by 1.
+* In close combat, double the Assault value of each unit in the detachment that is in base contact with an enemy Daemon or {psyker} unit.
+* When you shoot with this detachment, apply a -1 modifier to the Armour value of each Daemon unit and each {psyker} unit in the target detachment.
 
 [NOTE]
 ====

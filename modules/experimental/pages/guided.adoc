@@ -6,10 +6,10 @@
 
 ---
 
-Where your unit—or weapon system—has the {guided} ability:
+Where your unit -- or weapon system -- has the {guided} ability:
 
-* When shooting at a marked enemy detachment, the unit—or weapon system—has Range 60 cm and the {artillery} special ability.
-
+* When you shoot this unit/weapon system at a target detachment that is currently marked by the {markerlights} ability then:
+** While you resolve this shooting, this unit/weapon system gains a Range value of `60 cm` and the {artillery} ability.
 
 .Related information
 * xref:markerlights.adoc[]
