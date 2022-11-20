@@ -15,13 +15,8 @@ NOTE: Units that have the {artillery} ability benefit from the Indirect Fire rul
 A unit is 'covered by' or 'under' the template when any one of these conditions is true:
 
 * Infantry unit: The *centre* of the unit's base is under the template or touched by the edge of the template.
+footnote:[{e40k-diff}In {e40k}, coverage of Infantry units depends on the number of individual models on the base. We use the centre of the Infantry unit's base instead, to account for the wide variation in number of models that players place on their Infantry unit bases.]
 * Vehicle or War Engine unit: *Any part* of the unit's base is under the template or touched by the edge of the template.
-
-[NOTE.e40k]
-====
-In _Epic 40,000_, coverage of Infantry units depends on the number of individual models on the base.
-We use the centre of the Infantry unit's base instead, to account for the wide variation in number of models that players place on their Infantry unit bases.
-====
 
 .Related information
 * xref:special-rules:artillery.adoc[]

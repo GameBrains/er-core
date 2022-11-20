@@ -1,12 +1,7 @@
 = The Start phase
 
 The Start phase comprises preparatory steps, some of which you won't need if certain special rules aren't active.
-
-[NOTE.e40k]
-====
-We made this new phase to clarify the order of events for things that need to happen at or close to the start of the turn.
-_Epic 40,000_ is sometimes unclear about interactions at "the start of the turn" and "the start of the Movement phase, before initiative is drawn".
-====
+footnote:[{e40k-diff}We added the Start phase, to clarify the order of events for things that need to happen at or close to the start of the turn. {e40k} is sometimes unclear about interactions at "the start of the turn" and at "the start of the Movement phase, before Initiative is drawn".]
 
 == 1. Roll for Reserves
 

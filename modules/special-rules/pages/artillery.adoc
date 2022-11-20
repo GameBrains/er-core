@@ -19,15 +19,13 @@ So, you only need your {artillery} unit to be within range when you choose your 
 [[preparatory-bombardment]]
 == Preparatory Bombardment
 
-[NOTE.e40k]
-====
-We made these rules fit with the new Start phase.
-====
-
 {artillery} units can bombard enemy forces to forestall an attack or to 'soften up' an enemy position.
 We represent such attacks with special orders called Preparatory Bombardment.
 
 . If you wish to place any detachments on Preparatory Bombardment orders, you must do this in the Start phase.
+footnote:[
+include::main-rules:partial$start-phase.adoc[]
+]
 . Place the {special-orders} marker to indicate that the detachment is on Preparatory Bombardment orders.
 . You cannot move the {artillery} units for the rest of the turn.
 +[TODO: Though presumably you can move them in a withdrawal move if the detachment becomes Broken?]+

@@ -2,7 +2,7 @@
 :reftext: Welcome
 :experimental:
 
-This is an unofficial project that *reworks* and *extends* the third edition of Games Workshop's _Epic_ game system, _Epic 40,000_.
+This is an unofficial project that *reworks* and *extends* the third edition of Games Workshop's _Epic_ game system, {e40k}.
 
 {project-name} is by fans, for fans, and open to the community as a collaborative effort.
 

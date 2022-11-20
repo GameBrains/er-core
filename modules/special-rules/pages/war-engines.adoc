@@ -6,13 +6,9 @@ These include Imperial and Eldar titans, Ork gargants and the super-heavy tanks 
 == War Engine unit abilities
 
 All War Engine units have the {no-retreat} and {unbreakable} abilities.
+footnote:[{e40k-diff}We derived these abilities from {e40k}'s War Engine 'No Retreat, No Surrender' rules.]
 
 {blank}[TODO: We could also consider a reminder of this point in both the 'War engines in close combat' and 'War engines in firefights' topics, where the abilities both take effect.]
-
-[NOTE.e40k]
-====
-These abilities replace the rules that appear under the 'No Retreat, No Surrender' heading in _Epic 40,000_.
-====
 
 == Damage Capacity value
 

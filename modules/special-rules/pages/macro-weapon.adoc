@@ -1,19 +1,15 @@
 = Macro-weapon
 
-These weapons can punch through even the thickest armour with ease.
+footnote:[{e40k-diff}This super-heavy weapon is equivalent to _Anti-Tank_ in {e40k}. That name tends to mislead players as it implies effectiveness against Vehicle units but perhaps not against other unit types, such as Infantry -- whereas the rules actually make this weapon very effective against all unit types. We borrow the new name from the similar concept in _Epic Armageddon_.]
 
-[NOTE.e40k]
-====
-In _Epic 40,000_, this super-heavy weapon is called _Anti-Tank_.
-That term tends to mislead players as it implies effectiveness against Vehicle units but perhaps not against other unit types such as Infantry -- whereas the rules below actually make this weapon very effective against all unit types.
-We borrow the new name from the similar concept in _Epic Armageddon_.
-====
+These weapons can punch through even the thickest armour with ease.
 
 ---
 
 When you make one or more {macro-weapon} shots:
 
-. Specify whether you will target Infantry units or Vehicle units in the target detachment.footnote:[To be clear, you can target a War Engine detachment, and then of course you do not need to specify a unit type as there is no mix.]
+. Specify whether you will target Infantry units or Vehicle units in the target detachment.
+footnote:[To be clear, you can target a War Engine detachment, and then of course you do not need to specify a unit type as there is no mix.]
 . For each shot, roll a D6.
 Each 4+ that you roll is a hit, regardless of armour or cover.
 . Allocate the hits as you would for regular Firepower, but only among units of the type that you specified.

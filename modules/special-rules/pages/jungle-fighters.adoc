@@ -1,13 +1,9 @@
 = Jungle Fighters
 
 `Unit ability`
+footnote:[{e40k-diff}This ability is equivalent to {e40k}'s _Kroot_ ability. We call it {jungle-fighters} instead, so as not to imply that the ability is faction-specific.]
 
 Some infantry are especially well adapted to jungle fighting.
-
-[NOTE.e40k]
-====
-This ability is equivalent to the _Kroot_ ability in _Epic 40,000_ -- we call it {jungle-fighters} instead so as not to imply that the ability is faction-specific.
-====
 
 ---
 
