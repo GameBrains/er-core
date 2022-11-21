@@ -8,7 +8,7 @@ These units are especially skilled at laying down heavy, accurate fire when they
 ====
 In {e40k}, when the _Rapid Fire_ ability is active it *doubles* the unit's Firepower value.
 We've changed this so that the effect scales in linear fashion when we add {rapid-fire} to units that have Firepower `2` or more.
-This doesn't affect any of the original {e40k} units that have _Rapid Fire_, as they all have Firepower `1` -- so the net result remains the same.
+This doesn't affect any of the original {e40k} units that have _Rapid Fire_ -- they all have Firepower `1`, so the net result remains the same.
 ====
 
 ---
