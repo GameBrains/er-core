@@ -1,5 +1,7 @@
 = How to use this publication
 
+== Notes, examples and asides
+
 [NOTE]
 ====
 Further explanation, where it may help you to understand concepts or relationships between rules.
@@ -9,9 +11,9 @@ You and your opponent are much less likely to dispute or misinterpret rules if y
 
 [NOTE.e40k]
 ====
-Notes to highlight significant differences in the rules as compared with _Epic 40,000_.
+Notes to highlight significant differences in the rules as compared with {e40k}.
 
-We might change the way we do this in future; but the main idea is to help players who are familiar with _Epic 40,000_ to adjust to {project-name} and perhaps to decide which differences they want to use or ignore.
+We might change the way we do this in future; but the main idea is to help players who are familiar with {e40k} to adjust to {project-name} and perhaps to decide which differences they want to use or ignore.
 ====
 
 [NOTE.option]
@@ -34,7 +36,19 @@ These boxes contain examples that put rules in context for you, or that show you
 We use these boxes to separate some types of supplemental information from the main text.
 ****
 
-.Related information
+== Body text styles
 
-You'll sometimes see this heading at the bottom of a topic, above a short list of links.
-These links are convenient shortcuts to other information that is especially relevant to the topic.
+`Monospace font with grey background`: We use this mainly to reference specific values that we either state on a 'data sheet' or that we bring into effect through a dynamic rule: Monospace font with grey background.
+For example: Speed `10 cm`; Armour `5+`.
+
+_Italic_ font style: We use this to emphasise a specific 'special ability' or the title of a publication.
+
+== Related information
+
+You'll sometimes see a short list of hyperlinks at the bottom of a topic.
+These links are convenient shortcuts to related information that is especially relevant to the topic.
+They look like this:
+
+.Related information
+* xref:main-rules:data-sheets-and-characteristics.adoc[]
+* Experimental: xref:experimental:experimental.adoc[]
