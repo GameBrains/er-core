@@ -27,7 +27,7 @@ We represent infantry units as follows:
 * Mounted infantry: Two or three models affixed to a single base.
 * Field artillery: One artillery piece and X infantry models affixed to a single base.
 
-{blank}[TODO: Consider whether to include some text similar to that at link:https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm[]]
+{blank}[TODO: Consider whether to include some text similar to that at link:https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm[^] (external URL)]
 
 === Vehicle (`VEH`)
 Vehicles that are covered with moderate or thick armour plate.
