@@ -1,9 +1,11 @@
 = Transportation
 
 On some unit data sheets you'll see that the unit has one of two special abilities that relate to transportation: {transport-x} or {hitch-x}.
-footnote:[{e40k-diff}The Transport rules in {e40k} leave a lot of room for interpretation, and they aren't entirely clear on some of the commonalities and differences between _Transport_ and _Hitch_.
+footnote:[{e40k-diff}
+The Transport rules in {e40k} leave a lot of room for interpretation, and they aren't entirely clear on some of the commonalities and differences between _Transport_ and _Hitch_.
 Nor do they account well for disparities that stem from the range of different base sizes that Epic enthusiasts use for their units these days.
-To minimise these problems, we've integrated the {transport-x} and {hitch-x} abilities with some new conditions.]
+To minimise these problems, we've integrated the {transport-x} and {hitch-x} abilities with some new conditions.
+]
 
 These abilities indicate units that can carry -- transport -- other units across the battlefield.
 These abilities have some features in common, but also differ in some important ways.
@@ -32,14 +34,18 @@ include::partial$transportation-by-transport-units.adoc[]
 If a transportation unit is destroyed then any cargo unit that is embarked at the time may also suffer a hit.
 Before you remove the destroyed transport unit, roll a D6 for each embarked unit: On a result of 1, 2 or 3, it suffers a hit.
 If the unit survives, place it completely within 5 cm of the destroyed transportation unit.
-footnote:[{e40k-diff}We make it clear that embarked units are subject to the same risk when their transportation unit is destroyed, regardless of which transportation ability is in effect.]
+footnote:[{e40k-diff}
+We make it clear that embarked units are subject to the same risk when their transportation unit is destroyed, regardless of which transportation ability is in effect.
+]
 
 Then remove the transportation unit as normal.
 
 == Transportation of units from another detachment
 
 Where transportation units from one detachment carry units from another detachment, both detachments must be on the same orders.
-footnote:[{e40k-diff}We added this restriction to avoid oddities that arise where transportation units and cargo units are under different orders.]
+footnote:[{e40k-diff}
+We added this restriction to avoid oddities that arise where transportation units and cargo units are under different orders.
+]
 
 .Related information
 * xref:special-rules:transport-x.adoc[]

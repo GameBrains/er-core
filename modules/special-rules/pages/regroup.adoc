@@ -1,7 +1,10 @@
 = Regroup
 
 `Detachment ability`
-footnote:[{e40k-diff}We derived this ability from part of {e40k}'s Dark Angels _Deathwing_ ability. This allows for more flexibility in detachment design.]
+footnote:[{e40k-diff}
+We derived this ability from part of {e40k}'s Dark Angels _Deathwing_ ability.
+This allows for more flexibility in detachment design.
+]
 
 Some hard-bitten troops are able to regroup more effectively than others.
 

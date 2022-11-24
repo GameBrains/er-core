@@ -31,8 +31,13 @@ endif::[]
 *To disembark one or more cargo units:*
 
 ifdef::by-transport-x[]
-. You must pay 5 cm from the movement of the {transport-x} unit.footnote:fn-1[In practice, these conditions mean that you can simply measure the movement of the cargo unit from the {transport-x} unit. But you must be able to pay the 5 cm costs first.]
-. You must pay 5 cm from the movement of each cargo unit that you wish to disembark.footnote:fn-1[]
+. You must pay 5 cm from the movement of the {transport-x} unit.
+footnote:fn-1[
+In practice, these conditions mean that you can simply measure the movement of the cargo unit from the {transport-x} unit.
+But you must be able to pay the 5 cm costs first.
+]
+. You must pay 5 cm from the movement of each cargo unit that you wish to disembark.
+footnote:fn-1[]
 . Place each cargo unit that you disembark such that it is completely within 5 cm of the {transport-x} unit.
 . Where a cargo unit or the {transport-x} unit has remaining movement, you may continue to move it.
 endif::[]

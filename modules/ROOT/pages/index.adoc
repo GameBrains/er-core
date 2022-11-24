@@ -48,7 +48,10 @@ Or failing this, a native app for Android.
 
 PDF output would involve some tiresome manual steps, and is far too static to be a good deliverable for a rapidly changing project.
 However, when the project reaches a suitable level of maturity and stability then we can can consider a PDF output.
-By that time, hopefully the underlying technology will evolve to make PDF output somewhat easier than it would be right nowfootnote:[This project uses Antora, a static site generator for Asciidoc.].
+By that time, hopefully the underlying technology will evolve to make PDF output somewhat easier than it would be right now.
+footnote:[
+This project uses Antora, a static site generator for Asciidoc.
+]
 
 == Current limitations for usability
 

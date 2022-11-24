@@ -45,12 +45,19 @@ When you check at the start of the Shooting phase, you realise that you got a bi
 Though you may move and shoot as normal with the rest of the detachment, you may not do so with these two units until they are in command at the start of a future phase.
 
 In practice this means that you may not shoot with these units in the current Shooting phase.
-And, unless something unusual happens footnote:[Such as, your opponent eliminates your HQ unit in the Shooting phase and your next unit in the chain of command happens to be closer to your out of command units such that they are in command again at the start of the Assault phase.], then you may not move these two units in the following Assault phase either.
+And, unless something unusual happens
+footnote:[
+Such as, your opponent eliminates your HQ unit in the Shooting phase and your next unit in the chain of command happens to be closer to your out of command units such that they are in command again at the start of the Assault phase.
+]
+, then you may not move these two units in the following Assault phase either.
 ====
 
 Aside from carelessness or certain unusual circumstances, you won't often have units that are out of command.
 But when you do:
 
-* Don't place Blast markers on out of command units.footnote:[pass:m[The main reason for this is to avoid excessive penalties when you use the xref:battles:scenario-special-rules:army-morale.adoc[\] rules.]]
+* Don't place Blast markers on out of command units.
+footnote:[
+pass:m[The main reason for this is to avoid excessive penalties when you use the xref:battles:scenario-special-rules:army-morale.adoc[\] rules.]
+]
 //TODO: Clarify whether we should not place the Blast markers at all, or whether in fact we should still place the Blast markers on the parent detachment. Recent discussions seem to be pointing towards the latter, but there was a lot of debate and I'm not entirely sure what conclusion we reached.
 * If your current HQ unit is destroyed, you may not nominate an out of command unit as the new HQ -- even if the rest of the detachment is destroyed!

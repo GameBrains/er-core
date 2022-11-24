@@ -1,7 +1,10 @@
 = Dodge
 
 `Detachment ability`
-footnote:[{e40k-diff}This ability is equivalent to {e40k}'s _Ravenwing_ ability. We call it {dodge} instead, so as not to imply that the ability is faction-specific.]
+footnote:[{e40k-diff}
+This ability is equivalent to {e40k}'s _Ravenwing_ ability.
+We call it {dodge} instead, so as not to imply that the ability is faction-specific.
+]
 
 Some formations of very mobile troops can dodge and jink so effectively that they are hard to target.
 

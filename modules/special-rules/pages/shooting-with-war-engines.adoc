@@ -10,7 +10,10 @@ The rules here add some extra detail to reflect these features.
 == Weapon mounts
 
 Each War Engine unit has one or more weapon mounts.
-footnote:weapon-ms[{e40k-diff}While {e40k} does mention 'weapon mounts', it does not define the term or use it consistently, and it mixes the concept with another concept that we call 'weapon systems'. We define these terms and concepts so that we can explain certain rules interactions more clearly.]
+footnote:weapon-ms[{e40k-diff}
+While {e40k} does mention 'weapon mounts', it does not define the term or use it consistently, and it mixes the concept with another concept that we call 'weapon systems'.
+We define these terms and concepts so that we can explain certain rules interactions more clearly.
+]
 
 These are simply the weapon-carrying locations on the war engine, and have names like Left Carapace or Right Arm.
 Each weapon mount also has:
@@ -48,7 +51,11 @@ include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 == Weapon arcs
 
 Each weapon mount on a War Engine unit has a weapon arc.
-footnote:[{e40k-diff}In {e40k} there are only Front (90°), Left/Right Side (180°) and All Round (360°) 'weapon fire arcs'. We add more options, for more flexible unit design. And we use the more generic term 'weapon arc', to be more inclusive of weapons that may not have a ranged component, such as {ripper-tentacles}.]
+footnote:[{e40k-diff}
+In {e40k} there are only Front (90°), Left/Right Side (180°) and All Round (360°) 'weapon fire arcs'.
+We add more options, for more flexible unit design.
+And we use the more generic term 'weapon arc', to be more inclusive of weapons that may not have a ranged component, such as {ripper-tentacles}.
+]
 
 The arc constrains the line of fire for the weapon system in that mount.
 You may only use weapons in that weapon system to target detachments that are inside within that arc, and you may only allocate hits to units that are inside of that arc.

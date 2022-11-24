@@ -26,7 +26,10 @@ This is where the {super-lifta-droppa} will drop the target unit.
 If it is a War Engine unit, roll for a result on its Catastrophic Damage table.
 * For each unit that is under the target unit, roll a D6.
 On a roll of 4+, that unit suffers a hit.
-footnote:[{e40k-diff}We state this so that we can explain certain rules interactions more clearly. Whilst {e40k} does not define success with the _Super Lifta Droppa_ effect as a 'hit', in _Firepower_ magazine issue 2 Games Workshop did confirm that the _Holo-fields_ 'save' can protect against this weapon -- see link:https://thehobby.zone/resources/e40k-compendium/Content/More/QuestionsAndAnswers/QA_SuperLiftaDroppa.htm[Q&A: Super Lifta Droppa^] (external URL).]
+footnote:[{e40k-diff}
+We state this so that we can explain certain rules interactions more clearly.
+Whilst {e40k} does not define success with the _Super Lifta Droppa_ effect as a 'hit', in _Firepower_ magazine issue 2 Games Workshop did confirm that the _Holo-fields_ 'save' can protect against this weapon -- see link:https://thehobby.zone/resources/e40k-compendium/Content/More/QuestionsAndAnswers/QA_SuperLiftaDroppa.htm[Q&A: Super Lifta Droppa^] (external URL).
+]
 
 As the {save} ability works in a similar way to {holo-fields}, we  use the 'hit' terminology to be consistent and to imply that both of these abilities have the potential to protect a target.]
 +

@@ -28,7 +28,10 @@ We use these boxes to separate some types of supplemental information from the m
 ****
 
 Footnotes.
-footnote:[We use footnotes like this to present additional information. In particular, we often use footnotes highlight ways in which {project-name} differs from {e40k}.]
+footnote:[
+We use footnotes like this to present additional information.
+In particular, we often use footnotes highlight ways in which {project-name} differs from {e40k}.
+]
 
 .Related information
 

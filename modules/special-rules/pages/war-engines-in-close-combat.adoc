@@ -9,7 +9,10 @@ War Engine units have a comparatively high Assault value, as you will see on the
 Lesser units can and must 'gang up' on a War Engine if they are to defeat it in close combat.
 
 The maximum number of units that you may place in base contact with a War Engine unit is equal to the number of its initial Damage Capacity value.
-footnote:[{e40k-diff}In {e40k}}, you can only 'gang up' with *half* as many units as the initial Damage Capacity. This leads to a number of odd effects, not least that it makes war engines *excessively* difficult to overcome in close combat -- so, we reference the full initial Damage Capacity instead.]
+footnote:[{e40k-diff}
+In {e40k}, you can only 'gang up' with *half* as many units as the initial Damage Capacity.
+This leads to a number of odd effects, not least that it makes war engines *excessively* difficult to overcome in close combat -- so, we reference the full initial Damage Capacity instead.
+]
 
 == Close combat attacks with a War Engine
 
@@ -17,7 +20,11 @@ War engines can also do a lot more damage in close combat than regular units.
 
 * Roll a number of dice to hit equal to half the current Damage Capacity of the War Engine unit (round up).
 * As normal, you can allocate hits to any enemy units that are in base contact with any of your units in the close combat.
-footnote:[{e40k-diff}{e40k} phrases the rules for War Engine close combat attacks on the basis of a single War Engine in close combat with the enemy. Without further clarification, this tends to imply that the allocation of hits might be on a per War Engine basis (in contrast to the usual rules). We make it clear that we should allocate all close combat hits in the same way, regardless of origin.]
+footnote:[{e40k-diff}
+{e40k} phrases the rules for War Engine close combat attacks on the basis of a single War Engine in close combat with the enemy.
+Without further clarification, this tends to imply that the allocation of hits might be on a per War Engine basis (in contrast to the usual rules).
+We make it clear that we should allocate all close combat hits in the same way, regardless of origin.
+]
 
 == Close combat attacks against a War Engine
 
@@ -29,7 +36,10 @@ Roll for critical damage as normal.
 
 When you add up Assault values for a War Engine detachment that is in close combat, do not add +1 for 'supporting fire' from each unit in the detachment that is within 15 cm of the enemy but not in base contact.
 Instead, add a number equal to half the current Damage Capacity of each such War Engine unit.
-footnote:[{e40k-diff}{e40k} gives rules for War Engine units in support of other detachments that are in close combat -- but does not give similar rules to apply the same logic for supporting fire within their own detachment (so only the usual +1 would apply, which seems odd). We make both situations plain.]
+footnote:[{e40k-diff}
+{e40k} gives rules for War Engine units in support of other detachments that are in close combat -- but does not give similar rules to apply the same logic for supporting fire within their own detachment (so only the usual +1 would apply, which seems odd).
+We make both situations plain.
+]
 
 To be clear, such units may still also support *other detachments* as we explain at xref:war-engines-in-support-of-close-combats.adoc[].
 

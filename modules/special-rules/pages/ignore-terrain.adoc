@@ -1,7 +1,10 @@
 = Ignore Terrain
 
 `Unit ability`
-footnote:[{e40k-diff}We derived this ability from part of {e40k}'s rules for Tyranid War Engine units. This allows for more flexibility in unit design.]
+footnote:[{e40k-diff}
+We derived this ability from part of {e40k}'s rules for Tyranid War Engine units.
+This allows for more flexibility in unit design.
+]
 
 Some units can stalk with ease through terrain that is treacherous for others.
 

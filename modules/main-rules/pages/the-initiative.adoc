@@ -12,7 +12,9 @@ To determine who has the Initiative we draw an Initiative counter from a mug (or
 footnote:[
 include::main-rules:partial$start-phase.adoc[]
 ]
-footnote:[If both armies have the same Strategy Rating then, at the start of the game, roll off to decide which army gets the advantage for this game.]
+footnote:[
+If both armies have the same Strategy Rating then, at the start of the game, roll off to decide which army gets the advantage for this game.
+]
 . Where the turn sequence instructs you to "Determine the Initiative", one player must draw a random counter from the mug.
 The player whose counter is drawn has the Initiative.
 
