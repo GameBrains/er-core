@@ -43,7 +43,7 @@ Where your unit has the {jump-packs} ability:
 
 * When you move the unit, you may ignore terrain -- though you must still take a Dangerous Terrain test for the unit whenever a move starts in dangerous terrain, and whenever a move ends in dangerous terrain.
 You still may not place the unit on impassable terrain.
-footnote:[
+footnote:[{e40k-diff}
 In {e40k}, it isn't clear whether or not the {jump-packs} ability lets us ignore the standard rules when we start a move in dangerous terrain.
 After discussion with other players, we've decided that the standard rules apply, and we've made this clear.
 ]
