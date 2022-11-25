@@ -38,7 +38,7 @@ We use these boxes to separate some types of supplemental information from the m
 
 == Body text styles
 
-`Monospace font with grey background`: We use this mainly to reference specific values that we either state on a 'data sheet' or that we bring into effect through a dynamic rule: Monospace font with grey background.
+`Monospace font with grey background`: We use this mainly to reference characteristic values that we either state on a 'data sheet' or that we bring into effect through a dynamic rule.
 For example: Speed `10 cm`; Armour `5+`.
 
 _Italic_ font style: We use this to emphasise a specific 'special ability' or the title of a publication.
