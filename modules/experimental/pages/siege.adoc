@@ -1,14 +1,12 @@
 = Siege
 
 `Data sheet modifier`
+footnote:[{e40k-diff}
+We've replaced this ability with the more flexible {support} ability.
+]
 
 These units are specially adapted from their original design, to specialise in close support of other units.
 They have particular value in operations that involve assaults on fortifications or in the close confines of cities.
-
-[NOTE.e40k]
-====
-We've replaced this ability with the more flexible {support} ability.
-====
 
 ---
 

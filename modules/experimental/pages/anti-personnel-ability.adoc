@@ -2,13 +2,11 @@
 // TODO: Should we change the name of this ability to differentiate from the weapon, just as Siege translates to Macro-weapon?
 
 `Data sheet modifier`
+footnote:[{e40k-diff}
+We've replaced this ability with the more flexible {has-anti-personnel} ability.
+]
 
 A unit with this ability has weaponry that is optimised to be especially effective against infantry and light vehicles.
-
-[NOTE.e40k]
-====
-We've replaced this ability with the more flexible {has-anti-personnel} ability.
-====
 
 ---
 

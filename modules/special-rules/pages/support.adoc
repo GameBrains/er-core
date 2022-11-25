@@ -1,15 +1,13 @@
 = Support
 
 `Data sheet modifier`
-
-These units are specially adapted from their original design, to specialise in close support of other units.
-
-[NOTE.e40k]
-====
+footnote:[{e40k-diff}
 We derived this ability from {e40k}'s experimental _Siege_ ability.
 That ability is redundant on any unit that has a Firepower value of only `1`.
 This ability allows more flexibility in unit design, in a minimalist way.
-====
+]
+
+These units are specially adapted from their original design, to specialise in close support of other units.
 
 ---
 

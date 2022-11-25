@@ -1,13 +1,11 @@
 = Tank Destroyer
 
 `Data sheet modifier`
+footnote:[{e40k-diff}
+We've replaced this ability with the more flexible {has-macro-weapon} ability.
+]
 
 These units are specially adapted from their original design, to replace their main armament with a more potent anti-armour capability.
-
-[NOTE.e40k]
-====
-We've replaced this ability with the more flexible {has-macro-weapon} ability.
-====
 
 ---
 

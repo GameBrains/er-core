@@ -1,6 +1,9 @@
 = Cavalry
 
 `Data sheet modifier`
+footnote:[{e40k-diff}
+We've separated the Armour bonus part of {e40k}'s _Cavalry_ ability into a separate ability that we call {armour-1}.
+]
 
 Despite the abundance and variety of technologies in the galaxy of the 41^st^ millennium, armies still find uses for cavalry -- and not only on the most barbaric worlds.
 
@@ -8,11 +11,6 @@ Of course, riders and their mounts vary enormously -- humans on horses, denizens
 
 Cavalry forgo some of the advantages of infantry -- they find it difficult to take cover, to move through buildings or rubble, and so on.
 But they make up for this with speed.
-
-[NOTE.e40k]
-====
-In comparison to _Epic 40,000_, we've separated the Armour bonus part of the _Cavalry_ ability into our new {armour-1} ability.
-====
 
 ---
 
@@ -24,7 +22,6 @@ include::main-rules:partial$charge-moves-split-speed.adoc[]
 ]
 * Make its second Speed value three times (3x) the *first* Speed value of the base unit.
 footnote:split-speed[]
-* Add +1 to its Armour value.
 * Change the unit type to Vehicle (`VEH`).
 
 .{cavalry} data sheet modifiers
