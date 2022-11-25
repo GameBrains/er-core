@@ -1,6 +1,1 @@
-[NOTE.e40k]
-.Split Speed values and charge moves
-====
-We added split Speed values to make special increases to Speed values easier to understand.
-We changed the explanation of charge moves to clarify the details and to integrate the Split speed values.
-====
+{e40k-diff}We added split Speed values to make special increases to Speed values easier to understand. We changed the explanation of charge moves to clarify the details and to integrate the Split speed values.

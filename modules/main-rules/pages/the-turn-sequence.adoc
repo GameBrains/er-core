@@ -11,32 +11,30 @@ During the turn sequence, you and your opponent will give *orders* to your detac
 The orders define *what* actions you can take with your units, and the phases in the turn sequence define *when* you can take those actions.
 ****
 
-[NOTE.e40k]
-====
-This sequence accommodates the new Start phase.
-====
-
 .Turn sequence
 [none]
 
-. *The Start phase*
+. *xref:the-start-phase.adoc[]*
+footnote:[
+include::main-rules:partial$start-phase.adoc[]
+]
 .. Roll for Reserves, if applicable for the scenario
 .. Declare flyer missions and certain special orders
 .. Prepare the Initiative counters
-. *The Movement phase*
+. *xref:the-movement-phase.adoc[]*
 .. Determine the Initiative (1)
 .. First player movement
 .. Second player movement
-. *The Shooting phase*
+. *xref:the-shooting-phase.adoc[]*
 .. Determine the Initiative (2)
 .. Shoot with vehicles and infantry
 .. Determine the Initiative (3)
 .. Shoot with war engines
-. *The Assault phase*
+. *xref:the-assault-phase.adoc[]*
 .. Determine the Initiative (4)
 .. Resolve the first player's assault moves, close combats and firefights
 .. Resolve the second player's assault moves, close combats and firefights
-. *The Rally phase*
+. *xref:the-rally-phase.adoc[]*
 .. Roll to remove Blast markers
 .. Roll to rally Broken detachments
 .. Repair war engine damage and shields

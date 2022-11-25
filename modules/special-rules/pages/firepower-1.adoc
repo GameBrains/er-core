@@ -1,13 +1,11 @@
 = Firepower +1
 
 `Data sheet modifier`
+footnote:[{e40k-diff}
+We created this ability to allow more flexibility in unit design.
+]
 
 These units are especially potent at range for their kind.
-
-[NOTE.e40k]
-====
-We've created this ability to allow more flexibility in unit design.
-====
 
 ---
 

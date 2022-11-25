@@ -21,8 +21,15 @@ The Retreat move is a single move in which you may move all mobile units in the 
 
 * You may use the Retreat move to move the units in any direction, subject to the normal rules for terrain effects on movement.
 * You may 'move' units 0 cm if you wish.
-Or, it may be that you can't move some units anywayfootnote:[There may be a rule in force that states that you 'may not move' a unit — the Retreat move rules do not override this.].
-* If you end a Retreat move such that any Broken units are within 15 cm of *any* enemy unitfootnote:[Even Broken enemy units.], then they are *destroyed* -- remove those units as casualties.
+Or, it may be that you can't move some units anyway.
+footnote:[
+There may be a rule in force that states that you 'may not move' a unit -- the Retreat move rules do not override this.
+]
+* If you end a Retreat move such that any Broken units are within 15 cm of *any* enemy unit
+footnote:[
+Even enemy units that are Broken count for this.
+]
+, then they are *destroyed* -- remove those units as casualties.
 (They are killed by the advancing enemy or scattered in the confusion -- they play no further part in the battle.)
 
 == The Broken condition and the 'out of command' rules

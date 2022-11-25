@@ -1,13 +1,12 @@
 = Dauntless
 
 `Detachment ability`
+footnote:[{e40k-diff}
+We derived this ability from parts of {e40k}'s Dark Angels _Deathwing_ ability and Tyranid army 'Synapse Creatures' rules.
+This allows for more flexibility in detachment design.
+]
 
 Some troops are so disciplined or relentless that they never flinch in the face of the enemy.
-
-[NOTE.e40k]
-====
-In comparison to _Epic 40,000_, we derived this ability from parts of the Dark Angels _Deathwing_ ability and Tyranid Synapse Creatures rules.
-====
 
 ---
 

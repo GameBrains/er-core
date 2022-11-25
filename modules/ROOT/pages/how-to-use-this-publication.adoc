@@ -9,13 +9,6 @@ Further explanation, where it may help you to understand concepts or relationshi
 You and your opponent are much less likely to dispute or misinterpret rules if you understand why they are written the way they are.
 ====
 
-[NOTE.e40k]
-====
-Notes to highlight significant differences in the rules as compared with {e40k}.
-
-We might change the way we do this in future; but the main idea is to help players who are familiar with {e40k} to adjust to {project-name} and perhaps to decide which differences they want to use or ignore.
-====
-
 [NOTE.option]
 ====
 Notes to highlight an alternative or additional way to play that some players prefer to the default.
@@ -35,6 +28,13 @@ These boxes contain examples that put rules in context for you, or that show you
 ****
 We use these boxes to separate some types of supplemental information from the main text.
 ****
+
+== Footnotes
+Footnotes, for additional information.
+footnote:[
+We use footnotes like this to present additional information.
+In particular, we often use footnotes highlight ways in which {project-name} differs from {e40k}.
+]
 
 == Body text styles
 

@@ -1,13 +1,12 @@
 = No Retreat
 
 `Detachment ability`
+footnote:[{e40k-diff}
+We derived this ability from part of {e40k}'s War Engine 'No retreat, no surrender' rules for War Engine units.
+This allows for more flexibility in detachment design.
+]
 
 Some forces never retreat from combat, no matter how bad it gets.
-
-[NOTE.e40k]
-====
-In comparison to _Epic 40,000_, we separated this ability from part of the 'No retreat, no surrender' rules for war engines, along with the new {unbreakable} ability.
-====
 
 ---
 

@@ -14,7 +14,11 @@ But they make up for this with speed.
 Where your unit has the {cavalry} ability, apply these changes relative to its base unit:
 
 * Make its first Speed value two times (2x) the *first* Speed value of the base unit.
+footnote:split-speed[
+include::main-rules:partial$charge-moves-split-speed.adoc[]
+]
 * Make its second Speed value three times (3x) the *first* Speed value of the base unit.
+footnote:split-speed[]
 * Add +1 to its Armour value.
 * Change the unit type to Vehicle (`VEH`).
 
@@ -27,8 +31,6 @@ The {cavalry} ability means that:
 * While the base unit has an Armour value of `3+`, that of the Rough Riders is `4+`.
 * While the base unit has a unit type of Infantry (`INF`), that of the Rough Riders is Vehicle (`VEH`).
 ====
-
-include::main-rules:partial$charge-moves-split-speed.adoc[]
 
 .Related information
 * xref:main-rules:data-sheets-and-characteristics.adoc[]
