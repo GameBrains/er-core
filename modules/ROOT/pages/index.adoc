@@ -30,7 +30,7 @@ Among other things, we need to create and add graphics and images -- especially 
 * *xref:contributors-guide::index.adoc[Contributor's Guide]*: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
 
 TIP: You'll find links to the main components in the main navigation menu.
-You can switch between all components at the component menu (at the bottom of the secondary navigation panel).
+You can also switch between all components at the component menu (at the bottom of the secondary navigation panel).
 
 Also important to the project, but not held in the same repositories and hosting:
 
@@ -64,7 +64,7 @@ We hope to use this in future to provide an easy way for enthusiasts to suggest 
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
 
 == Discussion
-Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40K Remastered^] (external URL).
+Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40,000 Remastered^] (external URL).
 
 == Copyright and licence
 
