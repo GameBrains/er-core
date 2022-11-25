@@ -5,9 +5,12 @@ We represent the effects of this with the *Snap Fire* rule.
 
 During the Movement phase *only*, if your opponent moves a unit such that it passes within 10 cm of one of your units then you may make a Snap Fire attack:
 
-NOTE: This is a special type of attack, and normal shooting rules -- such as line of sight and Firepower -- do not apply.footnote:[Snap Fire represents various forms of attack that come into effect at such short range, such as booby traps or ambush.
+NOTE: This is a special type of attack, and normal shooting rules -- such as line of sight and Firepower -- do not apply.
+footnote:[
+Snap Fire represents various forms of attack that come into effect at such short range, such as booby traps or ambush.
 The main point is that you should position your units to make the best use of the Snap Fire rule, such that you limit enemy movement.
-Then your opponent must either avoid your detachment or try to force a way through with shooting and/or an assault.]
+Then your opponent must either avoid your detachment or try to force a way through with shooting and/or an assault.
+]
 
 IMPORTANT: To be absolutely clear: You may declare Snap Fire attacks in the Movement phase only -- you may not declare Snap Fire attacks against units that move in the Assault phase.
 

@@ -1,15 +1,13 @@
 = Walker
 
 `Data sheet modifier` `Unit ability`
+footnote:[{e40k-diff}
+We've integrated this ability into the main body of the rules.
+In {e40k}, this ability was a suggestion in the _Battles Book_, and later Games Workshop confirmed it as an official amendment in _Firepower_ magazine issue 2 -- see link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_Walkers.htm[FAQ: Walkers^] (external URL).
+]
 
 Some vehicles that have legs are able to enter terrain that is problematic for other vehicles.
 Thus they can fill niche roles on the battlefield, often in close support of infantry.
-
-[NOTE.e40k]
-====
-We've brought this ability into the main body of the rules.
-In _Epic 40,000_ it was a suggestion in the _Battles Book_, later confirmed in Official Rule Amendments and Errata, _Firepower_, issue 1.
-====
 
 ---
 
@@ -17,13 +15,15 @@ Where a Vehicle unit has the {walker} ability:
 
 * The unit counts as an Infantry unit for terrain effects on movement.
 * The unit has a split Speed value, just like an Infantry unit.
-[NOTE.e40k]
-====
-The {walker} ability was an afterthought in _Epic 40,000_.
-We have integrated it in full along with split Speed values which you will find on the appropriate unit data sheets. 
-====
+footnote:[{e40k-diff}
+The {walker} ability was an afterthought in {e40k}.
+We integrate it in full, along with split Speed values which you will find on the appropriate unit data sheets.
+]
+footnote:[
+include::main-rules:partial$charge-moves-split-speed.adoc[]
+]
 
-NOTE: To be clear, {walker} units do not benefit from the Infantry Armour bonus for cover.
+NOTE: To be clear, {walker} units do *not* benefit from the Infantry Armour bonus for cover.
 
 .Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]

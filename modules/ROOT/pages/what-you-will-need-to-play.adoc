@@ -41,9 +41,9 @@ Wargamers can never have too many, but 20 or 30 is more than enough to get by.
 
 You will need visual markers for certain effects in the game -- particularly when you give orders to the forces under your command.
 
-Order Dice -- as in Games Workshop's old _Epic 40,000_ and _Battlefleet Gothic_ games -- are ideal if you can get hold of enough of them.
+Order Dice -- as in Games Workshop's old {e40k} and _Battlefleet Gothic_ games -- are ideal if you can get hold of enough of them.
 More likely, you'll need to create some custom markers or find suitable substitutes.
-(Note that some of the dice from the 2016 _Adeptus Titanicus_ game would make ideal substitutes as they are very reminiscent of the original _Epic 40,000_ order dice.)
+(Note that some of the dice from the 2016 _Adeptus Titanicus_ game would make ideal substitutes as they are very reminiscent of the original {e40k} order dice.)
 
 +[TODO: Perhaps someone will be kind enough to design and contribute files that we can provide for people to download, and to use for the graphics in these rules.
 The design must avoid copyright infringement, but ideally would be mutually recognisable with GW Order dice. I'm thinking (1) 2D raster designs for markers that people can print out at home; (2) 2D vector designs that people can use to get custom dice made; (3) File to 3D print custom dice.]+
@@ -72,7 +72,7 @@ Barrage templates::
 
 Airfields::
 
-The original _Epic 40,000_ game had nice printed airfields, to help players to keep track of the readiness of their Flyer units.
+The original {e40k} boxed game included nice printed airfields, to help players to keep track of the readiness of their Flyer units.
 These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Rearm; Ready.
 
 === Fate cards

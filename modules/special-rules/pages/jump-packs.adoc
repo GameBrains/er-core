@@ -14,49 +14,43 @@ The resultant speed and mobility usually makes for good assault troops.
 Where your unit is a base unit that already has the {jump-packs} ability:
 
 * Simply use the Speed value stated in the unit's data sheet -- we've already integrated the effect of {jump-packs}.
-+
-[NOTE.e40k]
-====
+footnote:[{e40k-diff}
 Some base units -- such as the Tau Crisis Battlesuit and the Eldar Revenant Scout Titan -- have the {jump-packs} ability as an integral part of their data sheet.
-We've clarfied how the ability interacts with the data sheet in these cases.
-====
+We've clarified how the ability interacts with the data sheet in these cases.
+]
 
 === Where the {jump-packs} ability is additional
 
 Where your unit is *not* a base unit, and has the {jump-packs} ability, apply these changes relative to its base unit:
 
 * Make its first Speed value two times (2x) the *first* Speed value of the base unit.
+footnote:split-speed[
+include::main-rules:partial$charge-moves-split-speed.adoc[]
+]
 * Make its second Speed value three times (3x) the *first* Speed value of the base unit.
+footnote:split-speed[]
 
 .{jump-packs} data sheet modifiers
 ====
 The Eldar Swooping Hawks unit is an Aspect Warriors base unit with added {jump-packs} ability.
 
-*  The base unit has a Speed value of `15/30 cm`, whilst the Swooping Hawks unit has `30/45 cm` instead -- that is, `(15 x 2)/(15 x 3) cm`.
+* The base unit has a Speed value of `15/30 cm`, whilst the Swooping Hawks unit has `30/45 cm` instead -- that is, `(15 x 2)/(15 x 3) cm`.
 ====
 
-include::main-rules:partial$charge-moves-split-speed.adoc[]
-
-== Game effects of {jump-packs}
+---
 
 Where your unit has the {jump-packs} ability:
 
 * When you move the unit, you may ignore terrain -- though you must still take a Dangerous Terrain test for the unit whenever a move starts in dangerous terrain, and whenever a move ends in dangerous terrain.
 You still may not place the unit on impassable terrain.
-+
-[NOTE.e40k]
-.Dangerous terrain tests
-====
-In _Epic 40,000_ it isn't clear whether or not the {jump-packs} ability lets us ignore the standard rules when we start a move in dangerous terrain.
+footnote:[
+In {e40k}, it isn't clear whether or not the {jump-packs} ability lets us ignore the standard rules when we start a move in dangerous terrain.
 After discussion with other players, we've decided that the standard rules apply, and we've made this clear.
-====
+]
 * When you make a charge move with the unit, you can move it over enemy units that are already in base contact with your other units.
-+
-[NOTE.e40k]
-.Move over contacted enemy units
-====
-After discussion with other players, we created this rule as part of efforts to rationalise and improve the rules for Assault moves.
-====
+footnote:[{e40k-diff}
+We created this rule as part of efforts to rationalise and improve the rules for Assault moves, after discussion with other players.
+]
 
 .Related information
 * xref:main-rules:data-sheets-and-characteristics.adoc[]

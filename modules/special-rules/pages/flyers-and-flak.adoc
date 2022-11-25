@@ -3,11 +3,6 @@
 You can't just shoot at airborne flyer units in the same way that you shoot at ground units.
 You must use units that have the {flak} ability in the manner that we explain here.
 
-[NOTE.e40k]
-====
-We made these rules fit with the new Start phase.
-====
-
 ---
 
 {flak} units can attack flyers in one of two different ways, depending on what orders you give to their detachment.
@@ -25,6 +20,9 @@ We represent this state with special orders called Flak.
 
 Declare the Flak orders::
 . If you wish to place any detachments on Flak orders then you must do this in the Start phase.
+footnote:[
+include::main-rules:partial$start-phase.adoc[]
+]
 +
 [TIP]
 ====

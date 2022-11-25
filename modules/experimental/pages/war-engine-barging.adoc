@@ -7,7 +7,7 @@ An experimental option to improve the rules for when you make a charge move with
 ****
 .The problem
 Often, when you make a charge move with your War Engine unit, you'd like to move it into base contact with multiple enemy units.
-The original _Epic 40,000_ rules do not appear to allow this.
+The original {e40k} rules do not appear to allow this.
 
 .The proposal
 Define charge move rules that allow you to move your War Engine unit into base contact with multiple enemy units.

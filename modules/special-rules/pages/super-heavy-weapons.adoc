@@ -10,7 +10,10 @@ These rules define the effects of super-heavy weapons; see the specific unit dat
 == Shooting with super-heavy weapons
 
 Half Firepower and 'lock on'::
-Where a game effect forces you to halve the Firepower of a detachment or unit, you also suffer a reduction in the effectiveness of its super-heavy weaponsfootnote:[Common game effects that force you to halve Firepower include Assault orders and some particular critical damage effects for War Engine units.].
+Where a game effect forces you to halve the Firepower of a detachment or unit, you also suffer a reduction in the effectiveness of its super-heavy weapons.
+footnote:[
+Common game effects that force you to halve Firepower include Assault orders and some particular critical damage effects for War Engine units.
+]
 In these situations, you must test to *lock on* with each super-heavy weapon before you can shoot with it.
 +
 .Lock on

@@ -10,6 +10,11 @@ The rules here add some extra detail to reflect these features.
 == Weapon mounts
 
 Each War Engine unit has one or more weapon mounts.
+footnote:weapon-ms[{e40k-diff}
+While {e40k} does mention 'weapon mounts', it does not define the term or use it consistently, and it mixes the concept with another concept that we call 'weapon systems'.
+We define these terms and concepts so that we can explain certain rules interactions more clearly.
+]
+
 These are simply the weapon-carrying locations on the war engine, and have names like Left Carapace or Right Arm.
 Each weapon mount also has:
 
@@ -18,17 +23,12 @@ Each weapon mount also has:
 
 We list each weapon mount that a War Engine has in a separate line on the unit's data sheet, along with the corresponding weapon system details and weapon arc.
 
-[NOTE.e40k]
-====
-_Epic 40,000_ mentions 'weapon mounts' but does not define the term or use it consistently, and mixes it with the concept that we call 'weapon systems'.
-We've integrated various references to make robust definitions that help us to make certain rules more clear and precise.
-====
-
 == Weapon systems
 
 === Types of weapon system
 
 Each weapon system provides one of these weapon combinations:
+footnote:weapon-ms[]
 
 * One or more shots from a ranged super-heavy weapon.
 Multiple shots from such a weapon system are just like multiples of that super-heavy weapon, except that we treat the weapon system like a single super-heavy weapon for various game effects.
@@ -51,6 +51,12 @@ include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 == Weapon arcs
 
 Each weapon mount on a War Engine unit has a weapon arc.
+footnote:[{e40k-diff}
+In {e40k} there are only Front (90°), Left/Right Side (180°) and All Round (360°) 'weapon fire arcs'.
+We add more options, for more flexible unit design.
+And we use the more generic term 'weapon arc', to be more inclusive of weapons that may not have a ranged component, such as {ripper-tentacles}.
+]
+
 The arc constrains the line of fire for the weapon system in that mount.
 You may only use weapons in that weapon system to target detachments that are inside within that arc, and you may only allocate hits to units that are inside of that arc.
 
@@ -69,17 +75,6 @@ From top-left to bottom-right, these icons represent:
 [none]
 * Front-left 180°; Front 90°; Front 180°; Front-right 180°
 * Left 180°; All Around (360°); Rear 180°; Right 180°
-
-.Weapon arcs
-
-[NOTE.e40k]
-====
-In _Epic 40,000_ there are only Front (90°), Left/Right Side (180°) and All Round (360°) 'weapon fire arcs'.
-
-* We add more options, mainly to support diagonal 180° arcs that we intend to use with arm weapon mounts on titans and gargants.
-These will overlap in front, and leave a corresponding gap at the rear.
-* We use the term 'weapon arc', to be more inclusive of weapons that may not have a ranged component, such as {ripper-tentacles}.
-====
 
 .Related information
 * xref:main-rules:the-shooting-phase.adoc[]
