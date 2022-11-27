@@ -8,9 +8,9 @@
 
 Where your unit has the {markerlights} ability:
 
-* Any enemy detachment currently within 30 cm and Line of Fire of the unit is marked.
-* This does not apply if the unit's detachment is Broken, or Marched this turn.
-
+* As long as the unit's detachment is not Broken and was not placed on March orders this turn, then:
+** Each enemy detachment that is currently within 30 cm and line of fire of the unit is 'marked'.
+(This is relevant for interaction with certain other abilities.)
 
 .Related information
 * xref:target-lock.adoc[]

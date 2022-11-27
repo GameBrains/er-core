@@ -2,15 +2,16 @@
 
 `Unit ability`
 
-These units disrupt nearby Psykers.
+Some rare individuals can somehow sever the connection between the Warp and real-space in their immediate surroundings.
+Among other things, this means that psychic powers simply don't work on them or near them.
 
 ---
 
 Where your unit has the {psychic-null} ability:
 
-* The unit cannot be targeted by Psychic Fate Cards such as Psychic Blast.
-* Any {psyker} unit in base contact with this unit cannot use psychic Fate Cards such as Psychic Blast.
-* Any {psyker} unit in base contact with this unit does not count towards which side has more Psykers in an assault.
+* Your opponent cannot target this unit with a Psychic Attack Fate card, such as Psychic Blast.
+* Where this unit is in base contact with an enemy {psyker} unit, your opponent cannot use that unit to channel the effects of a Psychic Attack Fate card, such as Psychic Blast.
+* Where this unit is in base contact with an enemy {psyker} unit, that unit does not count towards your opponent's total number of {psyker} units in the assault.
 
 .Related information
 * xref:psyker.adoc[]
