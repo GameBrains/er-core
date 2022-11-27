@@ -9,7 +9,7 @@
 Where your detachment has the {target-lock} ability:
 
 * When you shoot with this detachment, at a target detachment that is currently marked by the {markerlights} ability, then:
-** Shift one column to the left on the Firepower table, when you work out how many hit dice to roll.
+** When you work out how many hit dice to roll, shift one column to the left on the Firepower table.
 If you are already using the leftmost column, roll one die per point of Firepower.
 
 .Related information
