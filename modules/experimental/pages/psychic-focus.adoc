@@ -1,6 +1,9 @@
 = Psychic Focus
 
 `Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 Some detachments contain many individuals that have low-level psychic power that they can pool as a group.
 When they do this, they can manifest some useful effects on the battlefield.

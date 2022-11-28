@@ -1,6 +1,9 @@
 = Target Lock
 
 `Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 {blank}[TODO: add introductory text.]
 

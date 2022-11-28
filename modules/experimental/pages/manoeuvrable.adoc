@@ -1,6 +1,9 @@
 = Manoeuvrable
 
 `Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 These War Engine units are unusually manoeuvrable.
 

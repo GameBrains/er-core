@@ -1,6 +1,9 @@
 = Daemonbane
 
 `Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 These detachments specialise in fighting psykers and daemons.
 

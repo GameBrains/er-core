@@ -1,6 +1,9 @@
 = Biosave
 
 `Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 These units are unusually resilient; they often remain functional in spite of damage that would cripple most war engines.
 

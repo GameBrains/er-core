@@ -1,6 +1,9 @@
 = FF Blast
 
 `Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 These units have some special means to disrupt their opponents in firefights.
 
