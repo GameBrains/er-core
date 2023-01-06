@@ -11,9 +11,9 @@ So, terrain that can block the line of sight is tactically significant.
 However, tabletop terrain varies enormously.
 So, it is best to discuss terrain pieces and principles with your opponent before you start the battle, to make sure that you agree on how to interpret line of sight.
 
-+[TODO: Expand on this some more?
+{TODO}[Expand on this some more?
 Perhaps add some detail here about 'model's eye view', hull-down, and such.
-Might need to rationalise with the main rules for the Shooting phase too.]+
+Might need to rationalise with the main rules for the Shooting phase too.]
 
 [[infantry-armour-bonus]]
 == Armour bonus for infantry that are in cover
@@ -23,18 +23,18 @@ This is because they can take advantage of cover in ways that vehicles and war e
 
 We represent this with a bonus that increases the Armour value of any infantry unit that is in such terrain.
 
-NOTE: It is not possible to get an Armour value greater than 6+. 
+NOTE: It is not possible to get an Armour value greater than `6+`. 
 
 include::partial$terrain-effects-table.adoc[]
 
-{blank}[TODO: Consider more detail either here or by reference to another topic. See link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_Cover.htmm[FAQ: Cover^] (external URL).]
+{TODO}[Consider more detail either here or by reference to another topic. See link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_Cover.htm[FAQ: Cover^] (external URL).]
 
 .Armour bonus for infantry that are in cover
 ====
-Infantry that are in woods get a +1 bonus to their Armour value.
-A unit of Ork Boyz infantry has a base Armour value of 4+.
+Infantry that are in woods get a \+1 bonus to their Armour value.
+A unit of Ork Boyz infantry has a base Armour value of `4+`.
 
-So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Armour value of 5+. 
+So, while in woods, a unit of Ork Boyz infantry would benefit from a modified Armour value of `5+`. 
 ====
 
 .Related information
