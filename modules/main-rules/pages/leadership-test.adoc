@@ -2,7 +2,7 @@
 
 When your detachment has one or more Blast markers on it, you must pass a Leadership test before you can move it under orders in any phase or set Overwatch orders.
 
-+[TODO: What happens if you try to set Overwatch orders and fail? Default to Advance orders I presume, and lose the chance to use any other orders? If you pass the test to *set* Overwatch orders, do you get to *move* up to 5 cm under those orders without a further test?]+
+{blank}[TODO: What happens if you try to set Overwatch orders and fail? Default to Advance orders I presume, and lose the chance to use any other orders? If you pass the test to *set* Overwatch orders, do you get to *move* up to 5 cm under those orders without a further test?]
 
 NOTE: A Broken detachment is not under orders and no Leadership test is required to make a Retreat move (see xref:broken-detachments.adoc[]).
 
@@ -12,4 +12,4 @@ Roll a D6: If you score higher than the number of Blast markers that are on the 
 * If you detachment currently has 15 or more units in it, add +1 to the score.
 * A roll of a natural 6 is always a success, no matter how many Blast markers are on the detachment.
 
-+[TODO: Rationalise with the Rally phase -- the 'natural 6 is a pass' bit doesn't apply then, and perhaps the +1 bonus for 15 units or more doesn't either?]+
+{blank}[TODO: Rationalise with the Rally phase -- the 'natural 6 is a pass' bit doesn't apply then, and perhaps the +1 bonus for 15 units or more doesn't either?]
