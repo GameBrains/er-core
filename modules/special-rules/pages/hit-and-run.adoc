@@ -8,13 +8,13 @@ Some forces have honed tactics in which they make a lightning assault, seemingly
 
 Where your detachment has the {hit-and-run} ability:
 
-* After a close combat or firefight with this detachment, you can always make a retreat move -- even if you win.
+* After a close combat or firefight with this detachment, you can always make a Retreat move -- even if you win.
 +
-+[TODO: As written, it seems that they can make the retreat move even if they were charged by the enemy first. Is this intended? It doesn't seem to fit with the idea of 'hit and run'.]+
++{blank}[TODO: As written, it seems that they can make the Retreat move even if they were charged by the enemy first. Is this intended? It doesn't seem to fit with the idea of 'hit and run', it's more like 'hit, or get hit, and run'...!]+
 +
 In effect, your detachment attacks the enemy and then withdraws to safety to avoid a retaliatory assault from other nearby enemy detachments.
 +
-IMPORTANT: If any of the units in the detachment are within 15 cm of the enemy at the end of the retreat move then they are destroyed, just as they are for Broken detachments. 
+IMPORTANT: If any of the units in the detachment are within 15 cm of the enemy at the end of the Retreat move then they are destroyed, just as they are for Broken detachments. 
 
 .Related information
 * xref:main-rules:broken-detachments.adoc#retreat-move[Retreat move]

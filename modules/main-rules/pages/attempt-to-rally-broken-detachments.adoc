@@ -3,18 +3,20 @@
 If you can rally a Broken detachment then you will regain control so that you can issue orders to it again next turn.
 
 For each Broken detachment that you have, take a Rally test to see if they rally.
-This is a standard Leadership test.
-
-.Rally test
-Make a standard Leadership test -- all the usual rules for modifiers and such apply.
-If you succeed then the detachment rallies -- remove the Broken condition marker from the detachment; otherwise, the detachment remains Broken -- try again in the next Rally phase.
 
 [IMPORTANT]
 ====
-You cannot rally a detachment that has as many Blast markers (or more) as it has units remaining -- you may not attempt the test in such cases.
-
-You may be able to take the test for such detachments at the end of a future turn if you are able to remove enough Blast markers at step xref:roll-to-remove-blast-markers.adoc[].
+You may only attempt a Rally test when a Broken detachment has fewer Blast markers than the number of units it has remaining.
+{blank}[TODO: I think it'd be better to phrase this along the lines of "fewer Blast markers than its current detachment strength", to align with how we've defined this for {robust} units.]
 ====
+
+.Rally test
+Make a standard Leadership test -- all the usual rules for modifiers and such apply.
+
+* If you succeed then the detachment rallies -- remove the Broken condition marker from the detachment;
+* If you fail then the detachment remains Broken -- try again in the next Rally phase. 
+
+Either way, leave the Blast markers in place.
 
 .Related information
 * xref:broken-detachments.adoc[]
