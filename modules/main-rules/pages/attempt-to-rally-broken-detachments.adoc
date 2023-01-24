@@ -7,7 +7,6 @@ For each Broken detachment that you have, take a Rally test to see if they rally
 [IMPORTANT]
 ====
 You may only attempt a Rally test when a Broken detachment has fewer Blast markers than the number of units it has remaining.
-{blank}[TODO: I think it'd be better to phrase this along the lines of "fewer Blast markers than its current detachment strength", to align with how we've defined this for {robust} units.]
 ====
 
 .Rally test

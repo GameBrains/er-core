@@ -5,13 +5,11 @@ When your detachment has one or more Blast markers on it, you must pass a Leader
 {blank}[TODO: What happens if you try to set Overwatch orders and fail? Default to Advance orders I presume, and lose the chance to use any other orders? If you pass the test to *set* Overwatch orders, do you get to *move* up to 5 cm under those orders without a further test?]
 
 NOTE: A detachment that is subject to the Broken condition is not under orders -- so, a Retreat move does not trigger a Leadership test.
-{blank}[TODO: There's at least one special case to consider — the {hit-and-run} ability's use of the Retreat move' Should this ability require a Leadership test if the detachment has Blast markers, like a normal move would? If yes then it'd be best to adjust this note to accomodate it better, or possibly change the {hit-and-run} text a bit.]
 
 .Leadership test
 Roll a D6: If you score higher than the number of Blast markers that are on the detachment then you succeed -- you may make whatever moves the orders permit; otherwise you fail -- you may not make any moves with the detachment during this phase.
 
 * If your detachment currently has 15 or more units in it, add +1 to the score.
-{blank}[TODO: Should we phrase this in terms of detachment strength rather than units, to align with how we've defined things for the {robust} ability?]
 * A roll of a natural 6 is always a success, no matter how many Blast markers are on the detachment.
 
 .Related information
