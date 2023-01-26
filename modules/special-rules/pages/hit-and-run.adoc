@@ -10,7 +10,6 @@ Where your detachment has the {hit-and-run} ability:
 
 * After a close combat or firefight with this detachment, you can always make a Retreat move -- even if you win.
 +
-+
 In effect, your detachment attacks the enemy and then withdraws to safety to avoid a retaliatory assault from other nearby enemy detachments.
 +
 IMPORTANT: If any of the units in the detachment are within 15 cm of the enemy at the end of the Retreat move then they are destroyed, just as they are for Broken detachments. 
