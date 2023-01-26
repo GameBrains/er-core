@@ -10,7 +10,6 @@ Where your detachment has the {hit-and-run} ability:
 
 * After a close combat or firefight with this detachment, you can always make a Retreat move -- even if you win.
 +
-+{blank}[TODO: As written, it seems that they can make the Retreat move even if they were charged by the enemy first. Is this intended? It doesn't seem to fit with the idea of 'hit and run', it's more like 'hit, or get hit, and run'...!]+
 +
 In effect, your detachment attacks the enemy and then withdraws to safety to avoid a retaliatory assault from other nearby enemy detachments.
 +
