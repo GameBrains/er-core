@@ -27,7 +27,7 @@ We also indicate how the portal affects the arrival of detachments that you inte
 See <<Portal Reserves>> for more about this.
 
 TIP: We use `_(Roll)_` and `_(Auto)_` to represent different technologies for different factions.
-They are mutually exclusive, for both thematic and practical reasons -- so {portal} units in a given army list must all be of one of these types, never a mix of both.
+They are mutually exclusive, for both thematic and practical reasons -- so all {portal} units in a given army list are of one type, never a mix of both.
 
 == Game effects of {portal}
 
