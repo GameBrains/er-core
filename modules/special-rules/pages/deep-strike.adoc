@@ -2,18 +2,14 @@
 
 `Unit ability`
 
-These units are capable of rapid insertion onto the battlefield via Drop Pods, Teleportation, and other methods.
+These units specialise in rapid insertion onto the battlefield via drop pods, teleportation, or some other method.
+For example, detachments of Eldar Swooping Hawks may use their anti-grav 'wings' to descend from altitude.
 
 ---
 
 Where *every* unit in your detachment has the {deep-strike} ability:
 
 * You can use the Drop Pods rule to deploy this detachment, regardless of the scenario.
-
-[NOTE]
-====
-This ability is used where a limited number of units in a detachment are capable of arriving via the Drop Pods rule, for example Swooping Hawks in an Eldar Warhost, or Crisis Battlesuits in a Tau Hunter Cadre.
-====
 
 .Related information
 

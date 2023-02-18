@@ -17,3 +17,4 @@ Where your unit -- or weapon system -- has the {guided} ability:
 .Related information
 * xref:markerlights.adoc[]
 * xref:special-rules:artillery.adoc[]
+* xref:special-rules:shooting-with-war-engines.adoc#_weapon_systems[Weapon systems]
