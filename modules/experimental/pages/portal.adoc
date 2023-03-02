@@ -86,7 +86,7 @@ To put a portal reserves detachment into play after it arrives, you need an avai
 * If none of the available portals can disembark all of the units in the detachment, then you may choose either:
 ** Leave the detachment in Portal Reserves this turn -- it does not arrive yet after all.^*^
 ** Disembark as much of the detachment as you can.
-The units that cannot disembark are immediately destroyed.
+The units that cannot disembark count as destroyed for the purposes of army morale and victory conditions.
 // TODO: Again -- are they actually destroyed, or only 'count as destroyed', for the sake of campaigns?
 Place a Blast marker on the detachment.
 
@@ -131,7 +131,6 @@ So, you can use either {portal} unit to disembark detachment A, provided the por
 So, you must either:
 ** Use the Warbarque {portal} unit to disembark this detachment, provided the portal is available.
 ** Use the Monolith {portal} unit to disembark this detachment, provided the portal is available -- but in this case, the Canoptek Spyders and the C'Tan Shard are *destroyed* and you must place a Blast marker on the Immortals units that form what's left of the detachment.
-// TODO: In this specific example, assuming both portals are available in turn 2, can the player deliberately choose to take a loss and disembark detachment B through the Monolith's portal and A through the Warbarque's portal?
 ====
 
 .Related information

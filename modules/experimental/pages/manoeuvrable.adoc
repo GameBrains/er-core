@@ -11,7 +11,8 @@ These War Engine units are unusually manoeuvrable.
 
 Where your unit has the {manoeuvrable} ability:
 
-* You may make any number of free turns when moving the unit.
+* When you move this unit, you are not limited by the usual rules for forward and reverse movement of War Engine units.
+Instead, you may move this unit in any direction, and turn it to face any direction, without any cost to the unit's movement allowance.
 
 .Related information
 * xref:special-rules:war-engine-movement.adoc[]
