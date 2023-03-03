@@ -20,8 +20,8 @@ For example, like this: `{portal} _(INF, 4+, {walker}, Auto)_`.
 Mostly, these attributes indicate what other friendly units can actually pass through the portal -- that is, which kinds of unit that portal permits you to embark/disembark during the game.
 
 * `_(INF)_`: Permits Infantry units.
-* `_(4+)_`: Permits Vehicle units that have an Armour value of `4+` or lower.
-* `_({walker})_`: Permits Vehicle units that have the {walker} ability, regardless of their Armour value.
+* `_(4+)_`: Permits Vehicle units that have an Armour value of `4+` or lower as cargo.
+* `_({walker})_`: Permits Vehicle units that have the {walker} ability as cargo, regardless of their Armour value.
 
 We also indicate how the portal affects the arrival of detachments that you intend to use with it, through the `_(Roll)_` or `_(Auto)_` attributes.
 See <<Portal Reserves>> for more about this.
@@ -33,24 +33,24 @@ They are mutually exclusive, for both thematic and practical reasons -- so all {
 
 Where your army includes any units or objectives that have the {portal} ability:
 
-* Regardless of the scenario, you may keep any detachments that contain units that can use a portal out of the play area, as <<Portal Reserves>>.
+TIP: Don't get carried away -- if you have many Portal Reserves detachments out of play and few suitable {portal} units in play then you're in for a hard time!
 
 Where your unit or objective has the {portal} ability:
 
-* You can use this unit to move portal reserves detachments into play after they arrive.
-You can also move detachments that are in play between one portal and another.
+See <<Portal Reserves>>.
+* You can use this unit to move detachments that are in play from this portal to another portal that is in play, or from another portal that is in play to this portal.
 See <<portal-moves>>.
 
 [[portal-moves]]
 == Use a {portal} unit to move your forces
 
 You can use portals to move some of your forces around.
-Where you wish to move one of your detachments into or out of a portal, and it contains permitted units:
+Where you wish to move one of your detachments into or out of a portal, and it contains permitted cargo units:
 
 * You may do this only in the Movement phase.
 // TODO: Is this stipulation necessary? On the one hand we're trying to apply standard transport rules for simplicity, but on the other hand this kind of stipulation sets up differences from those rules which complicates things again and creates logical gaps.
 * You may do this only if you give the detachment Advance or Assault orders.
-* Use the normal xref:main-rules:transportation.adoc[] rules to embark and disembark the detachment's units.
+See xref:main-rules:transportation.adoc[].
 footnote:[
 When you disembark units from an *objective* that has the {portal} ability, you obviously cannot pay 5 cm of its movement like you would with a mobile transport unit.
 In this case, just deduct 5 cm from the movement of each unit that you disembark, as usual, and ignore the deduction that would normally apply to the transport unit.
@@ -73,14 +73,14 @@ IMPORTANT: You can put portal reserves detachments into play *only* by means of 
 The type of portal that your army can include determines how detachments that you keep aside as portal reserves will arrive:
 
 * Where your army has `_(Roll)_` portals, roll on the Reserve Detachment Arrival table for your portal reserves detachments in the Start phase -- just as you do for standard reserves.
-* Where your army has `_(Auto)_` portals, do *not* roll on the Reserve Detachment Arrival table for your portal reserves detachments in the Start phase -- instead, they always arrive in turn 2.
+* Where your army has `_(Auto)_` portals, do *not* roll on the Reserve Detachment Arrival table for your Portal Reserves detachments in the Start phase -- instead, they always arrive in turn 2.
 
-Either way, once a portal reserves detachment arrives, you *must* put it into play if possible, in the Movement phase.
+Either way, once a Portal Reserves detachment arrives, you *must* put it into play if possible, in the Movement phase.
 
-=== Put portal reserves detachments into play (or not!)
+=== Put Portal Reserves detachments into play (or not!)
 
 This can be tricky.
-To put a portal reserves detachment into play after it arrives, you need an available portal -- and some units can only use particular portals that permit their transit.
+To put a Portal Reserves detachment into play after it arrives, you need an available portal -- and some units can only use particular portals that permit their transit.
 
 * If there is no portal available when you need it, then you must leave the detachment in Portal Reserves this turn -- it does not arrive yet after all.^*^
 * If none of the available portals can disembark all of the units in the detachment, then you may choose either:
