@@ -12,6 +12,9 @@ Well-known examples include Necron portals and Eldar Webway portals.
 
 ---
 
+NOTE: The rules that govern how we use the {portal} ability to transport units are *almost* the same as for the {transport-x} ability.
+However, there are some important differences that are necessary to maintain game balance.
+
 == Data sheet variations of {portal}
 
 Where we include {portal} on a unit data sheet -- or for an objective -- we also include some further information, as attributes in brackets.
@@ -48,7 +51,6 @@ You can use portals to move some of your forces around.
 Where you wish to move one of your detachments into or out of a portal, and it contains permitted units:
 
 * You may do this only in the Movement phase.
-// TODO: Is this stipulation necessary? On the one hand we're trying to apply standard transport rules for simplicity, but on the other hand this kind of stipulation sets up differences from those rules which complicates things again and creates logical gaps.
 * You may do this only if you give the detachment Advance or Assault orders.
 * Use the normal xref:main-rules:transportation.adoc[] rules to embark and disembark the detachment's units.
 footnote:[
