@@ -54,14 +54,16 @@ See <<portal-moves>>.
 You can use portals to move some of your forces around.
 Where you wish to move one of your detachments into or out of a portal, and it contains permitted cargo units:
 
-* You may do this only in the Movement phase.
-* You may do this only if you give the detachment Advance or Assault orders.
-See xref:main-rules:transportation.adoc[].
+* You may do this only in the Movement phase, and only if you give the detachment Advance or Assault orders.
+* Embark and disembark cargo units in the same way as for the {transport-x} ability.
+See xref:main-rules:transportation.adoc#_transportation_by_transport_x_units[Transportation by {transport-x} units].
 footnote:[
 When you disembark cargo units from an *objective* that has the {portal} ability, you obviously cannot pay 5 cm of its movement like you would with a mobile transport unit.
 In this case, just deduct 5 cm from the movement of each cargo unit that you disembark, as usual, and ignore the deduction that would normally apply to the transport unit.
 ]
-// TODO: Do we need to mention something to the effect that portal reserves detachments either (a) already count as embarked so don't pay 5 cm penalty to embark, or (b) need to pay the penalty to embark, just as units already in play need to do? Also, given that for a detachment that is already in play you must embark and then immediately disembark from another portal, won't this get a bit complicated given that you must also pay a 5 cm penalty for *each* portal unit...? 
+footnote:[
+When you disembark units that you're bringing into play from Portal Reserves, treat them as already embarked -- so you only pay the 5 cm cost to disembark.
+]
 * You may use each individual portal only *once per turn*, to embark or disembark units from a single detachment.
 Any portal that you use becomes unavailable until the start of the next turn.
 You may embark a unit that is already in the play area into an available portal -- but you *must* immediately disembark the unit from a different available portal elsewhere in the play area.
