@@ -64,8 +64,10 @@ In this case, just deduct 5 cm from the movement of each cargo unit that you dis
 // TODO: Do we need to mention something to the effect that portal reserves detachments either (a) already count as embarked so don't pay 5 cm penalty to embark, or (b) need to pay the penalty to embark, just as units already in play need to do? Also, given that for a detachment that is already in play you must embark and then immediately disembark from another portal, won't this get a bit complicated given that you must also pay a 5 cm penalty for *each* portal unit...? 
 * You may use each individual portal only *once per turn*, to embark or disembark a single detachment.
 Any portal that you use becomes unavailable until the start of the next turn.
-* You may move a detachment that is already in the play area into an available portal -- but only if you immediately disembark the detachment from a different available portal elsewhere in the play area.
-You cannot use portals to transfer detachments *out* of the play area during the game.
+You may embark a unit that is already in the play area into an available portal -- but you *must* immediately disembark the unit from a different available portal elsewhere in the play area.
+footnote:[
+To be clear, there is no option to use a portal to transfer units *out* of the play area during the game.
+]
 
 == Portal Reserves
 
