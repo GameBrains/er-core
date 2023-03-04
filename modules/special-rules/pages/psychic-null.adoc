@@ -1,8 +1,11 @@
 = Psychic Null
 
 `Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
-Some rare individuals can somehow sever the connection between the Warp and real-space in their immediate surroundings.
+Some rare individuals can somehow nullify the connection between the Warp and real-space in their immediate surroundings.
 Among other things, this means that psychic powers simply don't work on them or near them.
 
 ---

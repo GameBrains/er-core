@@ -12,8 +12,8 @@ Well-known examples include Necron portals and Eldar Webway portals.
 
 ---
 
-NOTE: The rules that govern how we use the {portal} ability to transport units are *almost* the same as for the {transport-x} ability.
-However, there are some important differences that are necessary to maintain game balance.
+NOTE: The rules that govern how we use the {portal} ability to transport units are very similar to those for the {transport-x} ability.
+However, there are some important differences.
 
 == Data sheet variations of {portal}
 
@@ -66,7 +66,7 @@ When you disembark units that you're bringing into play from Portal Reserves, tr
 ]
 * You may use each individual portal only *once per turn*, to embark or disembark units from a single detachment.
 Any portal that you use becomes unavailable until the start of the next turn.
-You may embark a unit that is already in the play area into an available portal -- but you *must* immediately disembark the unit from a different available portal elsewhere in the play area.
+* You may embark a permitted cargo unit that is already in the play area into an available portal -- but you *must* immediately disembark the unit from a different available portal elsewhere in the play area.
 footnote:[
 To be clear, there is no option to use a portal to transfer units *out* of the play area during the game.
 ]

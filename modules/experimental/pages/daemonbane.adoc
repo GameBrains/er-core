@@ -1,8 +1,9 @@
 = Daemonbane
 
 `Detachment ability`
-footnote:[
-include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+footnote:[{e40k-diff}
+We created this ability for {project-name}.
+It is inspired by the _Ordo Malleus_ ability that was experimental for {e40k}, but is somewhat different.
 ]
 
 These detachments specialise in fighting psykers and daemons.

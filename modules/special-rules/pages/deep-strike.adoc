@@ -1,6 +1,9 @@
 = Deep Strike
 
 `Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 These units specialise in rapid insertion onto the battlefield via drop pods, teleportation, or some other method.
 For example, detachments of Eldar Swooping Hawks may use their anti-grav 'wings' to descend from altitude.

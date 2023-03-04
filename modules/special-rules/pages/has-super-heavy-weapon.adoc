@@ -1,6 +1,9 @@
 = Has +{super-heavy weapon}+
 
 `Data sheet modifier`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 These units are specially adapted from their original design, to replace their main armament with a more specialised weapon.
 
