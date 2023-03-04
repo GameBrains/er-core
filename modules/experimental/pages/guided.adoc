@@ -1,0 +1,20 @@
+= Guided
+
+`Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit -- or weapon system -- has the {guided} ability:
+
+* When you shoot this unit/weapon system at a target detachment that is currently marked by the {markerlights} ability then:
+** While you resolve this shooting, this unit/weapon system gains a Range value of `60 cm` and the {artillery} ability.
+
+.Related information
+* xref:markerlights.adoc[]
+* xref:special-rules:artillery.adoc[]
+* xref:special-rules:shooting-with-war-engines.adoc#_weapon_systems[Weapon systems]

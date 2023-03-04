@@ -1,6 +1,11 @@
 = Psychic Beacon
 
 `Detachment ability`
+footnote:[{e40k-diff}
+The {e40k} version of this ability is exceptionally cheap and powerful -- for only a small cost, it allows all Mycetic Swarm detachments in the army to arrive in turn 1, automatically.
+We've revised the ability so that it (a) scales with the number of detachments that have the ability, (b) grants you a re-roll rather than a bypass of the Reserve Detachment Arrival table, and (c) you can use the re-roll for any Tyranid detachment in Reserves, not just Mycetic Swarms.
+Note that this also means that the earliest a Mycetic Swarm detachment can arrive from Reserves is turn 2, just like other Reserves.
+]
 
 Genestealer Patriarchs emit a strong psychic signal, which guides the parent Hive Fleet to the planet.
 
@@ -8,10 +13,7 @@ Genestealer Patriarchs emit a strong psychic signal, which guides the parent Hiv
 
 When you field an army that includes detachments that have the {psychic-beacon} ability:
 
-* You can deploy any Mycetic Swarms that you have in the first turn, rather than roll for their arrival as Reserves.
-+
-{blank}[TODO: Is this the right interpretation? Seems like it might be overpowered -- include a single small Genestealer Cult detachment, and all Mycetic Swarms in a Tyranid army get to deploy on turn 1, no roll for Reserves required...]
+* For each undestroyed detachment with the {psychic-beacon} ability, you may re-roll one failed Reserves roll per turn.
 
 .Related information
-* xref:battles:scenario-special-rules:drop-pods.adoc[]
 * xref:battles:scenario-special-rules:reserves.adoc[]

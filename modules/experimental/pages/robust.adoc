@@ -1,6 +1,9 @@
 = Robust
 
 `Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
 
 An experimental rule to allow some normal units to have Damage Capacity `2`.
 

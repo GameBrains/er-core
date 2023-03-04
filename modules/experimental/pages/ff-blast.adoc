@@ -1,0 +1,28 @@
+= FF Blast
+
+`Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+These units have some special means to disrupt their opponents in firefights.
+
+For example, Noise Marines of Slaanesh use their psycho-sonic weapons to produce 'Kakophoni' effects that are both murderous and disorienting.
+
+[NOTE]
+====
+'CC Blast' and 'FF Blast' are temporary names -- we hope to settle on better names for these abilities in future.
+In a perfect world, these abilities will have names that are evocative and yet which also neatly hint at the relatedness of their distinct yet similar gameplay effects.
+Easier said than done!
+====
+
+---
+
+Where your detachment has the {ff-blast} ability and takes part in a firefight:
+
+* At the end of the xref:main-rules:roll-to-resolve-the-firefight.adoc[] step, place one Blast marker on each enemy detachment that had any units within 15 cm of units in this detachment.
+This effect does *not* stack with other detachments that also have the {ff-blast} ability.
+
+.Related information
+* xref:main-rules:blast-markers.adoc[]
+* xref:main-rules:roll-to-resolve-the-firefight.adoc[]

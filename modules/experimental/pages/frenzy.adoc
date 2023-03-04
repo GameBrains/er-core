@@ -1,0 +1,21 @@
+= Frenzy
+
+`Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+The troopers in this detachment are filled with bloodlust and the joy of battle.
+
+---
+
+Where your detachment has the {frenzy} ability:
+
+* During the Assault phase *only*: The detachment has the {stubborn} ability, so you may re-roll Leadership tests that you fail for this detachment.
+* In close combats, the detachment gets a +1 bonus to the assault resolution roll.
+This bonus does *not* stack with the bonus from other detachments that also have the {frenzy} ability, nor with the bonus for having more {psyker} units.
+
+.Related information
+* xref:special-rules:stubborn.adoc[]
+* xref:main-rules:leadership-test.adoc[]
+* xref:main-rules:work-out-close-combat-bonuses.adoc[]

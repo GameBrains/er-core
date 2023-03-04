@@ -1,0 +1,17 @@
+= Biosave
+
+`Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+These units are unusually resilient; they often remain functional in spite of damage that would cripple most war engines.
+
+---
+
+Where your unit has the {biosave} ability:
+
+* When the unit suffers critical damage, from any source, roll a D6: On a roll of 4+, ignore the critical damage -- that is, do not roll on the Critical Damage Table.
+
+.Related information
+* xref:special-rules:war-engine-critical-damage.adoc[]

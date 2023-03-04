@@ -2,13 +2,15 @@
 
 `Unit ability`
 
-{blank}[TODO: add introductory text.]
+These units have technology that allows them to hover just above terrain and 'skim' over it as they move.
+They can also boost their ground clearance for short periods, to clear trees, buildings and other tall terrain, or to pop up and shoot at enemy units that would otherwise be out of sight.
 
 ---
 
 Where your unit has the {skimmer} ability:
 
-* You may ignore terrain when you move the unit — though you must still take a dangerous terrain test if the unit is in dangerous terrain at the start or end of the move, and you may not place the unit on impassable terrain.
+* When you move the unit, you may ignore terrain -- though you must still take a dangerous terrain test whenever the unit starts a move in dangerous terrain, and whenever it ends a move in dangerous terrain.
+And you still may not place the unit on impassable terrain.
 * In the Shooting phase, you may make a 'pop-up' attack with the unit.
 In such an attack, the unit rises up so that it can see over intervening terrain and target an enemy that lies beyond.
 ** When you make a pop-up attack with the unit, you can draw a line of sight over intervening terrain.

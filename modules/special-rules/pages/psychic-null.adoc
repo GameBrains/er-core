@@ -1,0 +1,21 @@
+= Psychic Null
+
+`Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+Some rare individuals can somehow nullify the connection between the Warp and real-space in their immediate surroundings.
+Among other things, this means that psychic powers simply don't work on them or near them.
+
+---
+
+Where your unit has the {psychic-null} ability:
+
+* Your opponent cannot target this unit with a Psychic Attack Fate card, such as Psychic Blast.
+* Where this unit is in base contact with an enemy {psyker} unit, your opponent cannot use that unit to channel the effects of a Psychic Attack Fate card, such as Psychic Blast.
+* Where this unit is in base contact with an enemy {psyker} unit, that unit does not count towards your opponent's total number of {psyker} units in the assault.
+
+.Related information
+* xref:psyker.adoc[]
+* xref:battles:get-ready-to-play:draw-fate-cards.adoc[]

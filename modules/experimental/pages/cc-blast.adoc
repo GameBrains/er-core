@@ -1,0 +1,28 @@
+= CC Blast
+
+`Detachment ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+These units have some special means to disrupt their opponents in close combat. 
+
+For example, forces of the Chaos god Nurgle often carry potent daemonic plagues which corrupt and debilitate those who come into contact with them.
+
+[NOTE]
+====
+'CC Blast' and 'FF Blast' are temporary names -- we hope to settle on better names for these abilities in future.
+In a perfect world, these abilities will have names that are evocative and yet which also neatly hint at the relatedness of their distinct yet similar gameplay effects.
+Easier said than done!
+====
+
+---
+
+Where your detachment has the {cc-blast} ability and takes part in a close combat:
+
+* At the end of the xref:main-rules:roll-to-resolve-the-close-combat.adoc[] step, place one Blast marker on each enemy detachment that had any units in base contact with units in this detachment.
+This effect does *not* stack with other detachments that also have the {cc-blast} ability.
+
+.Related information
+* xref:main-rules:blast-markers.adoc[]
+* xref:main-rules:roll-to-resolve-the-close-combat.adoc[]

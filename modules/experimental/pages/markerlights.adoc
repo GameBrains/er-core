@@ -1,0 +1,20 @@
+= Markerlights
+
+`Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {markerlights} ability:
+
+* As long as the unit's detachment is not Broken and was not placed on March orders this turn, then:
+** Each enemy detachment that is currently within 30 cm and line of fire of the unit is 'marked'.
+(This is relevant for interaction with certain other abilities.)
+
+.Related information
+* xref:target-lock.adoc[]
+* xref:guided.adoc[]

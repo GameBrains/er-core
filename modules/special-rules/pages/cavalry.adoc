@@ -1,6 +1,9 @@
 = Cavalry
 
 `Data sheet modifier`
+footnote:[{e40k-diff}
+We've shifted the Armour bonus part of {e40k}'s _Cavalry_ ability to a separate ability that we call {armour-1}.
+]
 
 Despite the abundance and variety of technologies in the galaxy of the 41^st^ millennium, armies still find uses for cavalry -- and not only on the most barbaric worlds.
 
@@ -19,7 +22,6 @@ include::main-rules:partial$charge-moves-split-speed.adoc[]
 ]
 * Make its second Speed value three times (3x) the *first* Speed value of the base unit.
 footnote:split-speed[]
-* Add +1 to its Armour value.
 * Change the unit type to Vehicle (`VEH`).
 
 .{cavalry} data sheet modifiers

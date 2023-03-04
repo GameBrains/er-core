@@ -1,0 +1,18 @@
+= Long Range
+
+`Data sheet modifier`
+footnote:[{e40k-diff}
+We derived this ability from part of {e40k}'s experimental 'Vehicle variants' _Long Range_ rule.
+This allows for more flexibility in detachment design.
+]
+
+These units differ from their original design in some way that increases the effective range of their shooting.
+
+---
+
+Where your unit has the {long-range} ability, apply this change relative to its base unit:
+
+* Increase its Range value by 15 cm.
+
+.Related information
+* xref:short-range.adoc[]

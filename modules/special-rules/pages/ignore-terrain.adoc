@@ -12,9 +12,8 @@ Some units can stalk with ease through terrain that is treacherous for others.
 
 Where your unit has the {ignore-terrain} ability:
 
-* While you move the unit, you can have it cross dangerous terrain without need for a dangerous terrain test, or even cross impassable terrain.
-+
-{blank}[TODO: Should we qualify this to the effect that you can't end a move on impassable terrain (probably best), or at least that you can't end a chain of moves on impassable terrain?]
+* When you move the unit, you may ignore terrain and you never take dangerous terrain tests for the unit.
+However, you still may not place the unit on impassable terrain.
 
 .Related information
 * xref:main-rules:terrain-effects-on-movement.adoc[]

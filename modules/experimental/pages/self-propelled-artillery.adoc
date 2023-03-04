@@ -1,6 +1,6 @@
 = Self-propelled Artillery
 
-`Data sheet modifier` `Unit ability`
+`Data sheet modifier`
 
 These units are specially adapted from their original design, to replace their usual weaponry with artillery pieces.
 This grants them a longer range and the ability to shoot over intervening terrain like purpose-built artillery units, but comes at the cost of an inability to shoot at closer targets.
@@ -12,15 +12,14 @@ Where your unit has the {self-propelled-artillery} ability, apply these changes 
 * Create a split Range value in which the first value is the minimum range and the second value is the maximum range.
 Use the base unit's Range value as the minimum range, and double that for the maximum.
 You may not shoot the unit at targets which are closer than the minimum.
-* Apply the {artillery} special ability rules.
+* Add the {artillery} special ability.
 
 .{self-propelled-artillery} data sheet modifier
 ====
-The Ork Gun Trukks (Lobba) unit is a Buggy unit with added {self-propelled-artillery} ability.
+The Ork Gun Trukk (Lobba) unit is a Buggy base unit with added {self-propelled-artillery} ability.
 
-* While the base unit has a Range value of `30 cm`, that of the Gun Trukks (Lobba) unit `30 to 60 cm`.
-* The unit also gains the effects of the {artillery} special ability rules.
-// TODO: Similar to note at Flak Battery, can we find a better way to phrase how one ability incorporates the effects of another ability? I don't think that they should both be on the data sheet.
+* Whilst the base unit has a Range value of `30 cm`, that of the Gun Trukk (Lobba) unit is `30 to 60 cm`.
+* The Gun Trukk (Lobba) unit has the {artillery} ability.
 ====
 
 .Related information

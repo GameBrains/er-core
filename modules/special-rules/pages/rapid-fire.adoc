@@ -2,12 +2,17 @@
 
 `Unit ability`
 
-{blank}[TODO: add introductory text.]
+These units are especially skilled at laying down heavy, accurate fire when they are in a static position.
 
 ---
 
 Where your unit has the {rapid-fire} ability:
 
-* Double its Firepower value when its is on Overwatch orders.
+* While it is on Overwatch orders, add +1 to its Firepower value.
+footnote:[{e40k-diff}
+In {e40k}, when the _Rapid Fire_ ability is active it *doubles* the unit's Firepower value.
+We've changed this so that the effect scales in linear fashion when we add {rapid-fire} to units that have Firepower `2` or more.
+This doesn't affect any of the original {e40k} units that have _Rapid Fire_ -- they all have Firepower `1`, so the net result remains the same.
+]
 
 NOTE: Units that have the {heavy-weapons} ability cannot use the {rapid-fire} ability.

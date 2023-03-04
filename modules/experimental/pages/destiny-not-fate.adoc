@@ -1,0 +1,20 @@
+= Destiny, Not Fate
+
+`Unit ability`
+footnote:[
+include::special-rules:partial$no-such-ability-in-e40k.adoc[]
+]
+
+{blank}[TODO: add introductory text.]
+
+---
+
+Where your unit has the {destiny-not-fate} ability:
+
+* This unit allows you to use 'Psychic Attack (X) — Psychic Blast' Fate cards in a special way.
+Instead of the usual effect, remove (X) number of Blast markers from your unit's detachment.
+
+
+.Related information
+* xref:main-rules:blast-markers.adoc[]
+* xref:battles:get-ready-to-play:draw-fate-cards.adoc[]

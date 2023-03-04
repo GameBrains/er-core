@@ -1,0 +1,32 @@
+= Daemonbane
+
+`Detachment ability`
+footnote:[{e40k-diff}
+We created this ability for {project-name}.
+It is inspired by the _Ordo Malleus_ ability that was experimental for {e40k}, but is somewhat different.
+]
+
+These detachments specialise in fighting psykers and daemons.
+
+Though highly secretive, the elite Grey Knights of the Imperium are a prime example of such forces.
+
+---
+
+[NOTE]
+====
+This niche ability is only for use by agreement between the players, for special scenarios.
+It does not have a points cost -- you need to allow for its likely value in the overall context of the scenario and the composition of the armies that the players will use.
+====
+
+Where your detachment has the {daemonbane} ability:
+
+* In close combat, double the Assault value of each unit in the detachment that is in base contact with an enemy Daemon or {psyker} unit.
+* When you shoot with this detachment, apply a -1 modifier to the Armour value of each Daemon unit and each {psyker} unit in the target detachment.
+
+[NOTE]
+====
+We define a Daemon unit as any of these units in the Chaos faction: any unit in a Daemon Detachment; any Daemon Prince unit.
+====
+
+.Related information
+* xref:special-rules:psyker.adoc[]
