@@ -11,7 +11,7 @@
   *** xref:heavy-barrage.adoc[]
   *** xref:macro-weapon.adoc[]
   *** xref:mega-cannon.adoc[]
-  *** xref:pulsar.adoc[]
+  *** xref:pulsar-x.adoc[]
   *** xref:ripper-tentacles.adoc[]
   *** xref:super-lifta-droppa.adoc[]
   *** xref:vortex-missile.adoc[]

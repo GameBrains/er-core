@@ -47,7 +47,7 @@ Normally, suppression means that for each Blast marker on a detachment you must 
 However, if the detachment has more Blast markers than Firepower, or has no Firepower, then for each remaining Blast marker you lose the ability to shoot with one super-heavy weapon.
 You may choose which super-heavy weapons are suppressed.
 
-NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots like {pulsar}, or adds to a detachment's Firepower like {barrage}.
+NOTE: The entire super-heavy weapon is suppressed, even if it has multiple shots like {pulsar-x}, or adds to a detachment's Firepower like {barrage}.
 
 == Super-heavy weapons in firefights
 
@@ -56,7 +56,7 @@ Where a super-heavy weapon is in a position to contribute to a firefight, it con
 .Super-heavy weapons in firefights
 ====
 The {death-ray} and {heavy-barrage} weapons do not have a basic Firepower value.
-Where they are in a position to do so, they each contribute 1 Firepower in a firefight. 
+Where they are in a position to do so, they each contribute 1 Firepower in a firefight.
 ====
 
 == Summary of super-heavy weapon effects
