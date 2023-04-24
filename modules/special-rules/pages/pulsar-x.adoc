@@ -9,7 +9,8 @@ As a result, the weapon can destroy multiple targets in a single salvo.
 
 When you shoot with a {pulsar}:
 
-* Roll the dice listed in brackets and resolve this many {macro-weapon} shots against the target detachment.
+. Roll the dice listed in brackets, for example (D3+1) or (D6).
+. Resolve that many {macro-weapon} shots against the target detachment.
 
 IMPORTANT: Remember that a {pulsar} is a single super-heavy weapon.
 It does *not* count as multiple super-heavy weapons for placement of Blast markers, suppression, or contribution to firefights.
