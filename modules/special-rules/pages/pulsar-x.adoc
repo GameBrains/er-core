@@ -13,7 +13,7 @@ When you shoot with a {pulsar-x}:
 . Resolve that many {macro-weapon} shots against the target detachment.
 
 IMPORTANT: Remember that a {pulsar-x} is a single super-heavy weapon.
-It does *not* count as multiple super-heavy weapons for placement of Blast markers, suppression, or contribution to firefights.
+It does *not* count as multiple super-heavy weapons for placement of Blast markers, suppression, contribution to firefights, or any other game purpose.
 
 .Related information
 * xref:macro-weapon.adoc[]
