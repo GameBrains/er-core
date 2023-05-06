@@ -9,7 +9,7 @@ As a result, the weapon can destroy multiple targets in a single salvo.
 
 When you shoot with a {pulsar-x}:
 
-. Roll the dice listed in brackets, for example (D3+1) or (D6).
+. Determine the number of shots, based on the value of `(X)` that we specify — for example, _`(D3+1)`_ or _`(D6)`_.
 . Resolve that many {macro-weapon} shots against the target detachment.
 
 IMPORTANT: Remember that a {pulsar-x} is a single super-heavy weapon.
