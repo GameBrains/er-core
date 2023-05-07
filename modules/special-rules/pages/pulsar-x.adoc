@@ -14,7 +14,7 @@ The resultant salvo of {macro-weapon} shots does *not* count as multiple super-h
 
 . Determine the number of shots in the salvo, based on the value of `(X)` that we specify -- for example, _`(D3+1)`_ or _`(D6)`_.
 footnote:[{e40k-diff}
-The 'salvo' value of {pulsar} in {e40k} is D6 only.
+In {e40k}, the 'salvo' value of {pulsar} is D6 only.
 This makes it hard to balance the performance and points costs of certain units.
 So, we've added _`(X)`_ to support other values too, for more flexible design of units in the army lists.
 ]
