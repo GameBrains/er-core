@@ -9,8 +9,7 @@ As a result, the weapon can destroy multiple targets in a single salvo.
 
 When you make a {pulsar-x} shot:
 
-IMPORTANT: A {pulsar-x} shot results in a salvo of {macro-weapon} shots -- but it still only counts as a single super-heavy weapon.
-The resultant salvo of {macro-weapon} shots does *not* count as multiple super-heavy weapons for placement of Blast markers, suppression, contribution to firefights, or any other game purpose.
+IMPORTANT: A {pulsar-x} shot results in a salvo of {macro-weapon} shots -- but we treat these collectively as a single super-heavy weapon for all game purposes (such as placement of Blast markers, suppression and contribution to firefights).
 
 . Determine the number of shots in the salvo, based on the value of `(X)` that we specify -- for example, _`(D3+1)`_ or _`(D6)`_.
 footnote:[{e40k-diff}
