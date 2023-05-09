@@ -11,11 +11,11 @@ When you make a {pulsar-x} shot:
 
 IMPORTANT: A {pulsar-x} shot results in a salvo of {macro-weapon} shots -- but we treat these collectively as a single super-heavy weapon for all game purposes (such as placement of Blast markers, suppression and contribution to firefights).
 
-. Determine the number of shots in the salvo, based on the value of `(X)` that we specify -- for example, _`(D3+1)`_ or _`(D6)`_.
+. Determine the number of shots in the salvo, based on the value of `(X)` that we specify -- for example, `(D3+1)` or `(D6)`.
 footnote:[{e40k-diff}
 In {e40k}, the 'salvo' value of {pulsar} is D6 only.
 This makes it hard to balance the performance and points costs of certain units.
-So, we've added _`(X)`_ to support other values too, for more flexible design of units in the army lists.
+So, we've added `(X)` to support other values too, for more flexible design of units in the army lists.
 ]
 . Resolve that many {macro-weapon} shots against the target detachment.
 
