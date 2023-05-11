@@ -19,13 +19,13 @@ These are the weapon-carrying locations on the war engine, and have names like L
 Each weapon mount also has:
 
 * A weapon system that defines the weapon effects that exist in this mount (<<Weapon systems>>).
-* A weapon arc that restricts the line of fire of the weapon system (<<Weapon arcs>>).
+* A weapon arc that restricts the line of fire of the mount's weapon system (<<Weapon arcs>>).
 
 We list each weapon mount that a War Engine has in a separate line on the unit's data sheet, along with the corresponding weapon system details and weapon arc.
 
-=== Game effects of weapon mounts
+=== Other effects of weapon mounts
 
-* While you may split fire to target different detachments with different weapon mounts, you may not split fire with the effects of a single weapon mount.
+* While you may split fire to target different detachments with different weapon mounts, you may not split fire with the weapon system of a single weapon mount.
 * For critical damage results, apply effects that destroy or restrict a weapon to the whole weapon mount.
 
 == Weapon systems
