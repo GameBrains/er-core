@@ -13,9 +13,11 @@ include::main-rules:partial$terrain-effects-table.adoc[]
 
 See xref:special-rules:special-abilities.adoc[].
 
-== Firepower
+[[firepower-table]]
+== Firepower table
 
-{blank}[TODO: Add Firepower table]
+image::firepower-table.gif[alt="Firepower table, which you use to determine the number of dice to roll to hit."]
+_*When you shoot at a War Engine unit that is both Immobilised and in the open, simply roll a number of dice equal to the resultant Firepower of the attack._
 
 == Blast markers
 

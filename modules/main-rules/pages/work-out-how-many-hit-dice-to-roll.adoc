@@ -3,14 +3,16 @@
 Having placed Blast markers in the previous step you will now attempt to inflict actual casualties with your shooting.
 
 . Recall the total Firepower that you have, after modification.
-. Find this number in the Firepower column on the Firepower Table, to determine the row that you must use.
+// [TODO: I think a good term at this point would be 'resultant Firepower'. We need to do some more editing on the shooting procedure topics anyway, so perhaps we can insert this term as appropriate next time around, and make it consistent throughout.]
+. Find this number in the Firepower column on the xref:more:quick-reference.adoc#firepower-table[Firepower table], to determine the row that you must use.
 footnote:firepower-21-or-more[
-If the Firepower totals 21 or more then resolve it as one attack at Firepower 20 plus another attack at the remaining Firepower.
-For example, Firepower 26 = an attack at Firepower 20  + another attack at Firepower 6.
+If the Firepower totals 21 or more then calculate it as one attack at Firepower 20 plus another attack at the remaining Firepower.
+For example, for Firepower 26 calculate the number of dice for an attack at Firepower 20 plus the number of dice for an attack at Firepower 6.
 ]
-. Cross-reference the row against the appropriate column to find the number of dice that you may roll to hit.
+. Cross-reference the row against the appropriate column to find the number of dice that you will roll to hit.
 That is:
-.. Look along the top of the table and find the kind of target that you're shooting at. For example, if the target detachment is comprised of *Vehicles or Infantry in Cover* then use that column.
+.. Look along the top of the table and find the type of target that you're shooting at.
+For example, if the target detachment is comprised of *Vehicles or Infantry in Cover* then use that column.
 .. Where the Firepower row and Target column cross you'll find a number which tells you how many dice you may roll to hit.
 
 Also note:
@@ -18,5 +20,18 @@ Also note:
 * If the target detachment has some units in cover and some in the open, then you may choose to shoot at only the units that are the open, if you wish.
 If you do this then, when you allocate hits later in this procedure, you may not allocate hits to any of the units that are in cover.
 * Always use the *Marching* column if the target detachment is under March orders -- even if some or all units are in cover.
+* When you shoot at a War Engine unit that is both Immobilised and in the open, simply roll a number of dice equal to the resultant Firepower of the attack.
 
-+[TODO: Need a new image.]+
+.How to use the Firepower table
+****
+.Guide to the Firepower table
+image::firepower-table-guide.gif[alt="Guide to the Firepower table, which you use to determine the number of dice to roll to hit."]
+
+[horizontal]
+Step{nbsp}1::
+In the Firepower column, find the numbered row that matches the resultant Firepower of your attack.
+Step{nbsp}2::
+Find the column that matches the type and state of your target.
+Step{nbsp}3::
+Cross reference these two to find the number of dice that you will roll to hit.
+****

@@ -54,7 +54,7 @@ You intend to make an entirely road-based assault move.
 So, you can make either:
 
 * A normal assault move of between 5 and 15 cm (`10 cm` first Speed value + 5 cm road bonus).
-* A charge move of up to 30 cm to reach base contact with an enemy unit (`20 cm` second Speed value + 10 cm road bonus).
+* A charge move of up to 30 cm to reach base contact with an enemy unit that is also on the road (`20 cm` second Speed value + 10 cm road bonus).
 ====
 
 .Related information
