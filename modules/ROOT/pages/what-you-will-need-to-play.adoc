@@ -12,12 +12,14 @@ Play for fun, don't sweat the losses and may all your games be jolly and enterta
 == The big stuff
 
 * An opponent!
+{project-name} is primarily a two-player game, with no solo-play rules.
 * Two armies of 'Epic scale' miniatures to represent the _Warhammer 40,000_ factions that you and your opponent wish to play.
 'Epic scale' is nominally 6 mm or 1:285 scale, but varies somewhat in practice.
 * A suitable wargames table to serve as your battlefield.
+The 'default' size for Epic games is 240 cm by 180 cm (~6' by 4').
 * Miniature terrain to make your battlefield visually appealing and tactically interesting.
 
-== Equipment and accessories
+== General equipment and accessories
 
 === Pencil and paper
 
@@ -35,7 +37,17 @@ You'll want ones that have centimetres (cm) marked on them.
 === Dice
 
 Ordinary six-sided dice.
-Wargamers can never have too many, but 20 or 30 is more than enough to get by.
+Wargamers can never have too many, but 20 or 30 is plenty.
+
+=== Damage trackers
+
+You can manage with pencil and paper, but it's nice to have some markers that you can use to track damage (and shields) on some of the larger engines of war in the game.
+You might consider:
+
+* Dice of a different size, colour and/or number of faces to your handfuls of ordinary dice.
+* 'Damage tracker' or 'wound' dials -- available from many manufacturers, in a range of styles.
+
+== Special equipment and accessories
 
 === Special dice (or markers)
 
@@ -51,14 +63,6 @@ You can also find 3D printed alternatives online.
 The designs must avoid copyright infringement of course, but should be instantly recognisable for anyone who is familiar with the with GW Order dice.
 
 === Other markers and templates
-
-Damage trackers::
-
-You can manage with pencil and paper, but it's nice to have some markers that you can use to track damage (and shields) on some of the larger engines of war in the game.
-You might consider:
-
-* Dice of different number of faces, colour and/or size to your handfuls of ordinary dice.
-* 'Damage tracker' or 'wound' dials -- available from many manufacturers, in a range of styles.
 
 Blast markers::
 
@@ -107,7 +111,7 @@ For example, round tokens will sometimes roll across the play area, away from th
 
 .Under development
 ****
-We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium - Further resources^] (external URL).]
+We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
 ****
 
 === Reference sheets
@@ -116,5 +120,5 @@ We don't have Remastered versions yet, but you can get redrawn versions of the o
 
 .Under development
 ****
-We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium - Further resources^] (external URL).]
+We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
 ****
