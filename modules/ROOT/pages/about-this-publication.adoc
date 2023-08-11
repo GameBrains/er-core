@@ -1,0 +1,59 @@
+= About this publication
+
+The purpose of this publication is to provide an enhanced version of the original {e40k} game rules and army lists.
+
+This means that we intend to:
+
+* Make the rules easier to understand and use.
+* Fix some gaps and problems in the rules.
+* Update and extend the army lists.
+* Add some new special abilities.
+* Offer some optional rules and other extras.
+
+However, we have a principle that we intend to keep at the forefront at all times: That is, to *respect and retain the distinct nature of the {e40k} game system* -- we want to present the {e40k} system of gameplay at its best, not create a derivative with substantial differences in gameplay.
+
+See below for more detail on these goals.
+
+== Improving the rules content
+
+Our intent is for {project-name} rules content to be *clearer and more user-friendly* than in {e40k}, while we keep the *gameplay* almost entirely the same.
+
+I say 'almost' because the original {e40k} publications present some rules in ways that are confusing, contradictory, ambiguous, or even a bit 'broken' -- and to fix this we must sometimes challenge common misinterpretations or, in rare cases, actually change the gameplay slightly.
+
+So, we rewrite the rules to make them easier to understand and use -- clearer, better structured, more consistent, less ambiguous, and much easier to navigate and use on a mobile device too.
+
+Where we do create actual gameplay differences, we go out of our way to include footnotes to highlight and explain these.
+If you disagree at any point... well, of course no-one's stopping you from playing it your way instead!
+(We're also open to suggestions if you have a better way or you think we've overlooked something.)
+
+.Intellectual property rights
+****
+We must respect the intellectual property rights of Games Workshop plc.
+A thorough rewrite should also mean that we don't infringe upon copyrights, as we've created a new artistic expression.
+(And of course we intend no challenge to the status of trademarks.)
+****
+
+== Improving the army lists
+
+We mean to *fix inconsistencies and gaps* that exist in the original lists, and to *extend* the lists.
+
+We don't want to extend the army lists just the sake of it, but rather to:
+
+* Add some variety and character that was lacking in the original.
+* Add some forces that Games Workshop didn't invent until much later, but which now have a well-established place in the _Warhammer 40,000_ universe.
+Many enthusiasts enjoy these newer forces and wish to use them with {project-name}.
+
+.Compatibility of old {e40k} army lists with {project-name}
+****
+If you really want to for some reason, there's nothing to stop you from using the original {e40k} army lists with the {project-name} rules.
+There are some minor differences in terminology, and where {e40k} defines some army-specific rules in its army lists, we've rationalised and redefined these in the xref:special-rules:special-abilities.adoc[] section instead -- but that's about all that you'll need to adjust to.
+****
+
+== Adding to the special abilities 
+
+Our philosophy for *existing* special abilities is much the same as with the rules of play -- we're just rationalising things.
+However, we're also adding some *new* abilities that help us to extend the army lists and gameplay in interesting ways.
+
+== Source materials
+
+To be clear, when we refer to {e40k} we usually mean the entire set of publications -- not only the books and other materials that were in the original {e40k} boxed set that Games Workshop released in 1997, but also various updates that they published later, mainly in the _Firepower_ magazine series and the _Epic 40,000 Magazine_ series.

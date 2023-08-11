@@ -36,22 +36,9 @@ Also important to the project, but not held in the same repositories and hosting
 
 * *link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit datasheets.
 Ian Wood continues to adapt and extend this from the open source 'Army Forge' software to suit our needs, and to populate it with new and revised content.
-We intend that the builder and the _Armies_ component will mirror each other.
+We intend that the builder and the _Armies_ component will mirror each other eventually.
 
 TIP: You can also find a link for the builder under the *Resources* item in the main navigation menu.
-
-== Output formats
-This web output is the only format at this time.
-
-In future, we should be able to offer offline usage, through progressive web app (PWA) technology -- ideal for your tablet or smartphone.
-Or failing this, a native app for Android.
-
-PDF output would involve some tiresome manual steps, and is far too static to be a good deliverable for a rapidly changing project.
-However, when the project reaches a suitable level of maturity and stability then we can can consider a PDF output.
-By that time, hopefully the underlying technology will evolve to make PDF output somewhat easier than it would be right now.
-footnote:[
-This project uses Antora, a static site generator for Asciidoc.
-]
 
 == Current limitations for usability
 

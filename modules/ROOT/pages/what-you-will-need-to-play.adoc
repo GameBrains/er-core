@@ -24,7 +24,7 @@ Play for fun, don't sweat the losses and may all your games be jolly and enterta
 You don't always need these, but they can be useful to make notes and reminders during the course of a game.
 You might also use a pencil and paper-based method to design and record the details of your army between games.
 
-+[TODO: Add something about paper rosters/detachment cards and digital alternatives]+
+{blank}[TODO: Add something about paper rosters/detachment cards and digital alternatives, especially the link:https://builder.epicremastered.com[Epic Remastered Detachment Builder^].]
 
 === Measuring device
 
@@ -43,10 +43,12 @@ You will need visual markers for certain effects in the game -- particularly whe
 
 Order Dice -- as in Games Workshop's old {e40k} and _Battlefleet Gothic_ games -- are ideal if you can get hold of enough of them.
 More likely, you'll need to create some custom markers or find suitable substitutes.
-(Note that some of the dice from the 2016 _Adeptus Titanicus_ game would make ideal substitutes as they are very reminiscent of the original {e40k} order dice.)
 
-+[TODO: Perhaps someone will be kind enough to design and contribute files that we can provide for people to download, and to use for the graphics in these rules.
-The design must avoid copyright infringement, but ideally would be mutually recognisable with GW Order dice. I'm thinking (1) 2D raster designs for markers that people can print out at home; (2) 2D vector designs that people can use to get custom dice made; (3) File to 3D print custom dice.]+
+TIP: Some of the dice from the 2016 _Adeptus Titanicus_ game make good substitutes as they are very similar to the original {e40k} order dice.
+You can also find 3D printed alternatives online.
+
+{blank}[TODO: We need some proper designs for the order motifs, to use for the graphics in these rules and to add to a downloadable 'print your own play aids' file. 
+The designs must avoid copyright infringement of course, but should be instantly recognisable for anyone who is familiar with the with GW Order dice.
 
 === Other markers and templates
 
@@ -60,25 +62,59 @@ You might consider:
 
 Blast markers::
 
-+[TODO]+
+{blank}[TODO: Add explanation.]
 
 Objective markers::
 
-+[TODO]+
+{blank}[TODO: Add explanation.]
 
 Barrage templates::
 
-+[TODO]+
+These are simply circles of card with a diameter of 60 mm -- originally with colourful artwork to represent explosions.
+We recommend that you have three.
+Most of the time you need only one, but there are some rare cases where it is helpful to have more at hand.
 
 Airfields::
 
 The original {e40k} boxed game included nice printed airfields, to help players to keep track of the readiness of their Flyer units.
-These are 'nice to have' -- the main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Rearm; Ready.
+These are 'nice to have' and only effective for a small number of flyers.
+The main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Rearm; Ready.
+
+Drop Pods tokens::
+
+You'll only need these if and when you use the xref:battles:scenario-special-rules:drop-pods.adoc[] special rules.
+Even the original {e40k} boxed game didn't include these (although the _Armies of the Imperium_ expansion for the second edition of Epic did).
+But they're easy to make:
+
+. Get some thick paper or thin card.
+Photo paper for inkjet printers is a good choice.
+. Draw a 1 cm grid, 4 cm by 10 cm, to create 40 squares each with sides of 1 cm.
+. Use a pen or stamp with permanent ink to number each square, from 1 to 40.
+. Cut out your squares -- hey presto, 40 Drop Pod tokens (more than you're ever likely to need at one time).
+
+{blank}[TODO: Ideally, in due course we'll add a suitable design to a downloadable 'print your own play aids' file.]
+
+TIP: You might consider a different material, shape and/or size for your tokens.
+As long as you and your opponent use the same tokens then it is fair.
+But keep in mind that you'll be dropping these tokens from a height, and these characteristics affect how the tokens typically distribute.
+For example, round tokens will sometimes roll across the play area, away from the rest, whilst plastic tokens may bounce and knock miniatures that are in play.
+
+{blank}[TODO: It might be good to suggest optional alternative rules that don't require tokens. Take inspiration from NetEpic perhaps, which developed an alternative procedure in place of the similar token-based rules that existed in 2nd edition.]
 
 === Fate cards
 
-+[TODO]+
+{blank}[TODO: Add explanation, and link to new Fate cards content when it is ready.]
+
+.Under development
+****
+We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium - Further resources^] (external URL).]
+****
 
 === Reference sheets
 
-+[TODO]+
+{blank}[TODO: Add explanation, and link to new reference sheets when they are available.]
+
+.Under development
+****
+We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium - Further resources^] (external URL).]
+****

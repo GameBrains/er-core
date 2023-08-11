@@ -1,0 +1,20 @@
+= Formats of this publication
+
+To make this publication as user-friendly as possible across all formats, we use 'web-first' writing techniques rather than traditional 'print-first' techniques.
+
+For now though, this website is the only output format for this publication.
+
+In future, we should be able to offer an installable app output too.
+Then you'll be able to use your mobile device to consult the rules even when you have no Internet access.
+
+As for Portable Document Format (PDF): With the current state of the publishing technology we're using, PDF output would demand far too much manual intervention for us to produce this alongside the web output.
+footnote:[
+This project uses Antora, a static site generator for the Asciidoc plain-text markup language, and GitHub Actions to deploy updates to the website with very little effort.
+At the time of writing, no direct-to-PDF output processor is ready to deploy.
+]
+
+And, as a traditional print-based output format, PDF has some major drawbacks that complicate publishing and updates, even at the best of times -- it's far too static for a rapidly changing project.
+(And it's awkward to use on-screen too.)
+
+However, when the project reaches a suitable level of maturity and stability then we can consider a PDF output for those who really want it.
+We're hopeful that by that time we'll have the tools to publish to PDF much more easily than we can at present.
