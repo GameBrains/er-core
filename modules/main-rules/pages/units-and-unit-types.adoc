@@ -8,6 +8,7 @@ Infantry rush from cover to cover and fight desperate hand-to-hand combats to se
 All these forces must work together to secure victory for their side.
 
 == Units
+
 The playing pieces that we use to play {project-name} represent the many and varied forces that are at war on battlefields of the 41^st^ millennium.
 
 In game terms, each individual playing piece represents a single independent element of these forces, known as a *unit*.
@@ -15,45 +16,103 @@ Each unit is also of a particular named kind, such as Ork Boyz or Land Raider.
 Each kind has a unique set of characteristics that define its capabilities on the battlefield, which we explain at xref:data-sheets-and-characteristics.adoc[].
 
 == Unit types [[unit-types]]
-Units vary widely in their specific capabilities, but all belong to a broad *unit type*, as follows:
+
+Units vary widely in their specific characteristics and capabilities, but for rules purposes we classify each unit by *unit type*:
+
+* Infantry (`INF`)
+* Vehicle (`VEH`)
+* War Engine (`WE`)
+* Flyer (`FLY`)
+
+See below for more detail about each of these unit types.
+footnote:[
+Our notes on physical representation are guidance, not a set of absolute rules requirements.
+As long as your miniatures look the part so that it is clear what they represent, and as long as you don't abuse the flexibility for competitive advantage, then you won't go far wrong.
+]
 
 === Infantry (`INF`)
-All personnel that are able to deploy and act outside of war machines.
-This includes mounted infantry (such as Space Marine Bikes and Ork Boarboyz) and field artillery (such as the Eldar Support Platform and Ork Pulsa Rokkit).
 
-We represent infantry units as follows:
+This unit type includes the most obvious infantry, plus the likes of crew-served field artillery and some heroic characters.
+It also includes some creatures and small machines that operate in a similar way as far as we're concerned with the rules.
 
-* 'Regular' infantry: Up to five models affixed to a single base (sometimes called a 'stand').
-* Mounted infantry: Two or three models affixed to a single base.
-* Field artillery: One artillery piece and X infantry models affixed to a single base.
+Examples include the Space Marines unit, Ork Boyz, Eldar Support Weapon Platform,   Tyranid Hormagaunts, and many more.
 
-{blank}[TODO: Consider whether to include some text similar to that at link:https://thehobby.zone/resources/ea-rules-revamp/Content/CoreRules/Basics/StandsInfantryUnits.htm[^] (external URL)]
+.Physical representation of Infantry units
+****
+We typically represent Infantry units as follows:
+
+* 'Normal' infantry: Commonly five infantry models affixed to a single base.
+That said, some enthusiasts vary this with a greater or lesser number, where the models represent particularly weak or powerful individuals.
+* Field artillery: One or two artillery piece models affixed to a single base -- usually along with some infantry models to represent the crew.
+
+TIP: Wargamers often refer to such a playing piece as a 'base' or 'stand' of infantry.
+
+The most common formats of the actual bases are:
+
+* 20 mm square
+* 40 mm by 12 mm oblong strip
+* 25 mm diameter circle
+
+But, just about any shape and size is acceptable, as long as they are:
+
+* no smaller than 20 mm wide by 10 mm deep
+* no larger than 40 mm wide by 40 mm deep
+****
 
 === Vehicle (`VEH`)
-Vehicles that are covered with moderate or thick armour plate.
-Examples include tanks such as the Leman Russ and Land Raider, armoured troop carriers such as the Rhino, and other machines such as Dreadnoughts.
 
-We represent each Vehicle unit with a single model.
+This unit type includes the most obvious vehicles, plus some large beasts and mounted infantry (which can't take advantage of terrain in quite the same way as smaller beasts and normal infantry).
+
+Examples include:
+
+* Tanks, such as the Imperial Guard Leman Russ.
+* Armoured personnel carriers, such as the Space Marine Rhino.
+* Walking machines, such as the Eldar War Walker and various Dreadnought units.
+* Some large, powerful beasts, such as the Ork Squiggoth and the Tyranid Carnifex.
+* Mounted infantry, such as the Ork Boarboyz and the Eldar Jetbikes.
+
+.Physical representation of Vehicle units
+****
+We typically represent Vehicle units as follows:
+
+* Tank or armoured personnel carrier: A single vehicle model.
+Some players like to affix their vehicle models to bases, but this is not necessary and makes little difference in game terms.
+Do as you prefer.
+* Walking machine or large, powerful beast: A single walker or beast model, usually affixed to a base for stability.
+* Mounted infantry: Two or three mounted infantry models affixed to a single base.
+****
 
 === War Engine (`WE`)
-All very large war machines.
-Examples include the super-heavy tanks and Titans of various factions, and Ork Gargants.
+
+This unit type includes very large and tough machines of war, plus some exceptionally powerful and resilient creatures.
+
+Examples include the super-heavy tanks and Titans of various factions, Gargants (which are the Ork equivalent of Titans) and some giant bio-constructs such as the Tyranid Dominatrix.
 
 These units dwarf the units of other unit types and can absorb a lot more damage before they are destroyed.
-Best of all, these behemoths usually have multiple giant weapon systems that can rain destruction upon your enemies!
+Best of all, many of these behemoths have multiple huge weapon systems that can rain destruction upon your enemies!
 
-We represent each War Engine unit with a single Epic model.
+.Physical representation of War Engine units
+****
+We represent each War Engine unit with a single model.
+Some players like to affix their war engine models to bases, but this is not necessary and makes little difference in game terms.
+That said, where a war engine model has legs, it is usual to affix it to a base -- both for stability and for clarity of measurements and other interactions during the game.
+****
 
 === Flyer (`FLY`)
-Aircraft, and even some creatures that can fly within a planet's atmosphere.
-They are very fast relative to ground units.
-Examples include the Ork Fighta-Bommer, Space Marine Thunderhawk Gunship and Tyranid Harridan.
 
-We usually represent each Flyer unit with a single model on a 'flying stand' -- that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop.
+Aircraft, and even some creatures that can fly within a planet's atmosphere.
+These are very fast in comparison to ground-based units, and their presence over the field of battle is fleeting.
+
+Examples include the Ork Fighta-Bommer, Space Marine Thunderhawk Gunship and Tyranid Harridan.
 
 [NOTE]
 ====
 Note that 'skimmer' units such as the Space Marine Land Speeder and Eldar Falcon grav-tank are not aircraft, and do not count as Flyer units.
 Rather, these units have some unique capabilities that we represent with the {skimmer} special ability.
-Otherwise, they behave just like other 'ground units'.
+Otherwise, they behave just like other 'ground units' of the same unit type.
 ====
+
+.Physical representation of Flyer units
+****
+We usually represent each Flyer unit with a single model on a 'flying stand' -- that is, the model sits on top of a vertical rod that is affixed to a base, to raise the model above the height of other units on the tabletop.
+****
