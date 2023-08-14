@@ -101,7 +101,8 @@ That said, where a war engine model has legs, it is usual to affix it to a base 
 === Flyer (`FLY`)
 
 Aircraft, and even some creatures that can fly within a planet's atmosphere.
-They are very fast relative to ground units.
+These are very fast in comparison to ground-based units, and their presence over the field of battle is fleeting.
+
 Examples include the Ork Fighta-Bommer, Space Marine Thunderhawk Gunship and Tyranid Harridan.
 
 [NOTE]
