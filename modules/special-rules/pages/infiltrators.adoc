@@ -7,15 +7,15 @@ These units are the expert scouts and commandos who gather information, set ambu
 ---
 
 Where your unit has the {infiltrators} ability:
-footnote:[{e40k-diff}
-The original rules contain an additional clause: "An _Infiltrators_ unit which is more than 30cm from its HQ unit is still destroyed if it is broken in close combat or a firefight."
-We have not been able to determine a straightforward, consistent way to interpret this clause so that it works neatly alongside the effects of other rules.
-So, we include no similar clause here.
-If in due course the community finds a way to make sense of this clause with a workable interpretation, then we'll be only too happy to update these rules to add the clause in its new form.
-]
-
 
 * Count it as *in command* while it is within 60 cm of its HQ unit, rather than the usual 30 cm.
+footnote:[{e40k-diff}
+The original {e40k} rules text contains an additional clause: "An _Infiltrators_ unit which is more than 30cm from its HQ unit is still destroyed if it is broken in close combat or a firefight."
+To date, we have not been able to find a consistent way to interpret this clause such that it that works neatly alongside the effects of other rules.
+So, we include no similar clause here.
+If in due course the community finds a way to make sense of this clause with a workable interpretation, then we'll be only too happy to update these rules to add the clause in its new form.
+If you'd like to know more, see issue link:https://github.com/GameBrains/er-core/issues/50[#50^] (external URL).
+]
 ////
 However, it is still destroyed if it becomes Broken and it is more than 30 cm away from its HQ unit.
 ////
