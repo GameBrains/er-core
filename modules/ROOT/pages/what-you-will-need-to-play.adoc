@@ -1,4 +1,4 @@
-= What you will need to play
+= What you will need, to play
 :page-toclevels: 1
 
 Things that you'll need to play the game -- and a few that are nice to have.
@@ -49,52 +49,64 @@ You might consider:
 
 == Special equipment and accessories
 
-=== Special dice (or markers)
+You need various visual markers, templates and other aids to track particular effects in the game.
 
-You will need visual markers for certain effects in the game -- particularly when you give orders to the forces under your command.
+=== Order markers
 
-Order Dice -- as in Games Workshop's old {e40k} and _Battlefleet Gothic_ games -- are ideal if you can get hold of enough of them.
-More likely, you'll need to create some custom markers or find suitable substitutes.
+You need markers to identify the specific orders that you choose for your detachments, and for conditions that are in effect.
+(As we explain at xref:main-rules:orders-and-conditions.adoc[].)
 
-TIP: Some of the dice from the 2016 _Adeptus Titanicus_ game make good substitutes as they are very similar to the original {e40k} order dice.
-You can also find 3D printed alternatives online.
+.Original Order markers
+The original markers that Games Workshop produced for the {e40k} and _Battlefleet Gothic_ games are ideal if you can obtain enough of them (10 or 12 should be enough to play a typical game).
+These green six-sided Order markers have a different symbol on each face, and are also known as 'Order dice' for obvious reasons (although we do not use them like dice).
 
-{blank}[TODO: We need some proper designs for the order motifs, to use for the graphics in these rules and to add to a downloadable 'print your own play aids' file. 
-The designs must avoid copyright infringement of course, but should be instantly recognisable for anyone who is familiar with the with GW Order dice.
+You may be able to source these from the likes of the eBay website -- although they can be expensive as they've been out of production for a long time.
 
-=== Other markers and templates
+.Alternative Order markers
+More likely, you'll need to obtain or create alternatives.
+Some ideas:
 
-Blast markers::
+* The marbled grey six-sided Order markers that exist for the 2016 _Adeptus Titanicus_ game are just as good as the originals, as their symbols are almost identical.
+* 3D-printable alternatives exist online, both in six-sided form or as individual tokens for each symbol.
+If you don't have access to a 3D printer, there are retailers who sell the physical items.
+* Make your own!
+Even cardboard squares with text on them will suffice.
+{blank}[TODO: We need some nice non- copyright-infringing designs for the order symbols, to use for the graphics in these rules. It'd be great to also add these to a downloadable 'print your own play aids' file.]
+
+=== Blast markers
 
 {blank}[TODO: Add explanation.]
 
-Objective markers::
+=== Objective markers
 
 {blank}[TODO: Add explanation.]
 
-Barrage templates::
+[[barrage-templates]]
+=== Barrage templates
 
 These are simply circles of card with a diameter of 60 mm -- originally with colourful artwork to represent explosions.
 We recommend that you have three.
 Most of the time you need only one, but there are some rare cases where it is helpful to have more at hand.
 
-Airfields::
+=== Airfields (aircraft status trackers)
 
 The original {e40k} boxed game included nice printed airfields, to help players to keep track of the readiness of their Flyer units.
-These are 'nice to have' and only effective for a small number of flyers.
-The main thing is to have a convenient way to keep track of which Flyer units are in which state of readiness: Repair; Rearm; Ready.
+These are merely 'nice to have' and are only effective for a small number of flyers anyway.
+The main thing is to have a convenient way to keep track of which out-of-play Flyer units are in which state of readiness: Repair; Rearm; Ready.
 
-Drop Pods tokens::
+[[drop-pods-tokens]]
+=== Drop Pods tokens
 
 You'll only need these if and when you use the xref:battles:scenario-special-rules:drop-pods.adoc[] special rules.
+
 Even the original {e40k} boxed game didn't include these (although the _Armies of the Imperium_ expansion for the second edition of Epic did).
 But they're easy to make:
 
 . Get some thick paper or thin card.
 Photo paper for inkjet printers is a good choice.
-. Draw a 1 cm grid, 4 cm by 10 cm, to create 40 squares each with sides of 1 cm.
+. Draw a 1 cm grid, 4 cm by 10 cm, to create 40 squares.
 . Use a pen or stamp with permanent ink to number each square, from 1 to 40.
-. Cut out your squares -- hey presto, 40 Drop Pod tokens (more than you're ever likely to need at one time).
+. Cut out your squares -- hey presto, 40 Drop Pods tokens (more than you're ever likely to need at one time).
 
 {blank}[TODO: Ideally, in due course we'll add a suitable design to a downloadable 'print your own play aids' file.]
 
