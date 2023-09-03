@@ -19,7 +19,7 @@ Play for fun, don't sweat the losses and may all your games be jolly and enterta
 The 'default' size for Epic games is 240 cm by 180 cm (~6' by 4').
 * Miniature terrain to make your battlefield visually appealing and tactically interesting.
 
-== General equipment and accessories
+== General accessories
 
 === Pencil and paper
 
@@ -47,7 +47,7 @@ You might consider:
 * Dice of a different size, colour and/or number of faces to your handfuls of ordinary dice.
 * 'Damage tracker' or 'wound' dials -- available from many manufacturers, in a range of styles.
 
-== Special equipment and accessories
+== Core rules accessories
 
 You need various visual markers, templates and other aids to track particular effects in the game.
 
@@ -77,10 +77,6 @@ Even cardboard squares with text on them will suffice.
 
 {blank}[TODO: Add explanation.]
 
-=== Objective markers
-
-{blank}[TODO: Add explanation.]
-
 [[barrage-templates]]
 === Barrage templates
 
@@ -94,10 +90,36 @@ The original {e40k} boxed game included nice printed airfields, to help players 
 These are merely 'nice to have' and are only effective for a small number of flyers anyway.
 The main thing is to have a convenient way to keep track of which out-of-play Flyer units are in which state of readiness: Repair; Rearm; Ready.
 
+== Battle-specific accessories
+
+Depending on the nature of the battle that you intend to play in a given session, you may need some of these accessories.
+
+=== Army Morale tracker
+
+You'll need this only when you use the xref:battles:scenario-special-rules:army-morale.adoc[] rules.
+
+{blank}[TODO: Add explanation.]
+
+=== Objective markers
+
+You'll need these only when you use the xref:battles:scenario-special-rules:objectives.adoc[] rules.
+
+{blank}[TODO: Add explanation.]
+
+[[hidden-setup-markers]]
+=== Hidden Setup markers
+
+You'll need these only when you use the xref:battles:scenario-special-rules:hidden-setup.adoc[] rules.
+
+A set of cardboard or plastic markers will do, so long as each marker has a unique number to identify it.
+Eight or ten of these markers will be plenty for most games.
+
+If your numbered markers are small scenic items that represent clusters of foxholes and booby-traps, then so much the better for the visual effect!
+
 [[drop-pods-tokens]]
 === Drop Pods tokens
 
-You'll only need these if and when you use the xref:battles:scenario-special-rules:drop-pods.adoc[] special rules.
+You'll need these only when you use the xref:battles:scenario-special-rules:drop-pods.adoc[] rules.
 
 Even the original {e40k} boxed game didn't include these (although the _Armies of the Imperium_ expansion for the second edition of Epic did).
 But they're easy to make:
@@ -117,7 +139,14 @@ For example, round tokens will sometimes roll across the play area, away from th
 
 {blank}[TODO: It might be good to suggest optional alternative rules that don't require tokens. Take inspiration from NetEpic perhaps, which developed an alternative procedure in place of the similar token-based rules that existed in 2nd edition.]
 
-=== Fate cards
+[[fortifications]]
+=== Fortifications
+
+You'll need these only when you use the xref:battles:scenario-special-rules:fortifications.adoc[] rules.
+
+{blank}[TODO: Add explanation.]
+
+== Fate cards
 
 {blank}[TODO: Add explanation, and link to new Fate cards content when it is ready.]
 
@@ -126,11 +155,12 @@ For example, round tokens will sometimes roll across the play area, away from th
 We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
 ****
 
-=== Reference sheets
+== Reference sheets
 
 {blank}[TODO: Add explanation, and link to new reference sheets when they are available.]
 
 .Under development
 ****
-We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
+We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].
+Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
 ****
