@@ -100,11 +100,19 @@ You'll need this only when you use the xref:battles:scenario-special-rules:army-
 
 {blank}[TODO: Add explanation.]
 
+[[objective-markers]]
 === Objective markers
 
 You'll need these only when you use the xref:battles:scenario-special-rules:objectives.adoc[] rules.
 
-{blank}[TODO: Add explanation.]
+The original {e40k} boxed game included a set of full-colour cardboard objective markers.
+These had the name of the objective type on one side and a suitable corresponding graphic on the other.
+
+You could easily create something similar.
+Or, it's even better if you create small scenic items to represent them -- it is much more visually satisfying to battle over a miniature bunker or fuel dump than over a cardboard marker!
+Just be sure that it's clear what objective type each scenic item represents.
+
+{blank}[TODO: Ideally, in due course we'll add suitable designs to a downloadable 'print your own play aids' file.]
 
 [[hidden-setup-markers]]
 === Hidden Setup markers

@@ -32,3 +32,7 @@ See xref:special-rules:super-heavy-weapons.adoc[].
 include::main-rules:partial$assault-bonuses-table.adoc[]
 
 include::main-rules:partial$close-combat-results-table.adoc[]
+
+== Reserves
+
+include::battles:scenario-special-rules:partial$reserves-detachment-arrival-table.adoc[]
