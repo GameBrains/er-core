@@ -1,6 +1,6 @@
 name: core
 title: Core
-version: master
+version: ~
 
 nav:
 - modules/ROOT/nav.adoc
