@@ -25,8 +25,9 @@ The content components in this project are as follows:
 * *xref:core::index.adoc[Core]*: The main body of the project.
 This is now functionally complete, but there are still improvements we'd like to make and details to attend to.
 Among other things, we need to create and add graphics and images -- especially where explanatory examples are concerned.
-* *xref:battles::index.adoc[]*: Mostly contains empty placeholder topics at present.
+* *xref:battles::index.adoc[]*: First drafts are in progress in this component, but there are a number of empty placeholder topics at present.
 * *xref:armies::index.adoc[]*: Mostly contains empty placeholder topics at present.
+But army lists and data sheets are in progress and available in the interactive <<builder>>.
 * *xref:contributors-guide::index.adoc[Contributor's Guide]*: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
 
 TIP: You'll find links to the main components in the main navigation menu.
@@ -34,7 +35,7 @@ You can also switch between all components at the component menu (at the bottom 
 
 Also important to the project, but not held in the same repositories and hosting:
 
-* *link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit datasheets.
+* [[builder]]*link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit data sheets.
 Ian Wood continues to adapt and extend this from the open source 'Army Forge' software to suit our needs, and to populate it with new and revised content.
 We intend that the builder and the _Armies_ component will mirror each other eventually.
 
@@ -42,10 +43,8 @@ TIP: You can also find a link for the builder under the *Resources* item in the 
 
 == Current limitations for usability
 
-* There is no search function yet.
-We will add this in due course, either when we get some help from a developer or make time to figure it out with some trial and error.
-* There are no 'relationship table' or 'broken link checker' features for authors -- this makes it much harder for us to maintain links effectively and to find and fix broken links.
-We may be able to integrate some tools to help with this in future, but they will require some advanced coding and so we may need help.
+* There is no search function yet -- but in January 2023 we completed a software upgrade makes extensions available.
+We're testing code to implement a search extension, and we hope to deploy this soon.
 * We don't use the *Edit this page* function yet.
 We hope to use this in future to provide an easy way for enthusiasts to suggest edits to fix typographical errors, unclear text, and so on.
 * The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
