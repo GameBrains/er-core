@@ -43,7 +43,7 @@ TIP: You can also find a link for the builder under the *Resources* item in the 
 
 == Current limitations for usability
 
-* There is no search function yet -- but in January 2023 we completed a software upgrade makes extensions available.
+* There is no search function yet -- but in January 2024 we completed a software upgrade that makes extensions available.
 We're testing code to implement a search extension, and we hope to deploy this soon.
 * We don't use the *Edit this page* function yet.
 We hope to use this in future to provide an easy way for enthusiasts to suggest edits to fix typographical errors, unclear text, and so on.
