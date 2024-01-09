@@ -1,0 +1,126 @@
+= Search functions
+
+The search feature uses software called *Lunr*.
+Lunr supports some special search functions that you can use to refine your search.
+We explain some of these here.
+
+== Stemming function
+
+By default, Lunr includes variations on stem words in its results.
+
+.Stem words and their variations
+====
+`shoot` will yield not only instances of the stem word 'shoot' but also variations such as 'shoots', 'shooter' and 'shooting'.
+====
+
+This works in combination with most other search functions.
+
+== Exact match function
+
+Many search tools support exact match searches, usually through the use of double quotation marks (`"ork"`).
+However, at the time of writing, Lunr does not support exact match search.
+
+== Wildcard function
+
+You can use an asterisk (`*`) as a wildcard, anywhere in your search term.
+
+.Trailing wildcard search
+====
+`sho*` will yield instances of words that begin with 'sho', such as 'shoot' and 'should'.
+====
+
+.Leading wildcard search
+====
+`*oot` will yield instances of words that end with 'oot', such as 'shoot' and 'boot'.
+====
+
+NOTE: According to the Lunr documentation leading wildcards "…should be used sparingly. They can have a negative impact on the performance of a search, especially in large indexes."
+
+.Middle wildcard search
+====
+`s*t` will yield instances of words that begin with 's' and end with 't', such as 'shoot' and 'silent'.
+====
+
+== Titles-only function
+
+By default, Lunr will search both the content of topics and the titles of topics.
+If you want to find matches only in titles, you can use the `title:` prefix.
+
+.Titles-only search
+====
+`title:shoot` will yield only instances of 'shoot' that appear in topic titles -- it will not yield instances that appear elsewhere in the content.
+====
+
+You can combine titles-only search with other search functions and multiple terms.
+
+.Titles-only search with other functions and terms
+====
+`title:sho* fire` will yield instances where a word in a topic title begins with 'sho', or where the word 'fire' appears anywhere in the content.
+====
+
+== Term presence function
+
+You can of course enter multiple terms into the search box at one time.
+By default, Lunr will combine your terms together with the logical operator `OR` -- and thus you'll get results that match any or all of the terms you entered.
+
+.Term presence search -- default behaviour with multiple terms
+====
+`ork gun` will yield instances where either 'ork' *or* 'gun' exist, *or both* exist.
+(Effectively 'ork `OR` gun'.)
+====
+
+However, you can change the behaviour for each term that you enter.
+You can define which terms you want to be present or absent to match results:
+
+* To indicate that a term must be *present*, prefix the term with a plus (`+`) character.
+* To indicate that a term must be *absent*, prefix the term with a minus (`-`) character.
+
+.Term presence search -- 'must', 'may' and 'must not' behaviour
+====
+`+ork gun -trukk` will yield instances that must contain 'ork', may contain 'gun' and must not contain 'trukk'.
+(Effectively 'ork `AND/OR` gun `NOT` trukk'.)
+====
+
+.Term presence search -- 'must' behaviour to simulate `AND`
+====
+`+ork +gun` will simulate a logical operator `AND` search -- that is, it will yield only results that contain both 'ork' and 'gun'.
+(Effectively 'ork `AND` gun'.)
+====
+
+== Fuzzy-match function
+
+Fuzzy matching can be helpful where you're not sure how to spell a word, or you want to expand your search to include more 'close' matches in your search results.
+
+To use this, append a tilde (`~`) and then a positive integer to a term.
+The positive integer defines the 'edit distance'.
+
+An edit distance of `1` will match words that differ from your search term by only one character.
+That is, words that would match your search term if you were to add, remove or change a single character, or to transpose a single pair of characters.
+
+.Fuzzy-match search
+====
+`ork~1` will yield instances of words that are within one edit of 'ork' -- such as 'Mork' or 'ark'.
+This search would not return matches for 'stork' as that would require two edits, to add an 's' and a 't'.
+====
+
+== Boost function
+
+When you search for multiple terms, it may be that some terms are more important to you than others -- that is, results where these terms have a more significant presence are likely to be more relevant to you.
+
+For such cases, you can 'boost' the relevance of particular terms.
+This makes Lunr treat those terms with more significance -- any topic that matches a boosted term will get a higher relevance score, and appear higher up in the search results.
+
+To apply a boost to a term, append a caret (`^`) and then a positive integer.
+
+.Boosted search -- single boosted term
+====
+`shoot broken^10` will score the term 'broken' 10 times higher than the term 'shoot'.
+So, Lunr will prioritise results that include the word 'broken' ahead of those that contain the word 'shoot'.
+====
+
+The boost value can be any positive integer, and you can give different boosts to different terms if you like:
+
+.Boosted search -- multiple boosted terms
+====
+`shoot broken^10 retreat^5 orders`
+====

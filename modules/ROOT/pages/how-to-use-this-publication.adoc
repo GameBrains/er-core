@@ -49,6 +49,20 @@ You'll sometimes see a short list of hyperlinks at the bottom of a topic.
 These links are convenient shortcuts to related information that is especially relevant to the topic.
 They look like this:
 
+.Related information links
+====
 .Related information
 * xref:main-rules:data-sheets-and-characteristics.adoc[]
 * Experimental: xref:experimental:experimental.adoc[]
+====
+
+== The search feature (Web formats only)
+
+In the Web-based formats of this publication, you can use the search feature to find instances of particular terms or phrases in the content.
+footnote:[
+At present, the website is the only output format.
+But we intend to provide installable apps and downloadable PDF files eventually.
+]
+Just type into the search box and the software will instantly show you any close matches it finds.
+
+For more advanced search functionality, see xref:search-functions.adoc[].

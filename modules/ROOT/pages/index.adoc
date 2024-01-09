@@ -22,32 +22,28 @@ So, we don't spend the time to document the changes (except at a high level as o
 
 The content components in this project are as follows:
 
-* *xref:core::index.adoc[Core]*: The main body of the project.
-This is now functionally complete, but there are still improvements we'd like to make and details to attend to.
+.Main project
+* *xref:core::index.adoc[Core]*: The main body of the project, principally the core rules of play.
+This component is now functionally complete, but there are still improvements we'd like to make and details to attend to.
 Among other things, we need to create and add graphics and images -- especially where explanatory examples are concerned.
-* *xref:battles::index.adoc[]*: First drafts are in progress in this component, but there are a number of empty placeholder topics at present.
-* *xref:armies::index.adoc[]*: Mostly contains empty placeholder topics at present.
-But army lists and data sheets are in progress and available in the interactive <<builder>>.
+* *xref:battles::index.adoc[]*: Additional rules for setup and play.
+First drafts are in progress in this component, but there are a number of empty placeholder topics at present.
+* *xref:armies::index.adoc[]*: Guidance on how to choose and build your armies, along with army lists that detail detachments, unit data sheets and points costs.
+There is almost no content in this component at present -- but fear not, you'll find army lists in the interactive <<builder, Detachment Builder>>.
 * *xref:contributors-guide::index.adoc[Contributor's Guide]*: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
 
-TIP: You'll find links to the main components in the main navigation menu.
-You can also switch between all components at the component menu (at the bottom of the secondary navigation panel).
+TIP: You'll also find links to the game content components in the main navigation menu.
+You can switch between all main project components at the component menu (at the bottom of the secondary navigation panel).
 
-Also important to the project, but not held in the same repositories and hosting:
+Also important to the project, but held in different repositories and hosting:
 
-* [[builder]]*link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit data sheets.
+[[builder]]
+.Detachment Builder
+* *link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit data sheets.
 Ian Wood continues to adapt and extend this from the open source 'Army Forge' software to suit our needs, and to populate it with new and revised content.
-We intend that the builder and the _Armies_ component will mirror each other eventually.
+We intend to mirror the Detachment Builder content in the _Armies_ component eventually.
 
-TIP: You can also find a link for the builder under the *Resources* item in the main navigation menu.
-
-== Current limitations for usability
-
-* There is no search function yet -- but in January 2024 we completed a software upgrade that makes extensions available.
-We're testing code to implement a search extension, and we hope to deploy this soon.
-* We don't use the *Edit this page* function yet.
-We hope to use this in future to provide an easy way for enthusiasts to suggest edits to fix typographical errors, unclear text, and so on.
-* The btn:[Download] button doesn't do anything at the moment, but could direct users to an app or PDF version in future.
+TIP: You'll also find a link in the main navigation menu at menu:Resources[Detachment Builder].
 
 == Discussion
 Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40,000 Remastered^] (external URL).
