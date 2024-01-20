@@ -57,7 +57,7 @@ But when you do:
 
 * Don't place Blast markers on out of command units.
 footnote:[
-pass:m[The main reason for this is to avoid excessive penalties when you use the xref:battles:scenario-special-rules:army-morale.adoc[\] rules.]
+The main reason for this is to avoid excessive penalties when you use the xref:battles:scenario-special-rules:army-morale.adoc[] rules.
 ]
-//TODO: Clarify whether we should not place the Blast markers at all, or whether in fact we should still place the Blast markers on the parent detachment. Recent discussions seem to be pointing towards the latter, but there was a lot of debate and I'm not entirely sure what conclusion we reached.
+//TODO: Clarify whether we should not place the Blast markers at all, or whether in fact we should still place the Blast markers on the parent detachment. This hinges on matters of interpretation that we have not yet settled.
 * If your current HQ unit is destroyed, you may not nominate an out of command unit as the new HQ -- even if the rest of the detachment is destroyed!
