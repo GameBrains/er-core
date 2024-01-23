@@ -42,6 +42,6 @@ Each die that scores equal to or more than the Armour value of the target unit i
 
 .Related information
 * xref:main-rules:the-start-phase.adoc[]
-* link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_InterceptingInterceptors.htm[FAQ: Intercepting interceptors^] (external URL)
+* link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_InterceptingInterceptors.htm[FAQ: Intercepting interceptors^]
 
 {blank}[TODO: Integrate the key points of the original FAQ into the Remastered rules.]

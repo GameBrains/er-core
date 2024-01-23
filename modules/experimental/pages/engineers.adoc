@@ -32,4 +32,4 @@ A minefield terrain piece, or a hidden setup marker, or something else?
 ]
 
 .Related information
-* _Epic 40,000 Compendium_: link:https://thehobby.zone/resources/e40k-compendium/Content/SpecialRules/SpecialistsAndSpecialAbilities/Engineers.htm[Engineers^] (external URL)
+* _Epic 40,000 Compendium_: link:https://thehobby.zone/resources/e40k-compendium/Content/SpecialRules/SpecialistsAndSpecialAbilities/Engineers.htm[Engineers^]

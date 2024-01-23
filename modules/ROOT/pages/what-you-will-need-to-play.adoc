@@ -160,7 +160,7 @@ You'll need these only when you use the xref:battles:scenario-special-rules:fort
 
 .Under development
 ****
-We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
+We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^].]
 ****
 
 == Reference sheets
@@ -170,5 +170,5 @@ We don't have Remastered versions yet, but you can get redrawn versions of the o
 .Under development
 ****
 We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].
-Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^] (external URL).]
+Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^].]
 ****

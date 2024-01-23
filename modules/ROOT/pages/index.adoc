@@ -46,7 +46,7 @@ We intend to mirror the Detachment Builder content in the _Armies_ component eve
 TIP: You'll also find a link in the main navigation menu at menu:Resources[Detachment Builder].
 
 == Discussion
-Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40,000 Remastered^] (external URL).
+Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40,000 Remastered^].
 
 == Copyright and licence
 
