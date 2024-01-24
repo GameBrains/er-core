@@ -36,3 +36,7 @@ include::main-rules:partial$close-combat-results-table.adoc[]
 == Reserves
 
 include::battles:scenario-special-rules:partial$reserves-detachment-arrival-table.adoc[]
+
+== Morale: Objectives
+
+include::battles:scenario-special-rules:partial$morale-objectives.adoc[]
