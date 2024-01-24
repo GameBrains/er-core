@@ -8,7 +8,7 @@ For the Eldar, every casualty is a tragedy that puts them one step closer to the
 
 Where your detachment has the {a-dying-race} ability:
 
-* If the detachment is destroyed, immediately subtract D3 points from your army morale.
+* If the detachment is destroyed, immediately subtract a further D3 points from your Army Morale value.
 
 .Related information
 * xref:battles:scenario-special-rules:army-morale.adoc[]

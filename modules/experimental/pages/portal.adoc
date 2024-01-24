@@ -96,7 +96,7 @@ To put a Portal Reserves detachment into play after it arrives, you need an avai
 * If none of the available portals can disembark all of the units in the detachment, then you may choose either:
 ** Leave the detachment in Portal Reserves this turn -- it does not arrive yet after all.^*^
 ** Disembark as much of the detachment as you can.
-The units that cannot disembark count as destroyed for the purposes of army morale and victory conditions.
+The units that cannot disembark count as destroyed for the purposes of Army Morale and victory conditions.
 Place a Blast marker on the detachment.
 
 ^*^If you leave the detachment in Portal Reserves, then:
@@ -104,7 +104,7 @@ Place a Blast marker on the detachment.
 * If your army uses `_(Roll)_` portals, then you must roll on the Reserve Detachment Arrival table again next turn.
 * If your army uses `_(Auto)_` portals, then you must try again next turn.
 
-IMPORTANT: If the detachment does not arrive and enter play before all {portal} units/objectives in your army are destroyed or the game ends, then the detachment counts as destroyed for the purposes of army morale and victory conditions.
+IMPORTANT: If the detachment does not arrive and enter play before all {portal} units/objectives in your army are destroyed or the game ends, then the detachment counts as destroyed for the purposes of Army Morale and victory conditions.
 footnote:[
 If you're playing a scenario that uses the Army Morale rules, deduct the detachment's Morale Value from your morale total at the end of the Rally phase, as normal for a destroyed detachment.
 ]

@@ -12,7 +12,7 @@ For example, detachments of Eldar Swooping Hawks may use their anti-grav 'wings'
 
 Where *every* unit in your detachment has the {deep-strike} ability:
 
-* You can use the Drop Pods rule to deploy this detachment, regardless of the scenario.
+* You can use the Drop Pods rules to deploy this detachment, regardless of the scenario.
 
 .Related information
 
