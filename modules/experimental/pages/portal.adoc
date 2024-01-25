@@ -106,7 +106,7 @@ Place a Blast marker on the detachment.
 
 IMPORTANT: If the detachment does not arrive and enter play before all {portal} units/objectives in your army are destroyed or the game ends, then the detachment counts as destroyed for the purposes of Army Morale and victory conditions.
 footnote:[
-If you're playing a scenario that uses the Army Morale rules, deduct the detachment's Morale Value from your morale total at the end of the Rally phase, as normal for a destroyed detachment.
+If you're playing a scenario that uses the Army Morale rules, deduct the detachment's Morale value from your current Army Morale value, as normal for a destroyed detachment.
 ]
 footnote:[
 We consider the detachment to be 'destroyed' for the sake of the battle, but not for the war.
