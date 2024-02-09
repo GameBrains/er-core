@@ -4,5 +4,5 @@ For each detachment on the losing side in the firefight:
 
 . Allocate one hit to the unit that is nearest to the enemy.
 . Place one Blast marker.
-. The detachment is Broken -- place a Broken condition marker.
+. The detachment is Broken -- place a {broken-cm}.
 . Make an immediate xref:broken-detachments.adoc#_retreat_move[Retreat move].

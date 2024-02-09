@@ -1,13 +1,10 @@
 = Orders and conditions
 
-+[TODO: Graphics for orders and conditions.]+
+Orders and conditions determine most of what you can and can't do with your detachments in a given turn.
 
-By default, every detachment is ready to move and shoot each turn, under <<Advance>> orders.
-However, during the course of the turn you may elect to can give a detachment a different set of orders, to change how they can behave during that turn.
+We use Order markers to remind us which orders or conditions are in effect with which detachments.
 
-However, if a detachment is subject to any <<Conditions>> then you may *not* be able to give them any orders at all -- at least, not until something happens to remove the condition.
-
-We use markers to remind us which orders or conditions are in effect with which detachments.
+{blank}[TODO: Create a complete set of decent icons for orders and conditions.]
 
 == Orders
 
@@ -15,7 +12,8 @@ As long as a detachment is not subject to any <<Conditions>> then you may give i
 
 === Advance
 
-These are the orders that a detachment operates under by default, and you don't need a marker to indicate this.
+These are the orders that a detachment operates under by default.
+You don't need a marker to indicate these orders, just so long as you can remember which detachments you've already activated under these orders in a given turn.
 
 Movement phase:: You may make a move with units in this detachment.
 Shooting phase:: You may shoot with the units in this detachment.
@@ -37,7 +35,8 @@ These orders allow a detachment to move very quickly -- but it can't shoot, and 
 
 TIP: Be careful! Detachments on March orders are especially vulnerable to enemy attacks.
 
-Movement phase:: You may make a *triple* move with units in this detachment. That is, make three normal moves in a single sequence.
+Movement phase:: You may make a *triple* move with units in this detachment.
+That is, make three normal moves in a single sequence.
 Shooting phase:: You may *not* shoot with units in this detachment.
 +
 If your opponent shoots at this detachment then they will use the Marching column on the Firepower table.
@@ -57,20 +56,19 @@ Assault phase:: You may *not* move units in this detachment.
 
 === Special
 image::Orders_Special.png[role="left"]
-We use this marker to indicate that special orders that are in effect, such as xref:special-rules:flak.adoc[] or xref:special-rules:artillery.adoc#preparatory-bombardment[Preparatory Bombardment].
-
-+[TODO: Need to consider some possible edge cases -- eg, if Flak orders apply to individual units then we might needs to tweak some of the explanations which assume everything is done on a whole detachment basis.]+
+We use this marker to indicate that special orders are in effect, such as xref:special-rules:flak.adoc[] or xref:special-rules:artillery.adoc#preparatory-bombardment[Preparatory Bombardment].
 
 == Conditions
-You cannot give a detachment orders while it is subject to a condition.
-When a detachment becomes subject to a condition then any orders that were in effect are no longer valid -- remove the order marker (if any) and place the appropriate condition marker.
+IMPORTANT: You cannot give a detachment orders while it is subject to a condition.
+When a detachment becomes subject to a condition then *any orders that were in effect are no longer valid* -- remove the Order marker (if any) and place the appropriate Condition marker.
 
 === Broken
 image::Conditions_Broken.png[role="left"]
 A detachment becomes Broken when it loses a close combat or a firefight.
 This means that the detachment is in disarray -- units are in a state of confusion or even panic, seeking cover and unable to accept and respond to orders.
 
-TIP: Be careful! Broken detachments are especially vulnerable to encirclement and enemy attacks.
+TIP: Be careful!
+Broken detachments are especially vulnerable to encirclement and enemy attacks.
 
 Movement phase:: You may make *only* a 20 cm *Retreat* move with units in this detachment (though you don't have to move them at all if you don't want to).
 Shooting phase:: You may *not* shoot with units in this detachment.
@@ -80,19 +78,17 @@ If the detachment becomes engaged in close combat or a firefight then and you mu
 
 === Immobilised
 image::Conditions_Immobilised.png[role="left"]
-This condition applies when a war engine sustains damage that causes it to become immobile.
+This condition applies when a War Engine unit sustains damage that causes it to become immobile.
 This might be a temporary condition if it can be repaired, or it might last for the rest of the game.
 
-This condition is like being under Advance orders, except that the war engine can't move and becomes even easier to hit with shooting.
-
-Movement phase:: You may *not* move this war engine, at all -- not even to turn on the spot.
-Shooting phase:: You may shoot with this war engine as normal.
+Movement phase:: You may *not* move this War Engine unit, at all -- not even to turn on the spot.
+Shooting phase:: You may shoot with this War Engine unit as normal.
 +
-If your opponent shoots at this war engine then they will use the appropriate Immobilised column on the Firepower table.
-Assault phase:: You may *not* move this war engine, at all -- not even to turn on the spot.
-Other:: Immobilised war engines may not use special orders.
-If a war engine becomes Immobilised while it is under special orders then those orders are cancelled.
+If your opponent shoots at this War Engine then they will use the appropriate Immobilised column on the Firepower table.
+Assault phase:: You may *not* move this War Engine, at all -- not even to turn on the spot.
+Other:: Immobilised War Engine units may not use special orders.
+If a war engine becomes Immobilised while it is under special orders then those orders become invalid -- remove the {special-om}.
 +
-Where the rules state that the war engine is immobilised 'until repaired', you may attempt to repair the war engine at the appropriate step in the Rally phase.
+Where the rules state that the War Engine unit is Immobilised "until repaired", you may attempt to repair the War Engine at the appropriate step in the Rally phase.
 
-+[TODO: In contrast to other orders and conditions, Immobilised affects a single war engine at a time. What happens as far as orders are concerned for other war engines in the same detachment? Some refinement of the text will be necessary to clarify this.]+
+{blank}[TODO: Clarify: In contrast to other orders and conditions, the Immobilised condition affects a single War Engine unit at a time. What happens as far as orders are concerned for other War Engine units in the same detachment?]

@@ -1,7 +1,7 @@
 = Broken detachments
 
 image::Conditions_Broken.png[role="left"]
-When a detachment becomes Broken, remove its order marker (if any) and place a Broken condition marker.
+When a detachment becomes Broken, remove its Order marker (if any) and place a {broken-cm}.
 
 *A detachment becomes Broken when it loses a close combat or a firefight.*
 

@@ -16,7 +16,7 @@ Where your detachment has the {dodge} ability, you can use special orders called
 footnote:[
 include::main-rules:partial$start-phase.adoc[]
 ]
-. Place the {special-orders} marker to indicate that the detachment is on Dodge orders.
+. Place a {special-om} to indicate that the detachment is on Dodge orders.
 While Dodge orders are in effect:
  ** Increase the Armour value of all units in the detachment by one, to a maximum of 6+.
  ** Halve the total Firepower of the detachment.

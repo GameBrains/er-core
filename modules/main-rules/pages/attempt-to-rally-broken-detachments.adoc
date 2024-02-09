@@ -12,7 +12,7 @@ You may only attempt a Rally test when a Broken detachment has fewer Blast marke
 .Rally test
 Make a standard Leadership test -- all the usual rules for modifiers and such apply.
 
-* If you succeed then the detachment rallies -- remove the Broken condition marker from the detachment;
+* If you succeed then the detachment rallies -- remove the {broken-cm} from the detachment;
 * If you fail then the detachment remains Broken -- try again in the next Rally phase. 
 
 Either way, leave the Blast markers in place.

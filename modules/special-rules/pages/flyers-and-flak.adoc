@@ -14,7 +14,7 @@ You must use units that have the {flak} ability in the manner that we explain he
 For your rolls to hit, use the Armour value of the cargo unit.
 ====
 
-== Flak, with Flak special orders
+== Flak, with Flak orders
 For optimum effectiveness, {flak} units and their detachment need to be at a suitable state of readiness.
 We represent this state with special orders called Flak.
 
@@ -31,7 +31,7 @@ You must declare both at the same time.
 
 In this case, you will be able to make a Preparatory Bombardment with {artillery} units in the detachment, and make Flak attacks with {flak} units.
 ====
-. Place the {special-orders} marker to indicate that the detachment is on Flak orders.
+. Place a {special-om} to indicate that the detachment is on Flak orders.
 . You can use these units to shoot at flyers in the movement phase.
  * You may not move the units in the Movement phase, nor use them to shoot in the Shooting phase.
  * Treat the other units in the detachment as though they are on Overwatch orders -- so you can move them up to 5 cm in the Movement phase and re-roll misses when you shoot with them in the Shooting phase.

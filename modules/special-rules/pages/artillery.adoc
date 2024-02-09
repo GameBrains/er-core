@@ -26,17 +26,17 @@ We represent such attacks with special orders called Preparatory Bombardment.
 footnote:[
 include::main-rules:partial$start-phase.adoc[]
 ]
-. Place the {special-orders} marker to indicate that the detachment is on Preparatory Bombardment orders.
+. Place a {special-om} to indicate that the detachment is on Preparatory Bombardment orders.
 . You cannot move the {artillery} units for the rest of the turn.
-+[TODO: Though presumably you can move them in a withdrawal move if the detachment becomes Broken?]+
+{blank}}[TODO: Clarify what happens if their detachment becomes Broken. Presumably, we cannot make a Withdrawal move with these units, so they'll be especially vulnerable in this situation.]
 You can move other units in the detachment up to 5 cm.
 . You can make your preparatory bombardment attack either:
 ** Immediately before your opponent starts their part of the Movement phase.
 ** Immediately after your opponent ends their part of the Movement phase.
 . Use the normal Shooting rules to make the bombardment with the {artillery} units in the detachment.
-You can't shoot with the other units in the detachment yet, but once you've completed the bombardment, you may put the detachment on {overwatch-orders} if you wish.
+You can't shoot with the other units in the detachment yet, but once you've completed the bombardment you may put the detachment on Overwatch orders if you wish.
 The {artillery} units cannot shoot again this turn.
 +
-TIP: If you leave the Special orders marker in place as well then this will serve as a reminder that the {artillery} units cannot shoot again this turn.
+TIP: If you leave the {special-om} in place as well then this will serve as a reminder that the {artillery} units cannot move or shoot again this turn.
 
-+[TODO: What if you don't put the rest of the detachment on Overwatch orders? Why wouldn't you, is there any reason that this should be an option as implied by the word 'may'?]+
+{blank}[TODO: What if you don't put the rest of the detachment on Overwatch orders? Why wouldn't you, is there any reason that this should be an option as implied by the word 'may'?]
