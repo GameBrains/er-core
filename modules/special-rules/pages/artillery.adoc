@@ -28,7 +28,7 @@ include::main-rules:partial$start-phase.adoc[]
 ]
 . Place a {special-om} to indicate that the detachment is on Preparatory Bombardment orders.
 . You cannot move the {artillery} units for the rest of the turn.
-{blank}}[TODO: Clarify what happens if their detachment becomes Broken. Presumably, we cannot make a Withdrawal move with these units, so they'll be especially vulnerable in this situation.]
+{blank}}[TODO: Clarify what happens if their detachment becomes Broken. Presumably, we cannot make a Retreat move with these units, so they'll be especially vulnerable in this situation.]
 You can move other units in the detachment up to 5 cm.
 . You can make your preparatory bombardment attack either:
 ** Immediately before your opponent starts their part of the Movement phase.

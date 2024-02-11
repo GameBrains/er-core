@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.990982mm"
+   height="82.990982mm"
+   viewBox="0 0 82.990982 82.990982"
+   version="1.1"
+   id="svg141"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="order-marker-march.svg">
+  <defs
+     id="defs135" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="499.69049"
+     inkscape:cy="-88.880942"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1431"
+     inkscape:window-height="1208"
+     inkscape:window-x="445"
+     inkscape:window-y="183"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata138">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(26.376442,-474.06403)">
+    <g
+       id="g153"
+       transform="matrix(0.26458333,0,0,0.26458333,-54.466368,370.83244)">
+      <g
+         id="g151">
+        <g
+           id="g149">
+          <path
+             d="m 262,494.88 -88.083,66.063 v 39.323 L 262,534.203 l 88.083,66.063 v -39.323 z"
+             id="path143" />
+          <path
+             d="m 262,609.703 88.083,66.063 V 636.443 L 262,570.38 173.917,636.443 v 39.323 z"
+             id="path145" />
+          <path
+             d="m 262,419.38 -88.083,66.063 v 39.323 L 262,458.703 l 88.083,66.063 v -39.323 z"
+             id="path147" />
+        </g>
+      </g>
+    </g>
+    <path
+       d="m -11.603604,555.6439 c -7.379494,0 -13.361723,-5.98223 -13.361723,-13.36173 v -53.4453 c 0,-7.37949 5.982229,-13.36172 13.361723,-13.36172 m 53.445304,0 c 7.379493,0 13.361722,5.98223 13.361722,13.36172 v 53.4453 c 0,7.3795 -5.982229,13.36173 -13.361722,13.36173"
+       stroke="#70ad47"
+       stroke-width="2.82223"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path155" />
+  </g>
+</svg>

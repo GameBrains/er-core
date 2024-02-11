@@ -4,8 +4,6 @@ Orders and conditions determine most of what you can and can't do with your deta
 
 We use Order markers to remind us which orders or conditions are in effect with which detachments.
 
-{blank}[TODO: Create a complete set of decent icons for orders and conditions.]
-
 == Orders
 
 As long as a detachment is not subject to any <<Conditions>> then you may give it orders (during the Movement phase, usually).
@@ -20,7 +18,7 @@ Shooting phase:: You may shoot with the units in this detachment.
 Assault phase:: You may *not* move the units in this detachment.
 
 === Assault
-image::Orders_Assault.png[role="left"]
+image::marker-assault-orders.svg[role="left float-gap",width=40,height=40]
 These orders allow a detachment to close with the enemy more quickly, at the cost of less effective shooting as they 'shoot from the hip'.
 Also, these are the only orders that allow your detachment to move into close combat with the enemy.
 
@@ -30,7 +28,7 @@ Assault phase:: You *must* move the units in this detachment, and you may initia
 For the full detail, see xref:assault-moves-and-charges.adoc[].
 
 === March
-image::Orders_March.png[role="left"]
+image::marker-march-orders.svg[role="left float-gap",width=40,height=40]
 These orders allow a detachment to move very quickly -- but it can't shoot, and it will be very vulnerable if it is attacked.
 
 TIP: Be careful! Detachments on March orders are especially vulnerable to enemy attacks.
@@ -45,7 +43,7 @@ Assault phase:: You may *not* move units in this detachment.
 If the detachment becomes engaged in close combat or a firefight then and you must *halve* the detachment's Assault and Firepower totals.
 
 === Overwatch
-image::Orders_Overwatch.png[role="left"]
+image::marker-overwatch-orders.svg[role="left float-gap",width=40,height=40]
 These orders cause a detachment to forgo most of its movement in favour of more accurate shooting.
 
 Movement phase:: You may move units in this detachment up to 5 cm only.
@@ -55,7 +53,7 @@ Shooting phase:: You may shoot with units in this detachment -- and you may *re-
 Assault phase:: You may *not* move units in this detachment.
 
 === Special
-image::Orders_Special.png[role="left"]
+image::marker-special-orders.svg[role="left float-gap",width=40,height=40]
 We use this marker to indicate that special orders are in effect, such as xref:special-rules:flak.adoc[] or xref:special-rules:artillery.adoc#preparatory-bombardment[Preparatory Bombardment].
 
 == Conditions
@@ -63,7 +61,7 @@ IMPORTANT: You cannot give a detachment orders while it is subject to a conditio
 When a detachment becomes subject to a condition then *any orders that were in effect are no longer valid* -- remove the Order marker (if any) and place the appropriate Condition marker.
 
 === Broken
-image::Conditions_Broken.png[role="left"]
+image::marker-broken-condition.svg[role="left float-gap",width=40,height=40]
 A detachment becomes Broken when it loses a close combat or a firefight.
 This means that the detachment is in disarray -- units are in a state of confusion or even panic, seeking cover and unable to accept and respond to orders.
 
@@ -77,7 +75,7 @@ Assault phase:: You may *not* move units in this detachment.
 If the detachment becomes engaged in close combat or a firefight then and you must *halve* the detachment's Assault and Firepower totals.
 
 === Immobilised
-image::Conditions_Immobilised.png[role="left"]
+image::marker-immobilised-condition.svg[role="left float-gap",width=40,height=40]
 This condition applies when a War Engine unit sustains damage that causes it to become immobile.
 This might be a temporary condition if it can be repaired, or it might last for the rest of the game.
 
