@@ -32,8 +32,8 @@ One template covers Ork Boyz (1) and (2), and one of the Gunwagons -- but the ce
 
 The second template covers Ork Boyz (4) and all three Gunwagon units.
 
-* You roll to hit Ork Boyz units (1), (2), and (4), and the two leftmost Gunwagon units.
-* You roll to hit the central Gunwagon unit twice, as it is under both templates.
+* You roll to attack Ork Boyz units (1), (2), and (4), and the two leftmost Gunwagon units.
+* You roll to attack the central Gunwagon unit twice, as it is under both templates.
 * You place one extra Blast marker on the Ork Warband detachment, as it is under one template.
 * You place two extra Blast markers on the Kult of Speed detachment, as it is under two templates.
 ====

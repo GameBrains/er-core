@@ -1,0 +1,18 @@
+= S4. Determine the target's lowest Armour value
+
+Determine what is the lowest Armour value among valid target units in the target detachment.
+This is the minimum value you need for attack dice to score hits.
+
+TIP: Remember that Infantry units that are in cover benefit from a +1 or +2 bonus to their Armour values.
+
+.Lowest Armour value in the target detachment -- hits and misses
+====
+You target an Ork target detachment that contains:
+Gretchin (Armour `3`); Gretchin that are in cover in some ruins (effectively Armour `4`); Ork Boyz (Armour `4`); Battlewagons (Armour `5`).
+
+Any die you roll that scores a 3 or more will be hit.
+Any die you roll that scores a 1 or 2 will be a miss.
+====
+
+.Related information
+* xref:main-rules:terrain-effects-on-shooting.adoc#infantry-armour-bonus[Armour bonus for infantry that are in cover]

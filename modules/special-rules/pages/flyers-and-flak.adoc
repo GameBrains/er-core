@@ -11,7 +11,7 @@ You must use units that have the {flak} ability in the manner that we explain he
 .Flak and drop pods
 ====
 {flak} units may also shoot at units that use the Drop Pods rules, as if they were flyers.
-For your rolls to hit, use the Armour value of the cargo unit.
+For your attack dice rolls, use the Armour value of the cargo unit.
 ====
 
 == Flak, with Flak orders

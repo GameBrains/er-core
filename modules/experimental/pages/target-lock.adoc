@@ -5,16 +5,16 @@ footnote:[
 include::special-rules:partial$no-such-ability-in-e40k.adoc[]
 ]
 
-{blank}[TODO: add introductory text.]
+{blank}[TODO: Add introductory text.]
 
 ---
 
 Where your detachment has the {target-lock} ability:
 
 * When you shoot with this detachment, at a target detachment that is currently marked by the {markerlights} ability, then:
-** When you work out how many hit dice to roll, shift one column to the left on the Firepower table.
+** When you work out how many attack dice to roll, shift one column to the left on the Firepower table.
 If you are already using the leftmost column, roll one die per point of Firepower.
 
 .Related information
 * xref:markerlights.adoc[]
-* xref:main-rules:work-out-how-many-hit-dice-to-roll.adoc[]
+* xref:main-rules:work-out-how-many-attack-dice-to-roll.adoc[]

@@ -1,0 +1,9 @@
+= S5. Roll the attack dice and discard misses
+
+Take a moment to savour the tension and to make an evil grin while you tell your opponent that all his alien scum or whatever are going to die... and then:
+
+. Roll the attack dice.
+. Discard any attack dice which scored less than the target detachment's lowest Armour value.
+. The remaining dice are hits.
+We refer to these as 'hit dice'.
+The score of each hit die is important for the next step in the shooting procedure.

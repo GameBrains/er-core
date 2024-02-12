@@ -3,6 +3,62 @@
 :bm-shw:
 :bonus-as:
 
+== The turn sequence
+
+[.small-text-group]
+--
+include::main-rules:partial$turn-sequence.adoc[]
+--
+
+== Orders and conditions
+
+A summary of orders and conditions -- for full detail see xref:main-rules:orders-and-conditions.adoc[]
+
+image:main-rules:marker-advance-orders.svg[role="left float-gap",width=40,height=40]
+*Advance* orders (default):
+May move in the Movement phase.
+May shoot in the Shooting phase.
+May *not* move in the Assault phase.
+
+image:main-rules:marker-assault-orders.svg[role="left float-gap",width=40,height=40]
+*Assault* orders:
+May move in the Movement phase.
+May shoot in the Shooting phase, at *half* effect.
+*Must* move in the Assault phase, towards the enemy, and can initiate an assault.
+
+image:main-rules:marker-march-orders.svg[role="left float-gap",width=40,height=40]
+*March* orders:
+May *triple* move in the Movement phase.
+May *not* shoot in the Shooting phase; opponent uses the Marching column on the Firepower table.
+May *not* move in the Assault phase; if engaged by the enemy then fight at *half* effect.
+
+image:main-rules:marker-overwatch-orders.svg[role="left float-gap",width=40,height=40]
+*Overwatch* orders:
+May move only *5 cm* in the Movement phase.
+May shoot in the Shooting phase, and *re-roll misses*.
+May *not* move in the Assault phase.
+
+[.float-group]
+--
+image:main-rules:marker-special-orders.svg[role="left float-gap",width=40,height=40]
+*Special* orders:
+Indicates that special orders are in effect, such as xref:special-rules:flak.adoc[] or xref:special-rules:artillery.adoc#preparatory-bombardment[Preparatory Bombardment].
+--
+
+image:main-rules:marker-broken-condition.svg[role="left float-gap",width=40,height=40]
+*Broken* condition:
+May not use orders.
+May make *only* a 20 cm xref:main-rules:broken-detachments.adoc#retreat-move[Retreat move] in the Movement phase.
+May *not* shoot in the Shooting phase.
+May *not* move in the Assault phase (aside from the initial Retreat move after losing an assault); if engaged by the enemy, fight at *half* effect.
+
+image:main-rules:marker-immobilised-condition.svg[role="left float-gap",width=40,height=40]
+*Immobilised* condition:
+May not use orders.
+May *not* move in the Movement phase.
+May shoot in the Shooting phase; opponent uses the Immobilised column on the Firepower table.
+May *not* move in the Assault phase.
+
 == Terrain effects
 
 A summary of the effects of some common types of terrain on the different types of ground unit. 
@@ -16,7 +72,7 @@ See xref:special-rules:special-abilities.adoc[].
 [[firepower-table]]
 == Firepower table
 
-image::firepower-table.gif[alt="Firepower table, which you use to determine the number of dice to roll to hit."]
+image::firepower-table.gif[alt="Firepower table, which you use to determine the number of attack dice to roll."]
 _*When you shoot at a War Engine unit that is both Immobilised and in the open, simply roll a number of dice equal to the resultant Firepower of the attack._
 
 == Blast markers

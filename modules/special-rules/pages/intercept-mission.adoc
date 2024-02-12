@@ -34,7 +34,7 @@ Where Intercept values are the same:
 * Units that are on an Intercept mission attack first.
 * If both detachments are on an Intercept mission, alternate between the two sides -- the player who has the Initiative goes first.
 . Resolve each attack individually as follows:
-.. Roll a number of hit dice equal to the Gunnery value of your attacking unit.
+.. Roll a number of attack dice equal to the Gunnery value of your attacking unit.
 Each die that scores equal to or more than the Armour value of the target unit is a hit.
 .. Resolve hits immediately and then move on to the next attack. (See xref:hits-on-flyers.adoc[])
 . Once all of the flyers involved in the aerial combat have attacked -- or been driven off or destroyed before they can attack -- remove the interceptor models from the play area.

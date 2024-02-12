@@ -12,35 +12,4 @@ The orders define *what* actions you can take with your units, and the phases in
 ****
 
 .Turn sequence
-[none]
-
-. *xref:the-start-phase.adoc[]*
-footnote:[
-include::main-rules:partial$start-phase.adoc[]
-]
-.. Roll for Reserves, if applicable for the scenario
-.. Declare flyer missions and certain special orders
-.. Prepare the Initiative counters
-. *xref:the-movement-phase.adoc[]*
-.. Determine the Initiative (1)
-.. First player movement
-.. Second player movement
-. *xref:the-shooting-phase.adoc[]*
-.. Determine the Initiative (2)
-.. Shoot with vehicles and infantry
-.. Determine the Initiative (3)
-.. Shoot with war engines
-. *xref:the-assault-phase.adoc[]*
-.. Determine the Initiative (4)
-.. Resolve the first player's assault moves, close combats and firefights
-.. Resolve the second player's assault moves, close combats and firefights
-. *xref:the-rally-phase.adoc[]*
-.. Roll to remove Blast markers
-.. Roll to rally Broken detachments
-.. Repair war engine damage and shields
-.. Check the victory conditions for the scenario
-
-// Break to prevent list nesting.
-
-[none]
-* *End of the turn*
+include::main-rules:partial$turn-sequence.adoc[]

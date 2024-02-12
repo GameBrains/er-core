@@ -1,6 +1,6 @@
 = S6. Allocate hits
 
-Allocate your successful hit dice against eligible units in the target detachment.
+Allocate your successful attack dice -- that is, your hit dice -- against eligible units in the target detachment.
 
 * Allocate one die at a time, starting with the nearest available target unit, then the next nearest, and so on.
 You may choose which individual hit die you allocate in each case, but you must allocate in this order for all hit dice.

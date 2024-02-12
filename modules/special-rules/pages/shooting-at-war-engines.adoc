@@ -8,7 +8,7 @@ The Firepower table includes target categories especially for War Engines and fo
 These categories reflect the fact that these units are so large and easy to hit.
 
 * A War Engine unit can become Immobilised -- and so even easier to hit -- as a result of *critical damage*.
-* There is no target category for 'Immobilised War Engine in the open' -- instead, you simply roll as many hit dice as the total Firepower that you direct at the unit.
+* There is no target category for 'Immobilised War Engine in the open' -- instead, you simply roll as many attack dice as the resultant Firepower that you direct at the unit.
 * If a target detachment contains both mobile and Immobilised War Engine units, then you may choose to shoot at only those that are Immobilised, if you wish.
 If you do this then you may allocate hits to the Immobilised units *only*.
 

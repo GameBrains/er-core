@@ -10,6 +10,7 @@ As long as a detachment is not subject to any <<Conditions>> then you may give i
 
 === Advance
 
+image::main-rules:marker-advance-orders.svg[role="left float-gap",width=40,height=40]
 These are the orders that a detachment operates under by default.
 You don't need a marker to indicate these orders, just so long as you can remember which detachments you've already activated under these orders in a given turn.
 
@@ -24,37 +25,34 @@ Also, these are the only orders that allow your detachment to move into close co
 
 Movement phase:: You may make a move with units in this detachment.
 Shooting phase:: You may shoot with the units in this detachment -- but you must *halve* their total Firepower.
-Assault phase:: You *must* move the units in this detachment, and you may initiate a close combat or firefight.
-For the full detail, see xref:assault-moves-and-charges.adoc[].
+Assault phase:: You *must* move the units in this detachment, and you may initiate an assault (see xref:assault-moves-and-charges.adoc[]).
 
 === March
 image::marker-march-orders.svg[role="left float-gap",width=40,height=40]
-These orders allow a detachment to move very quickly -- but it can't shoot, and it will be very vulnerable if it is attacked.
+These orders allow a detachment to move very quickly -- but it can't shoot, and it becomes an easy target for the enemy.
 
 TIP: Be careful! Detachments on March orders are especially vulnerable to enemy attacks.
 
 Movement phase:: You may make a *triple* move with units in this detachment.
 That is, make three normal moves in a single sequence.
 Shooting phase:: You may *not* shoot with units in this detachment.
-+
 If your opponent shoots at this detachment then they will use the Marching column on the Firepower table.
 Assault phase:: You may *not* move units in this detachment.
-+
-If the detachment becomes engaged in close combat or a firefight then and you must *halve* the detachment's Assault and Firepower totals.
+If the detachment becomes engaged in an assault then and you must *halve* the detachment's Assault and Firepower totals.
 
 === Overwatch
 image::marker-overwatch-orders.svg[role="left float-gap",width=40,height=40]
 These orders cause a detachment to forgo most of its movement in favour of more accurate shooting.
 
-Movement phase:: You may move units in this detachment up to 5 cm only.
-Shooting phase:: You may shoot with units in this detachment -- and you may *re-roll any misses* you roll with the hit dice.
+Movement phase:: You may move units in this detachment up to *5 cm* only.
+Shooting phase:: You may shoot with units in this detachment -- and you may *re-roll misses* that you roll with the attack dice.
 +
-+[TODO: Is there any edge case where the detachment might be allowed to shoot outside of the Shooting phase? If so, then might need a note to the effect that the re-roll applies to shooting outside of the Shooting phase as well.]+
+{blank}[TODO: Are there edge cases in which units in the detachment might be allowed to shoot outside of the Shooting phase (such as Flak attacks)? If yes then perhaps we need to make it clear that re-rolling of misses applies in those cases too?]
 Assault phase:: You may *not* move units in this detachment.
 
 === Special
 image::marker-special-orders.svg[role="left float-gap",width=40,height=40]
-We use this marker to indicate that special orders are in effect, such as xref:special-rules:flak.adoc[] or xref:special-rules:artillery.adoc#preparatory-bombardment[Preparatory Bombardment].
+We use this marker to indicate that special orders are in effect, such as xref:special-rules:flak.adoc[] and xref:special-rules:artillery.adoc#preparatory-bombardment[Preparatory Bombardment].
 
 == Conditions
 IMPORTANT: You cannot give a detachment orders while it is subject to a condition.
@@ -66,27 +64,23 @@ A detachment becomes Broken when it loses a close combat or a firefight.
 This means that the detachment is in disarray -- units are in a state of confusion or even panic, seeking cover and unable to accept and respond to orders.
 
 TIP: Be careful!
-Broken detachments are especially vulnerable to encirclement and enemy attacks.
+A Broken detachment is especially easy for the enemy to destroy -- especially if enemy units surround it.
 
-Movement phase:: You may make *only* a 20 cm *Retreat* move with units in this detachment (though you don't have to move them at all if you don't want to).
+Movement phase:: You may make *only* a 20 cm xref:main-rules:broken-detachments.adoc#retreat-move[Retreat move] with units in this detachment (though you don't have to move them at all if you don't want to).
 Shooting phase:: You may *not* shoot with units in this detachment.
-Assault phase:: You may *not* move units in this detachment.
-+
+Assault phase:: You may *not* move units in this detachment (aside from the initial Retreat move after losing an assault).
 If the detachment becomes engaged in close combat or a firefight then and you must *halve* the detachment's Assault and Firepower totals.
+Rally phase:: You may attempt to rally the detachment at step xref:main-rules:attempt-to-rally-broken-detachments.adoc[].
 
 === Immobilised
 image::marker-immobilised-condition.svg[role="left float-gap",width=40,height=40]
 This condition applies when a War Engine unit sustains damage that causes it to become immobile.
 This might be a temporary condition if it can be repaired, or it might last for the rest of the game.
 
-Movement phase:: You may *not* move this War Engine unit, at all -- not even to turn on the spot.
-Shooting phase:: You may shoot with this War Engine unit as normal.
-+
-If your opponent shoots at this War Engine then they will use the appropriate Immobilised column on the Firepower table.
-Assault phase:: You may *not* move this War Engine, at all -- not even to turn on the spot.
-Other:: Immobilised War Engine units may not use special orders.
-If a war engine becomes Immobilised while it is under special orders then those orders become invalid -- remove the {special-om}.
-+
-Where the rules state that the War Engine unit is Immobilised "until repaired", you may attempt to repair the War Engine at the appropriate step in the Rally phase.
+Movement phase:: You may *not* move this unit, at all -- not even to turn on the spot.
+Shooting phase:: You may shoot with this unit as normal.
+If your opponent shoots at this unit then they will use the appropriate Immobilised column on the Firepower table.
+Assault phase:: You may *not* move this unit, at all -- not even to turn on the spot.
+Rally phase:: Where the rules state that the unit is Immobilised "until repaired", you may attempt to repair the unit at step xref:main-rules:attempt-repairs.adoc[].
 
-{blank}[TODO: Clarify: In contrast to other orders and conditions, the Immobilised condition affects a single War Engine unit at a time. What happens as far as orders are concerned for other War Engine units in the same detachment?]
+{blank}[TODO: Clarify: In contrast to other orders and conditions, the Immobilised condition affects individual War Engine units... but what does this mean for multi-unit War Engine detachment? How should we apply orders and the in command/out of command rules for other War Engine units in the same detachment?]

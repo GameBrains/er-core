@@ -18,7 +18,7 @@ This leads to a number of odd effects, not least that it makes war engines *exce
 
 War engines can also do a lot more damage in close combat than regular units.
 
-* Roll a number of dice to hit equal to half the current Damage Capacity of the War Engine unit (round up).
+* Roll a number of attack dice equal to half the current Damage Capacity of the War Engine unit (round up).
 * As normal, you can allocate hits to any enemy units that are in base contact with any of your units in the close combat.
 footnote:[{e40k-diff}
 {e40k} phrases the rules for War Engine close combat attacks on the basis of a single War Engine in close combat with the enemy.
@@ -49,7 +49,7 @@ To be clear, such units may still also support *other detachments* as we explain
 
 Your Ork Great Gargant is in close combat with some Space Marine infantry.
 It is undamaged, so its current Damage Capacity value is `18`.
-This means that you roll nine dice to hit the Space Marine units.
+This means that you get nine attack dice to roll against the Space Marine units.
 
 Your opponent may still only roll a number of dice equal to the number of Space Marine units that are in base contact -- four dice, in this case.
 ====
