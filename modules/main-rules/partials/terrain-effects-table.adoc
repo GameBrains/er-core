@@ -1,5 +1,7 @@
 [[terrain-table]]
 
+[.scrollable]
+--
 ifndef::movement,shooting[]
 .Terrain effects summary
 [cols="1,4*^", stripes=even]
@@ -130,3 +132,4 @@ ifdef::shooting[]
 |0
 |===
 endif::[]
+--

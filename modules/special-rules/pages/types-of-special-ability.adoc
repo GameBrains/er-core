@@ -19,6 +19,8 @@ The Imperial Guard Rough Riders unit is based on the Imperial Guard unit, with t
 
 These abilities create several differences between the unit data sheets, as you can see below.
 
+[.scrollable]
+--
 .A base unit with the addition of special abilities
 [cols="2,6*^,2"]
 |===
@@ -61,7 +63,7 @@ s|4+
 s|{cavalry}, {assault}
 
 |===
-
+--
 ====
 
 == Unit ability
