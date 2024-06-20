@@ -5,7 +5,7 @@ When you reach the "Shoot with war engines" step in the turn sequence then it is
 This is usually a moment of high drama and excitement -- will your carefully positioned behemoths live up to their fearsome reputations and lay waste to the enemy?
 
 War engines make excellent mobile weapons platforms -- but their sheer mass means that they can't point their weapons in any direction at a moment's notice.
-The rules here add some extra detail to reflect these features. 
+The rules here add some extra detail to reflect these features.
 
 == Weapon mounts
 
@@ -15,13 +15,18 @@ While {e40k} does mention 'weapon mounts', it does not define the term or use it
 We define these terms and concepts so that we can explain certain rules interactions more clearly.
 ]
 
-These are simply the weapon-carrying locations on the war engine, and have names like Left Carapace or Right Arm.
+These are the weapon-carrying locations on the war engine, and have names like Left Carapace or Right Arm.
 Each weapon mount also has:
 
 * A weapon system that defines the weapon effects that exist in this mount (<<Weapon systems>>).
-* A weapon arc that restricts the line of fire of the weapon system (<<Weapon arcs>>).
+* A weapon arc that restricts the line of fire of the mount's weapon system (<<Weapon arcs>>).
 
 We list each weapon mount that a War Engine has in a separate line on the unit's data sheet, along with the corresponding weapon system details and weapon arc.
+
+=== Other effects of weapon mounts
+
+* While you may split fire to target different detachments with different weapon mounts, you may not split fire with the weapon system of a single weapon mount.
+* For critical damage results, apply effects that destroy or restrict a weapon to the whole weapon mount.
 
 == Weapon systems
 
@@ -38,15 +43,6 @@ In some cases the weapon system may combine this with a basic Firepower value.
 This represents some kind of battery of heavy weapons.
 
 Where you can choose from a wide range of weapon systems, we leave empty boxes on the data sheet for you to fill with the information to match your particular choices.
-
-=== Game effects of weapon systems
-
-* While you may split fire to target different detachments with different weapon systems, you may not split fire with the effects of a single weapon system.
-* For critical damage results, apply effects that destroy or restrict a weapon to the whole weapon system.
-{blank}[TODO: If we reference 'weapon system' rather than 'weapon' on every data sheet in future, perhaps we can do away with this bullet point?]
-* Where a weapon system does not have a basic Firepower value, treat it like a single super-heavy weapon:
-
-include::partial$summary-of-super-heavy-weapon-effects.adoc[]
 
 == Weapon arcs
 
