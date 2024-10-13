@@ -1,15 +1,17 @@
 = Detachments
 
-Units are defined by the fact that they can act independently. Even so, most units in {project-name} are organised into groups with other units, to fight as a unified whole on the battlefield. We call these groups *detachments*.
+Units are defined by the fact that they can act independently.
+Even so, most units in {project-name} are organised into groups with other units, for mutual support and co-ordination on the battlefield.
+We call these groups *detachments*.
 
 [NOTE]
-Some units, such as the Warlord Titan, do act alone and not as part of a group. Such units still comprise a detachment.
+Some units, such as the Imperial Warlord Titan, do operate as wholly independent units; such units still comprise a detachment.
 
 Detachments represent forces that are detached from a larger organisation, such as from a company within a Space Marine chapter, or from an Ork clan within a _Waaargh!_ (as Ork armies are known).
 
-Every detachment is led by a headquarters (HQ) unit which coordinates the actions of the detachment with others on the battlefield.
+Every detachment is led by a headquarters (HQ) unit which co-ordinates the actions of the detachment with others on the battlefield.
 
-Detachments are comprised of either Infantry and/or Vehicle units, War Engine units or Flyer units.
+Detachments are comprised of either Infantry and/or Vehicle units, War Engine units, or Flyer units.
 
 [NOTE]
 ====
@@ -18,20 +20,30 @@ We detail the armies of various factions -- and the detachments and units that y
 Within the restrictions of the particular army and detachment list you choose, you can tailor each of your detachments to include whatever number of units you like from the available selection.
 ====
 
-.Space Marine sample detachments
+.Space Marines sample detachments
 ====
-[grid="cols", frame="none"]
-|===
-| Force Indomitus | | 
- 
-| HQ: 1 x Space Marine Captain with Razorback transport vehicle |  | 
-| 3 x Space Marine squads (2 units per squad) |  | 
-| 3 x Rhino transport vehicles |  | 
-| 2 x Whirlwind artillery vehicle |  | 
-|===
-====
+.Space Marines detachment -- _Force Gadrel_
+[horizontal]
+Command:: 1 x Captain, with 1 x Razorback transport vehicle.
+Main Force:: 6 x Space Marines units, with 3 x Rhino transport vehicles.
+Support:: 2 x Whirlwind artillery vehicle.
 
-+[TODO: Complete this table with a range of examples that illustrate plausible choices.]+
+---
+
+.Space Marines detachment -- _Force Cantro_
+[horizontal]
+Command:: 1 x Librarian, with 1 x Rhino transport vehicle.
+Main Force:: 6 x Space Marines Devastator units; 3 x Space Marine Scout units.
+Support:: 1 x Dreadnought; 3 x Support Weapon.
+
+---
+
+.Space Marines Armoured detachment -- _Force Danetor_
+[horizontal]
+Command:: 1 x Captain, with Land Raider transport vehicle.
+Main Force:: 3 x Predator tank; 1 x Vindicator assault tank.
+Support:: 1 x Terminators unit, with 1 x Land Raider transport vehicle; 2 x Space Marine Assault units; 1 x Hunter anti-aircraft tank.
+====
 
 .Related information
 * xref:hq-units-and-command.adoc[]
