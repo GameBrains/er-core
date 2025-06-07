@@ -1,0 +1,33 @@
+= Downloads
+
+== Print-your-own play aids
+
+//TODO: Create downloadable assets, and/or suggestions for alternatives (also update the "What you will need, to play" topic).
+
+// Airfields (aircraft status trackers)
+
+// Army Morale tracker
+
+// Blast markers
+
+// Barrage templates
+
+[[drop-pods-tokens]]
+=== Drop Pods tokens
+
+xref:attachment$er-drop-pods-tokens_v1.0.pdf[ER Drop Pods tokens, window=\_blank] (PDF)
+footnote:[{e40k-diff}
+The {e40k} product line didn't include any Drop Pods tokens, only a suggestion to "make some Drop Pod markers by tearing or cutting up a load of paper squares (about 1 cm across) and writing a number or letter on each one".
+However, the Drop Pods rules are similar to those in the preceding edition of Epic, for which 15 mm square cardboard Drop Pods tokens were available in an expansion set.
+Our download approximates those tokens.
+]
+
+// Fate cards
+
+// Hidden Setup markers
+
+// Objective markers
+
+// Order markers
+
+// Reference sheets

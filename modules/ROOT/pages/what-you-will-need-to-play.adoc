@@ -1,5 +1,4 @@
 = What you will need, to play
-:page-toclevels: 1
 
 Things that you'll need to play the game -- and a few that are nice to have.
 
@@ -71,7 +70,7 @@ Some ideas:
 If you don't have access to a 3D printer, there are retailers who sell the physical items.
 * Make your own!
 Even cardboard squares with text on them will suffice.
-{blank}[TODO: We need some nice non- copyright-infringing designs for the order symbols, to use for the graphics in these rules. It'd be great to also add these to a downloadable 'print your own play aids' file.]
+// TODO: I created some simple non- copyright-infringing designs for the order symbols, to use for the graphics in these rules. Perhaps we could render these -- or something fancier -- for Order markers in a 'print-your-own play aids' download?
 
 === Blast markers
 
@@ -129,23 +128,9 @@ If your numbered markers are small scenic items that represent clusters of foxho
 
 You'll need these only when you use the xref:battles:scenario-special-rules:drop-pods.adoc[] rules.
 
-Even the original {e40k} boxed game didn't include these (although the _Armies of the Imperium_ expansion for the second edition of Epic did).
-But they're easy to make:
+For print-your-own tokens, see xref:downloads.adoc#drop-pods-tokens[Downloads -> Drop Pods tokens].
 
-. Get some thick paper or thin card.
-Photo paper for inkjet printers is a good choice.
-. Draw a 1 cm grid, 4 cm by 10 cm, to create 40 squares.
-. Use a pen or stamp with permanent ink to number each square, from 1 to 40.
-. Cut out your squares -- hey presto, 40 Drop Pods tokens (more than you're ever likely to need at one time).
-
-{blank}[TODO: Ideally, in due course we'll add a suitable design to a downloadable 'print your own play aids' file.]
-
-TIP: You might consider a different material, shape and/or size for your tokens.
-As long as you and your opponent use the same tokens then it is fair.
-But keep in mind that you'll be dropping these tokens from a height, and these characteristics affect how the tokens typically distribute.
-For example, round tokens will sometimes roll across the play area, away from the rest, whilst plastic tokens may bounce and knock miniatures that are in play.
-
-{blank}[TODO: It might be good to suggest optional alternative rules that don't require tokens. Take inspiration from NetEpic perhaps, which developed an alternative procedure in place of the similar token-based rules that existed in 2nd edition.]
+// TODO: It might be good to suggest optional alternative rules that don't require tokens. Take inspiration from NetEpic perhaps, which developed an alternative procedure in place of the similar token-based rules that existed in 2nd edition.
 
 [[fortifications]]
 === Fortifications
@@ -158,17 +143,23 @@ You'll need these only when you use the xref:battles:scenario-special-rules:fort
 
 {blank}[TODO: Add explanation, and link to new Fate cards content when it is ready.]
 
-.Under development
 ****
-We don't have Remastered versions yet, but you can get redrawn versions of the original Fate cards at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^].]
+We don't have Remastered versions yet.
+However, the original {e40k} Fate cards remain useable.
+So, feel free to use them if you have them, or print your own -- you can get redrawn versions at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -> Further resources^].
+(And you'll find the original rules reproduced at link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/FateCards/FateCards.htm[Epic 40,000 Compendium ->  Fate cards^].)
 ****
 
 == Reference sheets
 
 {blank}[TODO: Add explanation, and link to new reference sheets when they are available.]
 
-.Under development
 ****
 We don't have Remastered versions yet, but you can refer to xref:more:quick-reference.adoc[].
-Or, you can get redrawn versions of the original reference sheets at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -- Further resources^].]
+However, the original {e40k} reference sheets remain useable.
+So, feel free to use them if you have them, or print your own -- you can get redrawn versions at link:https://thehobby.zone/resources/e40k-compendium/Content/More/FurtherResources.htm[Epic 40,000 Compendium -> Further resources^].
+footnote:[
+The original {e40k} reference sheets contain outdated information for the Bunker objective, which Games Workshop updated through errata in _Firepower_ magazine issue #1 (-D6 to Army Morale, rather than -5).
+Otherwise, as {project-name} clarifies and expands upon {e40k} but rarely contradicts it, the original reference sheets remain largely valid and useful for {project-name}.
+]
 ****
