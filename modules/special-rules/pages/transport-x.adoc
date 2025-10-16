@@ -1,6 +1,6 @@
 = Transport (X)
 
-`Unit ability`
+{unit-ability}
 
 These units have the interior spaces and other features that make them ideal to transport certain other units across the battlefield.
 

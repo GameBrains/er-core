@@ -1,6 +1,6 @@
 = Psyker
 
-`Unit ability`
+{unit-ability}
 
 Some beings have psychic powers — that is, they can tap into the alternate dimension of the Warp and direct a little of its fickle energy on the battlefield and elsewhere.
 These beings are known as 'pyskers'.

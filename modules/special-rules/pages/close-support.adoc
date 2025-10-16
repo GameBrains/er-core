@@ -1,6 +1,6 @@
 = Close Support
 
-`Unit ability`
+{unit-ability}
 
 These units are equipped with weapons that are especially effective in support of close combat -- such as flamethrowers, heavy short-ranged cannons and bomb launchers.
 

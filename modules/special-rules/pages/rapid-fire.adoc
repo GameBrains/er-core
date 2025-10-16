@@ -1,6 +1,6 @@
 = Rapid Fire
 
-`Unit ability`
+{unit-ability}
 
 These units are especially skilled at laying down heavy, accurate fire when they are in a static position.
 

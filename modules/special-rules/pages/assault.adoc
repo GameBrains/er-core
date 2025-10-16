@@ -1,6 +1,6 @@
 = Assault
 
-`Data sheet modifier`
+{data-sheet-modifier}
 
 These units specialise in close combat, through a combination of skills, doctrine and equipment.
 

@@ -1,6 +1,6 @@
 = Flak
 
-`Unit ability`
+{unit-ability}
 
 These units are specialised to shoot down enemy flyers and drop pods.
 Some use very sophisticated targeting devices and fast, accurate weaponry.

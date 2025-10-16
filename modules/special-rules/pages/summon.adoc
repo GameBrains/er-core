@@ -1,6 +1,6 @@
 = Summon
 
-`Detachment ability`
+{detachment-ability}
 
 {blank}[TODO: This ability replaces the 'summoning daemons' text in the original Chaos army list. Add introductory text.]
 

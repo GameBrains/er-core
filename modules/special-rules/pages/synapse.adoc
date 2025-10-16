@@ -1,6 +1,6 @@
 = Synapse
 
-`Detachment ability`
+{detachment-ability}
 
 Where Synapse creatures are present, the Tyranid Hive Mind is able to impose maximum control over its swarms. 
 

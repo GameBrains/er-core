@@ -1,6 +1,6 @@
 = Synapse Creature
 
-`Unit ability`
+{unit-ability}
 
 These organisms impose the will of the Tyranid Hive Mind directly on their swarm.
 

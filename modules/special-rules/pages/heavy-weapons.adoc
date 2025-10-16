@@ -1,6 +1,6 @@
 = Heavy Weapons
 
-`Data sheet modifier`
+{data-sheet-modifier}
 
 These units specialise in shooting, with weapons that give them longer range and more firepower.
 

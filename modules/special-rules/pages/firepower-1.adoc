@@ -1,6 +1,6 @@
 = Firepower +1
 
-`Data sheet modifier`
+{data-sheet-modifier}
 footnote:[{e40k-diff}
 We created this ability to allow more flexibility in unit design.
 ]

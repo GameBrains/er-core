@@ -1,6 +1,6 @@
 = Stubborn
 
-`Detachment ability`
+{detachment-ability}
 
 {blank}[TODO: add introductory text.]
 

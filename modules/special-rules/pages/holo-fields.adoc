@@ -1,6 +1,6 @@
 = Holo-fields
 
-`Unit ability`
+{unit-ability}
 
 This unique technology projects a field that can hide an Eldar titan in a colourful but diffuse and baffling appearance.
 This makes it almost impossible for the enemy to pinpoint the precise location of the titan -- it can thwart even the most advanced targetting systems.

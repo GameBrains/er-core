@@ -1,6 +1,6 @@
 = Support
 
-`Data sheet modifier`
+{data-sheet-modifier}
 footnote:[{e40k-diff}
 We derived this ability from {e40k}'s experimental _Siege_ ability.
 That ability is redundant on any unit that has a Firepower value of only `1`.

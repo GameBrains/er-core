@@ -1,6 +1,6 @@
 = Save
 
-`Unit ability`
+{unit-ability}
 
 These units can beat the odds and escape destruction -- perhaps through exceptional armour, protective fields, or extreme skills and toughness.
 

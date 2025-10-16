@@ -1,6 +1,6 @@
 = Hitch (X)
 
-`Unit ability`
+{unit-ability}
 
 These units are convenient for friendly but somewhat crazed infantry to grab onto and 'hitch a ride', for transportation across the battlefield.
 

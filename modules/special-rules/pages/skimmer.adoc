@@ -1,6 +1,6 @@
 = Skimmer
 
-`Unit ability`
+{unit-ability}
 
 These units have technology that allows them to hover just above terrain and 'skim' over it as they move.
 They can also boost their ground clearance for short periods, to clear trees, buildings and other tall terrain, or to pop up and shoot at enemy units that would otherwise be out of sight.

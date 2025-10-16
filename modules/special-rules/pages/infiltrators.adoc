@@ -1,6 +1,6 @@
 = Infiltrators
 
-`Unit ability`
+{unit-ability}
 
 These units are the expert scouts and commandos who gather information, set ambushes, sabotage installations, and so on.
 

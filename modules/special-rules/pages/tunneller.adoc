@@ -1,6 +1,6 @@
 = Tunneller
 
-`Unit ability`
+{unit-ability}
 
 {blank}[TODO: add introductory text.]
 

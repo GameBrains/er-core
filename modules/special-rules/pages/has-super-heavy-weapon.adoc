@@ -1,6 +1,6 @@
 = Has +{super-heavy weapon}+
 
-`Data sheet modifier`
+{data-sheet-modifier}
 footnote:[
 include::special-rules:partial$no-such-ability-in-e40k.adoc[]
 ]

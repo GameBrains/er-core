@@ -1,6 +1,6 @@
 = Rampage
 
-`Unit ability`
+{unit-ability}
 
 Some units are so ferocious in close combat that they will rampage through enemy forces in a berserk fury, heedless of their own safety.
 

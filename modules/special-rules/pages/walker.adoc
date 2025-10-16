@@ -1,6 +1,6 @@
 = Walker
 
-`Data sheet modifier` `Unit ability`
+{data-sheet-modifier} {unit-ability}
 footnote:[{e40k-diff}
 We've integrated this ability into the main body of the rules.
 In {e40k}, this ability was a suggestion in the _Battles Book_, and later Games Workshop confirmed it as an official amendment in _Firepower_ magazine issue 2 -- see link:https://thehobby.zone/resources/e40k-compendium/Content/More/HouseRulesFrequentlyAskedQuestionsAndOtherNonsense/FAQ_Walkers.htm[FAQ: Walkers^].

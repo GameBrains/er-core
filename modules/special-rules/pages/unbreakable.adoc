@@ -1,6 +1,6 @@
 = Unbreakable
 
-`Detachment ability`
+{detachment-ability}
 footnote:[{e40k-diff}
 We derived this ability from parts of {e40k}'s Tyranid army 'Synapse Creatures' rules and War Engine 'No retreat, no surrender' rules.
 This allows for more flexibility in detachment design.

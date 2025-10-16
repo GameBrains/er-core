@@ -1,6 +1,6 @@
 = Psychic Beacon
 
-`Detachment ability`
+{detachment-ability}
 footnote:[{e40k-diff}
 The {e40k} version of this ability is exceptionally cheap and powerful -- for only a small cost, it allows all Mycetic Swarm detachments in the army to arrive in turn 1, automatically.
 We've revised the ability so that it (a) scales with the number of detachments that have the ability, (b) grants you a re-roll rather than a bypass of the Reserve Detachment Arrival table, and (c) you can use the re-roll for any Tyranid detachment in Reserves, not just Mycetic Swarms.
