@@ -1,6 +1,6 @@
 = Ordo Malleus
 
-`Unit ability`
+{unit-ability}
 
 {blank}[TODO: Add introductory text.]
 

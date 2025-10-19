@@ -1,6 +1,6 @@
 = Self-propelled Artillery
 
-`Data sheet modifier`
+{data-sheet-modifier}
 
 These units are specially adapted from their original design, to replace their usual weaponry with artillery pieces.
 This grants them a longer range and the ability to shoot over intervening terrain like purpose-built artillery units, but comes at the cost of an inability to shoot at closer targets.

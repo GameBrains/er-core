@@ -1,6 +1,6 @@
 = Fast
 
-`Data sheet modifier`
+{data-sheet-modifier}
 
 This ability applies to some Vehicle unit variants.
 // TODO: Should we use text like this on some or all of the abilities which originate from 'Vehicle variant rules', to make clear where they only apply to vehicles?

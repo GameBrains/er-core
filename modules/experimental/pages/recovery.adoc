@@ -1,6 +1,6 @@
 = Recovery
 
-`Unit ability`
+{unit-ability}
 
 {blank}[TODO: Add introductory text.]
 

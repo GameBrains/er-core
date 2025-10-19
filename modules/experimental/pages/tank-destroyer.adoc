@@ -1,6 +1,6 @@
 = Tank Destroyer
 
-`Data sheet modifier`
+{data-sheet-modifier}
 footnote:[{e40k-diff}
 We've replaced this ability with the more flexible {has-macro-weapon} ability.
 ]

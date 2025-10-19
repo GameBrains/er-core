@@ -1,6 +1,6 @@
 = Bridge
 
-`Unit ability`
+{unit-ability}
 
 These units carry a bridge that they can deploy as needed, so that forces can cross certain types of terrain.
 

@@ -1,6 +1,6 @@
 = Long Range
 
-`Data sheet modifier`
+{data-sheet-modifier}
 
 These units are specially adapted from their original design, to improve the range of their main armament.
 However, this comes at the cost of more weight and so less speed.
