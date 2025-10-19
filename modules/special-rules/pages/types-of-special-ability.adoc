@@ -15,18 +15,18 @@ The {heavy-weapons} ability changes the unit's Range and Firepower characteristi
 [[data-sheet-modifiers]]
 .Application of data sheet modifiers
 ====
-The Imperial Guard Rough Riders unit is based on the Imperial Guard unit, with the addition of the {cavalry} and {assault} abilities.
+The Imperial Guard Rough Riders unit is based on the Imperial Guard unit, with the addition of the {cavalry}, {assault} and {armour-1} abilities.
 
 These abilities create several differences between the unit data sheets, as you can see below.
 
 [.scrollable]
 --
 .A base unit with the addition of special abilities
-[cols="2,6*^,2"]
+[options="autowidth", cols="<,6*^,<"]
 |===
 |Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
 
-s|Base unit: Imperial Guard
+s|Base unit: Imperial{nbsp}Guard
 s|INF
 s|10/20 cm
 s|30 cm
@@ -41,10 +41,19 @@ s|
 |
 |
 |
+|
+|
+
+|+{nbsp}{armour-1}
+|
+|
+|
+|
+|
 |4+
 |
 
-|+ {assault}
+|+{nbsp}{assault}
 |
 |
 |15 cm
@@ -53,14 +62,14 @@ s|
 |
 |
 
-s|=> Imperial Guard Rough Riders
+s|=> Imperial{nbsp}Guard Rough{nbsp}Riders
 s|VEH
 s|20/30 cm
 s|15 cm
 s|1
 s|2
 s|4+
-s|{cavalry}, {assault}
+s|{cavalry}; {armour-1}; {assault}
 
 |===
 --

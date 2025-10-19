@@ -26,12 +26,15 @@ footnote:split-speed[]
 
 .{cavalry} data sheet modifiers
 ====
-An Imperial Guard Rough Rider unit is an Imperial Guard unit with added special abilities.
+We derive the Imperial Guard Rough Rider unit from the Imperial Guard unit as a base, plus the {cavalry} and {armour-1} abilities.
 The {cavalry} ability means that:
 
-* While the base unit has a Speed value of `10/20 cm`, that of the Rough Riders is `20/30 cm` -- that is, `(10 x 2)/(10 x 3) cm`.
-* While the base unit has an Armour value of `3+`, that of the Rough Riders is `4+`.
-* While the base unit has a unit type of Infantry (`INF`), that of the Rough Riders is Vehicle (`VEH`).
+* Whilst the base unit has a Speed value of `10/20 cm`, that of the Rough Riders is `20/30 cm` -- that is, `(10 x 2)/(10 x 3) cm`.
+* Whilst the base unit has a unit type of Infantry (`INF`), that of the Rough Riders is Vehicle (`VEH`).
+
+(And for the sake of completeness in this example:) The {armour-1} ability means that:
+
+* Whilst the base unit has an Armour value of `3+`, that of the Rough Riders is `4+`.
 ====
 
 .Related information

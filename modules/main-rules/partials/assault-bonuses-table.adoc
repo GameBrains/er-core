@@ -2,7 +2,7 @@
 ifdef::bonus-cc[.Assault bonuses table (close combat)]
 ifdef::bonus-ff[.Assault bonuses table (firefight)]
 ifdef::bonus-as[.Assault bonuses table (close combat/firefight)]
-[cols="7,1", options="footer"]
+[options="autowidth, footer"]
 |===
 |Condition |Bonus
 

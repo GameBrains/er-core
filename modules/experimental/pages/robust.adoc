@@ -49,7 +49,7 @@ NOTE: A {robust} unit counts as *one* unit for *all* other purposes, such as 'ga
 ====
 Consider a Space Marine detachment like this:
 
-[cols="2,2*^1"]
+[options="autowidth", cols="<,2*^"]
 |===
 |Units |Number of units |Detachment strength
 

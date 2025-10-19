@@ -10,7 +10,7 @@ Most units have a very simple data sheet that looks something like these:
 
 [.scrollable]
 --
-[options="header",cols="1,6*^,1"]
+[options="autowidth", cols="<,6*^,<"]
 |===
 |Unit|Type|Speed|Range|Firepower|Assault|Armour|Notes
 

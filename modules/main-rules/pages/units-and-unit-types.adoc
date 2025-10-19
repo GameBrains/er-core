@@ -35,7 +35,7 @@ As long as your miniatures look the part so that it is clear what they represent
 This unit type includes the most obvious infantry, plus the likes of crew-served field artillery and some heroic characters.
 It also includes some creatures and small machines that operate in a similar way as far as we're concerned with the rules.
 
-Examples include the Space Marines unit, Ork Boyz, Eldar Support Weapon Platform,   Tyranid Hormagaunts, and many more.
+Examples include the Space Marines unit, Ork Boyz, Eldar Support Weapon Platform, Tyranid Hormagaunts, and many more.
 
 .Physical representation of Infantry units
 ****

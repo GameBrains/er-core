@@ -1,6 +1,6 @@
 [#close-combat-results-table]
 .Close combat results table
-[cols="4*^", hrows=2, footer]
+[options="autowidth, footer", cols="4*^"]
 |===
 |Difference in scores* |Overall result 2+| Score required to hit
 

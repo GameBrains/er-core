@@ -4,7 +4,7 @@
 --
 ifndef::movement,shooting[]
 .Terrain effects summary
-[cols="1,4*^", stripes=even]
+[options="autowidth", cols="<,4*^", stripes=even]
 |===
 |Terrain |Infantry Armour bonus |Infantry |Vehicle |War Engine
 
@@ -57,7 +57,7 @@ endif::[]
 
 ifdef::movement[]
 .Terrain effects on movement
-[cols="1,3*^", stripes=even]
+[options="autowidth", cols="<,3*^", stripes=even]
 |===
 |Terrain |Infantry |Vehicle |War Engine
 
@@ -103,7 +103,7 @@ endif::[]
 
 ifdef::shooting[]
 .Infantry Armour bonus for cover
-[cols="1,1*^", stripes=even]
+[options="autowidth", cols="<,1*^", stripes=even]
 |===
 |Terrain |Infantry Armour bonus
 

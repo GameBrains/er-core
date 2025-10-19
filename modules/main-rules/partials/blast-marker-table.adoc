@@ -2,7 +2,7 @@
 
 ifdef::bm-fp[]
 .Blast marker table (Firepower)
-[cols="^,^2"]
+[options="autowidth", cols="2*^"]
 |===
 |Firepower |Blast markers to place
 
@@ -22,7 +22,7 @@ endif::[]
 
 ifdef::bm-shw[]
 .Blast marker table (super-heavy weapons)
-[cols="^,^2"]
+[options="autowidth", cols="2*^"]
 |===
 |Number of super-heavy weapons | Blast markers to place
 
