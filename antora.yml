@@ -8,3 +8,20 @@ nav:
 - modules/special-rules/nav.adoc
 - modules/more/nav.adoc
 - modules/experimental/nav.adoc
+
+asciidoc:
+  attributes:
+    # Attributes for this component that have values that authors may need to change from time to time:
+
+    revnumber: Pre-alpha
+    
+    # Attributes for this component that have values that we expect to set only once:
+
+    # `doctype` controls various settings that relate mainly to PDF outputs.
+    # Among other things, it controls special sections, such as the colophon, recto/verso page
+    # arrangements, and more. (See https://docs.asciidoctor.org/asciidoc/latest/sections/styles).
+    doctype: book
+    # `media` controls various settings that relate to PDF output.
+    # (See https://docs.asciidoctor.org/pdf-converter/latest/theme/print-and-prepress).
+    media: prepress 
+    toc-title: Contents
