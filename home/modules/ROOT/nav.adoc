@@ -1,0 +1,5 @@
+* xref:index.adoc[]
+
+ * xref:core::index.adoc[]
+ * xref:battles::index.adoc[]
+ * xref:armies::index.adoc[]

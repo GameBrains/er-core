@@ -65,4 +65,4 @@ But we intend to provide installable apps and downloadable PDF files eventually.
 ]
 Just type into the search box and the software will instantly show you any close matches it finds.
 
-For more advanced search functionality, see xref:search-functions.adoc[].
+For more advanced search functionality, see xref:home::search-functions.adoc[].

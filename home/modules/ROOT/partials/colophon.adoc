@@ -1,0 +1,26 @@
+// Colophon: Not relevant for HTML output. (In HTML site/app output, it is more usual and sensible to deal with this type of information site-wide, perhaps via statements in the user interface and/or links in the footer.)
+[colophon%notitle%nonfacing]
+--
+.Document information
+Title: {doctitle}
+
+Version: {revnumber} | Date of this build: {docdate}
+
+.Copyright and licence statement
+include::partial$copyright-and-licence.adoc[]
+
+.Disclaimer
+include::partial$disclaimer.adoc[]
+--
+
+---
+
+[.lead]
+This document is an output from the {project-name} project, which has its home online at link:{uri-project}[].
+This is a fan community project that *reworks* and *extends* the third edition of Games Workshop's _Epic_ game system, {e40k}.
+
+[.lead]
+{project-name} is by fans, for fans, and open to the community as a collaborative effort.
+
+// Force a page break.
+<<<
