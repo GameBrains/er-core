@@ -42,7 +42,10 @@ In particular, we often use footnotes to highlight ways in which {project-name} 
 `Monospace font with grey background`: We use this mainly to reference characteristic values that we either state on a 'data sheet' or that we bring into effect through a dynamic rule.
 For example: Speed `10 cm`; Armour `5+`.
 
-_Italic_ font style: We use this to emphasise a specific 'special ability' or the title of a publication.
+_Italic_ font style: We use this to emphasise the title of a publication or product.
+
+·Dot markers·: We use these to emphasise and disambiguate the names of special abilities.
+//TODO: Find a better approach — these dots are a compromise. When I try to use Asciidoc or HTML markup to add styling information to attributes in the playbook, the PDF output processor throws command line errors that break the build. I've tried various approaches to a solution, and none work. It may become easier in a future updates to Antora Assembler/PDF extension.]
 
 == Related information
 
