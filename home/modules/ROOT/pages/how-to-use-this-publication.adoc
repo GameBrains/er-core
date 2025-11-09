@@ -56,8 +56,8 @@ They look like this:
 .Related information links
 ====
 .Related information
-* xref:main-rules:data-sheets-and-characteristics.adoc[]
-* Experimental: xref:experimental:experimental.adoc[]
+* xref:core:main-rules:data-sheets-and-characteristics.adoc[]
+* Experimental: xref:core:experimental:experimental.adoc[]
 ====
 
 == The search feature (Web formats only)

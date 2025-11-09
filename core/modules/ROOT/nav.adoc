@@ -1,5 +1,2 @@
 * xref:index.adoc[]
- ** xref:about-this-publication.adoc[]
- ** xref:formats-of-this-publication.adoc[]
- ** xref:how-to-use-this-publication.adoc[]
- ** xref:what-you-will-need-to-play.adoc[]
+** xref:what-you-will-need-to-play.adoc[]

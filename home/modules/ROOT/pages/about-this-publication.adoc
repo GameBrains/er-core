@@ -46,7 +46,7 @@ Many enthusiasts enjoy these newer forces and wish to use them with {project-nam
 .Compatibility of old {e40k} army lists with {project-name}
 ****
 If you really want to for some reason, there's nothing to stop you from using the original {e40k} army lists with the {project-name} rules.
-There are some minor differences in terminology, and where {e40k} defines some army-specific rules in its army lists, we've rationalised and redefined these in the xref:special-rules:special-abilities.adoc[] section instead -- but that's about all that you'll need to adjust to.
+There are some minor differences in terminology, and where {e40k} defines some army-specific rules in its army lists, we've rationalised and redefined these in the xref:core:special-rules:special-abilities.adoc[] section instead -- but that's about all that you'll need to adjust to.
 ****
 
 == Adding to the special abilities 
