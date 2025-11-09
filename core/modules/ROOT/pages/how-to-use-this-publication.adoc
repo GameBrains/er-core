@@ -10,6 +10,7 @@ You and your opponent are much less likely to dispute or misinterpret rules if y
 ====
 
 [NOTE.option]
+.Option: 
 ====
 Notes to highlight an alternative or additional way to play that some players prefer to the default.
 If you want to use an option, you and your opponent must both agree.
