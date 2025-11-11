@@ -128,7 +128,7 @@ If your numbered markers are small scenic items that represent clusters of foxho
 
 You'll need these only when you use the xref:battles:scenario-special-rules:drop-pods.adoc[] rules.
 
-For print-your-own tokens, see xref:downloads.adoc#drop-pods-tokens[Downloads -> Drop Pods tokens].
+For print-your-own tokens, see xref:home::downloads.adoc#drop-pods-tokens[Downloads -> Drop Pods tokens].
 
 // TODO: It might be good to suggest optional alternative rules that don't require tokens. Take inspiration from NetEpic perhaps, which developed an alternative procedure in place of the similar token-based rules that existed in 2nd edition.
 
