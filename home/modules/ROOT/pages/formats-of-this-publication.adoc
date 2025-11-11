@@ -2,19 +2,18 @@
 
 To make this publication as user-friendly as possible across all formats, we use 'web-first' writing techniques rather than traditional 'print-first' techniques.
 
-For now though, this website is the only output format for this publication.
+Right now, this website is the only output format for this publication -- but we're testing functionality that will allow us to also publish other formats every time we publish updates to the content.
+The idea is to *automatically* provide up-to-date PDF files (mainly for those who want to print physical copies) and an installable app that has offline functionality (so that you can consult the rules even when you have no Internet access).
 
-In future, we should be able to offer an installable app output too.
-Then you'll be able to use your mobile device to consult the rules even when you have no Internet access.
+.About the publishing toolchain
+****
+In case you're geeky enough to be interested:
+This project uses Antora, a static site generator for the Asciidoc plain-text markup language, and GitHub Actions, to deploy updates to the website with very little effort.
 
-As for Portable Document Format (PDF): With the current state of the publishing technology we're using, PDF output would demand far too much manual intervention for us to produce this alongside the web output.
-footnote:[
-This project uses Antora, a static site generator for the Asciidoc plain-text markup language, and GitHub Actions to deploy updates to the website with very little effort.
-At the time of writing, no direct-to-PDF output processor is ready to deploy.
-]
+We'll use additional extensions and scripts to publish PDF files and progressive web app (PWA) functionality with dynamic caching.
 
-And, as a traditional print-based output format, PDF has some major drawbacks that complicate publishing and updates, even at the best of times -- it's far too static for a rapidly changing project.
-(And it's awkward to use on-screen too.)
+This is non-trivial, but if we can get it working to a satisfactory level then it becomes easy to deliver these extra formats.
+Otherwise, these extra formats would demand a lot of additional manual effort to produce -- not just once, but every time there is an update -- and I don't consider that to be a good use of time, especially while the content in this project is still undergoing significant change.
 
-However, when the project reaches a suitable level of maturity and stability then we can consider a PDF output for those who really want it.
-We're hopeful that by that time we'll have the tools to publish to PDF much more easily than we can at present.
+-- _Eric Weston_
+****
