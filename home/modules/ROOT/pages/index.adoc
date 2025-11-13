@@ -23,9 +23,9 @@ We intend to address these eventually.
 
 == Content
 
-The content components in this project are as follows:
-
 .Main project
+The content components for the game are as follows:
+
 * *xref:home::index.adoc[Home]*: This home page for HTML outputs, frontmatter for PDF outputs, and other content that does not belong in one of the more specific components.
 * *xref:core::index.adoc[Core]*: The main body of the project, principally the core rules of play.
 This component is now functionally complete, but there are still improvements we'd like to make and details to attend to.
@@ -34,20 +34,20 @@ Among other things, we need to create and add more graphics and images -- especi
 We've populated many of the topics that we need with good drafts, but there are still some empty placeholder topics at present.
 * *xref:armies::index.adoc[]*: Guidance on how to choose and build your armies, along with army lists that detail detachments, unit data sheets and points costs for each faction in the game.
 There is almost no content in this component at present -- but fear not, you'll find army lists in the interactive <<builder, Detachment Builder>>.
+
+We also have a content component for project contributors:
+
 * *xref:contributors-guide::index.adoc[Contributor's Guide]*: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
-
-TIP: You'll also find links to the game content components in the main navigation menu.
-You can switch between all main project components at the component menu (at the bottom of the secondary navigation panel).
-
-Also important to the project, but held in different repositories and hosting:
 
 [[builder]]
 .Detachment Builder
+Also important to the project, but residing in an entirely separate codebase and hosting environment from the main project:
+
 * *link:{uri-builder}[Epic Remastered Detachment Builder^]*: A convenient way to choose your army online and to print out your detachments and unit data sheets.
 Ian Wood continues to adapt and extend this from the open source 'Army Forge' software to suit our needs, and to populate it with new and revised content.
 We intend to mirror the Detachment Builder content in the _Armies_ component eventually.
 
-TIP: You'll also find a link in the main navigation menu at menu:Resources[Detachment Builder].
+TIP: Aside from the above links, you can also find all these items in one or more of the navigation menus.
 
 == Discussion
 Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[Epic 40,000 Remastered^].
