@@ -24,7 +24,7 @@ If you do this then, when you allocate hits later in this procedure, you may not
 .How to use the Firepower table
 ****
 .Guide to the Firepower table
-image::firepower-table-guide.gif[alt="Guide to the Firepower table, which you use to determine the number of attack dice to roll."]
+image::firepower-table-guide.png[alt="Guide to the Firepower table, which you use to determine the number of attack dice to roll."]
 
 [horizontal]
 Step{nbsp}1::

@@ -72,7 +72,7 @@ See xref:special-rules:special-abilities.adoc[].
 [[firepower-table]]
 == Firepower table
 
-image::firepower-table.gif[alt="Firepower table, which you use to determine the number of attack dice to roll."]
+image::firepower-table.png[alt="Firepower table, which you use to determine the number of attack dice to roll."]
 _*When you shoot at a War Engine unit that is both Immobilised and in the open, simply roll a number of dice equal to the resultant Firepower of the attack._
 
 == Blast markers
