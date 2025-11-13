@@ -17,6 +17,7 @@ ifdef::loader-assembler[]
 include::home::partial$toc.adoc[]
 endif::[]
 
-== {project-name}: Core -- the core rules of play
+[discrete]
+== The core rules of play
 
-Here you'll find the core rules of the game, plus some general introductory information and further resources.
+Here you'll find the core rules of the {project-name} game, plus some introductory information.
