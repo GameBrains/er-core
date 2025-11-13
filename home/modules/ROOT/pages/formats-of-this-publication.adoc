@@ -28,6 +28,13 @@ Some limitations that we're forced to deal with at the moment, along with corres
 PDF outputs render hyperlinks for cross-references, but not page numbers; this lack will be annoying for those who want to print the PDF outputs to paper.
 Unfortunately, this is not practical for us to solve ourselves -- but we hope that future developments to the PDF extension will fix this issue.
 
+.Footnotes in HTML, endnotes in PDF
+For PDF outputs, content we've coded as footnotes become endnotes instead.
+This is because the PDF extension does not support 'content reflows' (the lack of cross-reference page numbers has a similar root cause).
+Again, perhaps developers will add functionality to support this in future.
+
+In the meantime, this unfortunately means that footnotes that are convenient and helpful in HTML outputs may be rather less so in PDF outputs.
+
 .Constraints on appearance
 Unfortunately, the PDF extension makes the build process much more fussy and fragile than when the process only needs to deliver HTML.
 This actually means that some otherwise simple code that would enhance appearance and usability of the outputs can actually lead to errors that break the entire build process, because of the way the PDF extension works.
@@ -38,9 +45,6 @@ When we were publishing only the website, we styled special ability keywords in 
 But, publishing to PDF currently means that we can't use such styling for *any* of the output formats.
 So, as a workaround, we're using ·dot markers· instead.
 
-.Footnotes in HTML, endnotes in PDF
-For PDF outputs, content we've coded as footnotes become endnotes instead.
-This is because the PDF extension does not support 'content reflows' (the lack of cross-reference page numbers has a similar root cause).
-Again, perhaps developers will add functionality to support this in future.
-
-In the meantime, this unfortunately means that footnotes that are convenient and helpful in HTML outputs may be rather less so in PDF outputs.
+Similarly, there are some statements for order and condition markers that we define in global attributes, with inline images that depict the markers.
+These attributes still render as expected in HTML outputs, but the in PDF outputs we get the text but not the inline images (we get the text "[core]" instead, as in "Broken [core] condition marker", for example).
+For now, the workaround is simply to live with this, as it is still intelligible.
