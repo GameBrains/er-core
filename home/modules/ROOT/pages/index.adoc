@@ -30,7 +30,7 @@ The content components in this project are as follows:
 * *xref:core::index.adoc[Core]*: The main body of the project, principally the core rules of play.
 This component is now functionally complete, but there are still improvements we'd like to make and details to attend to.
 Among other things, we need to create and add more graphics and images -- especially where explanatory examples are concerned.
-* *xref:battles::index.adoc[]*: Rules for setup and play, including scenarios and campaigns.
+* *xref:battles::index.adoc[]*: Rules for setup and scenarios, plus ideas for campaign play.
 We've populated many of the topics that we need with good drafts, but there are still some empty placeholder topics at present.
 * *xref:armies::index.adoc[]*: Guidance on how to choose and build your armies, along with army lists that detail detachments, unit data sheets and points costs for each faction in the game.
 There is almost no content in this component at present -- but fear not, you'll find army lists in the interactive <<builder, Detachment Builder>>.
