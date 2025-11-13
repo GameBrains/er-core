@@ -6,8 +6,7 @@ This is an unofficial project that *reworks* and *extends* the third edition of 
 
 {project-name} is by fans, for fans, and open to the community as a collaborative effort.
 
-[none]
-* Date of this build: {docdate}
+_Date of this build: {docdate}_
 
 == Developmental state 
 
@@ -27,13 +26,13 @@ We intend to address these eventually.
 The content components in this project are as follows:
 
 .Main project
-* *xref:home::index.adoc[Home]*: This home page, plus some other content that is general or not particular to one of the more specific components.
+* *xref:home::index.adoc[Home]*: This home page for HTML outputs, frontmatter for PDF outputs, and other content that does not belong in one of the more specific components.
 * *xref:core::index.adoc[Core]*: The main body of the project, principally the core rules of play.
 This component is now functionally complete, but there are still improvements we'd like to make and details to attend to.
-Among other things, we need to create and add graphics and images -- especially where explanatory examples are concerned.
-* *xref:battles::index.adoc[]*: Additional rules for setup and play.
-First drafts are in progress in this component, but there are still some empty placeholder topics at present.
-* *xref:armies::index.adoc[]*: Guidance on how to choose and build your armies, along with army lists that detail detachments, unit data sheets and points costs.
+Among other things, we need to create and add more graphics and images -- especially where explanatory examples are concerned.
+* *xref:battles::index.adoc[]*: Rules for setup and play, including scenarios and campaigns.
+We've populated many of the topics that we need with good drafts, but there are still some empty placeholder topics at present.
+* *xref:armies::index.adoc[]*: Guidance on how to choose and build your armies, along with army lists that detail detachments, unit data sheets and points costs for each faction in the game.
 There is almost no content in this component at present -- but fear not, you'll find army lists in the interactive <<builder, Detachment Builder>>.
 * *xref:contributors-guide::index.adoc[Contributor's Guide]*: Guidance for contributors, to help with governance and consistency, and to document our methods in a transparent way.
 
@@ -51,7 +50,7 @@ We intend to mirror the Detachment Builder content in the _Armies_ component eve
 TIP: You'll also find a link in the main navigation menu at menu:Resources[Detachment Builder].
 
 == Discussion
-Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[EPIC 40,000 Remastered^].
+Feel free to discuss this project in the Facebook group, either in the dedicated announcement or in a separate thread: link:https://www.facebook.com/groups/1952676958177757[Epic 40,000 Remastered^].
 
 == Copyright and licence
 
