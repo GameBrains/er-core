@@ -46,4 +46,4 @@ Support:: 1 x Terminators unit, with 1 x Land Raider transport vehicle; 2 x Spac
 ====
 
 .Related information
-* xref:hq-units-and-command.adoc[]
+* xref:main-rules:hq-units-and-command.adoc[]

@@ -1,11 +1,5 @@
 * xref:main-rules.adoc[]
 
-** xref:basics.adoc[]
- *** xref:use-of-dice.adoc[]
- *** xref:units-and-unit-types.adoc[]
- *** xref:data-sheets-and-characteristics.adoc[]
- *** xref:detachments.adoc[]
-
 ** xref:common-rules.adoc[]
  *** xref:strategy-rating.adoc[]
  *** xref:hq-units-and-command.adoc[]

@@ -4,6 +4,7 @@ version: ~
 
 nav:
 - modules/ROOT/nav.adoc
+- modules/basics/nav.adoc
 - modules/main-rules/nav.adoc
 - modules/special-rules/nav.adoc
 - modules/more/nav.adoc

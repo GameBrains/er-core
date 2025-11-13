@@ -20,4 +20,4 @@ You'll see that many types of War Engine have a unique set of results, especiall
 This comes into effect as we explain at xref:war-engine-catastrophic-damage.adoc[].
 
 .Related information
-* xref:main-rules:data-sheets-and-characteristics.adoc[]
+* xref:basics:data-sheets-and-characteristics.adoc[]

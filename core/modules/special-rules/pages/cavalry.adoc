@@ -38,7 +38,7 @@ The {cavalry} ability means that:
 ====
 
 .Related information
-* xref:main-rules:data-sheets-and-characteristics.adoc[]
-* xref:main-rules:units-and-unit-types.adoc[]
+* xref:basics:data-sheets-and-characteristics.adoc[]
+* xref:basics:units-and-unit-types.adoc[]
 * xref:main-rules:assault-moves-and-charges.adoc[]
 * xref:armour-1.adoc[]
