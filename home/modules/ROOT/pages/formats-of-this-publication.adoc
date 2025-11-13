@@ -1,19 +1,46 @@
 = Formats of this publication
 
-To make this publication as user-friendly as possible across all formats, we use 'web-first' writing techniques rather than traditional 'print-first' techniques.
+== Output formats
+
+To make this publication as user-friendly as possible across all formats, we use 'web-first' writing techniques -- as opposed to traditional 'print-first' techniques which tend to yield poor usability in Web-based publications.
 
 Right now, this website is the only output format for this publication -- but we're testing functionality that will allow us to also publish other formats every time we publish updates to the content.
 The idea is to *automatically* provide up-to-date PDF files (mainly for those who want to print physical copies) and an installable app that has offline functionality (so that you can consult the rules even when you have no Internet access).
 
-.About the publishing toolchain
-****
+== About our publishing toolchain
+
 In case you're geeky enough to be interested:
+
 This project uses Antora, a static site generator for the Asciidoc plain-text markup language, and GitHub Actions, to deploy updates to the website with very little effort.
 
 We'll use additional extensions and scripts to publish PDF files and progressive web app (PWA) functionality with dynamic caching.
 
-This is non-trivial, but if we can get it working to a satisfactory level then it becomes easy to deliver these extra formats.
+[quote, Eric Weston]
+This is non-trivial, and I don't have a background in coding.
+But I've made good progress in testing, and if I can get it working at a satisfactory level, the automation makes it easy to publish these extra formats in parallel with the website.
 Otherwise, these extra formats would demand a lot of additional manual effort to produce -- not just once, but every time there is an update -- and I don't consider that to be a good use of time, especially while the content in this project is still undergoing significant change.
 
--- _Eric Weston_
-****
+== Current limitations
+
+Some limitations that we're forced to deal with at the moment, along with corresponding compromises and workarounds we're using (not a comprehensive list).
+
+.Cross-references in PDF outputs lack page numbers
+PDF outputs render hyperlinks for cross-references, but not page numbers; this lack will be annoying for those who want to print the PDF outputs to paper.
+Unfortunately, this is not practical for us to solve ourselves -- but we hope that future developments to the PDF extension will fix this issue.
+
+.Constraints on appearance
+Unfortunately, the PDF extension makes the build process much more fussy and fragile than when the process only needs to deliver HTML.
+This actually means that some otherwise simple code that would enhance appearance and usability of the outputs can actually lead to errors that break the entire build process, because of the way the PDF extension works.
+Again, we hope that future improvements to the PDF extension might improve matters.
+
+One particular consequence of this affects keywords that we define in global attributes (so that we can reuse the keywords across the project with 100% consistency):
+When we were publishing only the website, we styled special ability keywords in _italics_ to highlight and disambiguate them.
+But, publishing to PDF currently means that we can't use such styling for *any* of the output formats.
+So, as a workaround, we're using ·dot markers· instead.
+
+.Footnotes in HTML, endnotes in PDF
+For PDF outputs, content we've coded as footnotes become endnotes instead.
+This is because the PDF extension does not support 'content reflows' (the lack of cross-reference page numbers has a similar root cause).
+Again, perhaps developers will add functionality to support this in future.
+
+In the meantime, this unfortunately means that footnotes that are convenient and helpful in HTML outputs may be rather less so in PDF outputs.
