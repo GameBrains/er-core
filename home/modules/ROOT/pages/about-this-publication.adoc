@@ -1,6 +1,6 @@
 = About this publication
 
-The purpose of this publication is to provide an enhanced version of the original {e40k} game rules and army lists.
+The purpose of {project-name} is to provide an enhanced version of the original {e40k} game rules and army lists.
 
 This means that we intend to:
 
@@ -10,7 +10,10 @@ This means that we intend to:
 * Add some new special abilities.
 * Offer some optional rules and other extras.
 
-However, we have a principle that we intend to keep at the forefront at all times: That is, to *respect and retain the distinct nature of the {e40k} game system* -- we want to present the {e40k} system of gameplay at its best, not create a derivative with substantial differences in gameplay.
+However, we have a principle that we intend to keep at the forefront at all times; that is:
+
+[none]
+* To *respect and retain the distinct nature of the {e40k} game system* -- we want to present the {e40k} system of gameplay at its best, not create a derivative with substantial differences in gameplay.
 
 See below for more detail on these goals.
 

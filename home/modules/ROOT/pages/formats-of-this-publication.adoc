@@ -24,18 +24,21 @@ Otherwise, these extra formats would demand a lot of additional manual effort to
 
 Some limitations that we're forced to deal with at the moment, along with corresponding compromises and workarounds we're using (not a comprehensive list).
 
-.Cross-references in PDF outputs lack page numbers
+=== Cross-references in PDF outputs lack page numbers
+
 PDF outputs render hyperlinks for cross-references, but not page numbers; this lack will be annoying for those who want to print the PDF outputs to paper.
 Unfortunately, this is not practical for us to solve ourselves -- but we hope that future developments to the PDF extension will fix this issue.
 
-.Footnotes in HTML, endnotes in PDF
+=== Footnotes in HTML, endnotes in PDF
+
 For PDF outputs, content we've coded as footnotes become endnotes instead.
 This is because the PDF extension does not support 'content reflows' (the lack of cross-reference page numbers has a similar root cause).
 Again, perhaps developers will add functionality to support this in future.
 
 In the meantime, this unfortunately means that footnotes that are convenient and helpful in HTML outputs may be rather less so in PDF outputs.
 
-.Constraints on appearance
+=== Constraints on appearance
+
 Unfortunately, the PDF extension makes the build process much more fussy and fragile than when the process only needs to deliver HTML.
 This actually means that some otherwise simple code that would enhance appearance and usability of the outputs can actually lead to errors that break the entire build process, because of the way the PDF extension works.
 Again, we hope that future improvements to the PDF extension might improve matters.
