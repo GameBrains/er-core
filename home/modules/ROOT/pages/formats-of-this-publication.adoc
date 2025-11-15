@@ -24,12 +24,12 @@ Otherwise, these extra formats would demand a lot of additional manual effort to
 
 Some limitations that we're forced to deal with at the moment, along with corresponding compromises and workarounds we're using (not a comprehensive list).
 
-=== Cross-references in PDF outputs lack page numbers
+=== PDF outputs: Cross-references lack target page numbers
 
-PDF outputs render hyperlinks for cross-references, but not page numbers; this lack will be annoying for those who want to print the PDF outputs to paper.
+PDF outputs render hyperlinks for cross-references, but not the target page numbers; this lack will be annoying for those who want to print the PDF outputs to paper.
 Unfortunately, this is not practical for us to solve ourselves -- but we hope that future developments to the PDF extension will fix this issue.
 
-=== Footnotes in HTML, endnotes in PDF
+=== PDF outputs: Footnotes render as endnotes instead
 
 For PDF outputs, content we've coded as footnotes become endnotes instead.
 This is because the PDF extension does not support 'content reflows' (the lack of cross-reference page numbers has a similar root cause).
@@ -37,17 +37,47 @@ Again, perhaps developers will add functionality to support this in future.
 
 In the meantime, this unfortunately means that footnotes that are convenient and helpful in HTML outputs may be rather less so in PDF outputs.
 
+=== PDF outputs: Some very long URL texts
+
+While you can use PDF outputs on-screen, the HTML outputs are much better for this -- so we provide PDF outputs mainly for those who want to print the rules to paper.
+However, you can't use hyperlinks on paper... so the system converts outgoing hyperlinks to full URL text that the reader can read and then type into a browser if they want to.
+
+That's sensible, but some URLs in this project are very long and complex -- particularly where we link to detachments that we've defined in the Builder for your convenience.
+Such URLs take up a lot of space and are too complex to be of much use on paper.
+
+For now we'll just live with this issue, but in future we might simply hide some of this content from PDF outputs, or find some other alternative.
+
+=== PDF outputs: Limited control of flow across page breaks
+
+Page breaks can cause a range of complications for the flow of content.
+The system handles some things fairly gracefully, other things less so.
+We don't want to tweak things manually every time we make an update, so for the most part, we just have to live with this issue -- but where we can tweak the configuration to yield better results, we'll do so.
+
 === Constraints on appearance
 
 Unfortunately, the PDF extension makes the build process much more fussy and fragile than when the process only needs to deliver HTML.
 This actually means that some otherwise simple code that would enhance appearance and usability of the outputs can actually lead to errors that break the entire build process, because of the way the PDF extension works.
 Again, we hope that future improvements to the PDF extension might improve matters.
 
-One particular consequence of this affects keywords that we define in global attributes (so that we can reuse the keywords across the project with 100% consistency):
+==== All outputs: Lack of styling for keywords
+
+One particular consequence of this affects some keywords that we define in global attributes (so that we can reuse the keywords across the project with 100% consistency):
 When we were publishing only the website, we styled special ability keywords in _italics_ to highlight and disambiguate them.
-But, publishing to PDF currently means that we can't use such styling for *any* of the output formats.
+But, publishing to PDF currently means that we can't use such styling with these keywords for *any* of the output formats.
 So, as a workaround, we're using ·dot markers· instead.
+
+==== PDF outputs: Lack of inline images
 
 Similarly, there are some statements for order and condition markers that we define in global attributes, with inline images that depict the markers.
 These attributes still render as expected in HTML outputs, but the in PDF outputs we get the text but not the inline images (we get the text "[core]" instead, as in "Broken [core] condition marker", for example).
 For now, the workaround is simply to live with this, as it is still intelligible.
+
+==== PDF outputs: Lack of control over the appearance of 'admonitions'
+
+So-called 'admonitions' -- tips, notes, cautions, and other notices that draw your attention -- are difficult to style and customise for PDF outputs.
+For now, compromises include:
+
+* Admonitions in PDF outputs render their corresponding icons, but not their label text.
+(So, for example, 'tip' admonitions show a green lightbulb icon, but no "TIP" label text).
+* Our custom 'option' admonition renders in HTML outputs, but not in PDF outputs -- there we see only the base 'note' admonition styling.
+So, as a workaround, we insert "Option: " title text into 'option' admonitions.
