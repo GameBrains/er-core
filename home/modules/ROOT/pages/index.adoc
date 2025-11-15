@@ -11,15 +11,7 @@ _Date of this build: {docdate}_
 == Developmental state 
 
 This project is now well under way, but we still have lots to do.
-
-We're not yet ready to treat any part of the project as 'stable' -- we treat all content as 'draft' and subject to change at any moment.
-So, we don't spend the time to document the changes (except at a high level as occasional updates in the Facebook group -- see <<Discussion>>).
-
-* Styling is minimal.
-* Important features are likely to change without notice.
-* There are still some gaps in the content where we haven't yet published at least an initial draft.
-* There are 'TODO' notes in many places, to highlight specific issues with the content.
-We intend to address these eventually.
+For more information on this, see xref:development-of-this-publication.adoc[].
 
 == Content
 

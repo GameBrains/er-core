@@ -1,0 +1,34 @@
+= Development of this publication
+
+We're building {project-name} in the open -- sharing progress as it happens, even when things are somewhat messy.
+
+All efforts are on a volunteer 'best endeavours' basis, as and when it suits the contributors.
+So, progress is intermittent -- you may notice short bursts of activity followed by long periods of little to no apparent activity.
+
+Right now, the project is mostly in a 'pre-alpha' stage of development, albeit with some parts in a pretty good, useable state.
+We're aiming for a steady evolution of each component, that we expect to go something like this:
+
+. *Pre-alpha*: Relatively fast edits, loose structure, lots of placeholders.
+In some cases, we've already put a lot of effort and scrutiny into the drafts that you see in the outputs -- in other cases they are more rough.
+** Content is provisional -- we consider everything to be in a 'draft' state.
+We might make significant changes to the content at any time.
+** Some sections and topics are missing.
+If you find a gap or an explicit TODO note, it's not forgotten -- it's just waiting its turn.
+** Features may change without notice.
+We're experimenting, and sometimes that means breaking things to make them better, or accepting a compromise to facilitate another benefit.
+** Styling is minimal.
+Visual polish will come later.
+We're focusing on structure and clarity first.
+** We don't spend time to document the changes that we make, outside of the source code and version control system.
+You'll find occasional updates in the xref:index.adoc#_discussion[Facebook group], but we don't maintain a changelog at this stage.
+(However, the project is open source, so you can view the commit history online if you're really curious about the detail.)
+. *Alpha*: Similar to the pre-alpha stage, but with fewer gaps and placeholders, and more refinement overall.
+We accept some variability in the overall quality, completeness and consistency of the content.
+. *Beta*: More refinement, close to what we intend for the stable release.
+** We aim to have few gaps, placeholders and TODO notes in the content.
+** We might implement version numbering of outputs and a changelog at this stage.
+. *Stable*: A more polished experience all around (within the limits of what we can achieve with the toolchain and our coding skills!).
+'Stable' doesn't mean 'unchanging' -- we'll still iterate sometimes to improve or add content -- but we'll communicate more about the changes.
+** We aim to have no gaps, placeholders or TODO notes in the content.
+** We'll use clear version numbering of outputs, and we'll summarise changes in a corresponding changelog.
+Among other things, this will help those who want to print PDF outputs to paper to decide when to go to the effort and expense of printing and binding new copies.
