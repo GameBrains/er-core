@@ -14,7 +14,7 @@ asciidoc:
   attributes:
     # Attributes for this component that have values that authors may need to change from time to time:
 
-    revnumber: Pre-alpha
+    revnumber: Alpha
     
     # Attributes for this component that have values that we expect to set only once:
 
