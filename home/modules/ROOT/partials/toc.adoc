@@ -1,5 +1,0 @@
-// Force a page break
-<<<
-
-// Table of contents macro, to insert the ToC after the frontmatter in PDF output.
-toc::[]

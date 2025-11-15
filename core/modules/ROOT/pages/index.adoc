@@ -1,23 +1,9 @@
 = Core
 
-// Exclude from PDF output (show only in HTML output).
-ifndef::loader-assembler[]
-_Version: {revnumber} | Date of this build: {docdate}_
-endif::[]
-
-// Frontmatter to show only in PDF output.
-ifdef::loader-assembler[]
-// Colophon: Show only in PDF output.
-[preface]
+// Frontmatter -- mostly for PDF outputs only, but also inserts some details into HTML outputs, such as version and build information.
 include::home::partial$colophon.adoc[]
-endif::[]
 
-// Table of contents: Not relevant for HTML output. Make sure that this code is *after* all content that we want to treat as frontmatter in the PDF output.
-ifdef::loader-assembler[]
-include::home::partial$toc.adoc[]
-endif::[]
-
-[discrete]
+// For PDF output, the content below will appear as preface followed by the table of contents.
 == The core rules of play
 
 Here you'll find the core rules of the {project-name} game, plus some introductory information.

@@ -1,11 +1,15 @@
-// Colophon: Not relevant for HTML output. (In HTML site/app output, it is more usual and sensible to deal with this type of information site-wide, perhaps via statements in the user interface and/or links in the footer.)
-[colophon%notitle%nonfacing]
+// Colophon. (Mostly relevant for PDF outputs only, as HTML site/app outputs handle such information in a more integrated way.)
+ifdef::loader-assembler[]
+[colophon%nonfacing]
 --
 .Document information
-Title: {doctitle}
+[.subdued]#Title:# {doctitle}
+endif::[]
 
-Version: {revnumber} | Date of this build: {docdate}
+// Show version and build information in all output formats.
+[.subdued]#Version:# {revnumber} | [.subdued]#Date of this build:# {docdate}
 
+ifdef::loader-assembler[]
 .Copyright and licence statement
 include::partial$copyright-and-licence.adoc[]
 
@@ -24,3 +28,4 @@ This is a fan community project that *reworks* and *extends* the third edition o
 
 // Force a page break.
 <<<
+endif::[]
