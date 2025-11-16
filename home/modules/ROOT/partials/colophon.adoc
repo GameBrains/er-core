@@ -1,0 +1,31 @@
+// Colophon. (Mostly relevant for PDF outputs only, as HTML site/app outputs handle such information in a more integrated way.)
+ifdef::loader-assembler[]
+[colophon%nonfacing]
+--
+.Document information
+[.subdued]#Title:# {doctitle}
+endif::[]
+
+// Show version and build information in all output formats.
+[.subdued]#Version:# {revnumber} | [.subdued]#Date of this build:# {docdate}
+
+ifdef::loader-assembler[]
+.Copyright and licence statement
+include::partial$copyright-and-licence.adoc[]
+
+.Disclaimer
+include::partial$disclaimer.adoc[]
+--
+
+---
+
+[.lead]
+This document is an output from the {project-name} project, which has its home online at link:{uri-project}[].
+This is a fan community project that *reworks* and *extends* the third edition of Games Workshop's _Epic_ game system, {e40k}.
+
+[.lead]
+{project-name} is by fans, for fans, and open to the community as a collaborative effort.
+
+// Force a page break.
+<<<
+endif::[]

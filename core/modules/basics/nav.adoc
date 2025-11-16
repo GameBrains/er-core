@@ -1,0 +1,6 @@
+* xref:basics.adoc[]
+** xref:what-you-will-need-to-play.adoc[]
+** xref:use-of-dice.adoc[]
+** xref:units-and-unit-types.adoc[]
+** xref:data-sheets-and-characteristics.adoc[]
+** xref:detachments.adoc[]

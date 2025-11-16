@@ -1,0 +1,9 @@
+= Core
+
+// Frontmatter -- mostly for PDF outputs only, but also inserts some details into HTML outputs, such as version and build information.
+include::home::partial$colophon.adoc[]
+
+// For PDF output, the content below will appear as preface followed by the table of contents.
+== The core rules of play
+
+Here you'll find the core rules of the {project-name} game, plus some introductory information.

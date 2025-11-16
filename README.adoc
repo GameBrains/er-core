@@ -6,13 +6,16 @@
 
 == About this repository
 
-This repository contains the source code for the main content component of the {uri-project}[{project-name}] project, which we call _Core_.
+This repository contains the source code for these content components in the {uri-project}[{project-name}] project:
+
+* *_Home_*: The home page for HTML outputs, frontmatter for PDF outputs, and other content that does not belong in one of the more specific components.
+* *_Core_*: The main body of the project, principally the core rules of play.
 
 For more about the project and its components, see the `README.adoc` file in the {uri-playbook}[playbook repository].
 
 == Copyright and licence
 
-Copyright 2020 Eric Weston and the Epic Remastered project contributors.
+Copyright 2020–{docyear} Eric Weston and the Epic Remastered project contributors.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
@@ -26,5 +29,5 @@ This publication is completely unofficial and in no way endorsed by Games Worksh
 
 .Trademark list
 ****
-Adeptus Astartes, Battlefleet Gothic, Blood Angels, Cadian, Catachan, the Chaos device, the Chaos logo, Citadel, the Citadel device, Codex, Daemonhunters, Dark Angels, Dark Eldar, the Double-Headed/Imperial Eagle device (Aquila), ’Eavy Metal, Eldar, Eldar symbol devices, Epic, Eye of Terror, Fanatic, the Fanatic logo, the Fanatic II logo, Fire Warrior, Forge World, Games Workshop, Games Workshop logo, Genestealer, Golden Demon, Great Unclean One, Keeper of Secrets, Khemri, Khorne, Kroot, Lord of Change, Necron, Nurgle, Ork, Ork skull devices, Sisters of Battle, Slaanesh, Space Marine, Space Marine chapters, Space Marine chapter logos, Tau, the Tau caste designations, Tyranid, Tzeentch, Ultramarines, Warhammer, Warhammer 40k device, Warhammer World logo, White Dwarf, the White Dwarf logo, and all associated marks, names, races, race insignia, characters, vehicles, locations, units, illustrations and images from the Warhammer 40,000 universe are either ®, ™ and/or © Copyright Games Workshop Ltd, variably registered in the UK and other countries around the world. Used without permission. No challenge to their status intended. All Rights Reserved to their respective owners.
+Adeptus Astartes, Battlefleet Gothic, Blood Angels, Cadian, Catachan, the Chaos device, the Chaos logo, Citadel, the Citadel device, Codex, Daemonhunters, Dark Angels, Dark Eldar, the Double-Headed/Imperial Eagle device (Aquila), 'Eavy Metal, Eldar, Eldar symbol devices, Epic, Eye of Terror, Fanatic, the Fanatic logo, the Fanatic II logo, Fire Warrior, Forge World, Games Workshop, Games Workshop logo, Genestealer, Golden Demon, Great Unclean One, Keeper of Secrets, Khemri, Khorne, Kroot, Lord of Change, Necron, Nurgle, Ork, Ork skull devices, Sisters of Battle, Slaanesh, Space Marine, Space Marine chapters, Space Marine chapter logos, Tau, the Tau caste designations, Tyranid, Tzeentch, Ultramarines, Warhammer, Warhammer 40k device, Warhammer World logo, White Dwarf, the White Dwarf logo, and all associated marks, names, races, race insignia, characters, vehicles, locations, units, illustrations and images from the Warhammer 40,000 universe are either ®, ™ and/or © Copyright Games Workshop Ltd, variably registered in the UK and other countries around the world. Used without permission. No challenge to their status intended. All Rights Reserved to their respective owners.
 ****

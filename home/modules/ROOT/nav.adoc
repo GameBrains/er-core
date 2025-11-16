@@ -1,0 +1,8 @@
+* xref:index.adoc[]
+** xref:about-this-publication.adoc[]
+** xref:development-of-this-publication.adoc[]
+** xref:formats-of-this-publication.adoc[]
+** xref:how-to-use-this-publication.adoc[]
+* xref:core::index.adoc[]
+* xref:battles::index.adoc[]
+* xref:armies::index.adoc[]
